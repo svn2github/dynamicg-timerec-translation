@@ -18,6 +18,9 @@ DE: http://dynamicg-timerec.googlecode.com/svn/trunk/timerec.translations/res/va
 * see the readme for more details
 https://dynamicg-timerec.googlecode.com/svn/trunk/timerec.translations/README.txt
 
+* the text for the Android Market is here (long app description and short "Promo" text):
+https://dynamicg-timerec.googlecode.com/svn/trunk/timerec.translations/market-description/
+
 
 ------------------------
 DISCLAIMER
