@@ -1,0 +1,23 @@
+Manage your timesheet.
+
+Basic functionality:
+• Check in & out
+• Task assignment
+• Daily & detailed notes
+• Overview of day, week, month
+• Data export & email as CSV, HTML or XML
+• Integrated backup & restore
+
+Highly configurable, many additional features:
+• Date and time formats
+• Hourly rates, paid overtime
+• Calendar options (first day of week and month, bi-weekly reporting)
+• Target time
+• Widget to display running day total
+• Public services for Tasker integration
+
+→ TUTORIAL: see the video on YouTube to get a quick overview of the basic usage (search for "Time Recording Tutorial")
+
+→ App2SD: please keep the app on internal storage when using the widget (do not install on SD Card)
+
+Keywords: Time Tracker, Punch Clock, Work Clock, Timeclock, Time Clock, Worktime Tracking.
