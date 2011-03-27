@@ -47,3 +47,4 @@ sample - this will show a two-liner with name and email:
 allow that), so you will have to buy it like any normal app.
 if you want, we can agree on compensation instead (for example compensation to your 
 paypal account) 
+
