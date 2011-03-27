@@ -1,0 +1,27 @@
+Gestisci gli orai dei tuoi lavori giornalieri.
+
+Funzionalità di base:
+• Inizio e termine di ogni lavoro
+• Assegnazione dei lavori
+• Note giornaliere e dettagliate
+• Vista d'insieme per giorno, settimana, mese
+• Esportazione dei dati & invio email con file CSV, HTML o XML
+• Funzioni integrate di backup & ripristino
+
+Altamente configurabile, molte funzionalità aggiuntive:
+• Formati della data e degli orari
+• Tariffe orarie, gestione degli straordinari
+• Opzioni di calendario (primo giorno della settimana e del mese, resoconto bi-settimanale)
+• Obiettivo d'orario, sia giornaliero che mensile
+• Widget per mostrare il totale corrente giornaliero
+• Servizi pubblici per l'integrazione con lavori di terze parti
+
+→ VIDEO INTRODUTTIVO: vedi il video su YouTube per avere una panoramica sul funzionamento di base dell'applicazione (cerca "Time Recording Tutorial")
+
+→ App2SD: per favore, tieni l'applicazione nella memoria interna quando utilizzi il widget (non installarla su Card SD)
+
+→ Supporto disponibile solo in inglese
+
+→ La traduzione in italiano è stata curata da Michael Lepori - mic.lepori@gmail.com
+
+Parole Chiave: Time Tracker, Punch Clock, Work Clock, Timeclock, Time Clock, Worktime Tracking, Traccia Orari, Registra Orari, Timbra Cartellino, Orari dei lavori, Tieni traccia degli orari lavorativi.
