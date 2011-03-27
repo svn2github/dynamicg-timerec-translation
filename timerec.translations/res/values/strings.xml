@@ -8,8 +8,8 @@
 	<!-- translation credits -->
     <string name="aboutTranslation"></string>
     
-    <string name="app_name">Time Recording</string>
-    <string name="app_name_pro">Time Recording Pro</string>
+    <string name="app_name">Time Recording (i)</string>
+    <string name="app_name_pro">Time Recording Pro (i)</string>
     
     <string name="homescreenCheckinNow">Check in now</string>
     <string name="homescreenCheckoutNow">Check out now</string>
