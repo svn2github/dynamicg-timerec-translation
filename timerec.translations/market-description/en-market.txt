@@ -20,4 +20,8 @@ Highly configurable, many additional features:
 
 → App2SD: please keep the app on internal storage when using the widget (do not install on SD Card)
 
+→ support only in english
+
+→ <translation credits>
+
 Keywords: Time Tracker, Punch Clock, Work Clock, Timeclock, Time Clock, Worktime Tracking.
