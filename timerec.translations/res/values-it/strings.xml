@@ -4,7 +4,9 @@
 	<!-- internal -->
     <string name="appUserLabel">DynamicG App User</string>
     <string name="languageFlag">0</string>
-	<!-- internal DONE -->
+    
+	<!-- translation credits -->
+    <string name="aboutTranslation"></string>
     
     <string name="app_name">Time Recording</string>
     <string name="app_name_pro">Time Recording Pro</string>
