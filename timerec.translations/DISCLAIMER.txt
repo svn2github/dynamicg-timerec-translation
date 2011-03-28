@@ -10,6 +10,7 @@ http://dynamicg-timerec.googlecode.com/svn/trunk/timerec.translations
 * for direct access, the "strings" files are here
 spanish: http://dynamicg-timerec.googlecode.com/svn/trunk/timerec.translations/res/values-es/strings.xml
 italian: http://dynamicg-timerec.googlecode.com/svn/trunk/timerec.translations/res/values-it/strings.xml
+french: http://dynamicg-timerec.googlecode.com/svn/trunk/timerec.translations/res/values-fr/strings.xml
 
 * english and german files of the current production version
 EN: http://dynamicg-timerec.googlecode.com/svn/trunk/timerec.translations/res/values/strings.xml

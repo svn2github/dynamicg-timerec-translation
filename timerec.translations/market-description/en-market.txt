@@ -15,6 +15,7 @@ Highly configurable, many additional features:
 • Target time
 • Widget to display running day total
 • Public services for Tasker integration
+• Pro version is advertisement-free
 
 → TUTORIAL: see the video on YouTube to get a quick overview of the basic usage (search for "Time Recording Tutorial")
 
