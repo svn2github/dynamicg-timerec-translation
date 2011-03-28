@@ -43,9 +43,9 @@ in other words, there will be 4 versions when everything is done:
 - PRO version for all the translations (it, fr, es, ...), no Ads
 
 * the "aboutTranslation" text is displayed on top of the Preferences Tab 1 page.
-use this field put in your credits. email and web addresses are supported.
+use this field to put in your credits. email and web addresses are supported.
 sample - this will show a two-liner with name and email:
-	Translated by DynamicG\ndaynamicg.android@gmail.com
+	Translated by DynamicG\ndynamicg.android@gmail.com
 
 * i cannot give out licenses for 'Pro' manually (Android Market does not 
 allow that), so you will have to buy it like any normal app.
