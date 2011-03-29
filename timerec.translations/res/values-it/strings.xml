@@ -38,10 +38,10 @@
     <string name="commonSample">Esempio</string>
     <string name="commonDataExport">Esporta dati</string>
     <string name="commonCategories">Lavori</string>
-    <string name="commonTracking">Tracciamento</string>
+    <string name="commonTracking">Protocollo</string>
     <string name="commonHourlyRate">Tariffa oraria</string>
     <string name="commonEditCategories">Modifica lavori</string>
-    <string name="commonAddRow">Aggiungi righa</string>
+    <string name="commonAddRow">Aggiungi riga</string>
     <string name="commonStop">Ferma</string>
     <string name="commonType">Tipo</string>
     <string name="commonIn">Inizio</string>
@@ -111,13 +111,13 @@
     <string name="prefsDateFormat">Formato data</string>
     <string name="prefsFirstDayOfWeek">Primo giorno della settimana</string>
     <string name="prefsFirstDayOfMonth">Primo giorno del mese (1-31)</string>
-    <string name="prefsAmountCurrencyString">Presentazione importo/valuta</string>
+    <string name="prefsAmountCurrencyString">Vista valuta/importo</string>
     <string name="prefsDailyTargetTime">Obiettivo orario giornaliero</string>
     <string name="prefsTimePickerIncrement">\'Selettore orario\' con incremento di minuti</string>
 	<string name="prefsShortMain">Principale</string>
 	<string name="prefsShortOptions">Opzioni</string>
 	<string name="prefsShortTasks">Lavori</string>
-	<string name="prefsShortTracking">Tracciamento</string>
+	<string name="prefsShortTracking">Propositi</string>
 	<string name="prefsGroupInterface">Interfaccia</string>
 	<string name="prefsWeekdayTargetTime">Ignora obiettivo orario per i giorni</string>
     <string name="prefsGroupFormatOptions">Opzioni formato</string>
@@ -132,7 +132,7 @@
 	<string name="prefsMonthReportSplit">Dividi vista \'Mese\' a questo giorno</string>
 	<string name="prefsExpDecimalSep">Separatore decimali</string>
 	<string name="prefsCollapseCheckBtn">Unisci i pulsanti \'inizia/termina\'</string>
-	<string name="prefsAllowScreenRotation">Permetti rotazione dello schermo(Modalità panorama)</string>
+	<string name="prefsAllowScreenRotation">Permetti rotazione dello schermo (Modalità panorama)</string>
 	<string name="prefsHintRestartRequired">\u2192 Le modifiche su queste impostazioni necessitano di riavvio</string>
 	<string name="prefsExportSettings">Impostazioni Esportazione Dati</string>
 	<string name="prefsGridViewFont">Dimensione carattere su vista dati</string>
@@ -153,7 +153,7 @@
 	<string name="prefsProOnlyFeature">\u2192 Questa è una funzione disponibile \"solo nella versione Pro\"</string>
 	<string name="nshiftGroup">Opzioni del turno di notte</string>
     <string name="nshiftDayWindowStart">La finestra delle 24 ore inizia alle</string>
-	<string name="nshiftRollOverCheck">Controllo \'Capovolgimento\'</string>
+	<string name="nshiftRollOverCheck">Controllo \'Rotazione\'</string>
 	<string name="nshiftRollOverHint">Vedi \'{1}\' in preferenze</string>
 	<string name="nshiftRotatingShift">Turno ruotato</string>
 	<string name="nshiftEditNightShifts">Modifica turni notturni</string>
@@ -189,14 +189,14 @@
 	<string name="expDomDaysShowSt">con timbrature</string>
 	<string name="expDomDaysShowStNt">con timbrature o note</string>
 	<string name="expPrefsDetailsReportActive">\'Dettagli\' del resonto abilitati</string>
-	<string name="expDomNotesFilterEqual">abbina</string>
+	<string name="expDomNotesFilterEqual">è uguale a</string>
 	<string name="expDomNotesFilterLike">contiene</string>
 	<string name="expPrefsShowTotalLine">Mostra \'Totale\' (E1-E4)</string>
-	<string name="expPrefsGroupBreakDate">Pausa di gruppo il \'Data\' (E2,E4)</string>
+	<string name="expPrefsGroupBreakDate">Gruppo di pause il \'Data\' (E2,E4)</string>
 	<string name="expPrefsIsoDate">AAAA/MM/GG formato data</string>
 
 	<string name="expTypeOverviewDays">E1 Panoramica del giorno</string>
-	<string name="expTypeOverviewWorkUnits">E2 Panoramica del singolo lavoro</string>
+	<string name="expTypeOverviewWorkUnits">E2 Panoramica dei singoli lavori</string>
 	<string name="expTypeOverviewDayAttendance">E3 Frequenza del giorno</string>
 	<string name="expTypeTasksPerDay">E4 Lavori al giorno</string>
 	<string name="expTypeDetails">Dettagli (ogni timbratura)</string>
@@ -234,7 +234,7 @@
     <string name="dayShortFri">Ven</string>
     <string name="dayShortSat">Sab</string>
     
-    <string name="categorySelectionTitle">Lavoro iniziato {1}</string>
+    <string name="categorySelectionTitle">Inizio lavoro\: {1}</string>
     <string name="categoryNone">(lavoro n/d)</string>
     <string name="categoryFilterAll">&lt;Tutti&gt;</string>
     <string name="categoryEditorAddNew">Aggiungi nuovo lavoro</string>
@@ -245,18 +245,18 @@
     <string name="categorySelectNextCategory">Seleziona prossimo lavoro</string>
     <string name="categoryHasChildrenCannotDelete">Lavoro già utilizzato, non può essere eliminato! Per favore, impostalo invece come \'inattivo\'.</string>
     <string name="categoryFilter">Filtro lavoro</string>
-    <string name="categoryEditLink">Modifica lavori</string>
+    <string name="categoryEditLink">Cambia lavori</string>
     <string name="categoryEditorExport">Esporta su Card SD</string>
     <string name="categoryEditorImport">Importa da Card SD</string>
-    <string name="categoryEditorHintMenu">\u2192 apri Menu per funzioni</string>
+    <string name="categoryEditorHintMenu">\u2192 clicca su Menu per le funzioni</string>
 
     <string name="hintClickToChange">Clicca per cambiare</string>
-    <string name="hintClickIconToEdit">Clicca su icona per modificare note</string>
+    <string name="hintClickIconToEdit">Clicca sull\'icona per modificare note</string>
     <string name="hintNoStampsClickToAdd">Nessuna annotazione per questo giorno.\nApri il Menu o clicca qui per aggiungere.</string> 
     <string name="hintDailyTargetTime">\u2192 Imposta a \'00:00\' per disabilitare</string>
     <string name="hintAmountPrecision">\u2192 Usa \'$#.#\' o \'$#.##\' per 1 o 2 posizioni decimali.</string>
     <string name="hintAmountRounding">\u2192 Nota sui turni: i totali parziali ed i totali si formano indipendentemente, quindi non sempre corrisponderanno.</string>
-    <string name="hintRateOverride">\u2192 Tariffa può essere Rate can be overridden per task</string>
+    <string name="hintRateOverride">\u2192 Tariffa può essere ignorata per un determinato lavoro</string>
 	<string name="hintDbRecreateConfirmation">Attenzione: database vuoto. Ricostruire?</string>
 	<string name="hintCreatingBackup">Creazione backup ...</string>
 	<string name="hintTooMuchEntries">Troppe annotazioni</string>
@@ -266,29 +266,29 @@
     <string name="errorCannotStartNewTask">Già iniziato alle {1}, adesso non può essere iniziato un altro lavoro</string>
     <string name="errorSdCardAccess">Errore di accesso su Card SD</string>
 
-    <string name="aboutPublicServices">Servizi App pubbliche</string> 
+    <string name="aboutPublicServices">Servizi pubblici dell\'App</string> 
     <string name="aboutPleaseRate">\u2022 La votazione è gradita e ben accetta:</string> 
-    <string name="aboutPro">Pro</string>
-	<string name="aboutAvailableHere">\'{1}\' disponibile qui</string> 
+    <string name="aboutPro">Versione Pro</string>
+	<string name="aboutAvailableHere">\'{1}\' disponibile qua</string> 
 
     <string name="bckBackupTitle">Backup</string>
     <string name="bckRestoreTitle">Ripristina</string>
     <string name="bckCreateBackup">Crea backup</string>
-    <string name="bckArchiveTitle">Archivia</string>
+    <string name="bckArchiveTitle">Archivio</string>
     <string name="backupBody">Per ripristinare: copia il file Zip allegato sulla Card SD (livello top), apri \'Preferenze/Ripristina...\', clicca \'Ripristina backup\'</string>
     <string name="bckSwitchToArchive">Vedi dati archiviati</string>
     <string name="bckSwitchToLive">Torna su Dati live</string>
     <string name="bckArchiveDataOlderThan">Archivio di dati &gt; {1} mesi</string>
-    <string name="bckArchiveHint">\u2192 Usa \"Archivia\" per spostare i vecchi dati e creare un \'database live\' più piccolo e più veloce</string>
+    <string name="bckArchiveHint">\u2192 Usa \"Archivio\" per spostare i vecchi dati e creare un \'database live\' più piccolo e più veloce</string>
     <string name="bckAutoBackup">Backup su Card SD ogni [n] giorni</string>
 	<string name="bckRestoreSdCardUnavailable">Card SD non disponibile. Backup/ripristino attualmente non possibili!</string>
 	
 	<string name="widgetAppTitle1">Registra</string>
     <string name="widgetAppTitle2">Orari</string>
     
-    <string name="stdCommentTitle">Nota standard</string>
-    <string name="stdCommentSelect">Seleziona nota standard</string>
-    <string name="noteMassTitle">Commenta giorni multlipli</string>
+    <string name="stdCommentTitle">Nota</string>
+    <string name="stdCommentSelect">Seleziona nota</string>
+    <string name="noteMassTitle">Commenta giorni multipli</string>
     <string name="noteMassIfTextExists">Se è già presente del testo</string>
     <string name="noteMassOptAppend">Aggiungi</string>
     <string name="noteMassOptReplace">Sovrascrivi</string>
@@ -296,12 +296,12 @@
     <string name="noteMassOnlyTheseDays">Aggiungi a questi giorni</string>
     <string name="noteMassSkipEmptyDays">Salta i giorni senza timbratura</string>
     
-	<string name="dstorMainTitle">Amministrazione dati</string>
-	<string name="dstorDataStorage">Memoria da usare da Admin</string>
+	<string name="dstorMainTitle">Gestione dati</string>
+	<string name="dstorDataStorage">Memoria da usare (Admin)</string>
 	<string name="dstorTargetPhone">Telefono</string>
 	<string name="dstorTargetSdCard">CardSD</string>
 	<string name="dstorCurrent">Dati attualmente salvati su {1}.</string>
-	<string name="dstorDeletionHint">Sarà eliminato su \'Disinstalla app\'!</string>
+	<string name="dstorDeletionHint">Sarà eliminato da \'Disinstalla app\'!</string>
 	<string name="dstorMoveTo">Sposta i dati su {1}</string>
 	<string name="dstorImport">Ripristina backup</string>
 	<string name="dstorImportDone">Importazione da {1} completata</string>
@@ -346,7 +346,7 @@
     <string name="brprefsBackupAction">Backup impostazioni app su Card SD</string>
     <string name="brprefsBackupFileExists">File Backup esiste già. Vuoi sovrascrivere?</string>
     
-	<string name="pubServicesInfo">\'{1}\' provvedere a fornire questi servizi pubblici a terze parti con integrazione di inizio e fine (clicca sul testo per copiare nella clipboard)</string>
+	<string name="pubServicesInfo">\'{1}\' provvede a fornire questi servizi pubblici a terze parti con l\'integrazione di orari d\'inizio e di fine (clicca sul testo per copiarli nella clipboard)</string>
 	<string name="pubServicesCopied">Testo copiato</string>
 	
 	<!-- diff sync marker D -->	
@@ -369,7 +369,7 @@
 	<string name="pubsCheckoutDone">Fine fatta</string>
 	<string name="pubsAlreadyCheckedIn">Già iniziato</string>
 	<string name="pubsAlreadyCheckedOut">Già terminato</string>
-	<string name="pubsPriorCheckoutMissing">Manca prima l\'Inizio</string>
+	<string name="pubsPriorCheckoutMissing">Manca prima un Inizio</string>
 	
 	<string name="catExtExportDone">Esportazione completata, il file è qui:\n{1}</string>
 	<string name="catExtFileMissing">File importato non trovato. Usa \"Esporta\" per creare un modello.</string>
