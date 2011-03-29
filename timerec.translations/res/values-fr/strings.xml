@@ -290,6 +290,9 @@
     
     <string name="stdCommentTitle">Standard note</string>
     <string name="stdCommentSelect">Pick standard note</string>
+    <string name="stdCommentDefaultEntry1">Vacation</string>
+    <string name="stdCommentDefaultEntry2">Compensation</string>
+    
     <string name="noteMassTitle">Comment multiple days</string>
     <string name="noteMassIfTextExists">If text already present</string>
     <string name="noteMassOptAppend">Append</string>
