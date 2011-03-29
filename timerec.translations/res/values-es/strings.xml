@@ -289,6 +289,9 @@
     
     <string name="stdCommentTitle">Nota Estandard</string>
     <string name="stdCommentSelect">Escoger nota estandard</string>
+    <string name="stdCommentDefaultEntry1">Vacaciones</string>
+    <string name="stdCommentDefaultEntry2">Compensación</string>
+
     <string name="noteMassTitle">Comentar multiples días</string>
     <string name="noteMassIfTextExists">Si existe el texto</string>
     <string name="noteMassOptAppend">Añadir</string>
