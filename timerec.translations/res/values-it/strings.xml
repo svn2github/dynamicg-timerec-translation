@@ -288,6 +288,9 @@
     
     <string name="stdCommentTitle">Nota</string>
     <string name="stdCommentSelect">Seleziona nota</string>
+    <string name="stdCommentDefaultEntry1">Ferie</string>
+    <string name="stdCommentDefaultEntry2">Recupero</string>
+    
     <string name="noteMassTitle">Commenta giorni multipli</string>
     <string name="noteMassIfTextExists">Se è già presente del testo</string>
     <string name="noteMassOptAppend">Aggiungi</string>
