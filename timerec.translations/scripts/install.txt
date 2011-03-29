@@ -1,4 +1,9 @@
 
+cmd /k "cd /d C:\app\android-sdk_r06-windows\android-sdk-windows\tools"
+
+adb uninstall com.dynamicg.timerecording.i18n
+adb install C:\workspace\android\timerec.translations\apk\TimeRecording-03.apk
+
 ====================== EN
 adb shell
 setprop persist.sys.language en;
@@ -14,8 +19,4 @@ setprop persist.sys.country ES;
 stop;
 sleep 5;
 start
-
-cmd /k "cd /d C:\app\android-sdk_r06-windows\android-sdk-windows\tools"
-adb uninstall com.dynamicg.timerecording.i18n
-adb install C:\workspace\android\timerec.translations\apk\TimeRecording-02.apk
 
