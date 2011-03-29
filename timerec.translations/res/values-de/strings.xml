@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:android="http://schemas.android.com/apk/res/android">
 
-	<!-- internal -->
-    <!-- "appUserLabel" -->
-    <!-- "languageFlag" -->
-	<!-- internal DONE -->
-    
+	<!-- labels -->
     <string name="app_name">Zeiterfassung</string>
     <string name="app_name_pro">Zeiterfassung Pro</string>
     
@@ -287,6 +283,9 @@
     
     <string name="stdCommentTitle">Standardnotiz</string>
     <string name="stdCommentSelect">Standardnotiz wählen</string>
+    <string name="stdCommentDefaultEntry1">Urlaub</string>
+    <string name="stdCommentDefaultEntry2">Kompensation</string>
+    
     <string name="noteMassTitle">Notiz für mehrere Tage</string>
     <string name="noteMassIfTextExists">Falls Text schon vorhanden</string>
     <string name="noteMassOptAppend">Anhängen</string>

@@ -4,12 +4,13 @@
 	<!-- internal -->
     <string name="appUserLabel">DynamicG App User</string>
     <string name="languageFlag">0</string>
-    
+
 	<!-- translation credits -->
     <string name="aboutTranslation"></string>
     
-    <string name="app_name">Time Recording (i)</string>
-    <string name="app_name_pro">Time Recording Pro (i)</string>
+	<!-- labels -->
+    <string name="app_name">Time Recording</string>
+    <string name="app_name_pro">Time Recording Pro</string>
     
     <string name="homescreenCheckinNow">Check in now</string>
     <string name="homescreenCheckoutNow">Check out now</string>
@@ -289,6 +290,9 @@
     
     <string name="stdCommentTitle">Standard note</string>
     <string name="stdCommentSelect">Pick standard note</string>
+    <string name="stdCommentDefaultEntry1">Vacation</string>
+    <string name="stdCommentDefaultEntry2">Compensation</string>
+    
     <string name="noteMassTitle">Comment multiple days</string>
     <string name="noteMassIfTextExists">If text already present</string>
     <string name="noteMassOptAppend">Append</string>
