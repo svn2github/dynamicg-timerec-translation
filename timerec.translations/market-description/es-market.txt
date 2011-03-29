@@ -23,6 +23,4 @@ Totalmente configurable, con funciones adicionales:
 
 → soporte sólo en inglés
 
-→ <translation credits>
-
 Keywords: Time Tracker, Punch Clock, Work Clock, Timeclock, Time Clock, Worktime Tracking.
