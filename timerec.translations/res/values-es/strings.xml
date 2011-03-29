@@ -39,7 +39,7 @@
     <string name="commonDataExport">Exportar datos</string>
     <string name="commonCategories">Tareas</string>
     <string name="commonTracking">Seguimiento</string>
-    <string name="commonHourlyRate">Porcentaje Horas</string>
+    <string name="commonHourlyRate">Precio Hora</string>
     <string name="commonEditCategories">Editar tareas</string>
     <string name="commonAddRow">Añadir línea</string>
     <string name="commonStop">Fin</string>
@@ -153,7 +153,7 @@
 	<string name="prefsProOnlyFeature">\u2192 Esta característica está sólo en la \"versión Pro\"</string>
 
 	<string name="nshiftGroup">Opciones de Noche</string>
-    <string name="nshiftDayWindowStart">La ventada de 24h comienza a</string>
+    <string name="nshiftDayWindowStart">La ventana de 24h comienza a</string>
 	<string name="nshiftRollOverCheck">Comprobar \'arrastre\'</string>
 	<string name="nshiftRollOverHint">Ver \'{1}\' en preferencias</string>
 	<string name="nshiftRotatingShift">Rotar desplazamiento</string>
@@ -182,7 +182,7 @@
 	<string name="repTaskMatrix">Matriz de tareas</string>
 	<string name="expPrefsDataInclusion">Incluir datos</string>
 	<string name="expPrefsAttachmentMimeType">Añadir \'tipo MIME\'</string>
-	<string name="expPrefsTargetIntent">\'Enviar\' intento de objetivos</string>
+	<string name="expPrefsTargetIntent">\'Enviar\' intento de destino</string>
 	<string name="expPrefsFileEncoding">Codificar fichero</string>
 	<string name="expPrefsHideAmounts">Ocultar importes</string>
 	<string name="expPrefsDaysToShow">E1-E3 muestras estos días</string>
@@ -194,7 +194,7 @@
 	<string name="expDomNotesFilterLike">contiene</string>
 	<string name="expPrefsShowTotalLine">Mostrar \'Total\' (E1-E4)</string>
 	<string name="expPrefsGroupBreakDate">Agrupar pausas por \'Fechas\' (E2,E4)</string>
-	<string name="expPrefsIsoDate">formato de fecha YYYY/MM/DD</string>
+	<string name="expPrefsIsoDate">Formato de fecha YYYY/MM/DD</string>
 
 	<string name="expTypeOverviewDays">E1 resumen del día</string>
 	<string name="expTypeOverviewWorkUnits">E2 resumen unidad de trabajo</string>
@@ -241,7 +241,7 @@
     <string name="categoryEditorAddNew">Añadir nueva tarea</string>
     <string name="categoryTitleForNewCat">Nueva tarea</string>
     <string name="categoryEditHeaderTitle">Título</string>
-    <string name="categoryEditHeaderHourlyRate">Horario\nPOrcentaje</string>
+    <string name="categoryEditHeaderHourlyRate">Precio\nHoras</string>
     <string name="categoryEditHeaderSort">Ordenar</string>
     <string name="categorySelectNextCategory">Seleccionar siguiente tarea</string>
     <string name="categoryHasChildrenCannotDelete">Tarea ya utilizada, no puede borrarse! Por favor intente \'desactivarla\'.</string>
@@ -257,7 +257,7 @@
     <string name="hintDailyTargetTime">\u2192 Poner \'00:00\' para desactivar</string>
     <string name="hintAmountPrecision">\u2192 Usar \'$#.#\' o \'$#.##\' para 1 o 2 decimales.</string>
     <string name="hintAmountRounding">\u2192 Notas sobre redondeo: subtotales y totales seran redondeados de forma independiente, por eso nunca cuadraran</string>
-    <string name="hintRateOverride">\u2192 Porcentaje puede ser sobreescrito</string>
+    <string name="hintRateOverride">\u2192 Precio puede ser sobreescrito</string>
 	<string name="hintDbRecreateConfirmation">Advertencia: BBDD vacía. Reconstruir?</string>
 	<string name="hintCreatingBackup">Creand copia de seguridad ...</string>
 	<string name="hintTooMuchEntries">Demasiadas entradas</string>
@@ -328,12 +328,12 @@
 	
 	<!-- diff sync marker A -->
 	<string name="pdotMainTitle">Pago sobrepasado</string>
-	<string name="pdotOvertimeRate">Cargo de porcentaje horario</string>
+	<string name="pdotOvertimeRate">Cargo de precio horario</string>
 	<string name="pdotBasedOn">Horas extras basdas en</string>
 	<string name="pdotCalculatePer">Aplicar cálculo a</string>
 	<string name="pdotShowDetails">Añadir detalles al listado</string>
 	<string name="pdotDomainFullRep">Listado completo</string>
-	<string name="pdotRateHint">\u2192 Ejemplo: poner \'8\' si el porcentaje es de 16€ y la hora extra se paga a x1.5, como 24-16=8</string>
+	<string name="pdotRateHint">\u2192 Ejemplo: poner \'8\' si el precio es de 16€ y la hora extra se paga a x1.5, como 24-16=8</string>
 	<string name="pdotMainHint">\u2192 Solo mostrar \'Mes\'. Necesita objetivo de \'Día\' o \'Semana\' activado.</string>
 	
 	<!-- diff sync marker B -->
