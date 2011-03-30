@@ -249,6 +249,9 @@
     <string name="categoryEditorExport">Esporta su Card SD</string>
     <string name="categoryEditorImport">Importa da Card SD</string>
     <string name="categoryEditorHintMenu">\u2192 clicca su Menu per le funzioni</string>
+    <string name="categorySampleEntry1">Cliente 1 - sul posto</string>
+    <string name="categorySampleEntry2">Cliente 1 - supporto</string>
+    <string name="categorySampleEntry3">Formazione</string>
 
     <string name="hintClickToChange">Clicca per cambiare</string>
     <string name="hintClickIconToEdit">Clicca sull\'icona per modificare note</string>
