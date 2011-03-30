@@ -250,8 +250,8 @@
     <string name="categoryEditorExport">Exportar a SD</string>
     <string name="categoryEditorImport">Importar desde SD</string>
     <string name="categoryEditorHintMenu">\u2192 abrir Menu para funciones</string>
-    <string name="categorySampleEntry1">Cliente 1 - Proyecto A</string>
-    <string name="categorySampleEntry2">Cliente 1 - Proyecto B</string>
+    <string name="categorySampleEntry1">Cliente 1 - Análisis</string>
+    <string name="categorySampleEntry2">Cliente 1 - Realización</string>
     <string name="categorySampleEntry3">Formación</string>
 
     <string name="hintClickToChange">Pulsar para cambiar</string>
