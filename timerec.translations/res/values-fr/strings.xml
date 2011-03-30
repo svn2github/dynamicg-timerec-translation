@@ -251,6 +251,9 @@
     <string name="categoryEditorExport">Export to SD Card</string>
     <string name="categoryEditorImport">Import from SD Card</string>
     <string name="categoryEditorHintMenu">\u2192 open Menu for functions</string>
+    <string name="categorySampleEntry1">Client 1 - on-site</string>
+    <string name="categorySampleEntry2">Client 1 - Support</string>
+    <string name="categorySampleEntry3">Training</string>
 
     <string name="hintClickToChange">Click to change</string>
     <string name="hintClickIconToEdit">Click icon to edit notes</string>
