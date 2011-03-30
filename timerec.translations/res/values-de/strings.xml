@@ -244,6 +244,9 @@
     <string name="categoryEditorExport">Export nach SD Card</string>
     <string name="categoryEditorImport">Import von SD Card</string>
     <string name="categoryEditorHintMenu">\u2192 öffne Menü für Funktionen</string>
+    <string name="categorySampleEntry1">Kunde 1 - vor Ort</string>
+    <string name="categorySampleEntry2">Kunde 1 - Remote</string>
+    <string name="categorySampleEntry3">Ausbildung</string>
 
     <string name="hintClickToChange">Wählen...</string>
     <string name="hintClickIconToEdit">Icon klicken um zu editieren</string>
