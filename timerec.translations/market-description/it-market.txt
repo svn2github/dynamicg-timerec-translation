@@ -1,4 +1,4 @@
-Gestisci gli orai dei tuoi lavori giornalieri.
+Gestisci gli orari dei tuoi lavori giornalieri.
 
 Funzionalità di base:
 • Inizio e termine di ogni lavoro
