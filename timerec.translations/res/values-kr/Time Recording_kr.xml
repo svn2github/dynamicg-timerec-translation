@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?> 
 <resources xmlns:android="http://schemas.android.com/apk/res/android">
- <!--  internal --> 
-  <string name="appUserLabel">DynamicG 앱 유저</string> 
+
+  <string name="appUserLabel">DynamicG App User</string> 
   <string name="languageFlag">1</string> 
- <!--  translation credits  --> 
-  <string name="aboutTranslation" /> 
- <!--  labels --> 
+
+  <string name="aboutTranslation"></string>
+
   <string name="app_name">Time Recording</string> 
   <string name="app_name_pro">Time Recording Pro</string> 
   <string name="homescreenCheckinNow">바로 체크인 하기</string> 
@@ -303,7 +303,7 @@
   <string name="dstorFree2ProLiveImport">무료 버전 불러오기 (사용중인 데이터)</string> 
   <string name="dstorFree2ProLatestBackup">무료 버전 불러오기 (최근 백업)</string> 
   <string name="dstorFree2ProAppSettings">무료 버전의 앱 설정</string> 
-  <!--  diff sync marker A --> 
+
   <string name="pdotMainTitle">초과근무 수당 수령</string> 
   <string name="pdotOvertimeRate">시급 추가 요금</string> 
   <string name="pdotBasedOn">에 근거한 초과근무 시간</string> 
@@ -312,18 +312,18 @@
   <string name="pdotDomainFullRep">전체 보고서</string> 
   <string name="pdotRateHint">\u2192 샘플: 24-16=8이므로, \'8\'설정하고 기본 시급이 $16이고 초과근무 수당이 1.5배라면, </string> 
   <string name="pdotMainHint">\u2192 \'월\'부문만 봅니다. \'요일\' 이나 \'주\' 가능한 타겟 시간이 필요합니다.</string> 
- <!--  diff sync marker B --> 
+ 
   <string name="sdcardErrorReboot">\u2022 전화를 껐다 켜고 다시 시도하십시오.\n\u2022 문제가 지속된다면 개발자에게 연락하십시오.</string> 
   <string name="sdcardErrorReadonly">SD 카드에서 읽기만 가능합니다.</string> 
   <string name="sdcardErrorShared">SD 카드가 USB 접근에 의해 막혔습니다. 전화를 USB에서 분리시킨 후 다시 시도하십시오.</string> 
- <!--  diff sync marker C --> 
+
   <string name="brprefsRestoreAction">앱 설정 복원</string> 
   <string name="brprefsFileSelection">{1}의 설정으로 복원</string> 
   <string name="brprefsBackupAction">앱 설정을 SD 카드에 백업</string> 
   <string name="brprefsBackupFileExists">백업 파일이 존재합니다. 덮어쓸까요?</string> 
   <string name="pubServicesInfo">\'{1}\' 제3자의 체크인과 체크아웃 통합 서비스를 제공합니다 (텍스트를 클릭하여 클립보드에 복사하십시오)</string> 
   <string name="pubServicesCopied">텍스트가 복사되었습니다</string> 
- <!--  diff sync marker D  --> 
+
   <string name="rotatingShiftHint">\u2192 전환 변경을 하는 사용자를 위한 것입니다 (보통 07-15, 15-23, 23-07). \'야간\' 변경 구간의 데이터를 입력하십시오. 주간 변경은 등록하지 마십시오.</string> 
   <string name="restoreInfoHead">새 전화기나 앱을 다시 설치할 떄 데이터를 복원하는 방법:</string> 
   <string name="restoreInfoLine1">\u2022 *이전* 삭제하거나 이전 전화에서 각각 \"백업 생성\"을 클릭하십시오</string> 
