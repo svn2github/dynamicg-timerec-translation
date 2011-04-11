@@ -222,7 +222,7 @@
   <string name="categoryEditorAddNew">새로운 일 추가</string> 
   <string name="categoryTitleForNewCat">새로운 일</string> 
   <string name="categoryEditHeaderTitle">타이틀</string> 
-  <string name="categoryEditHeaderHourlyRate">시간 \n 급여</string> 
+  <string name="categoryEditHeaderHourlyRate">시간\n급여</string> 
   <string name="categoryEditHeaderSort">종류</string> 
   <string name="categorySelectNextCategory">다음에 할 일 선택</string> 
   <string name="categoryHasChildrenCannotDelete">할 일이 이미 지났습니다. 삭제할 수 없습니다! 대신 \'비활성화\'에서 설정하십시오.</string> 
