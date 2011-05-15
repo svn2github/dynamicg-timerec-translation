@@ -1,7 +1,0 @@
-		public void onStart(Intent intent, int startId) {
-			WidgetHandler.handleUpdate(this);
-			///////////////////////////stopSelf(); // DONE - refresh is triggered through alarm
-		}
-
-		if (com.dynamicg.generic.sqlitesupport.types.datetime.SqliteDateTime.todayNumeric() >= 20110701) {
-		
