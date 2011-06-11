@@ -1,16 +1,13 @@
 <?xml version="1.0" encoding="utf-8" ?> 
 <resources xmlns:android="http://schemas.android.com/apk/res/android">
-
   <string name="appUserLabel">DynamicG App User</string> 
   <string name="languageFlag">1</string> 
-
-  <string name="aboutTranslation"></string>
-
+  <string name="aboutTranslation" /> 
   <string name="app_name">Time Recording</string> 
   <string name="app_name_pro">Time Recording Pro</string> 
-  <string name="homescreenCheckinNow">바로 체크인 하기</string> 
-  <string name="homescreenCheckoutNow">바로 체크아웃 하기</string> 
-  <string name="homescreenAddBreak">앱 브레이크 \u2026</string> 
+  <string name="homescreenCheckinNow">일정 시작</string> 
+  <string name="homescreenCheckoutNow">일정 종료</string> 
+  <string name="homescreenAddBreak">휴식 설정 \u2026</string> 
   <string name="homescreenHintNoStamps">아직 스탬프가 없습니다.\n\'요일\'를 열고 \'왼쪽 화살\'를 이용하여 지난 요일에 항목을 추가하십시오.</string> 
   <string name="homescreenAddStamp">스탬프 추가 \u2026</string> 
   <string name="menuEditStampsShort">스탬프 편집</string> 
@@ -26,21 +23,21 @@
   <string name="commonError">오류</string> 
   <string name="commonYes">예</string> 
   <string name="commonNo">아니오</string> 
-  <string name="commonTitleCheckIn">체크인</string> 
-  <string name="commonTitleCheckOut">체크아웃</string> 
-  <string name="commonActionAddCheckIn">체크인 추가 \u2026</string> 
-  <string name="commonActionAddCheckOut">체크아웃 추가 \u2026</string> 
+  <string name="commonTitleCheckIn">일정 시작</string> 
+  <string name="commonTitleCheckOut">일정 종료</string> 
+  <string name="commonActionAddCheckIn"> 추가 일정 \u2026</string> 
+  <string name="commonActionAddCheckOut">추가 일정 종료 \u2026</string> 
   <string name="commonSample">샘플</string> 
   <string name="commonDataExport">데이터 보내기</string> 
-  <string name="commonCategories">할 일</string> 
-  <string name="commonTracking">검색</string> 
+  <string name="commonCategories">일정</string> 
+  <string name="commonTracking">설정</string> 
   <string name="commonHourlyRate">시간급</string> 
-  <string name="commonEditCategories">할 일 편집</string> 
+  <string name="commonEditCategories">일정 편집</string> 
   <string name="commonAddRow">열 추가</string> 
   <string name="commonStop">종료</string> 
   <string name="commonType">타입</string> 
-  <string name="commonIn">안</string> 
-  <string name="commonOut">밖</string> 
+  <string name="commonIn">시작</string> 
+  <string name="commonOut">종료</string> 
   <string name="commonDay">요일</string> 
   <string name="commonWeek">주</string> 
   <string name="commonMonth">월</string> 
@@ -49,14 +46,14 @@
   <string name="commonVarious">다양한</string> 
   <string name="commonGrandTotal">총계</string> 
   <string name="commonSettings">설정</string> 
-  <string name="commonDisabled">고장난</string> 
+  <string name="commonDisabled">비활성화</string> 
   <string name="commonDefault">기본값</string> 
   <string name="commonAdvanced">고급</string> 
   <string name="commonOutput">아웃풋</string> 
   <string name="commonFilter">필터</string> 
   <string name="commonTotal">전체</string> 
   <string name="commonStart">시작</string> 
-  <string name="commonTask">할 일</string> 
+  <string name="commonTask">일정</string> 
   <string name="commonText">텍스트</string> 
   <string name="commonSortAZ">A-Z 분류</string> 
   <string name="commonEditShort">편집</string> 
@@ -77,7 +74,7 @@
   <string name="buttonClose">종료</string> 
   <string name="buttonSave">저장</string> 
   <string name="buttonResetText">리셋</string> 
-  <string name="buttonSwitchTask">할 일 변경 \u2026</string> 
+  <string name="buttonSwitchTask">일정 변경 \u2026</string> 
   <string name="headerDate">데이터</string> 
   <string name="headerTotalDecimal">총 (십진법)</string> 
   <string name="headerTime">시간</string> 
@@ -106,7 +103,7 @@
   <string name="prefsTimePickerIncrement">\'시간 픽커\' 분당 증가</string> 
   <string name="prefsShortMain">메인</string> 
   <string name="prefsShortOptions">옵션</string> 
-  <string name="prefsShortTasks">할 일</string> 
+  <string name="prefsShortTasks">일정</string> 
   <string name="prefsShortTracking">검색</string> 
   <string name="prefsGroupInterface">인터페이스</string> 
   <string name="prefsWeekdayTargetTime">평일 당 타겟 시간 무시</string> 
@@ -116,17 +113,17 @@
   <string name="prefsMonthViewOption">\'월\' 보기</string> 
   <string name="prefsWeeklyTargetTime">주당 타겟 시간</string> 
   <string name="hintWeeklyTargetTime">\u2192 샘플 입력: 38.75\n \'월\'에서만 볼 수 있습니다. 손상을 제거하십시오.</string> 
-  <string name="prefsDefaultCategory">기본 할 일</string> 
-  <string name="prefsTaskGroupsActiveLabel">할 일 그룹</string> 
-  <string name="prefsTaskGroupsActiveHint">\u2192 \'의뢰인 1 - 프로젝트 A\', \'의뢰인 1 - 프로젝트 B\' 할 일 이름 패턴으로 사용합니다</string> 
-  <string name="prefsMonthReportSplit"> \'월\'을 오늘로 나눠 보기</string> 
+  <string name="prefsDefaultCategory">기본 일정</string> 
+  <string name="prefsTaskGroupsActiveLabel">일정 그룹</string> 
+  <string name="prefsTaskGroupsActiveHint">\u2192 \'의뢰인 1 - 프로젝트 A\', \'의뢰인 1 - 프로젝트 B\' 일정 이름 패턴으로 사용합니다</string> 
+  <string name="prefsMonthReportSplit">\'월\'을 오늘로 나눠 보기</string> 
   <string name="prefsExpDecimalSep">십진법 분리</string> 
   <string name="prefsCollapseCheckBtn">\'체크인/체크아웃\' 버튼 합치기</string> 
   <string name="prefsAllowScreenRotation">스크린 순환 허용 (풍경 모드)</string> 
   <string name="prefsHintRestartRequired">\u2192 본 설정이 재시작을 필요하다는 것을 변경합니다</string> 
-  <string name="prefsExportSettings">데이터 보내기 설정</string> 
-  <string name="prefsGridViewFont">데이터 보기에 맞는 폰트 크기</string> 
-  <string name="prefsProVersionThanks"> \"프로\" 버전을 구매해주셔서 감사합니다!</string> 
+  <string name="prefsExportSettings">날짜 보내기 설정</string> 
+  <string name="prefsGridViewFont">날짜 보기에 맞는 폰트 크기</string> 
+  <string name="prefsProVersionThanks">\"프로\" 버전을 구매해주셔서 감사합니다!</string> 
   <string name="prefsWidgetClickAction">위젯 클릭 동작</string> 
   <string name="prefsDomWidgetActionOpen">앱 열기</string> 
   <string name="prefsDomWidgetActionPunch">시간 기록</string> 
@@ -144,9 +141,9 @@
   <string name="nshiftGroup">야간 전환 옵션</string> 
   <string name="nshiftDayWindowStart">24 시간 윈도우 시작</string> 
   <string name="nshiftRollOverCheck">\'연장하기\' 체크</string> 
-  <string name="nshiftRollOverHint"> \'{1}\' 개인 설정에서 보기</string> 
-  <string name="nshiftRotatingShift">전환 변화</string> 
-  <string name="nshiftEditNightShifts">야간 변화 편집</string> 
+  <string name="nshiftRollOverHint">\'{1}\' 개인 설정에서 보기</string> 
+  <string name="nshiftRotatingShift">근무조 교대</string> 
+  <string name="nshiftEditNightShifts">야간조 편집</string> 
   <string name="nshiftSeeFAQ">\u2192 자정을 넘겨 일하거나 전환을 변경한다면 자세한 사항을 위해 FAQ를 확인하십시오</string> 
   <string name="stdStampTitle">휴식 &amp; 블록</string> 
   <string name="stdStampTypeBlock">블록</string> 
@@ -155,8 +152,8 @@
   <string name="autoBreakHint1">\u2192 매일 첫 체크인 이후에만 활성화됩니다. 첫 체크아웃에서 사용될 것입니다.</string> 
   <string name="autoBreakHint2">\u2192 규칙: [{3}]에서 시작하는 [{2}] 기간의 휴식을 더한것보다 [{1}] 매일 총 합이 더 크거나 같다면.</string> 
   <string name="autoBreakHint3">\u2192 \'{1}\' 에서만 첫 연결 규칙이 적용됩니다.</string> 
-  <string name="autoBreakDomFirst">활성화, 단순 휴식</string> 
-  <string name="autoBreakDomAll">활성화, 복합 휴식</string> 
+  <string name="autoBreakDomFirst">활성화, 기본 휴식 시간</string> 
+  <string name="autoBreakDomAll">활성화, 휴식 시간 전체</string> 
   <string name="dailyTargetOptionTitle">타겟 시간 옵션</string> 
   <string name="dailyTargetOptTurnOff">끄기</string> 
   <string name="dailyTargetOptOvertime">야근 기록하기</string> 
@@ -164,7 +161,7 @@
   <string name="exportMailTitle">시간 기록 데이터 전송, {1}</string> 
   <string name="exportMailBody">{제목}\n {2}에서 생성하기</string> 
   <string name="exportColumnSeparatorHint">힌트: 데이터가 개별 칼럼으로 들어왔다면 \'칼럼 분류\' 전송 설정에서 변경하십시오</string> 
-  <string name="repTaskMatrix">할 일 목록</string> 
+  <string name="repTaskMatrix">일정 목록</string> 
   <string name="expPrefsDataInclusion">데이터 포함</string> 
   <string name="expPrefsAttachmentMimeType">첨부 \'MIME 타입\'</string> 
   <string name="expPrefsTargetIntent">\'전송\' 타겟 목적</string> 
@@ -183,7 +180,7 @@
   <string name="expTypeOverviewDays">E1 하루 개요</string> 
   <string name="expTypeOverviewWorkUnits">E2 업무 유닛 개요</string> 
   <string name="expTypeOverviewDayAttendance">E3 일별 출석</string> 
-  <string name="expTypeTasksPerDay">E4 하루 당 할 일</string> 
+  <string name="expTypeTasksPerDay">E4 하루 단위 일정</string> 
   <string name="expTypeDetails">세부 항목(스탬프 마다)</string> 
   <string name="expPreview">미리보기</string> 
   <string name="domainSepComma">쉼표 [,]</string> 
@@ -216,18 +213,18 @@
   <string name="dayShortThu">목</string> 
   <string name="dayShortFri">금</string> 
   <string name="dayShortSat">토</string> 
-  <string name="categorySelectionTitle">할 일을 시작합니다 {1}</string> 
-  <string name="categoryNone">(할 일 없음)</string> 
+  <string name="categorySelectionTitle">일정을 시작합니다 {1}</string> 
+  <string name="categoryNone">(일정 없음)</string> 
   <string name="categoryFilterAll">&lt;All&gt;</string> 
   <string name="categoryEditorAddNew">새로운 일 추가</string> 
   <string name="categoryTitleForNewCat">새로운 일</string> 
   <string name="categoryEditHeaderTitle">타이틀</string> 
   <string name="categoryEditHeaderHourlyRate">시간\n급여</string> 
   <string name="categoryEditHeaderSort">종류</string> 
-  <string name="categorySelectNextCategory">다음에 할 일 선택</string> 
-  <string name="categoryHasChildrenCannotDelete">할 일이 이미 지났습니다. 삭제할 수 없습니다! 대신 \'비활성화\'에서 설정하십시오.</string> 
-  <string name="categoryFilter">할 일 필터</string> 
-  <string name="categoryEditLink">할 일 편집</string> 
+  <string name="categorySelectNextCategory">다음 일정 선택</string> 
+  <string name="categoryHasChildrenCannotDelete">일정이 이미 지났습니다. 삭제할 수 없습니다! 대신 \'비활성화\'에서 설정하십시오.</string> 
+  <string name="categoryFilter">일정 필터</string> 
+  <string name="categoryEditLink">일정 편집</string> 
   <string name="categoryEditorExport">SD 카드에서 내보내기</string> 
   <string name="categoryEditorImport">SD 카드에서 불러오기</string> 
   <string name="categoryEditorHintMenu">\u2192 메뉴 기능 열기</string> 
@@ -264,7 +261,7 @@
   <string name="bckAutoBackup">모든 [n] 날을 SD카드에 백업합니다</string> 
   <string name="bckRestoreSdCardUnavailable">SD 카드를 이용할 수 없습니다. 백업/복원이 일시적으로 불가능합니다!</string> 
   <string name="widgetAppTitle1">시간</string> 
-  <string name="widgetAppTitle2">녹음중</string> 
+  <string name="widgetAppTitle2">기록중</string> 
   <string name="stdCommentTitle">표준 노트</string> 
   <string name="stdCommentSelect">표준 노트 고르기</string> 
   <string name="stdCommentDefaultEntry1">휴가</string> 
@@ -287,12 +284,12 @@
   <string name="dstorImportDone">{1}에서 불러오기</string> 
   <string name="dstorSwitch">{1} 사용 (데이터 이동이 없습니다)</string> 
   <string name="dstorSwitchDone">{1}에 데이터가 저장됩니다</string> 
-  <string name="dstorConfirmMigration">데이터를 전화 저장장치로 옮기시겠습니까? 안정성을 제고시킬 것입니다.</string> 
+  <string name="dstorConfirmMigration">데이터를 내부 메모리로 옮기시겠습니까? 안정성이 보장될 것입니다.</string> 
   <string name="dstorWarning">주의: 조심하십시오. FAQ를 보십시오.</string> 
   <string name="dstorRestoreLocalBck">복원 로컬 백업</string> 
   <string name="dstorFileNotFound">파일 \'{1}\'을 찾을 수 없습니다.</string> 
   <string name="dstorCannotProcess">처리할 수 없습니다</string> 
-  <string name="dstorPreferred">전화 저장장치가 준비되었습니다.</string> 
+  <string name="dstorPreferred">내부 메모리가 준비되었습니다.</string> 
   <string name="dstorSettingsBRTitle">앱 설정</string> 
   <string name="dstorInitialRecovery">SD 카드에서 발견된 백업파일입니다. 데이터를 복구하시겠습니까?</string> 
   <string name="dstorRestoreInfo">\'복원\' 정보</string> 
@@ -303,27 +300,23 @@
   <string name="dstorFree2ProLiveImport">무료 버전 불러오기 (사용중인 데이터)</string> 
   <string name="dstorFree2ProLatestBackup">무료 버전 불러오기 (최근 백업)</string> 
   <string name="dstorFree2ProAppSettings">무료 버전의 앱 설정</string> 
-
   <string name="pdotMainTitle">초과근무 수당 수령</string> 
   <string name="pdotOvertimeRate">시급 추가 요금</string> 
   <string name="pdotBasedOn">에 근거한 초과근무 시간</string> 
   <string name="pdotCalculatePer">에 계산 신청</string> 
   <string name="pdotShowDetails">보고서의 세부사항 보기</string> 
   <string name="pdotDomainFullRep">전체 보고서</string> 
-  <string name="pdotRateHint">\u2192 샘플: 24-16=8이므로, \'8\'설정하고 기본 시급이 $16이고 초과근무 수당이 1.5배라면, </string> 
+  <string name="pdotRateHint">\u2192 샘플: 24-16=8이므로, \'8\'설정하고 기본 시급이 $16이고 초과근무 수당이 1.5배라면,</string> 
   <string name="pdotMainHint">\u2192 \'월\'부문만 봅니다. \'요일\' 이나 \'주\' 가능한 타겟 시간이 필요합니다.</string> 
- 
   <string name="sdcardErrorReboot">\u2022 전화를 껐다 켜고 다시 시도하십시오.\n\u2022 문제가 지속된다면 개발자에게 연락하십시오.</string> 
   <string name="sdcardErrorReadonly">SD 카드에서 읽기만 가능합니다.</string> 
   <string name="sdcardErrorShared">SD 카드가 USB 접근에 의해 막혔습니다. 전화를 USB에서 분리시킨 후 다시 시도하십시오.</string> 
-
   <string name="brprefsRestoreAction">앱 설정 복원</string> 
   <string name="brprefsFileSelection">{1}의 설정으로 복원</string> 
   <string name="brprefsBackupAction">앱 설정을 SD 카드에 백업</string> 
   <string name="brprefsBackupFileExists">백업 파일이 존재합니다. 덮어쓸까요?</string> 
   <string name="pubServicesInfo">\'{1}\' 제3자의 체크인과 체크아웃 통합 서비스를 제공합니다 (텍스트를 클릭하여 클립보드에 복사하십시오)</string> 
   <string name="pubServicesCopied">텍스트가 복사되었습니다</string> 
-
   <string name="rotatingShiftHint">\u2192 전환 변경을 하는 사용자를 위한 것입니다 (보통 07-15, 15-23, 23-07). \'야간\' 변경 구간의 데이터를 입력하십시오. 주간 변경은 등록하지 마십시오.</string> 
   <string name="restoreInfoHead">새 전화기나 앱을 다시 설치할 떄 데이터를 복원하는 방법:</string> 
   <string name="restoreInfoLine1">\u2022 *이전* 삭제하거나 이전 전화에서 각각 \"백업 생성\"을 클릭하십시오</string> 
@@ -345,7 +338,7 @@
   <string name="catExtFileMissing">불러온 파일을 찾을 수 없습니다. 템플릿을 생성하려면 \"내보내기\"를 이용하십시오.</string> 
   <string name="catExtImpConfirm1">\u2192 존재하고 있는 {1} 업무가 삭제될 수 있습니다!</string> 
   <string name="catExtImpConfirm2">\u2192 이미 사용하고 있는 업무의 ID를 변경할 수 없습니다!</string> 
-  <string name="catExtImpConfirm3">\u2192 \'복원\'을 제외하고 내보내기를 할 수 없습니다. </string> 
+  <string name="catExtImpConfirm3">\u2192 \'복원\'을 제외하고 내보내기를 할 수 없습니다.</string> 
   <string name="catExtImpConfirm4">\u2022 파일: {1}</string> 
   <string name="catExtImpConfirm5">\u2022 보낼 파일의 갯수: {1}</string> 
   <string name="catExtNothingToImport">보낼 파일이 없습니다. 빈 파일을 보내시겠습니까?</string> 
@@ -360,4 +353,4 @@
   <string name="proReminderTitle">프로 버전 알림</string> 
   <string name="proReminderMktButton">안드로이드 마켓</string> 
   <string name="proReminderBody">Time Recording 이용하신다면, \"프로\" 버전 구매를 고려해 주십시오.\n감사합니다!</string> 
-</resources>
+  </resources>
