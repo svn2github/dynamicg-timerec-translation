@@ -8,4 +8,11 @@
 	</buildSpec>
 	<natures>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>archive</name>
+			<type>2</type>
+			<location>C:/workspace/androidDeployment/apk</location>
+		</link>
+	</linkedResources>
 </projectDescription>
