@@ -1,1 +1,6 @@
+
+svn url:
 https://dynamicg-timerec.googlecode.com/svn/trunk/timerec.apk
+
+archive folder: 
+C:\workspace\androidDeployment\apk
