@@ -445,6 +445,9 @@
 	<string name="expPrefsCharsetFullList">Full list</string>
 	<string name="expPrefsTransposeMatrix">E5: Transpose matrix</string>
 	
+    <string name="errorCalSyncFailed">Calendar sync failed</string>
+    <string name="errorDropboxUploadFailed">Dropbox upload failed</string>
+	
 	<string name="fileDeliveryLabel">Delivery</string>
 	<string name="fileDeliveryEmail">Send as email</string>
 	<string name="fileDeliveryDropbox">Upload to Dropbox</string>
@@ -460,7 +463,6 @@
 	<string name="calSyncCalendarName">Calendar name</string>
 	<string name="calSyncHints1">\u2192 Strongly recommended to use separate Calendar instance. See FAQ.</string>
 	<string name="calSyncHints2">\u2192 Only one-way sync supported</string>
-	<string name="calSyncUtilityAppLink">\u2192 Additional App required!\nClick here for download</string>
 	<string name="calSyncWriteDelay">Write delay (seconds/minutes) after changes</string>
 	<string name="calSyncForStamps">Sync stamps as \'events\'</string>
 	<string name="calSyncForDayNotes">Sync day notes as \'all day event\'</string>
@@ -469,6 +471,8 @@
 	<string name="calSyncEventTitleHint">\u2192 Use free text and/or placeholders:\n$1=task, $2=total, $3=time from/to, $4=amount</string>
 	<string name="calSyncCheckSettings">Click here to check \'{1}\' settings.</string>
 
+	<string name="utilityAppMissing">\u2192 Additional App required!\nClick here for download</string>
+	
 	<string name="commonSeeOnlineHelp">See online help</string>
     <string name="confirmDeleteItemHint">\u2192 Hint: use \'Menu/{1}\' to delete single items</string>
 	<string name="expPrefsAmtWithCurrency">Show currency on amounts</string>
