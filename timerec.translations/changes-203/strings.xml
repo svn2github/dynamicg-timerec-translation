@@ -446,7 +446,7 @@
 	<string name="expPrefsTransposeMatrix">E5: Transpose matrix</string>
 	
     <string name="errorCalSyncFailed">Calendar sync failed</string>
-    <string name="errorDropboxUploadFailed">Dropbox upload failed</string>
+    <string name="errorDropboxAccessFailed">Dropbox access failed</string>
 	
 	<string name="fileDeliveryLabel">Delivery</string>
 	<string name="fileDeliveryEmail">Send as email</string>
