@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+	<string name="commonData">Data</string>
+	<string name="commonCheckedIn">Checked in</string>
+	<string name="commonFile">File</string>
+	<string name="commonOpenWith">Open with</string>
+	
+	<string name="widgetPrefMainTitle">Widget &amp; Notification bar</string>
+	<string name="widgetPrefNotifBarActive">Status bar notification when checked in</string>
+	<string name="widgetPrefNotifBarText">Notification text</string>
+	<string name="widgetPrefNotifBarHint">\u2192 Placeholders: $1=check-in time, $2=total, $3=task</string>
+	<string name="widgetPrefRefreshInterval">Refresh interval in minutes</string>
+	<string name="widgetPrefHintRefresh">\u2192 Faster refresh means more battery usage!</string>
+	<string name="widgetPrefKeepRunning">Keep running in background</string>
+	<string name="widgetPrefHintKeepRunning">\u2192 Tick if the widget regularly stops refreshing</string>
+	
+	<string name="prefsCalendarSyncGroup">Google calendar sync</string>
+	<string name="prefsHomescreenBtSmall">Small buttons on homescreen</string>
+	<string name="prefsWritePerformance">Write operations configuration</string>
+	<string name="prefsWritePerfPragmaOff">Best performance</string>
+	<string name="prefsWritePerfPragmaFull">Maximum fail safety</string>
+	<string name="prefsShortTab4">Date,Time</string>
+	<string name="prefsHintPleaseRestart">\u2192 Please restart the app</string>
+	<string name="prefsPunchRoundTaskSwitch">Also apply on \'Switch task\'</string>
+	<string name="prefsKeepPrevCategory">Keep selected task after break</string>
+	<string name="prefsDomWidgetActTaskSelect">Punch with task selection</string>
+	
+	<string name="expPrefsCharsetCommon">Common character sets</string>
+	<string name="expPrefsCharsetFullList">Full list</string>
+	<string name="expPrefsTransposeMatrix">E5: Transpose matrix</string>
+	
+    <string name="errorCalSyncFailed">Calendar sync failed</string>
+    <string name="errorDropboxAccessFailed">Dropbox access failed</string>
+	
+	<string name="fileDeliveryLabel">Delivery</string>
+	<string name="fileDeliveryEmail">Send as email</string>
+	<string name="fileDeliveryDropbox">Upload to Dropbox</string>
+	<string name="fileDeliveryRestoreFromDropbox">Restore from Dropbox</string>
+	
+    <string name="stdStampTypeBreakNow">Break now</string>
+    <string name="stdStampBreakForLastMI">For last {1} minutes</string>
+    <string name="stdStampBreakForNextMI">For next {1} minutes</string>
+    <string name="stdStampsBreakNowItems">Entries for \'{1}\'</string>
+    
+    <string name="stdCommentAppend">Append to current text</string>
+	
+	<string name="calSyncCalendarName">Calendar name</string>
+	<string name="calSyncHints1">\u2192 Strongly recommended to use separate Calendar instance. See FAQ.</string>
+	<string name="calSyncHints2">\u2192 Only one-way sync supported</string>
+	<string name="calSyncWriteDelay">Write delay (seconds/minutes) after changes</string>
+	<string name="calSyncForStamps">Sync stamps as \'events\'</string>
+	<string name="calSyncForDayNotes">Sync day notes as \'all day event\'</string>
+	<string name="calSyncShowConfirmation">Show confirmation after sync</string>
+	<string name="calSyncEventTitleLabel">Event title</string>
+	<string name="calSyncEventTitleHint">\u2192 Use free text and/or placeholders:\n$1=task, $2=total, $3=time from/to, $4=amount</string>
+	<string name="calSyncCheckSettings">Click here to check \'{1}\' settings.</string>
+
+	<string name="utilityAppMissing">\u2192 Additional App required!\nClick here for download</string>
+	
+	<string name="commonSeeOnlineHelp">See online help</string>
+    <string name="confirmDeleteItemHint">\u2192 Hint: use \'Menu/{1}\' to delete single items</string>
+	<string name="expPrefsAmtWithCurrency">Show currency on amounts</string>
+	
+</resources>
