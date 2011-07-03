@@ -400,4 +400,78 @@
 	<string name="proReminderMktButton">Market Android</string>
 	<string name="proReminderBody">Utenti abituali di Registra Orari, considerate, per favore, l\'acquisto della versione \"Pro\".\nGrazie!</string>
 
+	<!-- =================================================================== -->
+    <string name="googleSitesLanguage">en</string>
+    
+	<string name="widgetAppTitleShort">RO</string>
+	<string name="widgetTitleFrame">Registra Orari (Frame)</string>
+	<string name="widgetTitleGloss">Registra Orari (Gloss)</string>
+	<string name="widgetTitleSlider">Registra Orari (Slider)</string>
+	<string name="widgetTitleFramePro">Registra Orari Pro (Frame)</string>
+	<string name="widgetTitleGlossPro">Registra Orari Pro (Gloss)</string>
+	<string name="widgetTitleSliderPro">Registra Orari Pro (Slider)</string>
+	
+	<!-- =================================================================== -->
+	<!-- CHANGES FOR V2.03 -->
+	<string name="commonData">Dati</string>
+	<string name="commonCheckedIn">Iniziati</string>
+	<string name="commonFile">File</string>
+	<string name="commonOpenWith">Apri con</string>
+	
+	<string name="widgetPrefMainTitle">Widget &amp; Notifica sulla Barra</string>
+	<string name="widgetPrefNotifBarActive">Notifica su Barra di Stato quando iniziato</string>
+	<string name="widgetPrefNotifBarText">Testo della notifica</string>
+	<string name="widgetPrefNotifBarHint">\u2192 Segnaposto: $1=orario d\'inizio, $2=totale, $3=lavoro</string>
+	<string name="widgetPrefRefreshInterval">Aggiorna intervallo in minuti</string>
+	<string name="widgetPrefHintRefresh">\u2192 Aggiornamenti piÃ¹ frequenti significa maggiore consumo della batteria!</string>
+	<string name="widgetPrefKeepRunning">Mantieni attivo in background</string>
+	<string name="widgetPrefHintKeepRunning">\u2192 Spunta se il widget smette regolarmente di aggiornarsi</string>
+	
+	<string name="prefsCalendarSyncGroup">Sincronizza col calendario Google</string>
+	<string name="prefsHomescreenBtSmall">Piccoli pulsanti nella Home</string>
+	<string name="prefsWritePerformance">Configurazione delle operazioni di scrittura</string>
+	<string name="prefsWritePerfPragmaOff">Massimo delle prestazioni</string>
+	<string name="prefsWritePerfPragmaFull">Massimo della protezione da errori</string>
+	<string name="prefsShortTab4">Data,Orario</string>
+	<string name="prefsHintPleaseRestart">\u2192 Riavvia, per favore, l\'applicazione</string>
+	<string name="prefsPunchRoundTaskSwitch">Applica anche a \'Cambia lavoro\'</string>
+	<string name="prefsKeepPrevCategory">Mantieni selezionato il lavoro dopo la pausa</string>
+	<string name="prefsDomWidgetActTaskSelect">Colpo con selezione del lavoro</string>
+	
+	<string name="expPrefsCharsetCommon">Set di caratteri comune</string>
+	<string name="expPrefsCharsetFullList">Elenco completo</string>
+	<string name="expPrefsTransposeMatrix">E5: Sposta matrice</string>
+	
+    <string name="errorCalSyncFailed">Sincronizzazione con calendario fallita</string>
+    <string name="errorDropboxAccessFailed">Accessso a Dropbox fallito</string>
+	
+	<string name="fileDeliveryLabel">Consegna</string>
+	<string name="fileDeliveryEmail">Invia come email</string>
+	<string name="fileDeliveryDropbox">Carica su Dropbox</string>
+	<string name="fileDeliveryRestoreFromDropbox">Ripristina da Dropbox</string>
+	
+    <string name="stdStampTypeBreakNow">Fai pausa adesso</string>
+    <string name="stdStampBreakForLastMI">Per gli ultimi {1} minuti</string>
+    <string name="stdStampBreakForNextMI">Per i prossimi {1} minuti</string>
+    <string name="stdStampsBreakNowItems">Annotazioni per \'{1}\'</string>
+    
+    <string name="stdCommentAppend">Attacca al testo corrente</string>
+	
+	<string name="calSyncCalendarName">Nome del calendario</string>
+	<string name="calSyncHints1">\u2192 Fortemente raccomandato l\'utilizzo di una istanza di Calendario separata. Vedi le FAQ.</string>
+	<string name="calSyncHints2">\u2192 Supportata solo una sincronizzazione a senso unico</string>
+	<string name="calSyncWriteDelay">Ritardo in scrittura (secondi/minuti) dopo le modifiche</string>
+	<string name="calSyncForStamps">Sincronizza le timbrature come \'eventi\'</string>
+	<string name="calSyncForDayNotes">Sincronizza le note del giorno come \'evento di tutto il giorno\'</string>
+	<string name="calSyncShowConfirmation">Mostra conferma dopo sincronizzazione</string>
+	<string name="calSyncEventTitleLabel">Titolo evento</string>
+	<string name="calSyncEventTitleHint">\u2192 Usa testo libero e/o segnaposto:\n$1=lavoro, $2=totale, $3=tempo da/a, $4=importo</string>
+	<string name="calSyncCheckSettings">Clicca qui per controllare \'{1}\' le impostazioni.</string>
+
+	<string name="utilityAppMissing">\u2192 Applicazione aggiuntiva necessaria!\nClicca qui per il download</string>
+	
+	<string name="commonSeeOnlineHelp">Vedi aiuto online</string>
+    <string name="confirmDeleteItemHint">\u2192 Suggerimento: usa \'Menu/{1}\' per eliminare le singole voci</string>
+	<string name="expPrefsAmtWithCurrency">Mostra valuta sugli importi</string>
+
 </resources>
