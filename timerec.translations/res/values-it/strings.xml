@@ -474,4 +474,20 @@
     <string name="confirmDeleteItemHint">\u2192 Suggerimento: usa \'Menu/{1}\' per eliminare le singole voci</string>
 	<string name="expPrefsAmtWithCurrency">Mostra valuta sugli importi</string>
 
+	<!-- TEXTS V71 (AFTER V70) -->
+	<string name="autoBreakErrDuplicate"></string>
+	<string name="commonPreviouslyUsed"></string>
+	
+	<!-- TEXTS V71 (SKIPPED ON I18N) -->
+	<string name="copyDaysTitle"></string>
+	<string name="copyDaysSourceRange"></string>
+	<string name="copyDaysToLabel"></string>
+	<string name="copyDaysToStart"></string>
+	<string name="copyDaysOverwrite"></string>
+	<string name="copyDaysDone"></string>
+	
+    <string name="dailyTargetReachedAtLabel"></string>
+    <string name="dailyTargetReachedAtPref"></string>
+    <string name="dailyTargetReachedAtHint"></string>
+
 </resources>
