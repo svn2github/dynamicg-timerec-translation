@@ -62,4 +62,7 @@
     <string name="confirmDeleteItemHint">\u2192 Hint: use \'Menu/{1}\' to delete single items</string>
 	<string name="expPrefsAmtWithCurrency">Show currency on amounts</string>
 	
+    <string name="autoBreakErrDuplicate">Multiple entries for Total \'{1}\' not allowed</string>
+	<string name="commonPreviouslyUsed">Previously used</string>
+    
 </resources>
