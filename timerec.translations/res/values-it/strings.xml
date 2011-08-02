@@ -411,6 +411,8 @@
 	<string name="widgetTitleGlossPro">Registra Orari Pro (Gloss)</string>
 	<string name="widgetTitleSliderPro">Registra Orari Pro (Slider)</string>
 	
+	<string name="expPrefsFilenamePrefix">Filename prefix</string>
+	
 	<!-- =================================================================== -->
 	<!-- CHANGES FOR V2.03 -->
 	<string name="commonData">Dati</string>

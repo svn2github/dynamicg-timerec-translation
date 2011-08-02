@@ -412,6 +412,8 @@
 	<string name="widgetTitleGlossPro">Time Recording Pro (Gloss)</string>
 	<string name="widgetTitleSliderPro">Time Recording Pro (Slider)</string>
 	
+	<string name="expPrefsFilenamePrefix">Filename prefix</string>
+	
 	<!-- =================================================================== -->
 	<!-- CHANGES FOR V2.03 -->
 	<string name="commonData">Datos</string>
