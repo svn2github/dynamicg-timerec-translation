@@ -401,7 +401,19 @@
 	<string name="proReminderMktButton">Android Market</string>
 	<string name="proReminderBody">Considere a comprar la versión \"PRO\" de Time Recording.\nGracias!</string>
 
-	<!-- NEW TEXTS V71 -->
+	<!-- =================================================================== -->
+    <string name="googleSitesLanguage">en</string>
+    
+	<string name="widgetAppTitleShort">TR</string>
+	<string name="widgetTitleFrame">Time Recording (Frame)</string>
+	<string name="widgetTitleGloss">Time Recording (Gloss)</string>
+	<string name="widgetTitleSlider">Time Recording (Slider)</string>
+	<string name="widgetTitleFramePro">Time Recording Pro (Frame)</string>
+	<string name="widgetTitleGlossPro">Time Recording Pro (Gloss)</string>
+	<string name="widgetTitleSliderPro">Time Recording Pro (Slider)</string>
+	
+	<!-- =================================================================== -->
+	<!-- CHANGES FOR V2.03 -->
 	<string name="commonData">Datos</string>
 	<string name="commonCheckedIn">Comprobado en</string>
 	<string name="commonFile">Fichero</string>
@@ -466,4 +478,16 @@
     <string name="autoBreakErrDuplicate">Entradas multiples para el total \'{1}\' no permitidas</string>
 	<string name="commonPreviouslyUsed">Anteriormente usado</string>
 
+	<!-- TEXTS V71 (SKIPPED ON I18N) -->
+	<string name="copyDaysTitle"></string>
+	<string name="copyDaysSourceRange"></string>
+	<string name="copyDaysToLabel"></string>
+	<string name="copyDaysToStart"></string>
+	<string name="copyDaysOverwrite"></string>
+	<string name="copyDaysDone"></string>
+	
+    <string name="dailyTargetReachedAtLabel"></string>
+    <string name="dailyTargetReachedAtPref"></string>
+    <string name="dailyTargetReachedAtHint"></string>
+    
 </resources>

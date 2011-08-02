@@ -475,18 +475,12 @@
 	<string name="expPrefsAmtWithCurrency">Mostra valuta sugli importi</string>
 
 	<!-- TEXTS V71 (AFTER V70) -->
-	<string name="autoBreakErrDuplicate"></string>
-	<string name="commonPreviouslyUsed"></string>
+	<string name="autoBreakErrDuplicate">Più voci: {1}</string>
+	<string name="commonPreviouslyUsed">Utilizzati in precedenza</string>
 	
 	<!-- to be deployed -->
-	<string name="autoBreakErrDuplicate_ES">Múltiples entradas: {1}</string>
-	<string name="commonPreviouslyUsed_ES">Utilizado anteriormente</string>
-	
 	<string name="autoBreakErrDuplicate_FR">Entrées multiples: {1}</string>
 	<string name="commonPreviouslyUsed_FR">Utilisé auparavant</string>
-	
-	<string name="autoBreakErrDuplicate_IT">Più voci: {1}</string>
-	<string name="commonPreviouslyUsed_IT">Utilizzati in precedenza</string>
 	
 	<!-- TEXTS V71 (SKIPPED ON I18N) -->
 	<string name="copyDaysTitle"></string>
