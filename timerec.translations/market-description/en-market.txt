@@ -7,6 +7,8 @@ Basic functionality:
 • Overview of day, week, month
 • Data export & email as CSV, HTML or XML
 • Integrated backup & restore
+• Google Calendar Sync (one way only, only for Pro users)
+• Dropbox integration for data export, backup & restore (Pro version only)
 
 Highly configurable, many additional features:
 • Date and time formats
@@ -14,14 +16,22 @@ Highly configurable, many additional features:
 • Calendar options (first day of week and month, bi-weekly reporting)
 • Target time
 • Widget to display running day total
+• Status bar notification when checked in
 • Public services for Tasker integration
+• Ad-free
 
-→ TUTORIAL: see the video on YouTube to get a quick overview of the basic usage (search for "Time Recording Tutorial")
+Limitations:
+• Smallest tracking unit is one minute
+• No multiple trackers
+• No mileage or expenses
+• Only one overtime rate
 
+
+→ TUTORIAL: see the video on YouTube to get a quick overview of the basic usage (search for "DynamicG Time Recording")
 → App2SD: please keep the app on internal storage when using the widget (do not install on SD Card)
 
-→ support only in english
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-→ <translation credits>
+Timesheet manager - easy to use, highly adaptive
 
-Keywords: Time Tracker, Punch Clock, Work Clock, Timeclock, Time Clock, Worktime Tracking.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
