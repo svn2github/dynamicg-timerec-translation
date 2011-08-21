@@ -13,10 +13,10 @@
     <string name="app_name">Time Recording FR</string>
     <string name="app_name_pro">Time Recording FR Pro</string>
     
-    <string name="homescreenCheckinNow">Débuter</string>
+    <string name="homescreenCheckinNow">Démarrer</string>
     <string name="homescreenCheckoutNow">Terminer</string>
     <string name="homescreenAddBreak">Ajouter Pause \u2026</string>
-    <string name="homescreenHintNoStamps">Pas encore d\'entrées présentes.\nOuvrez \'Jour\' et utilisez la \'Fleche Gauche\' pour ajouter des entrées sur les jours précédents.</string>
+    <string name="homescreenHintNoStamps">Aucune entrée présente.\nOuvrez \'Jour\' et utilisez la \'Flèche Gauche\' pour ajouter des entrées sur les jours précédents.</string>
     <string name="homescreenAddStamp">Nouvelle entrée \u2026</string>
 
     <string name="menuEditStampsShort">Editer les entrées</string>
@@ -32,7 +32,7 @@
     <string name="commonError">Erreur</string>
     <string name="commonYes">Oui</string>
     <string name="commonNo">Non</string>
-    <string name="commonTitleCheckIn">Débuter</string>
+    <string name="commonTitleCheckIn">Démarrer</string>
     <string name="commonTitleCheckOut">Terminer</string>
     <string name="commonActionAddCheckIn">Ajouter Début \u2026</string>
     <string name="commonActionAddCheckOut">Ajouter Fin \u2026</string>
@@ -78,7 +78,7 @@
     <string name="commonActionEdit">Editer \'{1}\'</string>
 	<string name="commonSeeOnlineHelp">Voir l\'aide en ligne</string>
 	<string name="commonData">Données</string>
-	<string name="commonCheckedIn">Débuté</string>
+	<string name="commonCheckedIn">Démarré</string>
 	<string name="commonFile">Fichier</string>
 	<string name="commonOpenWith">Ouvrir avec</string>
     
@@ -87,7 +87,7 @@
     <string name="buttonChange">Changer</string>
     <string name="buttonClose">Fermer</string>
     <string name="buttonSave">Sauver</string>
-    <string name="buttonResetText">Reset</string>
+    <string name="buttonResetText">Effacer</string>
     <string name="buttonSwitchTask">Changer de tâche \u2026</string>
 
     <string name="headerDate">Date</string>
@@ -112,14 +112,14 @@
     <string name="prefsWindowTitle">Préférences du logiciel</string>
     <string name="prefsExportRecipient">Email par défaut</string>
     <string name="prefsExpCsvDataSeparator">Séparateur de colonnes</string>
-    <string name="prefsTotalFormat">Afficher les totaux comme</string>
+    <string name="prefsTotalFormat">Format totaux</string>
     <string name="prefsTimeFormat">Format heure</string>
     <string name="prefsDateFormat">Format date</string>
     <string name="prefsFirstDayOfWeek">Premier jour de la semaine</string>
     <string name="prefsFirstDayOfMonth">Premier jour du mois (1-31)</string>
     <string name="prefsAmountCurrencyString">Présentation Montant/Devise</string>
-    <string name="prefsDailyTargetTime">Objectif durée journalière</string>
-    <string name="prefsTimePickerIncrement">Valeur de l\'incrément dans \'Sélection heure-minutes\':</string>
+    <string name="prefsDailyTargetTime">Objectif durée jour</string>
+    <string name="prefsTimePickerIncrement">Valeur de l\'incrément dans \'Sélection heures-minutes\':</string>
 	<string name="prefsShortTab4">Date,Heure</string>
 	<string name="prefsShortTracking">Suivi</string>
 	<string name="prefsGroupInterface">Interface</string>
@@ -136,19 +136,19 @@
 	<string name="prefsTaskGroupsActiveHint">\u2192 Utiliser \'Client 1 - Projet A\', \'Client 1 - Projet B\' comme modèle de nom pour la tâche</string>
 	<string name="prefsMonthReportSplit">Scinder la vue \'Mois\' à cette date</string>
 	<string name="prefsExpDecimalSep">Séparateur décimal</string>
-	<string name="prefsCollapseCheckBtn">Fusionner les boutons \'Débuter/Terminer\'</string>
-	<string name="prefsHintRestartRequired">\u2192 Changer ces paramètres necessite un redémarage</string>
+	<string name="prefsCollapseCheckBtn">Fusionner les boutons \'Démarrer/Terminer\'</string>
+	<string name="prefsHintRestartRequired">\u2192 Changer ces paramètres nécessite un redémarage</string>
 	<string name="prefsHintPleaseRestart">\u2192 Merci de redémarrer l\'application</string>
 	<string name="prefsExportSettings">Paramètres d\'export des données</string>
 	<string name="prefsGridViewFont">Taille de la police sur la vue des données</string>
 	<string name="prefsProVersionThanks">Merci d\'avoir acheté la version \"Pro\"!</string>
 	<string name="prefsWidgetClickAction">Action sur le clic du widget</string>
-	<string name="prefsDomWidgetActionOpen">Ouvrir app</string>
-	<string name="prefsDomWidgetActionPunch">Punch time</string>
-	<string name="prefsDomWidgetActionMixed">Icons=punch, Text=open</string>
-	<string name="prefsDomWidgetActTaskSelect">Punch avec sélection de la tâche</string>
+	<string name="prefsDomWidgetActionOpen">Ouvrir appli</string>
+	<string name="prefsDomWidgetActionPunch">Démarrer comptage</string>
+	<string name="prefsDomWidgetActionMixed">Icone=Démarrer, Texte=Ouvrir</string>
+	<string name="prefsDomWidgetActTaskSelect">Démarrer avec sélection tâche</string>
 	<string name="prefsStampViewFullscreen">Plein écran vue Jour/Semaine/Mois</string>
-	<string name="prefsPunchNowRounding">Arrondi sur \'punch now\'</string>
+	<string name="prefsPunchNowRounding">Arrondi sur \'Démarrer maintenant\'</string>
 	<string name="prefsPunchNowRoundingOption">Options d\'arrondi</string>
 	<string name="prefsPunchNowRoundingSlot">Arrondi à la minute</string>
 	<string name="prefsDomRoundStd">Arrondi</string>
@@ -159,16 +159,16 @@
 	<string name="prefsProOnlyFeature">\u2192 Option disponible seulement sur la \"Version Pro\"</string>
 	<string name="prefsPunchRoundTaskSwitch">Appliquer aussi au \'Basculement de tâche\'</string>
 	<string name="prefsCalendarSyncGroup">Synchro Google calendar</string>
-	<string name="prefsHomescreenBtSmall">Boutons réduits sur l\'écran d\'acceuil</string>
-	<string name="prefsWritePerformance">Configuration Opérations d\'écriture</string>
+	<string name="prefsHomescreenBtSmall">Boutons réduits sur l\'écran d\'accueil</string>
+	<string name="prefsWritePerformance">Configurer opérations d\'écriture</string>
 	<string name="prefsWritePerfPragmaOff">Meilleures performances</string>
 	<string name="prefsWritePerfPragmaFull">Sécuriser l\'écriture</string>
 
 	<string name="calSyncCalendarName">Nom du calendrier</string>
-	<string name="calSyncHints1">\u2192 Il est fortement recommandé d\'utiliser des instances de calendrier séparées. Voir FAQ.</string>
+	<string name="calSyncHints1">\u2192 Il est fortement recommandé d\'utiliser des instances de calendriers séparées. Voir FAQ.</string>
 	<string name="calSyncHints2">\u2192 Synchro à sens unique seulement</string>
-	<string name="calSyncWriteDelay">Délai d\'écriture (secondes/minutes) après modifications</string>
-	<string name="calSyncForStamps">Stocker les enregistrements comme \'événements\'</string>
+	<string name="calSyncWriteDelay">Délai d\'écriture après modification</string>
+	<string name="calSyncForStamps">Stocker les enregistrements comme \'événement\'</string>
 	<string name="calSyncForDayNotes">Stocker les notes journalières comme \'évènement jour\'</string>
 	<string name="calSyncShowConfirmation">Afficher une confirmation à la fin de la synchro</string>
 	<string name="calSyncEventTitleLabel">Titre événement</string>
@@ -178,11 +178,11 @@
 
 	<string name="nshiftGroup">Options travail de nuit</string>
     <string name="nshiftDayWindowStart">La fenêtre de 24 heures commence à :</string>
-	<string name="nshiftRollOverCheck">Vérifier le \'Roll over\'</string>
+	<string name="nshiftRollOverCheck">Vérifier le \'Basculement\'</string>
 	<string name="nshiftRollOverHint">Voir \'{1}\' dans les préférences</string>
 	<string name="nshiftRotatingShift">Horaires tournants</string>
 	<string name="nshiftEditNightShifts">Editer périodes de nuit</string>
-	<string name="nshiftSeeFAQ">\u2192 Voir la FAQ pour les détails si vous travaillez régulièrement apres minuit ou en horaire tournant</string>
+	<string name="nshiftSeeFAQ">\u2192 Voir la FAQ pour les détails si vous travaillez régulièrement après minuit ou en horaire tournant</string>
 	
     <string name="stdStampTitle">Pauses &amp; blocs</string>
     <string name="stdStampTypeBlock">Bloc</string>
@@ -215,11 +215,11 @@
 	<string name="expPrefsHideAmounts">Masquer montants</string>
 	<string name="expPrefsAmtWithCurrency">Afficher la devise pour les montants</string>
 	<string name="expPrefsDaysToShow">E1-E3 Montrer ces jours</string>
-	<string name="expDomDaysShowAll">tout</string>
-	<string name="expDomDaysShowSt">avec enregistrements</string>
-	<string name="expDomDaysShowStNt">avec enregistrements ou notes</string>
+	<string name="expDomDaysShowAll">Tout</string>
+	<string name="expDomDaysShowSt">Avec enregistrements</string>
+	<string name="expDomDaysShowStNt">Avec enregistrements ou notes</string>
 	<string name="expPrefsDetailsReportActive">Activer le rapport \'Detaillé\'</string>
-	<string name="expDomNotesFilterEqual">correspondance</string>
+	<string name="expDomNotesFilterEqual">égale</string>
 	<string name="expDomNotesFilterLike">contient</string>
 	<string name="expPrefsShowTotalLine">E1-E4: Afficher \'Total\'</string>
 	<string name="expPrefsGroupBreakDate">E2,E4: Regrouper les pauses par \'Date\'</string>
@@ -286,7 +286,7 @@
     <string name="categoryEditLink">Editer tâches</string>
     <string name="categoryEditorExport">Exporter vers la carte SD</string>
     <string name="categoryEditorImport">Importer de la carte SD</string>
-    <string name="categoryEditorHintMenu">\u2192 Ouvrez le menu pour les fonctions</string>
+    <string name="categoryEditorHintMenu">\u2192 Ouvrez le menu pour accéder aux fonctions</string>
     <string name="categorySampleEntry1">Client 1 - Sur-site</string>
     <string name="categorySampleEntry2">Client 1 - Support</string>
     <string name="categorySampleEntry3">Formation</string>
@@ -296,7 +296,7 @@
     <string name="hintNoStampsClickToAdd">Pas d\'entrée pour ce jour.\nOuvrez le Menu ou cliquez ici pour ajouter.</string> 
     <string name="hintDailyTargetTime">\u2192 Mettre à \'00:00\' pour désactiver</string>
     <string name="hintAmountPrecision">\u2192 Utilisez \'$#.#\' or \'$#.##\' pour avoir 1 ou 2 décimales.</string>
-    <string name="hintAmountRounding">\u2192 Notes sur les arrondis: les sous-totaux et le total général sont arrondis independamment, aussi ils peuvent ne pas être identiques.</string>
+    <string name="hintAmountRounding">\u2192 Notes sur les arrondis: les sous-totaux et le total général sont arrondis indépendamment, aussi ils peuvent ne pas être identiques.</string>
     <string name="hintRateOverride">\u2192 Le taux peut être substitué par tâche</string>
 	<string name="hintDbRecreateConfirmation">Attention: base vide. Recréer ?</string>
 	<string name="hintCreatingBackup">Création sauvegarde ...</string>
@@ -322,7 +322,7 @@
     <string name="bckSwitchToArchive">Voir données archivées</string>
     <string name="bckSwitchToLive">Retour aux données vivantes</string>
     <string name="bckArchiveDataOlderThan">Archiver données &gt; {1} mois</string>
-    <string name="bckArchiveHint">\u2192 Utilisez \"archiver\" pour déplacer les données anciennes et ainsi optimiser la \'base vivante\'</string>
+    <string name="bckArchiveHint">\u2192 Utilisez \"Archiver\" pour déplacer les données anciennes et ainsi optimiser la \'base vivante\'</string>
     <string name="bckAutoBackup">Sauver sur carte SD tous les [n] jours</string>
 	<string name="bckRestoreSdCardUnavailable">Carte SD Card non disponible. Sauvegarde/restauration actuellement impossible!</string>
 	
@@ -348,7 +348,7 @@
 	<string name="dstorTargetPhone">Téléphone</string>
 	<string name="dstorTargetSdCard">SDCard</string>
 	<string name="dstorCurrent">Données actuellement stockées sur {1}.</string>
-	<string name="dstorDeletionHint">Sera effacé lors de la désinstallation de l\'appli!</string>
+	<string name="dstorDeletionHint">Sera effacé lors de la désinstallation de l\'application !</string>
 	<string name="dstorMoveTo">Déplacer les données vers {1}</string>
 	<string name="dstorImport">Restaurer sauvegarde</string>
 	<string name="dstorImportDone">Restauration à partir de {1} effectuée</string>
@@ -383,7 +383,7 @@
 	<string name="pdotMainHint">\u2192 Affiché seulement sur la vue \'Mois\'. Nécessite que soit activé le choix \'Jour\' ou \'Semaine\'.</string>
 	
 	<!-- diff sync marker B -->
-	<string name="sdcardErrorReboot">\u2022 Merci de redémarrer le téléphone et d\'essayer à nouveau.\n\u2022 Si le problème persiste merci de contacter le developpeur.</string>
+	<string name="sdcardErrorReboot">\u2022 Merci de redémarrer le téléphone et d\'essayer à nouveau.\n\u2022 Si le problème persiste merci de contacter le développeur.</string>
 	<string name="sdcardErrorReadonly">La carte SD est en lecture seule.</string>
 	<string name="sdcardErrorShared">La carte SD est bloquée par un accès USB. Déconnectez le téléphone et essayez à nouveau.</string>
 
@@ -396,24 +396,24 @@
 	<!-- diff sync marker D -->	
 	<string name="rotatingShiftHint">\u2192 Pour les utilisateurs en horaires tournants (typiquement 07-15, 15-23, 23-07). Entrez vos dates de période de *nuit*. N\'indiquez *pas* les dates de période de jour.</string>
 	
-	<string name="admRebuildIndexes">Recréation des index</string>
+	<string name="admRebuildIndexes">Recréer les index</string>
 	<string name="admSyncTimestamps">Synchroniser avec UTC</string>
-	<string name="admDeleteOldLabel">Effacer anciennes données</string>
+	<string name="admDeleteOldLabel">Effacer données anciennes</string>
 	<string name="admDeleteOldHint">Sélectionner la date jusqu\'à laquelle supprimer</string>
 	<string name="admDeleteOldBody">Supprimer toutes les données jusqu\'à {1} ?\nL\'opération ne peut pas être annulée.</string>
 	<string name="admDeleteAll">Effacer toutes les données</string>
 	
 	<string name="pubsIssue">{1} incidents</string>
-	<string name="pubsCheckinDone">Débuté</string>
+	<string name="pubsCheckinDone">Démarré</string>
 	<string name="pubsCheckoutDone">Terminé</string>
-	<string name="pubsAlreadyCheckedIn">Déjà débuté</string>
+	<string name="pubsAlreadyCheckedIn">Déjà démarré</string>
 	<string name="pubsAlreadyCheckedOut">Déjà terminé</string>
 	<string name="pubsPriorCheckoutMissing">Début précédent manquant</string>
 	
 	<string name="catExtExportDone">Export effectué, le fichier est ici :\n{1}</string>
 	<string name="catExtFileMissing">Fichier d\'import introuvable. Utilisez \"Exporter\" pour creer un modèle.</string>
-	<string name="catExtImpConfirm1">\u2192 LA TACHE EXISTANTE{1} SERA EFFACEE!</string>
-	<string name="catExtImpConfirm2">\u2192 Soyez sur de ne pas changer les IDs des tâches déjà utilisées!</string>
+	<string name="catExtImpConfirm1">\u2192 LA TACHE EXISTANTE {1} SERA EFFACEE!</string>
+	<string name="catExtImpConfirm2">\u2192 Soyez sûr de ne pas changer les IDs des tâches déjà utilisées!</string>
 	<string name="catExtImpConfirm3">\u2192 L\'import ne peut pas être annulé, sauf avec \'Restaurer\'</string>
 	<string name="catExtImpConfirm4">\u2022 Fichier: {1}</string>
 	<string name="catExtImpConfirm5">\u2022 Nombre de tâches à importer: {1}</string>
@@ -443,10 +443,10 @@
 	<string name="widgetPrefMainTitle">Widget &amp; Barre de notification</string>
 	<string name="widgetPrefNotifBarActive">Notifier dans la barre de status</string>
 	<string name="widgetPrefNotifBarText">Texte notification</string>
-	<string name="widgetPrefNotifBarHint">\u2192 Placeholders: $1=HeureDébut, $2=total, $3=tâche</string>
+	<string name="widgetPrefNotifBarHint">\u2192 Espaces réservés: $1=HeureDébut, $2=total, $3=tâche</string>
 	<string name="widgetPrefRefreshInterval">Intervalle de rafraichissement en minutes</string>
 	<string name="widgetPrefHintRefresh">\u2192 Des rafraichissments plus rapides entrainent une utilisation plus importante de la batterie!</string>
 	<string name="widgetPrefKeepRunning">Exécution en tâche de fond</string>
-	<string name="widgetPrefHintKeepRunning">\u2192 Cochez si le widget s\'arrête régulièrement de se rafraichir</string>
+	<string name="widgetPrefHintKeepRunning">\u2192 Cochez si le widget arrête régulièrement de se rafraichir</string>
 
 </resources>
