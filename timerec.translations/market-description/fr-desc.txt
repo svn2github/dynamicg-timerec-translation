@@ -1,0 +1,41 @@
+                                                                     
+                                                                     
+                                             
+Gérez votre temps de travail quotidien
+
+Fonctionnalités de base:
+• Début et fin de chaque travail
+• Assignation des tâches
+• Notes quotidiennes et détaillées
+• Présentation par jour, semaine, mois
+• Exportation des données et envoi par e-mail au format CSV, HTML ou XML
+• Sauvegarde et restauration intégrées
+• Synchronisation avec Google Calendar (en sens unique, version Pro uniquement)
+• Intégration Dropbox pour l'export des données, la sauvegarde et la restauration (version Pro uniquement)
+
+Hautement configurable, de nombreuses fonctionnalités supplémentaires:
+• Formats date et heure
+• Taux horaires, gestion des heures supplémentaires
+• Options de calendrier (premier jour de la semaine et du mois, rapports bi-hebdomadaire)
+• Objectif de temps
+• Widget pour afficher le total du jour
+• Notification dans la barre d'état
+• Services publics pour intégration avec Tasker
+• Ad-Free
+
+Limitations:
+• La plus petite unité de suivi est la minute
+• Pas de suivi multiples
+• Pas de gestion des frais ni des kilométres
+• Un seul taux pour les heures supplémentaires
+
+
+→ TUTORIAL: regarder la vidéo sur YouTube pour avoir un aperçu rapide des fonctionnalités de base. (rechercher "DynamicG Time Recording")
+→ App2SD: Lorsque vous utilisez le widget, laissez l'application installée sur le téléphone. Ne l'installez pas sur la carte SD.
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Gestionnaire de feuilles de temps - facile à utiliser, hautement configurable
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
