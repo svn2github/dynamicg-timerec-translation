@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    >
+    
+	<TextView  
+	    android:layout_width="wrap_content" 
+	    android:layout_height="wrap_content" 
+	    android:text="@string/app_name"
+	    android:textStyle="bold"
+	    />
+	    
+	<TextView  
+	    android:layout_width="wrap_content" 
+	    android:layout_height="wrap_content" 
+	    android:id="@+id/status1"
+	    />
+	<TextView  
+	    android:layout_width="wrap_content" 
+	    android:layout_height="wrap_content" 
+	    android:id="@+id/status2"
+	    />
+	    
+	<Button 
+		android:layout_width="200dip" 
+	    android:layout_height="wrap_content" 
+	    android:text="Copy Pro Database"
+	    android:id="@+id/buttonCopy"
+	    />
+	    
+	<TextView  
+	    android:layout_width="wrap_content" 
+	    android:layout_height="wrap_content" 
+	    android:id="@+id/status3"
+	    android:textColor="#ff9"
+	    />
+	    
+</LinearLayout>
