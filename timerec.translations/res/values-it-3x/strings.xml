@@ -1,0 +1,499 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+	<!-- internal -->
+    <string name="appUserLabel">DynamicG App User</string>
+    <string name="languageFlag">0</string>
+    
+	<!-- translation credits -->
+    <string name="aboutTranslation">Tradotto da Michael Lepori\nmic.lepori@gmail.com</string>
+    
+    <string name="app_name">Registra Orari</string>
+    <string name="app_name_pro">Registra Orari Pro</string>
+    
+    <string name="homescreenCheckinNow">Inizia ora</string>
+    <string name="homescreenCheckoutNow">Termina ora</string>
+    <string name="homescreenAddBreak">Aggiungi pausa \u2026</string>
+    <string name="homescreenHintNoStamps">Nessuna timbratura effettuata.\nApri \'Giorno\' ed usa la \'Freccia Sinistra\' per aggiungere annotazioni dei giorni passati.</string>
+    <string name="homescreenAddStamp">Aggiungi timbratura \u2026</string>
+
+    <string name="menuEditStampsShort">Modifica timbrature</string>
+    <string name="menuPreferences">Preferenze</string>
+    <string name="menuAdmin">Admin</string>
+    <string name="menuAbout">Informazioni</string>
+    <string name="menuAddStandardEntry">Aggiungi pausa/blocco \u2026</string>
+    <string name="helpUrl"></string>
+    <string name="menuMore">Altro</string>
+    <string name="menuHelpFAQ">FAQ</string>
+    
+    <string name="commonDays">Giorni</string>
+    <string name="commonEdit">Modifica</string>
+    <string name="commonError">Errore</string>
+    <string name="commonYes">Sì</string>
+    <string name="commonNo">No</string>
+    <string name="commonTitleCheckIn">Inizio</string>
+    <string name="commonTitleCheckOut">Termine</string>
+    <string name="commonActionAddCheckIn">Aggiungi inizio \u2026</string>
+    <string name="commonActionAddCheckOut">Aggiungi termine \u2026</string>
+    <string name="commonSample">Esempio</string>
+    <string name="commonDataExport">Esporta dati</string>
+    <string name="commonCategories">Lavori</string>
+    <string name="commonTracking">Protocollo</string>
+    <string name="commonHourlyRate">Tariffa oraria</string>
+    <string name="commonEditCategories">Modifica lavori</string>
+    <string name="commonAddRow">Aggiungi riga</string>
+    <string name="commonStop">Ferma</string>
+    <string name="commonType">Tipo</string>
+    <string name="commonIn">Inizio</string>
+    <string name="commonOut">Fine</string>
+    <string name="commonDay">Giorno</string>
+    <string name="commonWeek">Settimana</string>
+    <string name="commonMonth">Mese</string>
+    <string name="commonDelete">Elimina</string>
+    <string name="commonHoursPerDay">Ore al giorno</string>
+    <string name="commonVarious">Varie</string>
+    <string name="commonGrandTotal">Totale</string>
+    <string name="commonSettings">Impostazioni</string>
+    <string name="commonDisabled">Disabilitato</string>
+    <string name="commonDefault">Default</string>
+    <string name="commonAdvanced">Avanzate</string>
+    <string name="commonOutput">Esito</string>
+    <string name="commonFilter">Filtro</string>
+    <string name="commonTotal">Totale</string>
+    <string name="commonStart">Inizia</string>
+    <string name="commonTask">Lavoro</string>
+    <string name="commonText">Testo</string>
+    <string name="commonSortAZ">Ordinamento A-Z</string>
+    <string name="commonEditShort">Modifica</string>
+    <string name="commonCSV">CSV</string>
+	<string name="commonReset">Azzera</string>
+    <string name="commonDetails">Dettagli</string>
+	<string name="commonFrom">Da</string>
+	<string name="commonTo">A</string>
+	<string name="common_to">a</string>
+	<string name="commonDoneToast">{1} \u2192 FATTO</string>
+    <string name="commonBreak">Pausa</string>
+    <string name="commonEnabledOption">\'{1}\' abilitato</string>
+    <string name="commonActive">Attivo</string>
+    <string name="commonActionEdit">Modifica \'{1}\'</string>
+    
+    <string name="buttonOk">OK</string>
+    <string name="buttonCancel">Annulla</string>
+    <string name="buttonChange">Cambia</string>
+    <string name="buttonClose">Chiudi</string>
+    <string name="buttonSave">Salva</string>
+    <string name="buttonResetText">Azzera</string>
+    <string name="buttonSwitchTask">Cambia lavoro \u2026</string>
+
+    <string name="headerDate">Data</string>
+    <string name="headerTotalDecimal">Totale (decimali)</string>
+    <string name="headerTime">Orario</string>
+    <string name="headerCheckAction">Azione</string>
+    <string name="headerAmount">Importo</string>
+    <string name="headerAmountShort">Imp.</string>
+    <string name="headerNoteDay">Note del giorno</string>
+    <string name="headerNoteWorkUnit">Note su singolo lavoro</string>
+    <string name="headerDelta">Triangolo</string>
+    
+    <string name="editSetNewTime">Imposta nuovo orario</string>
+    
+    <string name="confirmDeleteEntry">Eliminare questa timbratura?</string>
+    <string name="confirmDeleteDay">Eliminare annotazioni di questo giorno?</string>
+    <string name="checkboxIncludeDayNotes">Includi note del giorno</string>
+    <string name="confirmDayRollOver">Giorno precedente non chiuso - saltare?</string>
+    <string name="confirmUpdateAdjacent">Aggiornare anche timbratura adiacente?</string>
+    
+    <string name="prefsWindowTitle">Preferenze Registra Orari</string>
+    <string name="prefsExportRecipient">Email di default del destinatario</string>
+    <string name="prefsExpCsvDataSeparator">Separatore di colonne</string>
+    <string name="prefsTotalFormat">Mostra totali come</string>
+    <string name="prefsTimeFormat">Formato orario</string>
+    <string name="prefsDateFormat">Formato data</string>
+    <string name="prefsFirstDayOfWeek">Primo giorno della settimana</string>
+    <string name="prefsFirstDayOfMonth">Primo giorno del mese (1-31)</string>
+    <string name="prefsAmountCurrencyString">Vista valuta/importo</string>
+    <string name="prefsDailyTargetTime">Obiettivo orario giornaliero</string>
+    <string name="prefsTimePickerIncrement">\'Selettore orario\' con incremento di minuti</string>
+	<string name="prefsShortMain">Principale</string>
+	<string name="prefsShortOptions">Opzioni</string>
+	<string name="prefsShortTasks">Lavori</string>
+	<string name="prefsShortTracking">Propositi</string>
+	<string name="prefsGroupInterface">Interfaccia</string>
+	<string name="prefsWeekdayTargetTime">Ignora obiettivo orario per i giorni</string>
+    <string name="prefsGroupFormatOptions">Opzioni formato</string>
+    <string name="prefsGroupCalendar">Calendario</string>
+    <string name="prefsGroupWeeklyReporting">Resoconto settimanale</string>
+    <string name="prefsMonthViewOption">Vista \'Mese\' mostra</string>
+    <string name="prefsWeeklyTargetTime">Obiettivo orario settimanale</string>
+    <string name="hintWeeklyTargetTime">\u2192 Inserimento d\'esempio: 38.75\nUtilizzabile sono nella vista \'Mese\'. Cancella per disabilitare.</string>
+	<string name="prefsDefaultCategory">Lavoro di default</string>
+	<string name="prefsTaskGroupsActiveLabel">Gruppi di lavoro</string>
+	<string name="prefsTaskGroupsActiveHint">\u2192 Usa \'Cliente 1 - Progetto A\', \'Client 1 - Progetto B\' come modello per nome di lavoro</string>
+	<string name="prefsMonthReportSplit">Dividi vista \'Mese\' a questo giorno</string>
+	<string name="prefsExpDecimalSep">Separatore decimali</string>
+	<string name="prefsCollapseCheckBtn">Unisci i pulsanti \'inizia/termina\'</string>
+	<string name="prefsAllowScreenRotation">Permetti rotazione dello schermo (Modalità panorama)</string>
+	<string name="prefsHintRestartRequired">\u2192 Le modifiche su queste impostazioni necessitano di riavvio</string>
+	<string name="prefsExportSettings">Impostazioni Esportazione Dati</string>
+	<string name="prefsGridViewFont">Dimensione carattere su vista dati</string>
+	<string name="prefsProVersionThanks">Grazie dell\'Acquisto della Versione \"Pro\"!</string>
+	<string name="prefsWidgetClickAction">Azione al click sul widget</string>
+	<string name="prefsDomWidgetActionOpen">Apri app</string>
+	<string name="prefsDomWidgetActionPunch">Timbra Cartellino</string>
+	<string name="prefsDomWidgetActionMixed">Icone=timbra, Testo=apri</string>
+	<string name="prefsStampViewFullscreen">Vista a schermo intero di Giorno/Settimana/Mese</string>
+	<string name="prefsPunchNowRounding">Inizia turno al \'Timbra ora\'</string>
+	<string name="prefsPunchNowRoundingOption">Opzioni dei turni</string>
+	<string name="prefsPunchNowRoundingSlot">Crea il turno ai minuti</string>
+	<string name="prefsDomRoundStd">Turno</string>
+	<string name="prefsDomRoundUp">Turno su</string>
+	<string name="prefsDomRoundDown">Turno giu</string>
+	<string name="prefsDomRoundInUpOutDown">Inizio=su, Fine=giu</string>
+	<string name="prefsDomRoundInDownOutUp">Inizio=giu, Fine=su</string>
+	<string name="prefsProOnlyFeature">\u2192 Questa è una funzione disponibile \"solo nella versione Pro\"</string>
+	<string name="nshiftGroup">Opzioni del turno di notte</string>
+    <string name="nshiftDayWindowStart">La finestra delle 24 ore inizia alle</string>
+	<string name="nshiftRollOverCheck">Controllo \'Rotazione\'</string>
+	<string name="nshiftRollOverHint">Vedi \'{1}\' in preferenze</string>
+	<string name="nshiftRotatingShift">Turno ruotato</string>
+	<string name="nshiftEditNightShifts">Modifica turni notturni</string>
+	<string name="nshiftSeeFAQ">\u2192 Vedi le FAQ per dettagli se lavori regolarmente oltre la mezzanotte o fai turni ruotati</string>
+	
+    <string name="stdStampTitle">Pause &amp; blocchi</string>
+    <string name="stdStampTypeBlock">Blocco</string>
+    
+    <string name="autoBreakTitle">Pause automatiche</string>
+    <string name="autoBreakBookWhen">Quando</string>
+    <string name="autoBreakHint1">\u2192 Attivo solo dopo il primo turno del giorno iniziato. Sarà applicato al primo turno terminato.</string>
+    <string name="autoBreakHint2">\u2192 Regola: se il totale giornaliero è maggiore o uguale a [{1}] allora aggiungi una pausa con una durata di [{2}] con inizio alle [{3}].</string>
+    <string name="autoBreakHint3">\u2192 Con \'{1}\' solo la prima regola adatta sarà applicata.</string>
+    <string name="autoBreakDomFirst">Attiva, pausa singola</string>
+    <string name="autoBreakDomAll">Attiva, pause multiple</string>
+    
+    <string name="dailyTargetOptionTitle">Opzioni dell\'obiettivo orario</string>
+    <string name="dailyTargetOptTurnOff">Spegni</string>
+    <string name="dailyTargetOptOvertime">Considera come straordinario</string>
+    
+    <string name="sendMailIntentTitle">Invia email</string>
+    <string name="exportMailTitle">Esportazione dati di Registra Orari {3}, {1}</string>
+    <string name="exportMailBody">{title}\ncreato il {2}</string>
+    <string name="exportColumnSeparatorHint">Suggerimento: modifica il \'Separatore di colonna\' nelle impostazioni della Esportazione se i dati sono importati in una singola colonna</string>
+	<string name="repTaskMatrix">Matrice Lavori</string>
+	<string name="expPrefsDataInclusion">Inclusione di dati</string>
+	<string name="expPrefsAttachmentMimeType">Allegato \'Tipo MIME\'</string>
+	<string name="expPrefsTargetIntent">\'Invia\' obiettivo raggiunto</string>
+	<string name="expPrefsFileEncoding">Codificazione file</string>
+	<string name="expPrefsHideAmounts">Nascondi importi</string>
+	<string name="expPrefsDaysToShow">E1-E3 mostra questi giorni</string>
+	<string name="expDomDaysShowAll">tutti</string>
+	<string name="expDomDaysShowSt">con timbrature</string>
+	<string name="expDomDaysShowStNt">con timbrature o note</string>
+	<string name="expPrefsDetailsReportActive">\'Dettagli\' del resonto abilitati</string>
+	<string name="expDomNotesFilterEqual">è uguale a</string>
+	<string name="expDomNotesFilterLike">contiene</string>
+	<string name="expPrefsShowTotalLine">Mostra \'Totale\' (E1-E4)</string>
+	<string name="expPrefsGroupBreakDate">Gruppo di pause il \'Data\' (E2,E4)</string>
+	<string name="expPrefsIsoDate">AAAA/MM/GG formato data</string>
+
+	<string name="expTypeOverviewDays">E1 Panoramica del giorno</string>
+	<string name="expTypeOverviewWorkUnits">E2 Panoramica dei singoli lavori</string>
+	<string name="expTypeOverviewDayAttendance">E3 Frequenza del giorno</string>
+	<string name="expTypeTasksPerDay">E4 Lavori al giorno</string>
+	<string name="expTypeDetails">Dettagli (ogni timbratura)</string>
+	<string name="expPreview">Anteprima</string>
+	
+    <string name="domainSepComma">Virgola [,]</string>
+    <string name="domainSepSemicolon">Semi-colonna [;]</string>
+    <string name="domainSepPipe">Linea [|]</string>
+    <string name="domainSepTab">Tab</string>
+    <string name="domainTotStandard">Standard [08:45]</string>
+    <string name="domainTotDecimal">Decimali [08.75]</string>
+    <string name="domainTime24">24 ore [13:45]</string>
+    <string name="domainTimeAMPM">AM/PM [01:45pm]</string>
+    <string name="domainTimeDecimal">24 ore decimali [13.75]</string>
+    <string name="domainDateDDpMM">Giorno.Mese</string>
+    <string name="domainDateDDsMM">Giorno/Mese</string>
+    <string name="domainDateMMpDD">Mese.Giorno</string>
+    <string name="domainDateMMsDD">Mese/Giorno</string>
+    <string name="domainMonthview1M">1 Mese</string>
+    <string name="domainMonthview2W">2 Settimane</string>
+    <string name="domainMonthview4W">4 Settimane</string>
+    <string name="domainRollOverAlways">Sempre attivo</string>
+	<string name="domainExpDataInclusionAttachment">File allegato</string>
+	<string name="domainExpDataInclusionPlainText">Corpo del testo chiaro</string>
+	<string name="domainExpDataInclusionForViewer">Per lettore standard</string>
+	<string name="domainExpFormatCSV">Excel (CSV)</string>
+	<string name="domainExpFormatHTML">Pagina Web (HTML)</string>
+	<string name="domainExpFormatXML">XML</string>
+
+    <string name="dayShortSun">Dom</string>
+    <string name="dayShortMon">Lun</string>
+    <string name="dayShortTue">Mar</string>
+    <string name="dayShortWed">Mer</string>
+    <string name="dayShortThu">Gio</string>
+    <string name="dayShortFri">Ven</string>
+    <string name="dayShortSat">Sab</string>
+    
+    <string name="categorySelectionTitle">Inizio lavoro\: {1}</string>
+    <string name="categoryNone">(lavoro n/d)</string>
+    <string name="categoryFilterAll">&lt;Tutti&gt;</string>
+    <string name="categoryEditorAddNew">Aggiungi nuovo lavoro</string>
+    <string name="categoryTitleForNewCat">Nuovo lavoro</string>
+    <string name="categoryEditHeaderTitle">Titolo</string>
+    <string name="categoryEditHeaderHourlyRate">Tariffa\nOraria</string>
+    <string name="categoryEditHeaderSort">Ordinamento</string>
+    <string name="categorySelectNextCategory">Seleziona prossimo lavoro</string>
+    <string name="categoryHasChildrenCannotDelete">Lavoro già utilizzato, non può essere eliminato! Per favore, impostalo invece come \'inattivo\'.</string>
+    <string name="categoryFilter">Filtro lavoro</string>
+    <string name="categoryEditLink">Cambia lavori</string>
+    <string name="categoryEditorExport">Esporta su Card SD</string>
+    <string name="categoryEditorImport">Importa da Card SD</string>
+    <string name="categoryEditorHintMenu">\u2192 clicca su Menu per le funzioni</string>
+    <string name="categorySampleEntry1">Cliente 1 - sul posto</string>
+    <string name="categorySampleEntry2">Cliente 1 - supporto</string>
+    <string name="categorySampleEntry3">Formazione</string>
+
+    <string name="hintClickToChange">Clicca per cambiare</string>
+    <string name="hintClickIconToEdit">Clicca sull\'icona per modificare note</string>
+    <string name="hintNoStampsClickToAdd">Nessuna annotazione per questo giorno.\nApri il Menu o clicca qui per aggiungere.</string> 
+    <string name="hintZeroOutToDisable">\u2192 Imposta a \'00:00\' per disabilitare</string>
+    <string name="hintAmountPrecision">\u2192 Usa \'$#.#\' o \'$#.##\' per 1 o 2 posizioni decimali.</string>
+    <string name="hintAmountRounding">\u2192 Nota sui turni: i totali parziali ed i totali si formano indipendentemente, quindi non sempre corrisponderanno.</string>
+    <string name="hintRateOverride">\u2192 Tariffa può essere ignorata per un determinato lavoro</string>
+	<string name="hintDbRecreateConfirmation">Attenzione: database vuoto. Ricostruire?</string>
+	<string name="hintCreatingBackup">Creazione backup ...</string>
+	<string name="hintTooMuchEntries">Troppe annotazioni</string>
+    <string name="hintPleaseWait">Per favore, attendere ...</string>
+
+    <string name="errorTimeslotNotFree">Voce al \'{1}\' già esistente</string>
+    <string name="errorCannotStartNewTask">Già iniziato alle {1}, adesso non può essere iniziato un altro lavoro</string>
+    <string name="errorSdCardAccess">Errore di accesso su Card SD</string>
+
+    <string name="aboutPublicServices">Servizi pubblici dell\'App</string> 
+    <string name="aboutPleaseRate">\u2022 La votazione è gradita e ben accetta:</string> 
+    <string name="aboutPro">Versione Pro</string>
+	<string name="aboutAvailableHere">\'{1}\' disponibile qua</string> 
+
+    <string name="bckBackupTitle">Backup</string>
+    <string name="bckRestoreTitle">Ripristina</string>
+    <string name="bckCreateBackup">Crea backup</string>
+    <string name="bckArchiveTitle">Archivio</string>
+    <string name="backupBody">Per ripristinare: copia il file Zip allegato sulla Card SD (livello top), apri \'Preferenze/Ripristina...\', clicca \'Ripristina backup\'</string>
+    <string name="bckSwitchToArchive">Vedi dati archiviati</string>
+    <string name="bckSwitchToLive">Torna su Dati live</string>
+    <string name="bckArchiveDataOlderThan">Archivio di dati &gt; {1} mesi</string>
+    <string name="bckArchiveHint">\u2192 Usa \"Archivio\" per spostare i vecchi dati e creare un \'database live\' più piccolo e più veloce</string>
+    <string name="bckAutoBackup">Backup su Card SD ogni [n] giorni</string>
+	<string name="bckRestoreSdCardUnavailable">Card SD non disponibile. Backup/ripristino attualmente non possibili!</string>
+	
+	<string name="widgetAppTitle1">Registra</string>
+    <string name="widgetAppTitle2">Orari</string>
+    
+    <string name="stdCommentTitle">Nota</string>
+    <string name="stdCommentSelect">Seleziona nota</string>
+    <string name="stdCommentDefaultEntry1">Ferie</string>
+    <string name="stdCommentDefaultEntry2">Recupero</string>
+    
+    <string name="noteMassTitle">Commenta giorni multipli</string>
+    <string name="noteMassIfTextExists">Se è già presente del testo</string>
+    <string name="noteMassOptAppend">Aggiungi</string>
+    <string name="noteMassOptReplace">Sovrascrivi</string>
+    <string name="noteMassOptSkip">Salta</string>
+    <string name="noteMassOnlyTheseDays">Aggiungi a questi giorni</string>
+    <string name="noteMassSkipEmptyDays">Salta i giorni senza timbratura</string>
+    
+	<string name="dstorMainTitle">Gestione dati</string>
+	<string name="dstorDataStorage">Memoria da usare (Admin)</string>
+	<string name="dstorTargetPhone">Telefono</string>
+	<string name="dstorTargetSdCard">CardSD</string>
+	<string name="dstorCurrent">Dati attualmente salvati su {1}.</string>
+	<string name="dstorDeletionHint">Sarà eliminato da \'Disinstalla app\'!</string>
+	<string name="dstorMoveTo">Sposta i dati su {1}</string>
+	<string name="dstorImport">Ripristina backup</string>
+	<string name="dstorImportDone">Importazione da {1} completata</string>
+	<string name="dstorSwitch">Usa {1} (nessun spostamento dati)</string>
+	<string name="dstorSwitchDone">Memoria di dati è ora su {1}</string>
+	<string name="dstorConfirmMigration">Spostare i dati sulla memoria del telefono? Questo aumenterà la stabilità.</string>
+	<string name="dstorWarning">Prudenza: usare con attenzione. Vedi le FAQ.</string>
+	<string name="dstorRestoreLocalBck">Ripristina backup locale</string>
+	<string name="dstorFileNotFound">File \'{1}\' non trovato.</string>
+	<string name="dstorCannotProcess">Azione non possibile.</string>
+	<string name="dstorPreferred">E\' preferibile salvare su Telefono.</string>
+	<string name="dstorSettingsBRTitle">Impostazioni App</string>
+	<string name="dstorInitialRecovery">Trovato backup su Card SD. Ripristinare i dati?</string>
+	<string name="dstorRestoreInfo">Informazioni su \'Ripristina\'</string>
+	<string name="dstorHintProvideBackup">Backup non trovato. Fornire questo file:</string>
+	<string name="dstorIncludeSettings">Impostazioni incluse?</string>
+	<string name="dstorMoveToSdcardWarn">Nota: il salvataggio su Card SD *non* è raccomandato a causa dell\' accesso USB e dei problemi dovuti alla \'sola lettura\'.</string>
+	
+	<string name="dstorFree2ProImportConfirmation">Importare i dati e le impostazioni dalla versione gratuita?</string>
+	<string name="dstorFree2ProLiveImport">Importazione dalla versione gratuita (dati live)</string>
+	<string name="dstorFree2ProLatestBackup">Importazione dalla versione gratuita (ultimo backup)</string>
+	<string name="dstorFree2ProAppSettings">Impostazioni app dalla versione gratuita</string>
+	
+	<!-- diff sync marker A -->
+	<string name="pdotMainTitle">Straordinari</string>
+	<string name="pdotOvertimeRate">Sovrapprezzo tariffa oraria</string>
+	<string name="pdotBasedOn">Ore straordinare basate su</string>
+	<string name="pdotCalculatePer">Applica il calcolo a</string>
+	<string name="pdotShowDetails">Mostra dettagli nel resoconto</string>
+	<string name="pdotDomainFullRep">Resoconto completo</string>
+	<string name="pdotRateHint">\u2192 Esempio: imposta ad \'8\' se la tariffa normale è di €16 e il costo dello straordinario è x1.5, da 24-16=8</string>
+	<string name="pdotMainHint">\u2192 Mostrato solo su vista \'Mese\'. Necessità di obiettivo orario \'Giornaliero\' o \'Settimanale\' attivato.</string>
+	
+	<!-- diff sync marker B -->
+	<string name="sdcardErrorReboot">\u2022 Per favore, riavvia il tuo dispositivo e prova ancora.\n\u2022 Se il problema persiste, per favore, contatta lo sviluppatore.</string>
+	<string name="sdcardErrorReadonly">La Card SD è in sola lettura.</string>
+	<string name="sdcardErrorShared">La Card SD è bloccata da un accesso USB. Per favore, disconnetti il dispositivo dalla porta USB e prova ancora.</string>
+
+	<!-- diff sync marker C -->
+    <string name="brprefsRestoreAction">Ripristina impostazioni app</string>
+    <string name="brprefsFileSelection">Ripristina impostazioni come {1}</string>
+    <string name="brprefsBackupAction">Backup impostazioni app su Card SD</string>
+    <string name="brprefsBackupFileExists">File Backup esiste già. Vuoi sovrascrivere?</string>
+    
+	<string name="pubServicesInfo">\'{1}\' provvede a fornire questi servizi pubblici a terze parti con l\'integrazione di orari d\'inizio e di fine (clicca sul testo per copiarli nella clipboard)</string>
+	<string name="pubServicesCopied">Testo copiato</string>
+	
+	<!-- diff sync marker D -->	
+	<string name="rotatingShiftHint">\u2192 Questo è per gli utenti che ruotano i turini (solitamente 07-15, 15-23, 23-07). Inserisci qui di seguito le date dei tuoi turni *notturni*. *Non* registrare i turni diurni.</string>
+	
+	<string name="restoreInfoHead">Come ripristinare i dati quanto si passa ad un nuovo telefono o si reinstalla l\'Applicazione:</string>
+	<string name="restoreInfoLine1">\u2022 *Prima* di disinstallare o di cambiare il vecchio telefono, cliccare su \"Crea backup\"</string>
+	<string name="restoreInfoLine2">\u2022 Se fattibile: smonta la Card SD ed inseriscila nel telefono nuovo</string>
+	<string name="restoreInfoLine3">\u2022 (Re)installa l\'app dal market e aprila. L\'app ti chiederà di ripristinare dopo l\'apertura se l\'installazione si è svolta correttamente.</string>
+	
+	<string name="admRebuildIndexes">Ricostruzione indici</string>
+	<string name="admSyncTimestamps">Sincronizzazione UTC Timbrature orarie</string>
+	<string name="admDeleteOldLabel">Elimina vecchi dati</string>
+	<string name="admDeleteOldHint">Seleziona data per eliminare dati filtrati</string>
+	<string name="admDeleteOldBody">Elimina tutti i dati dal {1}?\nTale processo non può essere disfatto.</string>
+	<string name="admDeleteAll">Elimina tutti dati</string>
+	
+	<string name="pubsIssue">{1} problema</string>
+	<string name="pubsCheckinDone">Inizio fatto</string>
+	<string name="pubsCheckoutDone">Fine fatta</string>
+	<string name="pubsAlreadyCheckedIn">Già iniziato</string>
+	<string name="pubsAlreadyCheckedOut">Già terminato</string>
+	<string name="pubsPriorCheckoutMissing">Manca prima un Inizio</string>
+	
+	<string name="catExtExportDone">Esportazione completata, il file è qui:\n{1}</string>
+	<string name="catExtFileMissing">File importato non trovato. Usa \"Esporta\" per creare un modello.</string>
+	<string name="catExtImpConfirm1">\u2192 LAVORI ESISTENTI {1} SARANNO ELIMINATI!</string>
+	<string name="catExtImpConfirm2">\u2192 Sii sicuro di non cambiare gli ID dei lavori già in uso!</string>
+	<string name="catExtImpConfirm3">\u2192 L\'importazione non può essere disfatta, eccetto con \'Ripristina\'</string>
+	<string name="catExtImpConfirm4">\u2022 File: {1}</string>
+	<string name="catExtImpConfirm5">\u2022 Numero di lavori da importare: {1}</string>
+	<string name="catExtNothingToImport">Niente da importare. Il file è vuoto?</string>
+	
+	<string name="err21">Errore: Database di sola lettura</string>	
+	<string name="err22">Errore: la Card SD è piena</string>
+	<string name="errFaqHint">Vedi le FAQ, parola chiave \'ERRORE {1}\' per cercare la soluzione.</string>
+	
+	<string name="quickSetupTitle">Setup rapido</string>
+	<string name="quickSetupAMPM">Usa le 12 ore (AM/PM)</string>
+	<string name="quickSetupNightWork">Lavoro regolare oltre la mezzanotte</string>
+	<string name="quickSetupUtfLabel">Unicode (UTF8) per l\'esportazione di dati</string>
+	<string name="quickSetupUtfHint">\u2192 Spunta quando utilizzi caratteri non latini come il cirillico o il giapponese</string>
+	
+	<string name="proReminderTitle">Avviso Versione Pro</string>
+	<string name="proReminderMktButton">Market Android</string>
+	<string name="proReminderBody">Utenti abituali di Registra Orari, considerate, per favore, l\'acquisto della versione \"Pro\".\nGrazie!</string>
+
+	<!-- =================================================================== -->
+    <string name="googleSitesLanguage">en</string>
+    
+	<string name="widgetAppTitleShort">RO</string>
+	<string name="widgetTitleFrame">Registra Orari (Frame)</string>
+	<string name="widgetTitleGloss">Registra Orari (Gloss)</string>
+	<string name="widgetTitleSlider">Registra Orari (Slider)</string>
+	<string name="widgetTitleFramePro">Registra Orari Pro (Frame)</string>
+	<string name="widgetTitleGlossPro">Registra Orari Pro (Gloss)</string>
+	<string name="widgetTitleSliderPro">Registra Orari Pro (Slider)</string>
+	
+	<string name="expPrefsFilenamePrefix">Filename prefix</string>
+	
+	<!-- =================================================================== -->
+	<!-- CHANGES FOR V2.03 -->
+	<string name="commonData">Dati</string>
+	<string name="commonCheckedIn">Iniziati</string>
+	<string name="commonFile">File</string>
+	<string name="commonOpenWith">Apri con</string>
+	
+	<string name="widgetPrefMainTitle">Widget &amp; Notifica sulla Barra</string>
+	<string name="widgetPrefNotifBarActive">Notifica su Barra di Stato quando iniziato</string>
+	<string name="widgetPrefNotifBarText">Testo della notifica</string>
+	<string name="widgetPrefNotifBarHint">\u2192 Segnaposto: $1=orario d\'inizio, $2=totale, $3=lavoro</string>
+	<string name="widgetPrefRefreshInterval">Aggiorna intervallo in minuti</string>
+	<string name="widgetPrefHintRefresh">\u2192 Aggiornamenti piÃ¹ frequenti significa maggiore consumo della batteria!</string>
+	<string name="widgetPrefKeepRunning">Mantieni attivo in background</string>
+	<string name="widgetPrefHintKeepRunning">\u2192 Spunta se il widget smette regolarmente di aggiornarsi</string>
+	
+	<string name="prefsCalendarSyncGroup">Sincronizza col calendario Google</string>
+	<string name="prefsHomescreenBtSmall">Piccoli pulsanti nella Home</string>
+	<string name="prefsWritePerformance">Configurazione delle operazioni di scrittura</string>
+	<string name="prefsWritePerfPragmaOff">Massimo delle prestazioni</string>
+	<string name="prefsWritePerfPragmaFull">Massimo della protezione da errori</string>
+	<string name="prefsShortTab4">Data,Orario</string>
+	<string name="prefsHintPleaseRestart">\u2192 Riavvia, per favore, l\'applicazione</string>
+	<string name="prefsPunchRoundTaskSwitch">Applica anche a \'Cambia lavoro\'</string>
+	<string name="prefsKeepPrevCategory">Mantieni selezionato il lavoro dopo la pausa</string>
+	<string name="prefsDomWidgetActTaskSelect">Colpo con selezione del lavoro</string>
+	
+	<string name="expPrefsCharsetCommon">Set di caratteri comune</string>
+	<string name="expPrefsCharsetFullList">Elenco completo</string>
+	<string name="expPrefsTransposeMatrix">E5: Sposta matrice</string>
+	
+    <string name="errorCalSyncFailed">Sincronizzazione con calendario fallita</string>
+    <string name="errorDropboxAccessFailed">Accessso a Dropbox fallito</string>
+	
+	<string name="fileDeliveryLabel">Consegna</string>
+	<string name="fileDeliveryEmail">Invia come email</string>
+	<string name="fileDeliveryDropbox">Carica su Dropbox</string>
+	<string name="fileDeliveryRestoreFromDropbox">Ripristina da Dropbox</string>
+	
+    <string name="stdStampTypeBreakNow">Fai pausa adesso</string>
+    <string name="stdStampBreakForLastMI">Per gli ultimi {1} minuti</string>
+    <string name="stdStampBreakForNextMI">Per i prossimi {1} minuti</string>
+    <string name="stdStampsBreakNowItems">Annotazioni per \'{1}\'</string>
+    
+    <string name="stdCommentAppend">Attacca al testo corrente</string>
+	
+	<string name="calSyncCalendarName">Nome del calendario</string>
+	<string name="calSyncHints1">\u2192 Fortemente raccomandato l\'utilizzo di una istanza di Calendario separata. Vedi le FAQ.</string>
+	<string name="calSyncHints2">\u2192 Supportata solo una sincronizzazione a senso unico</string>
+	<string name="calSyncWriteDelay">Ritardo in scrittura (secondi/minuti) dopo le modifiche</string>
+	<string name="calSyncForStamps">Sincronizza le timbrature come \'eventi\'</string>
+	<string name="calSyncForDayNotes">Sincronizza le note del giorno come \'evento di tutto il giorno\'</string>
+	<string name="calSyncShowConfirmation">Mostra conferma dopo sincronizzazione</string>
+	<string name="calSyncEventTitleLabel">Titolo evento</string>
+	<string name="calSyncEventTitleHint">\u2192 Usa testo libero e/o segnaposto:\n$1=lavoro, $2=totale, $3=tempo da/a, $4=importo</string>
+	<string name="calSyncCheckSettings">Clicca qui per controllare \'{1}\' le impostazioni.</string>
+
+	<string name="utilityAppMissing">\u2192 Applicazione aggiuntiva necessaria!\nClicca qui per il download</string>
+	
+	<string name="commonSeeOnlineHelp">\u2192 Vedi aiuto online</string>
+    <string name="confirmDeleteItemHint">\u2192 Suggerimento: usa \'Menu/{1}\' per eliminare le singole voci</string>
+	<string name="expPrefsAmtWithCurrency">Mostra valuta sugli importi</string>
+
+	<!-- TEXTS V71 (AFTER V70) -->
+	<string name="autoBreakErrDuplicate">Più voci: {1}</string>
+	<string name="commonPreviouslyUsed">Utilizzati in precedenza</string>
+	
+	<!-- to be deployed -->
+	<string name="autoBreakErrDuplicate_FR">Entrées multiples: {1}</string>
+	<string name="commonPreviouslyUsed_FR">Utilisé auparavant</string>
+	
+	<!-- TEXTS V71 (SKIPPED ON I18N) -->
+	<string name="copyDaysTitle"></string>
+	<string name="copyDaysSourceRange"></string>
+	<string name="copyDaysToLabel"></string>
+	<string name="copyDaysToStart"></string>
+	<string name="copyDaysOverwrite"></string>
+	<string name="copyDaysDone"></string>
+	
+    <string name="dailyTargetReachedAtLabel"></string>
+    <string name="dailyTargetReachedAtPref"></string>
+    <string name="dailyTargetReachedAtHint"></string>
+
+</resources>
