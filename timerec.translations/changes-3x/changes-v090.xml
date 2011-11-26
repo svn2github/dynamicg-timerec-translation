@@ -27,7 +27,6 @@
 	<string name="dstorMoveToSdcardWarn">Warning: Storage on SD Card is *not* recommended. You might hit USB access &amp; \'read only\' issues, or (in rare cases) deleted data files.</string>
 	<string name="calSyncEventTitleHint">\u2192 Use free text and/or placeholders:\n$1=task, $2=total, $3=time from/to, $4=amount, $5=running week total</string>
     
-	<!-- copy days -->
 	<string name="copyDaysTitle">Copy days</string>
 	<string name="copyDaysSourceRange">Date range to copy</string>
 	<string name="copyDaysToLabel">Copy to</string>
@@ -35,7 +34,6 @@
 	<string name="copyDaysOverwrite">Overwrite if data present</string>
 	<string name="copyDaysDone">\u2192 Copied {1} days</string>
 
-	<!-- v3.01 -->
 	<string name="commonSwitchedTo">\u2192 Switched to {1}</string>
 	<string name="commonWorkDay">Work day</string>
 	<string name="commonMigrationWorking">Data migration running ...</string>
@@ -54,7 +52,6 @@
 	<string name="prefsActualDateShowAlways">Always</string>
 	<string name="prefsActualDateShowCrossMn">If over midnight</string>
 	
-	<!-- v3.02 -->
 	<string name="commonNone">None</string>
 	<string name="edtoolsCap">Default capitalization</string>
 	<string name="edtoolsCapWords">Words</string>
@@ -69,7 +66,6 @@
 	
 	<string name="expPrefsShowEmailOnHTML">Show email address on HTML exports</string>
 	
-	<!-- v3.06 -->
 	<string name="expSearchDayNotes">Day notes filter</string>
 	<string name="expSearchWorkUnitNotes">Work unit notes filter</string>
 	<string name="expPrefsAutoCloseWindow">Close dialog after export</string>
