@@ -310,7 +310,7 @@
 	<string name="dstorDeletionHint">Sarà eliminato da \'Disinstalla app\'!</string>
 	<string name="dstorMoveTo">Sposta i dati su {1}</string>
 	<string name="dstorImport">Ripristina backup</string>
-	<string name="dstorImportDone">Importazione da {1} completata</string>
+	<string name="dstorImportDone">Importazione da {1} completata, rows={2}.</string>
 	<string name="dstorSwitch">Usa {1} (nessun spostamento dati)</string>
 	<string name="dstorSwitchDone">Memoria di dati è ora su {1}</string>
 	<string name="dstorConfirmMigration">Spostare i dati sulla memoria del telefono? Questo aumenterà la stabilità.</string>

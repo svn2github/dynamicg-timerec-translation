@@ -25,7 +25,6 @@
     <string name="menuAbout">About</string>
     <string name="menuAddStandardEntry">Add break/block \u2026</string>
     <string name="menuMore">More</string>
-    <string name="menuHelpFAQ">FAQ</string>
     
     <string name="commonDays">Days</string>
     <string name="commonEdit">Edit</string>
@@ -76,7 +75,7 @@
     <string name="commonEnabledOption">\'{1}\' enabled</string>
     <string name="commonActive">Active</string>
     <string name="commonActionEdit">Edit \'{1}\'</string>
-	<string name="commonSeeOnlineHelp">See online help</string>
+	<string name="commonSeeOnlineHelp">\u2192 See online help</string>
 	<string name="commonData">Data</string>
 	<string name="commonCheckedIn">Checked in</string>
 	<string name="commonFile">File</string>
@@ -106,7 +105,6 @@
     <string name="confirmDeleteDay">Delete entries for this day?</string>
     <string name="confirmDeleteItemHint">\u2192 Hint: use \'Menu/{1}\' to delete single entries</string>
     <string name="checkboxIncludeDayNotes">Include day notes</string>
-    <string name="confirmDayRollOver">Previous day not closed - roll over?</string>
     <string name="confirmUpdateAdjacent">Also update adjacent stamp?</string>
     
     <string name="prefsWindowTitle">Time Recording Preferences</string>
@@ -126,15 +124,11 @@
 	<string name="prefsWeekdayTargetTime">Override target time per weekday</string>
     <string name="prefsGroupFormatOptions">Format options</string>
     <string name="prefsGroupCalendar">Calendar</string>
-    <string name="prefsGroupWeeklyReporting">Weekly reporting</string>
     <string name="prefsMonthViewOption">\'Month\' view shows</string>
     <string name="prefsWeeklyTargetTime">Weekly target time</string>
-    <string name="hintWeeklyTargetTime">\u2192 Sample input: 38.75\nOnly used on \'Month\' view. Clear to disable.</string>
 	<string name="prefsDefaultCategory">Default task</string>
 	<string name="prefsKeepPrevCategory">Keep selected task after break</string>
 	<string name="prefsTaskGroupsActiveLabel">Task groups</string>
-	<string name="prefsTaskGroupsActiveHint">\u2192 Use \'Client 1 - Project A\', \'Client 1 - Project B\' as task name pattern</string>
-	<string name="prefsMonthReportSplit">Split \'Month\' view at this day</string>
 	<string name="prefsExpDecimalSep">Decimal separator</string>
 	<string name="prefsCollapseCheckBtn">Merge \'check in/check out\' buttons</string>
 	<string name="prefsHintRestartRequired">\u2192 Changes on on these settings require restart</string>
@@ -146,7 +140,6 @@
 	<string name="prefsDomWidgetActionOpen">Open app</string>
 	<string name="prefsDomWidgetActionPunch">Punch time</string>
 	<string name="prefsDomWidgetActionMixed">Icons=punch, Text=open</string>
-	<string name="prefsDomWidgetActTaskSelect">Punch with task selection</string>
 	<string name="prefsStampViewFullscreen">Day/Week/Month view fullscreen</string>
 	<string name="prefsPunchNowRounding">Rounding on \'punch now\'</string>
 	<string name="prefsPunchNowRoundingOption">Rounding option</string>
@@ -161,29 +154,18 @@
 	<string name="prefsCalendarSyncGroup">Google calendar sync</string>
 	<string name="prefsHomescreenBtSmall">Small buttons on homescreen</string>
 	<string name="prefsWritePerformance">Write operations configuration</string>
-	<string name="prefsWritePerfPragmaOff">Best performance</string>
-	<string name="prefsWritePerfPragmaFull">Maximum fail safety</string>
 
 	<string name="calSyncCalendarName">Calendar name</string>
-	<string name="calSyncHints1">\u2192 Strongly recommended to use separate Calendar instance. See FAQ.</string>
 	<string name="calSyncHints2">\u2192 Only one-way sync supported</string>
 	<string name="calSyncWriteDelay">Write delay (seconds/minutes) after changes</string>
 	<string name="calSyncForStamps">Sync stamps as \'events\'</string>
 	<string name="calSyncForDayNotes">Sync day notes as \'all day event\'</string>
 	<string name="calSyncShowConfirmation">Show confirmation after sync</string>
 	<string name="calSyncEventTitleLabel">Event title</string>
-	<string name="calSyncEventTitleHint">\u2192 Use free text and/or placeholders:\n$1=task, $2=total, $3=time from/to, $4=amount</string>
+	<string name="calSyncEventTitleHint">\u2192 Use free text and/or placeholders:\n$1=task, $2=total, $3=time from/to, $4=amount, $5=running week total</string>
 	<string name="calSyncCheckSettings">Click here to check \'{1}\' settings.</string>
 	<string name="utilityAppMissing">\u2192 Additional App required!\nClick here for download</string>
 
-	<string name="nshiftGroup">Night shift options</string>
-    <string name="nshiftDayWindowStart">24 hour window starts at</string>
-	<string name="nshiftRollOverCheck">\'Roll over\' check</string>
-	<string name="nshiftRollOverHint">See \'{1}\' in preferences</string>
-	<string name="nshiftRotatingShift">Rotating shift</string>
-	<string name="nshiftEditNightShifts">Edit night shifts</string>
-	<string name="nshiftSeeFAQ">\u2192 See FAQ for details if you regularly work over midnight or do rotating shift</string>
-	
     <string name="stdStampTitle">Breaks &amp; blocks</string>
     <string name="stdStampTypeBlock">Block</string>
     <string name="stdStampTypeBreakNow">Break now</string>
@@ -193,9 +175,6 @@
     
     <string name="autoBreakTitle">Automatic breaks</string>
     <string name="autoBreakBookWhen">When</string>
-    <string name="autoBreakHint1">\u2192 Only active after first check-in per day. Will be applied on first check-out.</string>
-    <string name="autoBreakHint2">\u2192 Rule: if daily total greater or equals [{1}] then add break with duration [{2}] starting at [{3}].</string>
-    <string name="autoBreakHint3">\u2192 With \'{1}\' only the first matching rule will be applied.</string>
     <string name="autoBreakDomFirst">Active, single break</string>
     <string name="autoBreakDomAll">Active, multiple breaks</string>
     
@@ -204,7 +183,7 @@
     <string name="dailyTargetOptOvertime">Book as overtime</string>
     
     <string name="sendMailIntentTitle">Send email</string>
-    <string name="exportMailTitle">Time Recording Data Export, {1}</string>
+    <string name="exportMailTitle">Time Recording Data Export {3}, {1}</string>
     <string name="exportMailBody">{title}\ncreated on {2}</string>
     <string name="exportColumnSeparatorHint">Hint: change the \'Column separator\' on the export settings if the data is imported as one single column</string>
 	<string name="repTaskMatrix">Task matrix</string>
@@ -219,8 +198,8 @@
 	<string name="expDomDaysShowSt">with stamps</string>
 	<string name="expDomDaysShowStNt">with stamps or notes</string>
 	<string name="expPrefsDetailsReportActive">\'Details\' report enabled</string>
-	<string name="expDomNotesFilterEqual">match</string>
-	<string name="expDomNotesFilterLike">contain</string>
+	<string name="expDomNotesFilterEqual">matches</string>
+	<string name="expDomNotesFilterLike">contains</string>
 	<string name="expPrefsShowTotalLine">E1-E4: Show \'Total\'</string>
 	<string name="expPrefsGroupBreakDate">E2,E4: Group break on \'Date\'</string>
 	<string name="expPrefsIsoDate">YYYY/MM/DD date format</string>
@@ -252,11 +231,11 @@
     <string name="domainDateDDpMM">Day.Month</string>
     <string name="domainDateDDsMM">Day/Month</string>
     <string name="domainDateMMpDD">Month.Day</string>
-    <string name="domainDateMDsDD">Month/Day</string>
+    <string name="domainDateMMsDD">Month/Day</string>
+    <string name="domainDateDashYMD">(Year)-Month-Day</string>
     <string name="domainMonthview1M">1 Month</string>
     <string name="domainMonthview2W">2 Weeks</string>
     <string name="domainMonthview4W">4 Weeks</string>
-    <string name="domainRollOverAlways">Always on</string>
 	<string name="domainExpDataInclusionAttachment">File attachment</string>
 	<string name="domainExpDataInclusionPlainText">Plain body text</string>
 	<string name="domainExpDataInclusionForViewer">For standard viewer</string>
@@ -278,15 +257,13 @@
     <string name="categoryEditorAddNew">Add new task</string>
     <string name="categoryTitleForNewCat">New task</string>
     <string name="categoryEditHeaderTitle">Title</string>
-    <string name="categoryEditHeaderHourlyRate">Hourly\nRate</string>
+    <string name="categoryEditHeaderHourlyRate">Hourly\nrate</string>
     <string name="categoryEditHeaderSort">Sort</string>
     <string name="categorySelectNextCategory">Select next task</string>
     <string name="categoryHasChildrenCannotDelete">Task already used, cannot delete! Please set to \'inactive\' instead.</string>
     <string name="categoryFilter">Task filter</string>
     <string name="categoryEditLink">Edit tasks</string>
-    <string name="categoryEditorExport">Export to SD Card</string>
-    <string name="categoryEditorImport">Import from SD Card</string>
-    <string name="categoryEditorHintMenu">\u2192 Open Menu for functions</string>
+    <string name="categoryEditorHintMenu">\u2192 See menu for more functions</string>
     <string name="categorySampleEntry1">Client 1 - on-site</string>
     <string name="categorySampleEntry2">Client 1 - Support</string>
     <string name="categorySampleEntry3">Training</string>
@@ -294,7 +271,7 @@
     <string name="hintClickToChange">Click to change</string>
     <string name="hintClickIconToEdit">Click icon to edit notes</string>
     <string name="hintNoStampsClickToAdd">No entries for this day.\nOpen Menu or click here to add.</string> 
-    <string name="hintDailyTargetTime">\u2192 Set to \'00:00\' to disable</string>
+    <string name="hintZeroOutToDisable">\u2192 Set to \'00:00\' to disable</string>
     <string name="hintAmountPrecision">\u2192 Use \'$#.#\' or \'$#.##\' for 1 or 2 decimal places.</string>
     <string name="hintAmountRounding">\u2192 Note on rounding: subtotals and grand total are rounded independently, so they will not always match.</string>
     <string name="hintRateOverride">\u2192 Rate can be overridden per task</string>
@@ -323,7 +300,6 @@
     <string name="bckSwitchToLive">Switch back to live data</string>
     <string name="bckArchiveDataOlderThan">Archive data &gt; {1} months</string>
     <string name="bckArchiveHint">\u2192 Use \"archive\" to move old data and make the \'live database\' smaller and faster</string>
-    <string name="bckAutoBackup">Backup to SD Card every [n] days</string>
 	<string name="bckRestoreSdCardUnavailable">SD Card not available. Backup/restore currently not possible!</string>
 	
 	<string name="widgetAppTitle1">Time</string>
@@ -351,21 +327,20 @@
 	<string name="dstorDeletionHint">Will be deleted on \'App uninstall\'!</string>
 	<string name="dstorMoveTo">Move data to {1}</string>
 	<string name="dstorImport">Restore backup</string>
-	<string name="dstorImportDone">Import from {1} done</string>
+	<string name="dstorImportDone">Import from {1} done, rows={2}.</string>
 	<string name="dstorSwitch">Use {1} (no data move)</string>
 	<string name="dstorSwitchDone">Data storage is now on {1}</string>
 	<string name="dstorConfirmMigration">Move data to phone storage? This will increase stability.</string>
 	<string name="dstorWarning">Caution: use with care. See FAQ.</string>
 	<string name="dstorRestoreLocalBck">Restore local backup</string>
 	<string name="dstorFileNotFound">File \'{1}\' not found.</string>
-	<string name="dstorCannotProcess">Cannot process</string>
+	<string name="dstorCannotProcess">Cannot process.</string>
 	<string name="dstorPreferred">Storage on Phone is preferred.</string>
 	<string name="dstorSettingsBRTitle">App settings</string>
 	<string name="dstorInitialRecovery">Backup detected on SD Card. Restore data?</string>
-	<string name="dstorRestoreInfo">Info on \'Restore\'</string>
 	<string name="dstorHintProvideBackup">No backup file found on sd card</string>
 	<string name="dstorIncludeSettings">Include settings?</string>
-	<string name="dstorMoveToSdcardWarn">Note: storage on SD Card is *not* recommended due to USB access and \'read only\' issues.</string>
+	<string name="dstorMoveToSdcardWarn">Warning: Storage on SD Card is *not* recommended. You might hit USB access &amp; \'read only\' issues, or (in rare cases) deleted data files.</string>
 	
 	<string name="dstorFree2ProImportConfirmation">Import data and settings from free version?</string>
 	<string name="dstorFree2ProLiveImport">Free version import (live data)</string>
@@ -397,7 +372,6 @@
 	<string name="rotatingShiftHint">\u2192 This is for users on rotating shift (typically 07-15, 15-23, 23-07). Enter the dates of your *night* shift periods below. Do *not* register day shifts.</string>
 	
 	<string name="admRebuildIndexes">Rebuild indexes</string>
-	<string name="admSyncTimestamps">Sync UTC timestamps</string>
 	<string name="admDeleteOldLabel">Delete old data</string>
 	<string name="admDeleteOldHint">Select date to delete unto</string>
 	<string name="admDeleteOldBody">Delete all data up to {1}?\nThis cannot be undone.</string>
@@ -423,15 +397,7 @@
 	<string name="err22">Error: Disk is full</string>
 	<string name="errFaqHint">Click here for online help.\nKeyword \'ERROR {1}\'</string>
 	
-	<string name="quickSetupTitle">Quick setup</string>
-	<string name="quickSetupAMPM">Use 12 hour clock (AM/PM)</string>
-	<string name="quickSetupNightWork">Regularly working over midnight</string>
-	<string name="quickSetupUtfLabel">Unicode data export (UTF8)</string>
-	<string name="quickSetupUtfHint">\u2192 Tick when using non-latin characters. See \'{1}\'.</string>
-	
-	<string name="proReminderTitle">Pro version notice</string>
 	<string name="proReminderMktButton">Android Market</string>
-	<string name="proReminderBody">Regular users of Time Recording please consider buying the \"Pro\" version.\nThank you!</string>
 
 	<string name="widgetAppTitleShort">TR</string>
 	<string name="widgetTitleFrame">Time Recording (Frame)</string>

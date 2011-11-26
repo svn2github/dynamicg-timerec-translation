@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <string name="menuHelpFAQ">FAQ</string>
+    <string name="confirmDayRollOver">Previous day not closed - roll over?</string>
+	<string name="quickSetupTitle">Quick setup</string>
+	<string name="quickSetupAMPM">Use 12 hour clock (AM/PM)</string>
+	<string name="quickSetupNightWork">Regularly working over midnight</string>
+	<string name="quickSetupUtfLabel">Unicode data export (UTF8)</string>
+	<string name="quickSetupUtfHint">\u2192 Tick when using non-latin characters. See \'{1}\'.</string>
+	<string name="proReminderTitle">Pro version notice</string>
+	<string name="admSyncTimestamps">Sync UTC timestamps</string>
+    <string name="prefsGroupWeeklyReporting">Weekly reporting</string>
+	<string name="prefsTaskGroupsActiveHint">\u2192 Use \'Client 1 - Project A\', \'Client 1 - Project B\' as task name pattern</string>
+	<string name="prefsDomWidgetActTaskSelect">Punch with task selection</string>
+	<string name="prefsWritePerfPragmaOff">Best performance</string>
+	<string name="prefsWritePerfPragmaFull">Maximum fail safety</string>
+	<string name="calSyncHints1">\u2192 Strongly recommended to use separate Calendar instance. See FAQ.</string>
+	<string name="nshiftGroup">Night shift options</string>
+    <string name="nshiftDayWindowStart">24 hour window starts at</string>
+	<string name="nshiftRollOverCheck">\'Roll over\' check</string>
+	<string name="nshiftRollOverHint">See \'{1}\' in preferences</string>
+	<string name="nshiftRotatingShift">Rotating shift</string>
+	<string name="nshiftEditNightShifts">Edit night shifts</string>
+	<string name="nshiftSeeFAQ">\u2192 See FAQ for details if you regularly work over midnight or do rotating shift</string>
+    <string name="domainRollOverAlways">Always on</string>
+    <string name="autoBreakHint1">\u2192 Only active after first check-in per day. Will be applied on first check-out.</string>
+    <string name="autoBreakHint2">\u2192 Rule: if daily total greater or equals [{1}] then add break with duration [{2}] starting at [{3}].</string>
+    <string name="autoBreakHint3">\u2192 With \'{1}\' only the first matching rule will be applied.</string>
+	<string name="dstorRestoreInfo">Info on \'Restore\'</string>
+	<string name="proReminderBody">Regular users of Time Recording please consider buying the \"Pro\" version.\nThank you!</string>
+
+</resources>

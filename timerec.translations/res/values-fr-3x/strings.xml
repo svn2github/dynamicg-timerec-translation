@@ -351,7 +351,7 @@
 	<string name="dstorDeletionHint">Sera effacé lors de la désinstallation de l\'application !</string>
 	<string name="dstorMoveTo">Déplacer les données vers {1}</string>
 	<string name="dstorImport">Restaurer sauvegarde</string>
-	<string name="dstorImportDone">Restauration à partir de {1} effectuée</string>
+	<string name="dstorImportDone">Restauration à partir de {1} effectuée, rows={2}.</string>
 	<string name="dstorSwitch">Utiliser {1} (pas de déplacement de données)</string>
 	<string name="dstorSwitchDone">Le stockage des données est maintenant sur {1}</string>
 	<string name="dstorConfirmMigration">Déplacer les données vers le téléphone ? Cela améliorera la stabilité.</string>
