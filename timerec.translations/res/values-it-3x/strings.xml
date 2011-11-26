@@ -476,12 +476,7 @@
     <string name="confirmDeleteItemHint">\u2192 Suggerimento: usa \'Menu/{1}\' per eliminare le singole voci</string>
 	<string name="expPrefsAmtWithCurrency">Mostra valuta sugli importi</string>
 
-	<!-- TEXTS V71 (AFTER V70) -->
 	<string name="autoBreakErrDuplicate">Più voci: {1}</string>
 	<string name="commonPreviouslyUsed">Utilizzati in precedenza</string>
-	
-	<!-- to be deployed -->
-	<string name="autoBreakErrDuplicate_FR">Entrées multiples: {1}</string>
-	<string name="commonPreviouslyUsed_FR">Utilisé auparavant</string>
 
 </resources>

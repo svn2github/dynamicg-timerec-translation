@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:android="http://schemas.android.com/apk/res/android">
 
-	<string name="commonPreviouslyUsed">Previously used</string>
 	<string name="err25">Error: Backup failed</string>
     <string name="bckSdCardAutoBackup">Backup to SD Card every x days</string>
     <string name="bckDropboxAutoBackup">Backup to Dropbox every x days</string>
