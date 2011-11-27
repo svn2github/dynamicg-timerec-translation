@@ -103,5 +103,6 @@
 	
     <string name="prefsMonthlyTargetTime">Monthly target time</string>
     <string name="prefsTimeZoneLock">Lock to timezone</string>
+    <string name="calSyncActiveOnCheckin">Sync also active on \'check in\'</string>
 	
 </resources>
