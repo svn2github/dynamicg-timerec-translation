@@ -174,7 +174,7 @@
 	<string name="calSyncEventTitleLabel">Titre événement</string>
 	<string name="calSyncEventTitleHint">\u2192 Utilisez du texte libre et/ou les espaces réservés suivants:\n$1=tâche, $2=total, $3=durée de/à, $4=montant</string>
 	<string name="calSyncCheckSettings">Cliquez ici pour vérifier les paramètres \'{1}\'.</string>
-	<string name="utilityAppMissing">\u2192 Application supplémentaire requise!\nCliquez ici pour télécharger</string>
+	<string name="utilityAppMissing">\u2192 Application supplémentaire \'{1}\' requise.\nCliquez ici pour télécharger</string>
 
 	<string name="nshiftGroup">Options travail de nuit</string>
     <string name="nshiftDayWindowStart">La fenêtre de 24 heures commence à :</string>

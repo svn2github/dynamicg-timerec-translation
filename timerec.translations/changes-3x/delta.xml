@@ -105,4 +105,7 @@
     <string name="prefsTimeZoneLock">Lock to timezone</string>
     <string name="calSyncActiveOnCheckin">Sync also active on \'check in\'</string>
 	
+	<string name="fileDeliveryGDocs">Send to Google Docs</string>
+	<string name="commonAppRequired">App required</string>
+    
 </resources>

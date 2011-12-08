@@ -471,7 +471,7 @@
 	<string name="calSyncEventTitleHint">\u2192 Utilizar texto libre y/o entradas:\n$1=tarea, $2=total, $3=tiempo desde/hasta, $4=cantidad</string>
 	<string name="calSyncCheckSettings">Pulsar para comprobar \'{1}\' configuración.</string>
 
-	<string name="utilityAppMissing">\u2192 Se necesita otra aplicación!\nPulsar para descargar</string>
+	<string name="utilityAppMissing">\u2192 Se necesita otra aplicación \'{1}\'.\nPulsar para descargar</string>
 	
 	<string name="commonSeeOnlineHelp">\u2192 Ver ayuda online</string>
     <string name="confirmDeleteItemHint">\u2192 Ayuda: utiliza \'Menu/{1}\' para borrar entradas individuales</string>

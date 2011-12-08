@@ -470,7 +470,7 @@
 	<string name="calSyncEventTitleHint">\u2192 Usa testo libero e/o segnaposto:\n$1=lavoro, $2=totale, $3=tempo da/a, $4=importo</string>
 	<string name="calSyncCheckSettings">Clicca qui per controllare \'{1}\' le impostazioni.</string>
 
-	<string name="utilityAppMissing">\u2192 Applicazione aggiuntiva necessaria!\nClicca qui per il download</string>
+	<string name="utilityAppMissing">\u2192 Applicazione aggiuntiva \'{1}\' necessaria.\nClicca qui per il download</string>
 	
 	<string name="commonSeeOnlineHelp">\u2192 Vedi aiuto online</string>
     <string name="confirmDeleteItemHint">\u2192 Suggerimento: usa \'Menu/{1}\' per eliminare le singole voci</string>
