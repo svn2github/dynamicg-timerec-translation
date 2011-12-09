@@ -73,7 +73,7 @@
 	<string name="commonTaskSelectionOpen">Open task selection</string>
 	<string name="commonStartNewTask">Start new task</string>
 	<string name="commonNewTaskStarted">New task started</string>
-	<string name="taskerPreselectedCategory">Extra setting - always use following task for selected action:</string>
+	<string name="taskerPreselectedCategory">Extra setting: use following task for selected action:</string>
 	<string name="commonWeeklyDelta">Delta W</string>
 	<string name="commonMonthlyDelta">Delta M</string>
 	<string name="prefsHideAdsLabel">\u2022 Advertisement</string>
@@ -107,5 +107,6 @@
 	
 	<string name="fileDeliveryGDocs">Send to Google Docs</string>
 	<string name="commonAppRequired">App required</string>
+    <string name="commonUpdateCurrentTask">Update task of current work unit</string>
     
 </resources>
