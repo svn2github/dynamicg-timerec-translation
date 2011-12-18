@@ -30,4 +30,11 @@
 	<string name="dstorRestoreInfo">Info on \'Restore\'</string>
 	<string name="proReminderBody">Regular users of Time Recording please consider buying the \"Pro\" version.\nThank you!</string>
 
+	<string name="rotatingShiftHint">\u2192 Für Benutzer mit rotierender Schicht (meistens 07-15, 15-23, 23-07). Gib hier Datum von/bis deiner *Nachtschichten* ein. Tagesschichten *nicht* erfassen.</string>
+	<string name="common_to">to</string>
+	<string name="commonFrom">From</string>
+	<string name="commonTo">To</string>
+	<string name="prefsWritePerformance">Write operations configuration</string>
+	<string name="commonTracking">Tracking</string>
+
 </resources>
