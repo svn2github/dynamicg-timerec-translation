@@ -109,4 +109,6 @@
 	<string name="commonAppRequired">App required</string>
     <string name="commonUpdateCurrentTask">Update task of current work unit</string>
     
+	<string name="dstorHintProvideBackup2">\u2192 Hint: look for folder with file \u00ab{1}\u00bb.</string>
+    
 </resources>
