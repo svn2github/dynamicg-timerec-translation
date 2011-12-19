@@ -29,3 +29,30 @@ special characters
 &amp; = ampersand [&] 
 &gt; = greater than [>]
 &lt; = less than [<]
+
+
+
+
+-------------------------
+TECHNICAL INFO
+-------------------------
+
+* the eclipse project with the resources is hosted here:
+http://dynamicg-timerec.googlecode.com/svn/trunk/timerec.translations
+-> if you have a google email account i can add you as 'Committer' to that project
+
+* for direct access, the "strings" files are here
+spanish: http://dynamicg-timerec.googlecode.com/svn/trunk/timerec.translations/res/values-es/strings.xml
+italian: http://dynamicg-timerec.googlecode.com/svn/trunk/timerec.translations/res/values-it/strings.xml
+french: http://dynamicg-timerec.googlecode.com/svn/trunk/timerec.translations/res/values-fr/strings.xml
+
+* english and german files of the current production version
+EN: http://dynamicg-timerec.googlecode.com/svn/trunk/timerec.translations/res/values/strings.xml
+DE: http://dynamicg-timerec.googlecode.com/svn/trunk/timerec.translations/res/values-de/strings.xml
+
+* see the readme for more details
+https://dynamicg-timerec.googlecode.com/svn/trunk/timerec.translations/README.txt
+
+* the text for the Android Market is here (long app description and short "Promo" text):
+https://dynamicg-timerec.googlecode.com/svn/trunk/timerec.translations/market-description/
+
