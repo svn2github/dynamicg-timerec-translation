@@ -110,5 +110,6 @@
     <string name="commonUpdateCurrentTask">Update task of current work unit</string>
     
 	<string name="dstorHintProvideBackup2">\u2192 Hint: look for folder with file \u00ab{1}\u00bb.</string>
+    <string name="errorSdCardWrite">SD Card write error</string>
     
 </resources>
