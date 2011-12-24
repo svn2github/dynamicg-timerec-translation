@@ -111,5 +111,7 @@
     
 	<string name="dstorHintProvideBackup2">\u2192 Hint: look for folder with file \u00ab{1}\u00bb.</string>
     <string name="errorSdCardWrite">SD Card write error</string>
+	<string name="calSyncInvalidCalendarTitle">Calendar name missing or invalid</string>
+	<string name="commonLookupHint">\u2192 Hint: use the [\u2026] lookup.</string>
     
 </resources>
