@@ -113,5 +113,6 @@
     <string name="errorSdCardWrite">SD Card write error</string>
 	<string name="calSyncInvalidCalendarTitle">Calendar name missing or invalid</string>
 	<string name="commonLookupHint">\u2192 Hint: use the [\u2026] lookup.</string>
+    <string name="commonResetSettings">Reset settings to default</string>
     
 </resources>
