@@ -115,5 +115,6 @@
 	<string name="commonLookupHint">\u2192 Hint: use the [\u2026] lookup.</string>
     <string name="commonResetSettings">Reset settings to default</string>
     <string name="commonFlip">Flip</string>
+    <string name="expPrefsShowAggregatedTasks">E1, E3: Aggregate tasks</string>
     
 </resources>
