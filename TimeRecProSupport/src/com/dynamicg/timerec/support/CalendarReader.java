@@ -97,7 +97,7 @@ public class CalendarReader {
 				msg.putExtra(Intent.EXTRA_SUBJECT, title);
 				msg.putExtra(Intent.EXTRA_TEXT, data);
 				msg.putExtra(Intent.EXTRA_EMAIL, new String[]{AUTHOR} );
-				context.startActivity(Intent.createChooser(msg, "Send error report"));
+				context.startActivity(Intent.createChooser(msg, "Send report"));
 			}
 		});
 
