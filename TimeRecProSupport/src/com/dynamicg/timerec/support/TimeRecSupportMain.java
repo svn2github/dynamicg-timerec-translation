@@ -6,7 +6,6 @@ import android.app.Activity;
 import android.os.Bundle;
 import android.os.Environment;
 import android.view.View;
-import android.widget.Button;
 import android.widget.TextView;
 
 public class TimeRecSupportMain extends Activity {
@@ -33,8 +32,7 @@ public class TimeRecSupportMain extends Activity {
         status2.setText("Database file="+dbfile
         		+"\ncanRead="+dbfile.canRead());
         
-        Button buttonCopyDatabase = (Button)findViewById(R.id.buttonCopy);
-        buttonCopyDatabase.setOnClickListener(new View.OnClickListener() {
+        findViewById(R.id.buttonCopy).setOnClickListener(new View.OnClickListener() {
 			@Override
 			public void onClick(View v) {
 				File sdcard = Environment.getExternalStorageDirectory();
@@ -48,5 +46,14 @@ public class TimeRecSupportMain extends Activity {
 			}
 		});
         
+        
+        findViewById(R.id.buttonDumpCalendar).setOnClickListener(new View.OnClickListener() {
+			@Override
+			public void onClick(View v) {
+				new CalendarReader(TimeRecSupportMain.this).show();
+			}
+		});
+        
     }
+    
 }

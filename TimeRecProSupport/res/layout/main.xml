@@ -37,4 +37,12 @@
 	    android:textColor="#ff9"
 	    />
 	    
+	<Button 
+		android:layout_width="200dip" 
+	    android:layout_height="wrap_content" 
+	    android:text="Show Calendar Entries"
+	    android:id="@+id/buttonDumpCalendar"
+	    android:layout_marginTop="20dip"
+	    />
+	    
 </LinearLayout>
