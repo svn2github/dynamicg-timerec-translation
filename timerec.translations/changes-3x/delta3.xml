@@ -2,37 +2,37 @@
 <resources xmlns:android="http://schemas.android.com/apk/res/android">
 
 	<string name="err25">Error: Backup failed</string>
-    <string name="bckSdCardAutoBackup">Backup to SD Card every x days</string>
-    <string name="bckDropboxAutoBackup">Backup to Dropbox every x days</string>
+	<string name="bckSdCardAutoBackup">Backup to SD Card every x days</string>
+	<string name="bckDropboxAutoBackup">Backup to Dropbox every x days</string>
 	
-    <string name="catExpImpTitle">Export/Import</string>
-    <string name="catExpImpExport">Export</string>
-    <string name="catExpImpImport">Import</string>
-    <string name="catExpImpToSD">Export to SD Card</string>
-    <string name="catExpImpToDropbox">Export to Dropbox</string>
-    <string name="catExpImpFromSD">Import from SD Card</string>
-    <string name="catExpImpFromDropbox">Import from Dropbox</string>
-    <string name="hintWeeklyTargetTime">\u2192 Sample input: \'38.75\'. Clear to disable.</string>
+	<string name="catExpImpTitle">Export/Import</string>
+	<string name="catExpImpExport">Export</string>
+	<string name="catExpImpImport">Import</string>
+	<string name="catExpImpToSD">Export to SD Card</string>
+	<string name="catExpImpToDropbox">Export to Dropbox</string>
+	<string name="catExpImpFromSD">Import from SD Card</string>
+	<string name="catExpImpFromDropbox">Import from Dropbox</string>
+	<string name="hintWeeklyTargetTime">\u2192 Sample input: \'38.75\'. Clear to disable.</string>
 	<string name="prefsMonthReportSplit">Split \'Month\' view on 1st\nand on this day</string>
 	<string name="expPrefsFilenamePrefix">Filename prefix</string>
 	<string name="expPrefsE4SkipSingleTaskTotal">E4: Skip task total, keep grand total</string>
-    <string name="prefsGroupReporting">Reporting</string>
-    
-    <string name="dailyTargetReachedAtLabel">Target reached at {1}</string>
-    <string name="dailyTargetReachedAtPref">Show \'Target reached at\'</string>
-    <string name="dailyTargetReachedAtHint">\u2192 Note this will take \'Automatic breaks\' into account</string>
-    
-    <string name="domainDateDashYMD">(Year)-Month-Day</string>
+	<string name="prefsGroupReporting">Reporting</string>
+	
+	<string name="dailyTargetReachedAtLabel">Target reached at {1}</string>
+	<string name="dailyTargetReachedAtPref">Show \'Target reached at\'</string>
+	<string name="dailyTargetReachedAtHint">\u2192 Note this will take \'Automatic breaks\' into account</string>
+	
+	<string name="domainDateDashYMD">(Year)-Month-Day</string>
 	<string name="dstorMoveToSdcardWarn">Warning: Storage on SD Card is *not* recommended. You might hit USB access &amp; \'read only\' issues, or (in rare cases) deleted data files.</string>
 	<string name="calSyncEventTitleHint">\u2192 Use free text and/or placeholders:\n$1=task, $2=total, $3=time from/to, $4=amount, $5=running week total</string>
-    
+	
 	<string name="copyDaysTitle">Copy days</string>
 	<string name="copyDaysSourceRange">Date range to copy</string>
 	<string name="copyDaysToLabel">Copy to</string>
 	<string name="copyDaysToStart">Start at this day</string>
 	<string name="copyDaysOverwrite">Overwrite if data present</string>
 	<string name="copyDaysDone">\u2192 Copied {1} days</string>
-
+	
 	<string name="commonSwitchedTo">\u2192 Switched to {1}</string>
 	<string name="commonWorkDay">Work day</string>
 	<string name="commonMigrationWorking">Data migration running ...</string>
@@ -41,7 +41,7 @@
 	<string name="actualDateSelectionHint">\u2192 Use second option only when working over midnight</string>
 	<string name="actualDateSetAlert">Hint: Use \'Menu\' to change the stamp\'s validity date. This is useful for people working over midnight.</string>
 	<string name="actualDateSwitchWorkdayLabel">\u2192 Click here to switch to next work day.</string>
-
+	
 	<string name="prefsWorkLateGroup">\'Working late\' options</string>
 	<string name="workLatePrefsHint">\u2192 Also see {1} on preferences page 4.</string>
 	<string name="prefsActualDateDisplay">Show validity date in Time Picker</string>
@@ -85,7 +85,7 @@
 	<string name="calSyncCalendarTypeShared">Shared, has other entries</string>
 	
 	<string name="helpInfo">Info</string>
-    <string name="helpFAQ">FAQ</string>
+	<string name="helpFAQ">FAQ</string>
 	<string name="helpWhatsNew">What\'s new</string>
 	<string name="prefsMinimumBreak">Minimum break time</string>
 	<string name="viewYTD">Full year</string>
@@ -101,20 +101,20 @@
 	<string name="categoryEditSortRenumber">Sort renumber</string>
 	<string name="commonColumnVisibility">Show/hide columns</string>
 	
-    <string name="prefsMonthlyTargetTime">Monthly target time</string>
-    <string name="prefsTimeZoneLock">Lock to timezone</string>
-    <string name="calSyncActiveOnCheckin">Sync also active on \'check in\'</string>
+	<string name="prefsMonthlyTargetTime">Monthly target time</string>
+	<string name="prefsTimeZoneLock">Lock to timezone</string>
+	<string name="calSyncActiveOnCheckin">Sync also active on \'check in\'</string>
 	
 	<string name="fileDeliveryGoogleDocs">Send to Google Docs</string>
 	<string name="commonAppRequired">App required</string>
-    <string name="commonUpdateCurrentTask">Update task of current work unit</string>
-    
+	<string name="commonUpdateCurrentTask">Update task of current work unit</string>
+	
 	<string name="dstorHintProvideBackup2">\u2192 Hint: look for folder with file \u00ab{1}\u00bb.</string>
-    <string name="errorSdCardWrite">SD Card write error</string>
+	<string name="errorSdCardWrite">SD Card write error</string>
 	<string name="calSyncInvalidCalendarTitle">Calendar name missing or invalid</string>
 	<string name="commonLookupHint">\u2192 Hint: use the [\u2026] lookup.</string>
-    <string name="commonResetSettings">Reset settings to default</string>
-    <string name="commonFlip">Flip</string>
-    <string name="expPrefsShowAggregatedTasks">E1, E3: Show aggregated tasks</string>
-    
+	<string name="commonResetSettings">Reset settings to default</string>
+	<string name="commonFlip">Flip</string>
+	<string name="expPrefsShowAggregatedTasks">E1, E3: Show aggregated tasks</string>
+	
 </resources>
