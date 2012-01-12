@@ -480,4 +480,120 @@
     <string name="autoBreakErrDuplicate">Entradas multiples para el total \'{1}\' no permitidas</string>
 	<string name="commonPreviouslyUsed">Anteriormente usado</string>
     
+	<string name="err25">Error: Fallo en copia de seguridad</string>
+	<string name="bckSdCardAutoBackup">Copia de seguridad en SD cada x días</string>
+	<string name="bckDropboxAutoBackup">Copia de seguridad a Dropbox cada x días</string>
+	
+	<string name="catExpImpTitle">Exportar/Importar</string>
+	<string name="catExpImpExport">Exportar</string>
+	<string name="catExpImpImport">Importar</string>
+	<string name="catExpImpToSD">Exportar a SD</string>
+	<string name="catExpImpToDropbox">Exportar a Dropbox</string>
+	<string name="catExpImpFromSD">Importar desde SD</string>
+	<string name="catExpImpFromDropbox">Importar desde Dropbox</string>
+	<string name="hintWeeklyTargetTime">\u2192 Ejemplo de entrada: \'38.75\'. Vaciar para deshabilitar</string>
+	<string name="prefsMonthReportSplit">Separar vista \'Mes\' el 1o\ny este día</string>
+	<string name="expPrefsFilenamePrefix">Prefijo de archivo</string>
+	<string name="expPrefsE4SkipSingleTaskTotal">E4: saltar todas las tareas, mantener total</string>
+	<string name="prefsGroupReporting">Listando</string>
+	
+	<string name="dailyTargetReachedAtLabel">Destino alcanzado a {1}</string>
+	<string name="dailyTargetReachedAtPref">Ver \'Destino alcanzado\'</string>
+	<string name="dailyTargetReachedAtHint">\u2192 Esto provocará \'Cortes automáticos\' dentro de la cuenta</string>
+	
+	<string name="domainDateDashYMD">(Año)-Mes-Día</string>
+	<string name="dstorMoveToSdcardWarn">Advertencia: Almacenar en la SD no es recomendable. Podrás tener errores \'lectura\' , o (en raros casos) pérdida de ficheros.</string>
+	<string name="calSyncEventTitleHint">\u2192 Utiliza los textos librios:\n$1=tarea $2=total, $3=tiempo desde/hasta, $4=cantidad, $5=total de la semana</string>
+	
+	<string name="copyDaysTitle">Copiar días</string>
+	<string name="copyDaysSourceRange">Rango de fechas a copiar</string>
+	<string name="copyDaysToLabel">Copiar a</string>
+	<string name="copyDaysToStart">Comenzar en este día</string>
+	<string name="copyDaysOverwrite">Sobreescribir si hay datos</string>
+	<string name="copyDaysDone">\u2192 Copiados {1} días</string>
+	
+	<string name="commonSwitchedTo">\u2192 cambiar a {1}</string>
+	<string name="commonWorkDay">Día laborable</string>
+	<string name="commonMigrationWorking">Migración en proceso ...</string>
+	<string name="commonStampValidDate">Validar fecha</string>
+	<string name="actualDateSelectionTitle">Cambiar validación de fecha</string>
+	<string name="actualDateSelectionHint">\u2192 Utiliza una segunda opción para los dias trabajos en turnos de noche</string>
+	<string name="actualDateSetAlert">Ayuda: Usa \'Menu\' para cambiar los tiempos. Esta opción es útil para aquellos que trabajan a medianoche</string>
+	<string name="actualDateSwitchWorkdayLabel">\u2192 Pulsa aquí para cambiar a un día laborable</string>
+	
+	<string name="prefsWorkLateGroup">\'Horas extras\' opciones</string>
+	<string name="workLatePrefsHint">\u2192 También ver {1} preferencias en página 4</string>
+	<string name="prefsActualDateDisplay">Ver validador de fecha y tiempo</string>
+	<string name="prefsStopRunningWorkdayLabel">Si olvidas de hacer checkout, el contador se detendrá a esta hora:</string>
+	<string name="prefsStopRunningWorkdayHint">\u2192 No cambiar si tienes turnos rotativos</string>
+	<string name="prefsActualDateBreakAlert">\u2192 Esto interrumpirá el selector de hora en ciertos dispositivos. Pulsa aquí. Ten en cuenta que puedes utilizar \'Menu\' para este diálogo.</string>
+	<string name="prefsActualDateShowAlways">Siempre</string>
+	<string name="prefsActualDateShowCrossMn">Si en media noche</string>
+	
+	<string name="commonNone">Nada</string>
+	<string name="edtoolsCap">Primeras en mayúsculas pro defecto</string>
+	<string name="edtoolsCapWords">Palabras</string>
+	<string name="edtoolsCapSentences">Frases</string>
+	<string name="edtoolsAppend">Añadir nota estandard</string>
+	<string name="widgetSdCardHint">\u2192 Los Widgets no funcionan si la app se ha instalado en la SD</string>
+	
+	<string name="prefsGroupMainScreenRefreshLabel">Refresco pantalla principal</string>
+	<string name="prefsGroupMainScreenRefreshHint">\u2192 Esto aumentará el consumo de batería!</string>
+	<string name="prefsMainScreenRefresh">refrescar cada n minutos</string>
+	<string name="prefsKeepScreenOn">Mantener pantalla encendida</string>
+	
+	<string name="expPrefsShowEmailOnHTML">Mostrar correo cuando se exporta a HTML</string>
+	
+	<string name="expSearchDayNotes">Filtrar días con notas</string>
+	<string name="expSearchWorkUnitNotes">Filtro Notas de bloques de trabajo</string>
+	<string name="expPrefsAutoCloseWindow">Cerrar diálogo después de exportar</string>
+	<string name="taskerPluginHint">\u2192 \'Versión Pro\' se integra con Tasker/Locale</string>
+	<string name="taskerPluginSelectAction">Selecciona la acción que debe disparar</string>
+	<string name="commonTaskSelectionOpen">Abrir selección de tarea</string>
+	<string name="commonStartNewTask">Comenzar nueva tarea</string>
+	<string name="commonNewTaskStarted">Nueva tarea comenzada</string>
+	<string name="taskerPreselectedCategory">Configuración Extra: usa la siguiente tarea para seleccionar la acción</string>
+	<string name="commonWeeklyDelta">Delta W</string>
+	<string name="commonMonthlyDelta">Delta M</string>
+	<string name="prefsHideAdsLabel">\u2022 Publicidad</string>
+	<string name="prefsHideAdsButton">Ocular publicidad hasta {1}</string>
+	<string name="prefsHideAdsHint">\u2192 Esto puede eliminarse después de la expiración por tiempo ilimitado</string>
+	<string name="admResetAllPrefs">Restablecer preferencias</string>
+	<string name="calSyncCalendarType">Tipo de calendario</string>
+	<string name="calSyncCalendarTypeExclusive">Exclusivo, para TimeRec</string>
+	<string name="calSyncCalendarTypeShared">Compartido, con otras entradas</string>
+	
+	<string name="helpInfo">Info</string>
+	<string name="helpFAQ">FAQ</string>
+	<string name="helpWhatsNew">Novedades</string>
+	<string name="prefsMinimumBreak">Tiempo mínimo</string>
+	<string name="viewYTD">Todo el año</string>
+	<string name="prefsShowIsoWeekNr">Ver número de la semana ISO</string>
+	
+	<string name="confirmDayRollOver">Cerrar día y continuar?</string>
+	<string name="prefDayRollOver">\'Cerrar y continuar\' cuando se trabaja más allá de media noche</string>
+	
+	<string name="categoryEditHeaderTargetOff">Tiempo no\nalcanzado</string>
+	<string name="categoryEditHeaderUnpaid">Sin cobrar</string>
+	<string name="categoryEditHeaderFixedAmtWorkUnit">Fijar cantidad\npor unidad</string>
+	<string name="categoryEditHeaderFixedAmtDay">Fijar cantidad\npor día</string>
+	<string name="categoryEditSortRenumber">Ordenar números</string>
+	<string name="commonColumnVisibility">Mostrar/Ocultar columnas</string>
+	
+	<string name="prefsMonthlyTargetTime">Tiempo mensual alcanzado</string>
+	<string name="prefsTimeZoneLock">Bloquear zona horaria</string>
+	<string name="calSyncActiveOnCheckin">Sincronizar incluso con \'checkin\' activo</string>
+	
+	<string name="fileDeliveryGoogleDocs">Enviar a Google Docs</string>
+	<string name="commonAppRequired">App necesaria</string>
+	<string name="commonUpdateCurrentTask">actualizar tareas del la actual unidad de tiempo</string>
+	
+	<string name="dstorHintProvideBackup2">\u2192 Ayuda: busca la carpeta con el fichero \u00ab{1}\u00bb.</string>
+	<string name="errorSdCardWrite">Error en Sd</string>
+	<string name="calSyncInvalidCalendarTitle">Nombre de calendario inválido</string>
+	<string name="commonLookupHint">\u2192 Ayuda: usa [\u2026] para buscar.</string>
+	<string name="commonResetSettings">Restaurar a fábrica</string>
+	<string name="commonFlip">Voltear</string>
+	<string name="expPrefsShowAggregatedTasks">E1, E3: Ver tareas añadidas</string>
+		
 </resources>
