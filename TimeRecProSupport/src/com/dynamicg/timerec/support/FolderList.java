@@ -16,6 +16,10 @@ public class FolderList {
 	
 	public void dumpSubFiles(File folder, int depth) {
 		
+		if (!folder.isDirectory()) {
+			return;
+		}
+		
 		String path = folder.getAbsolutePath();
 		if (path.startsWith("/sys/")
 				|| path.startsWith("/proc/") 
@@ -35,14 +39,12 @@ public class FolderList {
 			return;
 		}
 		
-		if (folder.isDirectory()) {
-			sb.append(folder.getAbsolutePath()+"\n");
-			File[] files = folder.listFiles();
-			if (files!=null) {
-				for (File dir:files) {
-					if (dir.isDirectory() && depth<=8) {
-						dumpSubFiles(dir, depth+1);
-					}
+		sb.append(folder.getAbsolutePath()+"\n");
+		File[] files = folder.listFiles();
+		if (files!=null) {
+			for (File dir:files) {
+				if (dir.isDirectory() && depth<=8) {
+					dumpSubFiles(dir, depth+1);
 				}
 			}
 		}
