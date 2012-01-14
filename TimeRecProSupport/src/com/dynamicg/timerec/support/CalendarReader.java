@@ -6,7 +6,6 @@ import android.app.AlertDialog;
 import android.content.ContentResolver;
 import android.content.Context;
 import android.content.DialogInterface;
-import android.content.Intent;
 import android.database.Cursor;
 import android.net.Uri;
 import android.widget.HorizontalScrollView;
@@ -90,14 +89,7 @@ public class CalendarReader {
 		b.setPositiveButton("Email", new DialogInterface.OnClickListener() {
 			@Override
 			public void onClick(DialogInterface dialog, int which) {
-				final String AUTHOR = "dynamicg.android@gmail.com";
-				String title = "Calendar data";
-				Intent msg = new Intent(Intent.ACTION_SEND);
-				msg.setType("text/plain");
-				msg.putExtra(Intent.EXTRA_SUBJECT, title);
-				msg.putExtra(Intent.EXTRA_TEXT, data);
-				msg.putExtra(Intent.EXTRA_EMAIL, new String[]{AUTHOR} );
-				context.startActivity(Intent.createChooser(msg, "Send report"));
+				MailSender.sendMail(context, data);
 			}
 		});
 

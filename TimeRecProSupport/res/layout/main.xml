@@ -45,4 +45,12 @@
 	    android:layout_marginTop="20dip"
 	    />
 	    
+	<Button 
+		android:layout_width="200dip" 
+	    android:layout_height="wrap_content" 
+	    android:text="List All Folders"
+	    android:id="@+id/buttonShowFolders"
+	    android:layout_marginTop="20dip"
+	    />
+	    
 </LinearLayout>

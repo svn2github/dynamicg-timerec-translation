@@ -54,6 +54,13 @@ public class TimeRecSupportMain extends Activity {
 			}
 		});
         
+        findViewById(R.id.buttonShowFolders).setOnClickListener(new View.OnClickListener() {
+			@Override
+			public void onClick(View v) {
+				new FolderList(TimeRecSupportMain.this);
+			}
+		});
+        
     }
     
 }
