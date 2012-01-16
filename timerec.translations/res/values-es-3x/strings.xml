@@ -100,7 +100,6 @@
     <string name="confirmDeleteEntry">Borrar este registro?</string>
     <string name="confirmDeleteDay">Borrar entradas para este día</string>
     <string name="checkboxIncludeDayNotes">Incluír notas del día</string>
-    <string name="confirmDayRollOver">Día anterior no cerrado - continuar?</string>
     <string name="confirmUpdateAdjacent">Actualizar registro adyacente?</string>
     
     <string name="prefsWindowTitle">Configuración Time Recording</string>
@@ -125,11 +124,9 @@
     <string name="prefsGroupWeeklyReporting">Listado semanal</string>
     <string name="prefsMonthViewOption">Vista de \'Mes\'</string>
     <string name="prefsWeeklyTargetTime">Objetivo de tiempo semanal</string>
-    <string name="hintWeeklyTargetTime">\u2192 Ejemplo: 38.75\nSólo usando en la vista de \'Month\'. Vacia para desactiviar</string>
 	<string name="prefsDefaultCategory">Tareas por defecto</string>
 	<string name="prefsTaskGroupsActiveLabel">Grupos de tareas</string>
 	<string name="prefsTaskGroupsActiveHint">\u2192 Utilizar \'Cliente 1 - Proyecto A\', \'Cliente 1 - Proyecto B\' como patrón de nombres de tareas</string>
-	<string name="prefsMonthReportSplit">Dividir vista \'Mes\' para este día</string>
 	<string name="prefsExpDecimalSep">Separador Decimal</string>
 	<string name="prefsCollapseCheckBtn">Fusionar botones \'Iniciar/Finalizar\'</string>
 	<string name="prefsAllowScreenRotation">Permitir rotación de pantalla</string>
@@ -325,7 +322,6 @@
 	<string name="dstorRestoreInfo">Información sobre \'Restauración\'</string>
 	<string name="dstorHintProvideBackup">Copia de seguridad no encontrada. Utilizar este fichero:</string>
 	<string name="dstorIncludeSettings">Incluir configuración?</string>
-	<string name="dstorMoveToSdcardWarn">Nota: El almacenaje en la SD no está recomendada, así como el acceso USB y los problemas de \'sólo lectura\'.</string>
 	
 	<string name="dstorFree2ProImportConfirmation">Importar datos y configuración de la versión gratuita?</string>
 	<string name="dstorFree2ProLiveImport">Importados de la versión gratuita</string>
@@ -412,7 +408,6 @@
 	<string name="widgetTitleGlossPro">Time Recording Pro (Gloss)</string>
 	<string name="widgetTitleSliderPro">Time Recording Pro (Slider)</string>
 	
-	<string name="expPrefsFilenamePrefix">Filename prefix</string>
 	
 	<!-- =================================================================== -->
 	<!-- CHANGES FOR V2.03 -->
@@ -468,7 +463,6 @@
 	<string name="calSyncForDayNotes">Sincronizar las notas diaras como \'todos los eventos del día\'</string>
 	<string name="calSyncShowConfirmation">Mostrar confirmación después de sincronizar</string>
 	<string name="calSyncEventTitleLabel">Título del evento</string>
-	<string name="calSyncEventTitleHint">\u2192 Utilizar texto libre y/o entradas:\n$1=tarea, $2=total, $3=tiempo desde/hasta, $4=cantidad</string>
 	<string name="calSyncCheckSettings">Pulsar para comprobar \'{1}\' configuración.</string>
 
 	<string name="utilityAppMissing">\u2192 Se necesita otra aplicación \'{1}\'.\nPulsar para descargar</string>
