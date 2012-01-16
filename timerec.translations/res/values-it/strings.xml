@@ -434,7 +434,7 @@
 	<string name="catExpImpFromSD">Importa da scheda SD</string>
 	<string name="catExpImpFromDropbox">Importa da Dropbox</string>
 	<string name="hintWeeklyTargetTime">\u2192 Input d\'esempio: \'38.75\'. Cancella per disabilitare.</string>
-	<string name="prefsMonthReportSplit">Dividi la vista \'Mese\' sul 1\°\ne su questo giorno</string>
+	<string name="prefsMonthReportSplit">Dividi la vista \'Mese\' sul 1°\ne su questo giorno</string>
 	<string name="expPrefsFilenamePrefix">Prefisso nome del file</string>
 	<string name="expPrefsE4SkipSingleTaskTotal">E4: Salta il totale del lavoro, mantieni il totale generale</string>
 	<string name="prefsGroupReporting">Riassunto</string>
