@@ -100,7 +100,6 @@
     <string name="confirmDeleteEntry">Eliminare questa timbratura?</string>
     <string name="confirmDeleteDay">Eliminare annotazioni di questo giorno?</string>
     <string name="checkboxIncludeDayNotes">Includi note del giorno</string>
-    <string name="confirmDayRollOver">Giorno precedente non chiuso - saltare?</string>
     <string name="confirmUpdateAdjacent">Aggiornare anche timbratura adiacente?</string>
     
     <string name="prefsWindowTitle">Preferenze Registra Orari</string>
@@ -125,11 +124,9 @@
     <string name="prefsGroupWeeklyReporting">Resoconto settimanale</string>
     <string name="prefsMonthViewOption">Vista \'Mese\' mostra</string>
     <string name="prefsWeeklyTargetTime">Obiettivo orario settimanale</string>
-    <string name="hintWeeklyTargetTime">\u2192 Inserimento d\'esempio: 38.75\nUtilizzabile sono nella vista \'Mese\'. Cancella per disabilitare.</string>
 	<string name="prefsDefaultCategory">Lavoro di default</string>
 	<string name="prefsTaskGroupsActiveLabel">Gruppi di lavoro</string>
 	<string name="prefsTaskGroupsActiveHint">\u2192 Usa \'Cliente 1 - Progetto A\', \'Client 1 - Progetto B\' come modello per nome di lavoro</string>
-	<string name="prefsMonthReportSplit">Dividi vista \'Mese\' a questo giorno</string>
 	<string name="prefsExpDecimalSep">Separatore decimali</string>
 	<string name="prefsCollapseCheckBtn">Unisci i pulsanti \'inizia/termina\'</string>
 	<string name="prefsAllowScreenRotation">Permetti rotazione dello schermo (Modalità panorama)</string>
@@ -324,7 +321,6 @@
 	<string name="dstorRestoreInfo">Informazioni su \'Ripristina\'</string>
 	<string name="dstorHintProvideBackup">Backup non trovato. Fornire questo file:</string>
 	<string name="dstorIncludeSettings">Impostazioni incluse?</string>
-	<string name="dstorMoveToSdcardWarn">Nota: il salvataggio su Card SD *non* è raccomandato a causa dell\' accesso USB e dei problemi dovuti alla \'sola lettura\'.</string>
 	
 	<string name="dstorFree2ProImportConfirmation">Importare i dati e le impostazioni dalla versione gratuita?</string>
 	<string name="dstorFree2ProLiveImport">Importazione dalla versione gratuita (dati live)</string>
@@ -411,7 +407,6 @@
 	<string name="widgetTitleGlossPro">Registra Orari Pro (Gloss)</string>
 	<string name="widgetTitleSliderPro">Registra Orari Pro (Slider)</string>
 	
-	<string name="expPrefsFilenamePrefix">Filename prefix</string>
 	
 	<!-- =================================================================== -->
 	<!-- CHANGES FOR V2.03 -->
@@ -467,7 +462,6 @@
 	<string name="calSyncForDayNotes">Sincronizza le note del giorno come \'evento di tutto il giorno\'</string>
 	<string name="calSyncShowConfirmation">Mostra conferma dopo sincronizzazione</string>
 	<string name="calSyncEventTitleLabel">Titolo evento</string>
-	<string name="calSyncEventTitleHint">\u2192 Usa testo libero e/o segnaposto:\n$1=lavoro, $2=totale, $3=tempo da/a, $4=importo</string>
 	<string name="calSyncCheckSettings">Clicca qui per controllare \'{1}\' le impostazioni.</string>
 
 	<string name="utilityAppMissing">\u2192 Applicazione aggiuntiva \'{1}\' necessaria.\nClicca qui per il download</string>
