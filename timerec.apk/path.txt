@@ -3,7 +3,11 @@ svn url:
 http://dynamicg-timerec.googlecode.com/svn/trunk/timerec.apk/204
 http://dynamicg-timerec.googlecode.com/svn/trunk/timerec.apk/305
 
+-- BETA
 http://dynamicg-timerec.googlecode.com/svn/trunk/timerec.apk/beta
+
+-- I18N
+http://dynamicg-timerec.googlecode.com/svn/trunk/timerec.apk/i18n/TimeRecording-i18n-315-01.apk
 
 archive folder: 
 C:\workspace\androidDeployment\apk
