@@ -22,9 +22,7 @@
     <string name="menuAdmin">Administrar</string>
     <string name="menuAbout">Sobre</string>
     <string name="menuAddStandardEntry">Añadir pausa/bloque \u2026</string>
-    <string name="helpUrl"></string>
     <string name="menuMore">Más</string>
-    <string name="menuHelpFAQ">FAQ</string>
     
     <string name="commonDays">Días</string>
     <string name="commonEdit">Editar</string>
@@ -38,7 +36,6 @@
     <string name="commonSample">Ejemplo</string>
     <string name="commonDataExport">Exportar datos</string>
     <string name="commonCategories">Tareas</string>
-    <string name="commonTracking">Seguimiento</string>
     <string name="commonHourlyRate">Precio Hora</string>
     <string name="commonEditCategories">Editar tareas</string>
     <string name="commonAddRow">Añadir línea</string>
@@ -51,7 +48,6 @@
     <string name="commonMonth">Mes</string>
     <string name="commonDelete">Borrar</string>
     <string name="commonHoursPerDay">Horas por día</string>
-    <string name="commonVarious">Varios</string>
     <string name="commonGrandTotal">Grand total</string>
     <string name="commonSettings">Preferencias</string>
     <string name="commonDisabled">Desactivado</string>
@@ -68,9 +64,6 @@
     <string name="commonCSV">CSV</string>
 	<string name="commonReset">Inicializar</string>
     <string name="commonDetails">Detalles</string>
-	<string name="commonFrom">Desde</string>
-	<string name="commonTo">para</string>
-	<string name="common_to">para</string>
 	<string name="commonDoneToast">{1} \u2192 HECHO</string>
     <string name="commonBreak">Pausa</string>
     <string name="commonEnabledOption">\'{1}\' activada</string>
@@ -113,23 +106,17 @@
     <string name="prefsAmountCurrencyString">Presentación Cantidad/moneda</string>
     <string name="prefsDailyTargetTime">Objetivo de tiempo diario</string>
     <string name="prefsTimePickerIncrement">\'Selector horario\' incremento en minutos</string>
-	<string name="prefsShortMain">Principal</string>
-	<string name="prefsShortOptions">Opciones</string>
-	<string name="prefsShortTasks">Tareas</string>
 	<string name="prefsShortTracking">Seguimiento</string>
 	<string name="prefsGroupInterface">Interface</string>
 	<string name="prefsWeekdayTargetTime">Sobreescribir tiempo por semana</string>
     <string name="prefsGroupFormatOptions">Opciones de formato</string>
     <string name="prefsGroupCalendar">Calendario</string>
-    <string name="prefsGroupWeeklyReporting">Listado semanal</string>
     <string name="prefsMonthViewOption">Vista de \'Mes\'</string>
     <string name="prefsWeeklyTargetTime">Objetivo de tiempo semanal</string>
 	<string name="prefsDefaultCategory">Tareas por defecto</string>
 	<string name="prefsTaskGroupsActiveLabel">Grupos de tareas</string>
-	<string name="prefsTaskGroupsActiveHint">\u2192 Utilizar \'Cliente 1 - Proyecto A\', \'Cliente 1 - Proyecto B\' como patrón de nombres de tareas</string>
 	<string name="prefsExpDecimalSep">Separador Decimal</string>
 	<string name="prefsCollapseCheckBtn">Fusionar botones \'Iniciar/Finalizar\'</string>
-	<string name="prefsAllowScreenRotation">Permitir rotación de pantalla</string>
 	<string name="prefsHintRestartRequired">\u2192 Cambios en esta configuración requiere un reinicio</string>
 	<string name="prefsExportSettings">Configuración de exportación de datos</string>
 	<string name="prefsGridViewFont">Tamaña de letras</string>
@@ -149,22 +136,11 @@
 	<string name="prefsDomRoundInDownOutUp">In=Abajo, Out=Arriba</string>
 	<string name="prefsProOnlyFeature">\u2192 Esta característica está sólo en la \"versión Pro\"</string>
 
-	<string name="nshiftGroup">Opciones de Noche</string>
-    <string name="nshiftDayWindowStart">La ventana de 24h comienza a</string>
-	<string name="nshiftRollOverCheck">Comprobar \'arrastre\'</string>
-	<string name="nshiftRollOverHint">Ver \'{1}\' en preferencias</string>
-	<string name="nshiftRotatingShift">Rotar desplazamiento</string>
-	<string name="nshiftEditNightShifts">Editar desplazamiento nocturnos</string>
-	<string name="nshiftSeeFAQ">\u2192 Ver FAQ para más detalles si trabajas con regularidad en la medianoche</string>
-	
     <string name="stdStampTitle">Pausas &amp; bloques</string>
     <string name="stdStampTypeBlock">Bloques</string>
     
     <string name="autoBreakTitle">Pausa automática</string>
     <string name="autoBreakBookWhen">Cuando</string>
-    <string name="autoBreakHint1">\u2192 Sólo activar después del primer Inicio por día. Sólo se aplicará al finalizar</string>
-    <string name="autoBreakHint2">\u2192 Regla: si el diario es total o igual [{1}] entonces añadir una pausa de duraciónthen [{2}] que comienza a las [{3}].</string>
-    <string name="autoBreakHint3">\u2192 Con \'{1}\' sólo la primera regla será aplicada</string>
     <string name="autoBreakDomFirst">Activar, tarea única</string>
     <string name="autoBreakDomAll">Activar, multiples pausas</string>
     
@@ -216,7 +192,6 @@
     <string name="domainMonthview1M">1 Mes</string>
     <string name="domainMonthview2W">2 Semanas</string>
     <string name="domainMonthview4W">4 Semanas</string>
-    <string name="domainRollOverAlways">Activar siempre</string>
 	<string name="domainExpDataInclusionAttachment">Adjuntar fichero</string>
 	<string name="domainExpDataInclusionPlainText">Texto plano</string>
 	<string name="domainExpDataInclusionForViewer">Para visualizar estandard</string>
@@ -244,8 +219,6 @@
     <string name="categoryHasChildrenCannotDelete">Tarea ya utilizada, no puede borrarse! Por favor intente \'desactivarla\'.</string>
     <string name="categoryFilter">Filtro de tarea</string>
     <string name="categoryEditLink">Editar tarea</string>
-    <string name="categoryEditorExport">Exportar a SD</string>
-    <string name="categoryEditorImport">Importar desde SD</string>
     <string name="categoryEditorHintMenu">\u2192 abrir Menu para funciones</string>
     <string name="categorySampleEntry1">Cliente 1 - Análisis</string>
     <string name="categorySampleEntry2">Cliente 1 - Realización</string>
@@ -281,7 +254,6 @@
     <string name="bckSwitchToLive">Cambiar a datos actuales</string>
     <string name="bckArchiveDataOlderThan">Archivar &gt; {1} meses</string>
     <string name="bckArchiveHint">\u2192 Usar \"archivo\" para mover los datos antiguos y hacer los \'datos actuales\' más pequeños y rápido</string>
-    <string name="bckAutoBackup">Copia de seguridad a SD cada [n] días</string>
 	<string name="bckRestoreSdCardUnavailable">Tarjeta SD no disponible. Copiar de seguridad/restaurar no es posible</string>
 	
 	<string name="widgetAppTitle1">Tiempo</string>
@@ -319,7 +291,6 @@
 	<string name="dstorPreferred">Preferiblemente almacenar en teléfono</string>
 	<string name="dstorSettingsBRTitle">Configuración de la App</string>
 	<string name="dstorInitialRecovery">Copia de seguridad detectada en SD. Restaurar datos?</string>
-	<string name="dstorRestoreInfo">Información sobre \'Restauración\'</string>
 	<string name="dstorHintProvideBackup">Copia de seguridad no encontrada. Utilizar este fichero:</string>
 	<string name="dstorIncludeSettings">Incluir configuración?</string>
 	
@@ -349,19 +320,9 @@
     <string name="brprefsBackupAction">Copia de seguridad de la App desde SD</string>
     <string name="brprefsBackupFileExists">Copia de seguridad existente. Sobreescribir?</string>
     
-	<string name="pubServicesInfo">\'{1}\' facilitar a estos servicios publicos de terceras aplicaciones los datos de Iniciar y Finalizar (pulsar sobre texto para copiar al portapapeles)</string>
-	<string name="pubServicesCopied">texto copiado</string>
-	
 	<!-- diff sync marker D -->	
-	<string name="rotatingShiftHint">\u2192 Esto es para usuarios de turno rotatorio (07-15, 15-23, 23-07). Introduzca las fechas de sus periodos *nocturnos*.</string>
-	
-	<string name="restoreInfoHead">Como restaurar datos cuando se cambia a un nuevo teñefono o se reinstala la aplicación</string>
-	<string name="restoreInfoLine1">\u2022 *Antes* de desinstalar o en el viejo teléfono, pulse sobre \"Crear copia de seguridad\"</string>
-	<string name="restoreInfoLine2">\u2022 Si aplica: desmontar SD e insertarla en el nuevo teléfono</string>
-	<string name="restoreInfoLine3">\u2022 (Re)instalar la App desde el market y abrirla. La App preguntará si debes restaurar los datos, después se ejecutará con normalidad</string>
 	
 	<string name="admRebuildIndexes">Reconstruir indices</string>
-	<string name="admSyncTimestamps">Sincronizar con UTC</string>
 	<string name="admDeleteOldLabel">Borrar datos antiguos</string>
 	<string name="admDeleteOldHint">Escoja fecha desde la cual borrar</string>
 	<string name="admDeleteOldBody">Borrar datos desde {1}?\nEsto no puede deshacerse</string>
@@ -387,15 +348,7 @@
 	<string name="err22">Error: SD está llena</string>
 	<string name="errFaqHint">Ver FAQ, buscar \'ERROR {1}\' para solución</string>
 	
-	<string name="quickSetupTitle">Configuración rápida</string>
-	<string name="quickSetupAMPM">Utilizar relojo 12 horas (AM/PM)</string>
-	<string name="quickSetupNightWork">Regularización del tiempo nocturno</string>
-	<string name="quickSetupUtfLabel">Exportar datos Unicode (UTF8)</string>
-	<string name="quickSetupUtfHint">\u2192 Pulsar cuando se utilizan caracteres no-latin, como Cirillic o Japonés</string>
-	
-	<string name="proReminderTitle">Versión Pro</string>
 	<string name="proReminderMktButton">Android Market</string>
-	<string name="proReminderBody">Considere a comprar la versión \"PRO\" de Time Recording.\nGracias!</string>
 
 	<!-- =================================================================== -->
     <string name="googleSitesLanguage">en</string>
@@ -427,14 +380,10 @@
 	
 	<string name="prefsCalendarSyncGroup">Sincronizar con el calendario de Google</string>
 	<string name="prefsHomescreenBtSmall">Botones pequeños en la pantalla inicial</string>
-	<string name="prefsWritePerformance">Escribir operaciones en configuración</string>
-	<string name="prefsWritePerfPragmaOff">Mejor rendimiento</string>
-	<string name="prefsWritePerfPragmaFull">Seguridad máxima</string>
 	<string name="prefsShortTab4">Fecha,Hora</string>
 	<string name="prefsHintPleaseRestart">\u2192 Por favor, reinicie la aplicación</string>
 	<string name="prefsPunchRoundTaskSwitch">También se aplicará en \'Cambio de tarea\'</string>
 	<string name="prefsKeepPrevCategory">Mantener la tarea después de pausa</string>
-	<string name="prefsDomWidgetActTaskSelect">Pulsar con la tarea seleccionada</string>
 	
 	<string name="expPrefsCharsetCommon">Caracteres por defecto</string>
 	<string name="expPrefsCharsetFullList">Lista completa</string>
@@ -456,7 +405,6 @@
     <string name="stdCommentAppend">Añadir al siguiente texto</string>
 	
 	<string name="calSyncCalendarName">Nombre del Calendario</string>
-	<string name="calSyncHints1">\u2192 Se recomienda utilizar calendarios separados. Ver FAQ.</string>
 	<string name="calSyncHints2">\u2192 La sincronización es undireccional</string>
 	<string name="calSyncWriteDelay">Poner retraso despues de los cambios (segundos/minutos)</string>
 	<string name="calSyncForStamps">Sincronizar tiempos como \'eventos\'</string>
@@ -471,7 +419,6 @@
     <string name="confirmDeleteItemHint">\u2192 Ayuda: utiliza \'Menu/{1}\' para borrar entradas individuales</string>
 	<string name="expPrefsAmtWithCurrency">Mostrar moneda en cantidades</string>
 	
-    <string name="autoBreakErrDuplicate">Entradas multiples para el total \'{1}\' no permitidas</string>
 	<string name="commonPreviouslyUsed">Anteriormente usado</string>
     
 	<!-- ==== UPGRADE FROM 2.04 TO 3.15 ==== -->
