@@ -101,7 +101,6 @@
     <string name="confirmDeleteDay">Effacer les entrées pour cette journée ?</string>
     <string name="confirmDeleteItemHint">\u2192 Astuce: utilisez \'Menu/{1}\' pour supprimer des entrées unitaires.</string>
     <string name="checkboxIncludeDayNotes">Inclure les notes journalières</string>
-    <string name="confirmDayRollOver">Jour précédent non cloturé - Continuer ?</string>
     <string name="confirmUpdateAdjacent">Mettre aussi à jour les enregistrements adjacents ?</string>
     
     <string name="prefsWindowTitle">Préférences du logiciel</string>
@@ -123,11 +122,9 @@
     <string name="prefsGroupCalendar">Calendrier</string>
     <string name="prefsMonthViewOption">Vue \'Mois\'</string>
     <string name="prefsWeeklyTargetTime">Durée de travail par semaine</string>
-    <string name="hintWeeklyTargetTime">\u2192 Example : 38.75\nSeulement utilisé dans la vue \'Mois\'. Effacez pour désactiver.</string>
 	<string name="prefsDefaultCategory">Tâche par défaut</string>
 	<string name="prefsKeepPrevCategory">Revenir à la tâche sélectionnée avant la pause</string>
 	<string name="prefsTaskGroupsActiveLabel">Groupes des Tâches</string>
-	<string name="prefsMonthReportSplit">Scinder la vue \'Mois\' à cette date</string>
 	<string name="prefsExpDecimalSep">Séparateur décimal</string>
 	<string name="prefsCollapseCheckBtn">Fusionner les boutons \'Démarrer/Terminer\'</string>
 	<string name="prefsHintRestartRequired">\u2192 Changer ces paramètres nécessite un redémarage</string>
@@ -160,7 +157,6 @@
 	<string name="calSyncForDayNotes">Stocker les notes journalières comme \'évènement jour\'</string>
 	<string name="calSyncShowConfirmation">Afficher une confirmation à la fin de la synchro</string>
 	<string name="calSyncEventTitleLabel">Titre événement</string>
-	<string name="calSyncEventTitleHint">\u2192 Utilisez du texte libre et/ou les espaces réservés suivants:\n$1=tâche, $2=total, $3=durée de/à, $4=montant</string>
 	<string name="calSyncCheckSettings">Cliquez ici pour vérifier les paramètres \'{1}\'.</string>
 	<string name="utilityAppMissing">\u2192 Application supplémentaire \'{1}\' requise.\nCliquez ici pour télécharger</string>
 
@@ -337,7 +333,6 @@
 	<string name="dstorInitialRecovery">Sauvegarde detectée sur la carte SD. Restaurer les données ?</string>
 	<string name="dstorHintProvideBackup">Aucune sauvegarde trouvée sur la carte SD</string>
 	<string name="dstorIncludeSettings">Inclure les paramètres ?</string>
-	<string name="dstorMoveToSdcardWarn">Note: Le stockage sur la carte SD n\'est *pas* recommandé à cause des pbs d\'accès USB et de \'lecture seule\'.</string>
 	
 	<string name="dstorFree2ProImportConfirmation">Importer les données et les paramètres de la version gratuite ?</string>
 	<string name="dstorFree2ProLiveImport">Import version gratuite (données vivantes)</string>
@@ -412,5 +407,122 @@
 	<string name="widgetPrefHintKeepRunning">\u2192 Cochez si le widget arrête régulièrement de se rafraichir</string>
 
 	<string name="commonPreviouslyUsed">Utilisé auparavant</string>
+	
+	<!-- ###################### V3 FR ###################### -->
+	<string name="err25">*Erreur : la sauvegarde a échoué</string>
+	<string name="bckSdCardAutoBackup">*Sauvegarder sur la carte SD tous les x jours</string>
+	<string name="bckDropboxAutoBackup">*Sauvegarder vers Dropbox tous les x jours</string>
+	
+	<string name="catExpImpTitle">*Export/Import</string>
+	<string name="catExpImpExport">*Export</string>
+	<string name="catExpImpImport">*Import</string>
+	<string name="catExpImpToSD">*Exporter vers la carte SD</string>
+	<string name="catExpImpToDropbox">*Exporter vers Dropbox</string>
+	<string name="catExpImpFromSD">*Importer à partir de la carte SD</string>
+	<string name="catExpImpFromDropbox">*Importer à partir de Dropbox</string>
+	<string name="hintWeeklyTargetTime">*\u2192 Exemple d\'entrée: \'38.75\'. Effacer pour désactiver.</string>
+	<string name="prefsMonthReportSplit">*Séparer la vue \'Mois\' sur le premier jour\net sur ce jour</string>
+	<string name="expPrefsFilenamePrefix">*Préfixe du nom de fichier</string>
+	<string name="expPrefsE4SkipSingleTaskTotal">*E4: Sauter le total de la tâche, garder le total général</string>
+	<string name="prefsGroupReporting">*Rapport</string>
+	
+	<string name="dailyTargetReachedAtLabel">*Objectif atteint à {1}</string>
+	<string name="dailyTargetReachedAtPref">*Afficher \'Objectif atteint à\'</string>
+	<string name="dailyTargetReachedAtHint">*\u2192 Noter que cela prendra en compte les \'Pauses automatiques\'</string>
+	
+	<string name="domainDateDashYMD">*(Année)-Mois-Jour</string>
+	<string name="dstorMoveToSdcardWarn">*Attention: Le stockage sur carte SD n\'est *pas* recommandé. Vous pourriez rencontrer des pbs d\'accès USB en lecture seule, ou (dans de rares cas) l\'effacement des fichiers de données.</string>
+	<string name="calSyncEventTitleHint">*\u2192 Utiliser du texte libre et/ou des espaces réservés:\n$1=task, $2=total, $3=time from/to, $4=amount, $5=running week total</string>
+	
+	<string name="copyDaysTitle">*Copie de jours</string>
+	<string name="copyDaysSourceRange">*Plage de dates à copier</string>
+	<string name="copyDaysToLabel">*Copier vers</string>
+	<string name="copyDaysToStart">*Commencer à ce jour</string>
+	<string name="copyDaysOverwrite">*Ecraser si des données sont présentes</string>
+	<string name="copyDaysDone">*\u2192 {1} jours copiés</string>
+	
+	<string name="commonSwitchedTo">*\u2192 Basculer vers {1}</string>
+	<string name="commonWorkDay">*Work day</string>
+	<string name="commonMigrationWorking">*Migration des données en cours ...</string>
+	<string name="commonStampValidDate">*Validity date</string>
+	<string name="actualDateSelectionTitle">*Change validity date</string>
+	<string name="actualDateSelectionHint">*\u2192 Utiliser la seconde option seulement quand vous travaillez après minuit</string>
+	<string name="actualDateSetAlert">*Hint: Use \'Menu\' to change the stamp\'s validity date. This is useful for people working over midnight.</string>
+	<string name="actualDateSwitchWorkdayLabel">*\u2192 Cliquer ici pour passer au jour de travail suivant.</string>
+	
+	<string name="prefsWorkLateGroup">*\'Working late\' options</string>
+	<string name="workLatePrefsHint">*\u2192 Regardez aussi {1} dans les préférences page 4.</string>
+	<string name="prefsActualDateDisplay">*Montrer la date de validité dans le sélecteur de date</string>
+	<string name="prefsStopRunningWorkdayLabel">*Si j\'oublie d\'indiquer la fin, le compteur s\'arrêtera à cette heure:</string>
+	<string name="prefsStopRunningWorkdayHint">*\u2192 Ne *PAS* changer si vous travaillez en horaire tournant</string>
+	<string name="prefsActualDateBreakAlert">*\u2192 This will break the Time Picker on some devices. Click here to check. Note you can also use \'Menu\' on that dialog.</string>
+	<string name="prefsActualDateShowAlways">*Toujours</string>
+	<string name="prefsActualDateShowCrossMn">*Si au delà de minuit</string>
+	
+	<string name="commonNone">*Aucun</string>
+	<string name="edtoolsCap">*Default capitalization</string>
+	<string name="edtoolsCapWords">*Mots</string>
+	<string name="edtoolsCapSentences">*Phrases</string>
+	<string name="edtoolsAppend">*Ajouter la note standard</string>
+	<string name="widgetSdCardHint">*\u2192 Les Widgets ne fonctionnent pas si l\'application est installée sur la carte SD!</string>
+	
+	<string name="prefsGroupMainScreenRefreshLabel">*Rafraichissement écran principal</string>
+	<string name="prefsGroupMainScreenRefreshHint">*\u2192 Cela augmentera la consommation de la batterie!</string>
+	<string name="prefsMainScreenRefresh">*Rafraichissement auto toutes les n minutes</string>
+	<string name="prefsKeepScreenOn">*Laisser l\'écran allumé</string>
+	
+	<string name="expPrefsShowEmailOnHTML">*Montrer l\'adresse email sur les exports HTML</string>
+	
+	<string name="expSearchDayNotes">*Filtre des notes de la journée</string>
+	<string name="expSearchWorkUnitNotes">*Work unit notes filter</string>
+	<string name="expPrefsAutoCloseWindow">*Fermer la boite de dialogue après l\'export</string>
+	<string name="taskerPluginHint">*\u2192 La version Pro s\'intègre dans les programmes Tasker/Locale</string>
+	<string name="taskerPluginSelectAction">*Sélectionnez l\'action qui doit être déclenchée:</string>
+	<string name="commonTaskSelectionOpen">*Ouvrir la sélection des tâches</string>
+	<string name="commonStartNewTask">*Démarrez une nouvelle tâche</string>
+	<string name="commonNewTaskStarted">*Nouvelle tâche démarrée</string>
+	<string name="taskerPreselectedCategory">*Extra setting: use following task for selected action:</string>
+	<string name="commonWeeklyDelta">*Delta W</string>
+	<string name="commonMonthlyDelta">*Delta M</string>
+	<string name="prefsHideAdsLabel">*\u2022 Publicités</string>
+	<string name="prefsHideAdsButton">*Cacher les publicités jusqu\'à {1}</string>
+	<string name="prefsHideAdsHint">*\u2192 Notez que cela peut être renouvelé après l\'expiration, un nombre illimité de fois.</string>
+	<string name="admResetAllPrefs">*Réinitialiser toutes les préférences</string>
+	<string name="calSyncCalendarType">*Type de calendrier</string>
+	<string name="calSyncCalendarTypeExclusive">*Exclusive, for TimeRec only</string>
+	<string name="calSyncCalendarTypeShared">*Partagé, possède d\'autres entrées</string>
+	
+	<string name="helpInfo">*Info</string>
+	<string name="helpFAQ">*FAQ</string>
+	<string name="helpWhatsNew">*Nouveautés</string>
+	<string name="prefsMinimumBreak">*Minimum break time</string>
+	<string name="viewYTD">*Full year</string>
+	<string name="prefsShowIsoWeekNr">*Montrer les numéros de semaine ISO</string>
+	
+	<string name="confirmDayRollOver">*Cloturer le jour et passer au suivant ?</string>
+	<string name="prefDayRollOver">*\'Close day &amp; roll over\' when working over midnight</string>
+	
+	<string name="categoryEditHeaderTargetOff">*No target\ntime</string>
+	<string name="categoryEditHeaderUnpaid">*Non payé</string>
+	<string name="categoryEditHeaderFixedAmtWorkUnit">*Fixer le montant\npar unité</string>
+	<string name="categoryEditHeaderFixedAmtDay">*Fixer le montant\npar jour</string>
+	<string name="categoryEditSortRenumber">*Trier renuméroter</string>
+	<string name="commonColumnVisibility">*Montrer/cacher les colonnes</string>
+	
+	<string name="prefsMonthlyTargetTime">*Temps cible mensuel</string>
+	<string name="prefsTimeZoneLock">*Verrouiller sur le fuseau horaire</string>
+	<string name="calSyncActiveOnCheckin">*Sync also active on \'check in\'</string>
+	
+	<string name="fileDeliveryGoogleDocs">*Envoyer vers Google Docs</string>
+	<string name="commonAppRequired">*App required</string>
+	<string name="commonUpdateCurrentTask">*Update task of current work unit</string>
+	
+	<string name="dstorHintProvideBackup2">*\u2192 Astuce: Rechercher le dossier avec le fichier \u00ab{1}\u00bb.</string>
+	<string name="errorSdCardWrite">*Erreur en ecriture sur la carte SD</string>
+	<string name="calSyncInvalidCalendarTitle">*Nom de calendrier manquant ou invalide</string>
+	<string name="commonLookupHint">*\u2192 Astuce: use the [\u2026] lookup.</string>
+	<string name="commonResetSettings">*Réinitialiser les paramètres par défaut</string>
+	<string name="commonFlip">*Retourner</string>
+	<string name="expPrefsShowAggregatedTasks">*E1, E3: Afficher les tâches agrégées</string>
 	
 </resources>
