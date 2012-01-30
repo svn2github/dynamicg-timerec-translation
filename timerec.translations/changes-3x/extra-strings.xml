@@ -1,0 +1,35 @@
+<!-- EN -->
+    <string name="commonCustomer">Customer</string>
+    <string name="prefsCustomerFilter">Customer filter</string>
+    <string name="expPrefsShowCustomer">E2,E4,E5: Show customer</string>
+    <string name="commonDeleteEntry">Delete entry</string>
+    <string name="commonDeleteLine">Delete line</string>
+    <string name="taskerPluginCondition">Condition</string>
+	<string name="commonCheckedOut">Checked out</string>
+
+<!-- IT -->
+    <string name="commonCustomer">Cliente</string>
+    <string name="prefsCustomerFilter">Filtro cliente</string>
+    <string name="expPrefsShowCustomer">E2,E4,E5: Mostra cliente</string>
+    <string name="commonDeleteEntry">Elimina voce</string>
+    <string name="commonDeleteLine">Elimina linea</string>
+    <string name="taskerPluginCondition">Condizione</string>
+	<string name="commonCheckedOut">Checked out</string>
+
+<!-- ES -->
+    <string name="commonCustomer">Cliente</string>
+    <string name="prefsCustomerFilter">Filtro cliente</string>
+    <string name="expPrefsShowCustomer">E2,E4,E5: Mostrar cliente</string>
+    <string name="commonDeleteEntry">Borrar entrada</string>
+    <string name="commonDeleteLine">Borrar línea</string>
+    <string name="taskerPluginCondition">Condición</string>
+	<string name="commonCheckedOut">Checked out</string>
+
+<!-- FR -->
+    <string name="commonCustomer">Client</string>
+    <string name="prefsCustomerFilter">Filtre client</string>
+    <string name="expPrefsShowCustomer">E2,E4,E5: Afficher \'Client\'</string>
+    <string name="commonDeleteEntry">Supprimer l'entrée</string>
+    <string name="commonDeleteLine">Supprimer la ligne</string>
+    <string name="taskerPluginCondition">Condition</string>
+	<string name="commonCheckedOut">Checked out</string>
