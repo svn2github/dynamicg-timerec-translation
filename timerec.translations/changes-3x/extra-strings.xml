@@ -19,7 +19,7 @@
 <!-- ES -->
     <string name="commonCustomer">Cliente</string>
     <string name="prefsCustomerFilter">Filtro cliente</string>
-    <string name="expPrefsShowCustomer">E2,E4,E5: Mostrar cliente</string>
+    <string name="expPrefsShowCustomer">E2,E4,E5: Mostrar \'Cliente\'</string>
     <string name="commonDeleteEntry">Borrar entrada</string>
     <string name="commonDeleteLine">Borrar línea</string>
     <string name="taskerPluginCondition">Condición</string>
@@ -30,6 +30,6 @@
     <string name="prefsCustomerFilter">Filtre client</string>
     <string name="expPrefsShowCustomer">E2,E4,E5: Afficher \'Client\'</string>
     <string name="commonDeleteEntry">Supprimer l'entrée</string>
-    <string name="commonDeleteLine">Supprimer la ligne</string>
+    <string name="commonDeleteLine">Supprimer ligne</string>
     <string name="taskerPluginCondition">Condition</string>
 	<string name="commonCheckedOut">Checked out</string>
