@@ -165,10 +165,12 @@
 	<string name="expPrefsDetailsReportActive">Activar \'Detalles\' en listado</string>
 	<string name="expDomNotesFilterEqual">igual</string>
 	<string name="expDomNotesFilterLike">contiene</string>
-	<string name="expPrefsShowTotalLine">Mostrar \'Total\' (E1-E4)</string>
-	<string name="expPrefsGroupBreakDate">Agrupar pausas por \'Fechas\' (E2,E4)</string>
 	<string name="expPrefsIsoDate">Formato de fecha YYYY/MM/DD</string>
 
+	<string name="expPrefsShowTotalLine">E1-E4: Mostrar \'Total\'</string>
+	<string name="expPrefsGroupBreakDate">E2,E4: Agrupar pausas por \'Fechas\'</string>
+	<string name="expPrefsTransposeMatrix">E5: matriz de transposición</string>
+	
 	<string name="expTypeOverviewDays">E1 resumen del día</string>
 	<string name="expTypeOverviewWorkUnits">E2 resumen unidad de trabajo</string>
 	<string name="expTypeOverviewDayAttendance">E3 Presencia díaria</string>
@@ -387,7 +389,6 @@
 	
 	<string name="expPrefsCharsetCommon">Caracteres por defecto</string>
 	<string name="expPrefsCharsetFullList">Lista completa</string>
-	<string name="expPrefsTransposeMatrix">E5: matriz de transposición</string>
 	
     <string name="errorCalSyncFailed">Ha fallado la sincronización con Calendario</string>
     <string name="errorDropboxAccessFailed">Error al acceder a Dropbox</string>
@@ -536,6 +537,6 @@
 	<string name="commonLookupHint">\u2192 Ayuda: usa [\u2026] para buscar.</string>
 	<string name="commonResetSettings">Restaurar a fábrica</string>
 	<string name="commonFlip">Voltear</string>
-	<string name="expPrefsShowAggregatedTasks">E1, E3: Ver tareas añadidas</string>
+	<string name="expPrefsShowAggregatedTasks">E1,E3: Ver tareas añadidas</string>
 		
 </resources>
