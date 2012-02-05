@@ -293,7 +293,7 @@
     <string name="bckSwitchToLive">Retour aux données vivantes</string>
     <string name="bckArchiveDataOlderThan">Archiver données &gt; {1} mois</string>
     <string name="bckArchiveHint">\u2192 Utilisez \"Archiver\" pour déplacer les données anciennes et ainsi optimiser la \'base vivante\'</string>
-	<string name="bckRestoreSdCardUnavailable">Carte SD Card non disponible. Sauvegarde/restauration actuellement impossible!</string>
+	<string name="errorSdCardUnavailable">Carte SD Card non disponible. Sauvegarde/restauration/export actuellement impossible!</string>
 	
 	<string name="widgetAppTitle1">Heure</string>
     <string name="widgetAppTitle2">Enregistrement</string>

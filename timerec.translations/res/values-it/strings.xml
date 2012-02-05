@@ -254,7 +254,7 @@
     <string name="bckSwitchToLive">Torna su Dati live</string>
     <string name="bckArchiveDataOlderThan">Archivio di dati &gt; {1} mesi</string>
     <string name="bckArchiveHint">\u2192 Usa \"Archivio\" per spostare i vecchi dati e creare un \'database live\' più piccolo e più veloce</string>
-	<string name="bckRestoreSdCardUnavailable">Card SD non disponibile. Backup/ripristino attualmente non possibili!</string>
+	<string name="errorSdCardUnavailable">Card SD non disponibile. Backup/ripristino/esporta attualmente non possibili!</string>
 	
 	<string name="widgetAppTitle1">Registra</string>
     <string name="widgetAppTitle2">Orari</string>
