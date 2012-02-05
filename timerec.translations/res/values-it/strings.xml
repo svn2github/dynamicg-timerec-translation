@@ -220,8 +220,8 @@
     <string name="categoryFilter">Filtro lavoro</string>
     <string name="categoryEditLink">Cambia lavori</string>
     <string name="categoryEditorHintMenu">\u2192 clicca su Menu per le funzioni</string>
-    <string name="categorySampleEntry1">Cliente 1 - sul posto</string>
-    <string name="categorySampleEntry2">Cliente 1 - supporto</string>
+    <string name="categorySampleEntry1">Cliente 1 - Progetto A</string>
+    <string name="categorySampleEntry2">Cliente 1 - Progetto B</string>
     <string name="categorySampleEntry3">Formazione</string>
 
     <string name="hintClickToChange">Clicca per cambiare</string>

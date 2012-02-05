@@ -257,8 +257,8 @@
     <string name="categoryFilter">Filtrer tâches</string>
     <string name="categoryEditLink">Editer tâches</string>
     <string name="categoryEditorHintMenu">\u2192 Ouvrez le menu pour accéder aux fonctions</string>
-    <string name="categorySampleEntry1">Client 1 - Sur-site</string>
-    <string name="categorySampleEntry2">Client 1 - Support</string>
+    <string name="categorySampleEntry1">Client 1 - Projet A</string>
+    <string name="categorySampleEntry2">Client 1 - Projet B</string>
     <string name="categorySampleEntry3">Formation</string>
 
     <string name="hintClickToChange">Cliquez pour changer</string>
