@@ -1,4 +1,4 @@
-<!-- EN -->
+	<!-- EN -->
     <string name="commonCustomer">Customer</string>
     <string name="prefsCustomerFilter">Customer filter</string>
     <string name="expPrefsShowCustomer">E2,E4,E5: Show customer</string>
@@ -7,7 +7,8 @@
     <string name="taskerPluginCondition">Condition</string>
 	<string name="commonCheckedOut">Checked out</string>
 
-<!-- IT -->
+	<!-- IT -->
+	<!-- ==== 3.16 / customers ==== -->
     <string name="commonCustomer">Cliente</string>
     <string name="prefsCustomerFilter">Filtro cliente</string>
     <string name="expPrefsShowCustomer">E2,E4,E5: Mostra cliente</string>
@@ -16,7 +17,8 @@
     <string name="taskerPluginCondition">Condizione</string>
 	<string name="commonCheckedOut">Checked out</string>
 
-<!-- ES -->
+	<!-- ES -->
+	<!-- ==== 3.16 / customers ==== -->
     <string name="commonCustomer">Cliente</string>
     <string name="prefsCustomerFilter">Filtro cliente</string>
     <string name="expPrefsShowCustomer">E2,E4,E5: Mostrar \'Cliente\'</string>
@@ -25,11 +27,12 @@
     <string name="taskerPluginCondition">Condición</string>
 	<string name="commonCheckedOut">Checked out</string>
 
-<!-- FR -->
+	<!-- FR -->
+	<!-- ==== 3.16 / customers ==== -->
     <string name="commonCustomer">Client</string>
     <string name="prefsCustomerFilter">Filtre client</string>
     <string name="expPrefsShowCustomer">E2,E4,E5: Afficher \'Client\'</string>
-    <string name="commonDeleteEntry">Supprimer l'entrée</string>
+    <string name="commonDeleteEntry">Supprimer l\'entrée</string>
     <string name="commonDeleteLine">Supprimer ligne</string>
     <string name="taskerPluginCondition">Condition</string>
 	<string name="commonCheckedOut">Checked out</string>
