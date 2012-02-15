@@ -1,0 +1,3 @@
+
+https://dynamicg-timerec.googlecode.com/svn/trunk/timerec.translations/res
+https://dynamicg-timerec.googlecode.com/svn/trunk/timerec.translations/res/values/strings.xml
