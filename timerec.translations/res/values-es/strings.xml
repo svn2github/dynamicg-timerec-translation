@@ -95,7 +95,6 @@
     <string name="checkboxIncludeDayNotes">Incluír notas del día</string>
     <string name="confirmUpdateAdjacent">Actualizar registro adyacente?</string>
     
-    <string name="prefsWindowTitle" /> <!-- remove -->
     <string name="prefsExportRecipient">Correo electrónico por defecto</string>
     <string name="prefsExpCsvDataSeparator">Separador de columna</string>
     <string name="prefsTotalFormat">Mostrar totales como</string>

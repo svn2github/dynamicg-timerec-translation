@@ -95,7 +95,6 @@
     <string name="checkboxIncludeDayNotes">Includi note del giorno</string>
     <string name="confirmUpdateAdjacent">Aggiornare anche timbratura adiacente?</string>
     
-    <string name="prefsWindowTitle" /> <!-- remove -->
     <string name="prefsExportRecipient">Email di default del destinatario</string>
     <string name="prefsExpCsvDataSeparator">Separatore di colonne</string>
     <string name="prefsTotalFormat">Mostra totali come</string>
