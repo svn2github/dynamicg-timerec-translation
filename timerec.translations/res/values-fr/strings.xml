@@ -103,7 +103,7 @@
     <string name="checkboxIncludeDayNotes">Inclure les notes journalières</string>
     <string name="confirmUpdateAdjacent">Mettre aussi à jour les enregistrements adjacents ?</string>
     
-    <string name="prefsWindowTitle">Préférences du logiciel</string>
+    <string name="prefsWindowTitle" /> <!-- remove -->
     <string name="prefsExportRecipient">Email par défaut</string>
     <string name="prefsExpCsvDataSeparator">Séparateur de colonnes</string>
     <string name="prefsTotalFormat">Format totaux</string>

@@ -104,7 +104,6 @@
     <string name="checkboxIncludeDayNotes">Include day notes</string>
     <string name="confirmUpdateAdjacent">Also update adjacent stamp?</string>
     
-    <string name="prefsWindowTitle">Time Recording Preferences</string>
     <string name="prefsExportRecipient">Default email recipient</string>
     <string name="prefsExpCsvDataSeparator">Column separator</string>
     <string name="prefsTotalFormat">Show totals as</string>
