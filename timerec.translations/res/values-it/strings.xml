@@ -170,7 +170,7 @@
 	<string name="expPrefsIsoDate">AAAA/MM/GG formato data</string>
 
 	<string name="expTypeOverviewDays">E1 Panoramica del giorno</string>
-	<string name="expTypeOverviewWorkUnits">E2 Panoramica dei singoli lavori</string>
+	<string name="expTypeOverviewWorkUnits">E2 Panoramica singoli lavori</string>
 	<string name="expTypeOverviewDayAttendance">E3 Frequenza del giorno</string>
 	<string name="expTypeTasksPerDay">E4 Lavori al giorno</string>
 	<string name="expTypeDetails">Dettagli (ogni timbratura)</string>
@@ -421,15 +421,6 @@
 
 	<string name="commonPreviouslyUsed">Utilizzati in precedenza</string>
 
-	<!-- ==== 3.16 / customers ==== -->
-    <string name="commonCustomer">Cliente</string>
-    <string name="prefsCustomerFilter">Filtro cliente</string>
-    <string name="expPrefsShowCustomer">E2,E4,E5: Mostra cliente</string>
-    <string name="commonDeleteEntry">Elimina voce</string>
-    <string name="commonDeleteLine">Elimina linea</string>
-    <string name="taskerPluginCondition">Condizione</string>
-	<string name="commonCheckedOut">Checked out</string>
-	
 	<!-- ==== UPGRADE FROM 2.04 TO 3.15 ==== -->
 	<string name="err25">Errore: Backup fallito</string>
 	<string name="bckSdCardAutoBackup">Backup su scheda SD ogni  x giorni</string>
@@ -546,5 +537,17 @@
 	<string name="commonResetSettings">Resetta le impostazioni a default</string>
 	<string name="commonFlip">Ribalta</string>
 	<string name="expPrefsShowAggregatedTasks">E1,E3: Mostra lavori aggregati</string>
+	
+	<!-- ==== 3.16 / customers ==== -->
+    <string name="commonCustomer">Cliente</string>
+    <string name="prefsCustomerFilter">Filtro cliente</string>
+    <string name="expPrefsShowCustomer">E2,E4,E5: Mostra cliente</string>
+    <string name="commonDeleteEntry">Elimina voce</string>
+    <string name="commonDeleteLine">Elimina linea</string>
+    <string name="taskerPluginCondition">Condizione</string>
+	<string name="commonCheckedOut">Checked out</string>
+	
+	<!-- 3.17 -->
+    <string name="commonDeltaOverview">Panoramica Delta</string>
 	
 </resources>

@@ -408,15 +408,6 @@
 
 	<string name="commonPreviouslyUsed">Utilisé auparavant</string>
 	
-	<!-- ==== 3.16 / customers ==== -->
-    <string name="commonCustomer">Client</string>
-    <string name="prefsCustomerFilter">Filtre client</string>
-    <string name="expPrefsShowCustomer">E2,E4,E5: Afficher \'Client\'</string>
-    <string name="commonDeleteEntry">Supprimer l\'entrée</string>
-    <string name="commonDeleteLine">Supprimer ligne</string>
-    <string name="taskerPluginCondition">Condition</string>
-	<string name="commonCheckedOut">Checked out</string>
-
 	<!-- ==== UPGRADE FROM 2.04 TO 3.15 ==== -->
 	<string name="err25">*Erreur : la sauvegarde a échoué</string>
 	<string name="bckSdCardAutoBackup">*Sauvegarder sur la carte SD tous les x jours</string>
@@ -534,4 +525,16 @@
 	<string name="commonFlip">*Retourner</string>
 	<string name="expPrefsShowAggregatedTasks">*E1, E3: Afficher les tâches agrégées</string>
 	
+	<!-- ==== 3.16 / customers ==== -->
+    <string name="commonCustomer">Client</string>
+    <string name="prefsCustomerFilter">Filtre client</string>
+    <string name="expPrefsShowCustomer">E2,E4,E5: Afficher \'Client\'</string>
+    <string name="commonDeleteEntry">Supprimer l\'entrée</string>
+    <string name="commonDeleteLine">Supprimer ligne</string>
+    <string name="taskerPluginCondition">Condition</string>
+	<string name="commonCheckedOut">Checked out</string>
+
+	<!-- 3.17 -->
+    <string name="commonDeltaOverview">Aperçu Delta</string>
+    
 </resources>
