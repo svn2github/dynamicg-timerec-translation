@@ -8,8 +8,8 @@
 	<!-- translation credits -->
     <string name="aboutTranslation"></string>
     
-    <string name="app_name">Time Recording</string>
-    <string name="app_name_pro">Time Recording Pro</string>
+    <string name="app_name">Hojas de Tiempos</string>
+    <string name="app_name_pro">Hojas de Tiempos Pro</string>
     
     <string name="homescreenCheckinNow">Iniciar</string>
     <string name="homescreenCheckoutNow">Finalizar</string>
@@ -149,7 +149,7 @@
     <string name="dailyTargetOptOvertime">Apuntar como sobretiempo</string>
     
     <string name="sendMailIntentTitle">Enviar correo</string>
-    <string name="exportMailTitle">Exportar datos de Time Recording {3}, {1}</string>
+    <string name="exportMailTitle">Exportar datos de Hojas de Tiempos {3}, {1}</string>
     <string name="exportMailBody">{title}\ncreado el {2}</string>
     <string name="exportColumnSeparatorHint">Ayuda: cambiar el \'Separador de columna\' en la configuración de exportación si los datos sólo se importan en una única columna</string>
 	<string name="repTaskMatrix">Matriz de tareas</string>
@@ -355,13 +355,13 @@
 	<!-- =================================================================== -->
     <string name="googleSitesLanguage">en</string>
     
-	<string name="widgetAppTitleShort">TR</string>
-	<string name="widgetTitleFrame">Time Recording (Frame)</string>
-	<string name="widgetTitleGloss">Time Recording (Gloss)</string>
-	<string name="widgetTitleSlider">Time Recording (Slider)</string>
-	<string name="widgetTitleFramePro">Time Recording Pro (Frame)</string>
-	<string name="widgetTitleGlossPro">Time Recording Pro (Gloss)</string>
-	<string name="widgetTitleSliderPro">Time Recording Pro (Slider)</string>
+	<string name="widgetAppTitleShort">HT</string>
+	<string name="widgetTitleFrame">Hojas de Tiempos (Frame)</string>
+	<string name="widgetTitleGloss">Hojas de Tiempos (Gloss)</string>
+	<string name="widgetTitleSlider">Hojas de Tiempos (Slider)</string>
+	<string name="widgetTitleFramePro">Hojas de Tiempos Pro (Frame)</string>
+	<string name="widgetTitleGlossPro">Hojas de Tiempos Pro (Gloss)</string>
+	<string name="widgetTitleSliderPro">Hojas de Tiempos Pro (Slider)</string>
 	
 	
 	<!-- =================================================================== -->
