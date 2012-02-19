@@ -10,8 +10,8 @@
     <string name="aboutTranslation"></string>
     
 	<!-- labels -->
-    <string name="app_name">Time Recording FR</string>
-    <string name="app_name_pro">Time Recording FR Pro</string>
+    <string name="app_name">Gestion du temps</string>
+    <string name="app_name_pro">Gestion du temps Pro</string>
     
     <string name="homescreenCheckinNow">Démarrer</string>
     <string name="homescreenCheckoutNow">Terminer</string>
@@ -176,7 +176,7 @@
     <string name="dailyTargetOptOvertime">Marquer comme heures supplémentaires</string>
     
     <string name="sendMailIntentTitle">Envoyer email</string>
-    <string name="exportMailTitle">Time Recording - Export données {3}, {1}</string>
+    <string name="exportMailTitle">Gestion du temps - Export données {3}, {1}</string>
     <string name="exportMailBody">{title}\ncréé le {2}</string>
     <string name="exportColumnSeparatorHint">Astuce: changer le \'Séparateur de colonnes\' dans les paramètres d\'export si les données sont importées comme une seule colonne</string>
 	<string name="repTaskMatrix">Matrice Tâche</string>
@@ -390,12 +390,12 @@
 	<string name="proReminderMktButton">Android Market</string>
 
 	<string name="widgetAppTitleShort">TR</string>
-	<string name="widgetTitleFrame">Time Recording (Frame)</string>
-	<string name="widgetTitleGloss">Time Recording (Gloss)</string>
-	<string name="widgetTitleSlider">Time Recording (Slider)</string>
-	<string name="widgetTitleFramePro">Time Recording Pro (Frame)</string>
-	<string name="widgetTitleGlossPro">Time Recording Pro (Gloss)</string>
-	<string name="widgetTitleSliderPro">Time Recording Pro (Slider)</string>
+	<string name="widgetTitleFrame">Gestion du temps (Frame)</string>
+	<string name="widgetTitleGloss">Gestion du temps (Gloss)</string>
+	<string name="widgetTitleSlider">Gestion du temps (Slider)</string>
+	<string name="widgetTitleFramePro">Gestion du temps Pro (Frame)</string>
+	<string name="widgetTitleGlossPro">Gestion du temps Pro (Gloss)</string>
+	<string name="widgetTitleSliderPro">Gestion du temps Pro (Slider)</string>
 	<string name="widgetPrefMainTitle">Widget &amp; Barre de notification</string>
 	<string name="widgetPrefNotifBarActive">Notifier dans la barre de status</string>
 	<string name="widgetPrefNotifBarText">Texte notification</string>
