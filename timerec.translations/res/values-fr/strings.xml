@@ -389,7 +389,7 @@
 	
 	<string name="proReminderMktButton">Android Market</string>
 
-	<string name="widgetAppTitleShort">TR</string>
+	<string name="widgetAppTitleShort">GT</string>
 	<string name="widgetTitleFrame">Gestion du temps (Frame)</string>
 	<string name="widgetTitleGloss">Gestion du temps (Gloss)</string>
 	<string name="widgetTitleSlider">Gestion du temps (Slider)</string>
