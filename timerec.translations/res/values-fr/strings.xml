@@ -245,7 +245,7 @@
     
     <string name="categoryNone">(pas de tâche)</string>
     <string name="categoryFilterAll">&lt;Tout&gt;</string>
-    <string name="commonNewTask">Nouv. tâche</string>
+    <string name="commonNewTask">Nouvelle tâche</string>
     <string name="categoryEditHeaderTitle">Titre</string>
     <string name="categoryEditHeaderHourlyRate">Taux\nHoraire</string>
     <string name="categoryEditHeaderSort">Tri</string>
