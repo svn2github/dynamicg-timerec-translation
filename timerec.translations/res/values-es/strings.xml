@@ -210,7 +210,7 @@
     
     <string name="categoryNone">(sin tarea)</string>
     <string name="categoryFilterAll">&lt;todo&gt;</string>
-    <string name="categoryTitleForNewCat">Nueva tarea</string>
+    <string name="commonNewTask">Nueva tarea</string>
     <string name="categoryEditHeaderTitle">Título</string>
     <string name="categoryEditHeaderHourlyRate">Precio\nHoras</string>
     <string name="categoryEditHeaderSort">Ordenar</string>

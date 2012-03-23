@@ -208,7 +208,7 @@
     
     <string name="categoryNone">(lavoro n/d)</string>
     <string name="categoryFilterAll">&lt;Tutti&gt;</string>
-    <string name="categoryTitleForNewCat">Nuovo lavoro</string>
+    <string name="commonNewTask">Nuovo lavoro</string>
     <string name="categoryEditHeaderTitle">Titolo</string>
     <string name="categoryEditHeaderHourlyRate">Tariffa\nOraria</string>
     <string name="categoryEditHeaderSort">Ordinamento</string>
