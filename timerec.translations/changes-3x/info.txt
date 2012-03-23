@@ -1,4 +1,0 @@
-base version i18n: 070
-translated against: revision 7274
-
-=> new version translated against 3.15
