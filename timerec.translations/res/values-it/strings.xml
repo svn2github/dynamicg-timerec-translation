@@ -549,6 +549,6 @@
 	
     <!-- 3.18 -->
     <string name="commonAddLine">Aggiungi riga</string>
-    <string name="commonDeleteAllLines">Delete all lines</string>
+    <string name="commonDeleteAllLines">Eliminare tutte le linee</string>
     
 </resources>
