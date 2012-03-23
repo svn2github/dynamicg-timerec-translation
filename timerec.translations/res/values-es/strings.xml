@@ -550,6 +550,6 @@
     
     <!-- 3.18 -->
     <string name="commonAddLine">Añadir línea</string>
-    <string name="commonDeleteAllLines">Borrar líneas</string>
+    <string name="commonDeleteAllLines">Borrar todas las líneas</string>
     
 </resources>
