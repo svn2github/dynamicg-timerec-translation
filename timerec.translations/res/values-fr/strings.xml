@@ -536,6 +536,6 @@
     
     <!-- 3.18 -->
     <string name="commonAddLine">Ajouter ligne</string>
-    <string name="commonDeleteAllLines">Delete all lines</string>
+    <string name="commonDeleteAllLines">Effacer toutes les lignes</string>
     
 </resources>
