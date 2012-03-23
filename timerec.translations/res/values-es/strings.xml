@@ -208,10 +208,8 @@
     <string name="dayShortFri">Vie</string>
     <string name="dayShortSat">Sáb</string>
     
-    <string name="categorySelectionTitle">Tarea iniciada {1}</string>
     <string name="categoryNone">(sin tarea)</string>
     <string name="categoryFilterAll">&lt;todo&gt;</string>
-    <string name="categoryEditorAddNew">Añadir nueva tarea</string>
     <string name="categoryTitleForNewCat">Nueva tarea</string>
     <string name="categoryEditHeaderTitle">Título</string>
     <string name="categoryEditHeaderHourlyRate">Precio\nHoras</string>

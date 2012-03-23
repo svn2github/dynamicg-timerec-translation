@@ -243,10 +243,8 @@
     <string name="dayShortFri">Ven</string>
     <string name="dayShortSat">Sam</string>
     
-    <string name="categorySelectionTitle">Tâche démarrée {1}</string>
     <string name="categoryNone">(pas de tâche)</string>
     <string name="categoryFilterAll">&lt;Tout&gt;</string>
-    <string name="categoryEditorAddNew">Ajout nouv. tâche</string>
     <string name="categoryTitleForNewCat">Nouv. tâche</string>
     <string name="categoryEditHeaderTitle">Titre</string>
     <string name="categoryEditHeaderHourlyRate">Taux\nHoraire</string>

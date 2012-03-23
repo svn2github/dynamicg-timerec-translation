@@ -206,10 +206,8 @@
     <string name="dayShortFri">Ven</string>
     <string name="dayShortSat">Sab</string>
     
-    <string name="categorySelectionTitle">Inizio lavoro\: {1}</string>
     <string name="categoryNone">(lavoro n/d)</string>
     <string name="categoryFilterAll">&lt;Tutti&gt;</string>
-    <string name="categoryEditorAddNew">Aggiungi nuovo lavoro</string>
     <string name="categoryTitleForNewCat">Nuovo lavoro</string>
     <string name="categoryEditHeaderTitle">Titolo</string>
     <string name="categoryEditHeaderHourlyRate">Tariffa\nOraria</string>
