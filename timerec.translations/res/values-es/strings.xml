@@ -38,7 +38,6 @@
     <string name="commonCategories">Tareas</string>
     <string name="commonHourlyRate">Precio Hora</string>
     <string name="commonEditCategories">Editar tareas</string>
-    <string name="commonAddRow">Añadir línea</string>
     <string name="commonStop">Fin</string>
     <string name="commonType">Tipo</string>
     <string name="commonIn">Inicio</string>
@@ -136,7 +135,8 @@
 	<string name="prefsProOnlyFeature">\u2192 Esta característica está sólo en la \"versión Pro\"</string>
 
     <string name="stdStampTitle">Pausas &amp; bloques</string>
-    <string name="stdStampTypeBlock">Bloques</string>
+    <string name="stdStampTypeBlockShort">Bloques</string>
+    <string name="stdStampTypeBlockLong">Bloques</string>
     
     <string name="autoBreakTitle">Pausa automática</string>
     <string name="autoBreakBookWhen">Cuando</string>
@@ -549,6 +549,9 @@
 
 	<!-- 3.17 -->
     <string name="commonDeltaOverview">Resumen Delta</string>
+    
+    <!-- 3.18 -->
+    <string name="commonAddRow">Añadir línea</string>
     
 </resources>
 

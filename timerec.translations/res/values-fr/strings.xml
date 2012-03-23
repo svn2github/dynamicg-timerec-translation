@@ -40,7 +40,6 @@
     <string name="commonCategories">Tâches</string>
     <string name="commonHourlyRate">Taux horaire</string>
     <string name="commonEditCategories">Editer tâches</string>
-    <string name="commonAddRow">Ajouter ligne</string>
     <string name="commonStop">Fin</string>
     <string name="commonType">Type</string>
     <string name="commonIn">Début</string>
@@ -160,7 +159,8 @@
 	<string name="utilityAppMissing">\u2192 Application supplémentaire \'{1}\' requise.\nCliquez ici pour télécharger</string>
 
     <string name="stdStampTitle">Pauses &amp; blocs</string>
-    <string name="stdStampTypeBlock">Bloc</string>
+    <string name="stdStampTypeBlockShort">Bloc</string>
+    <string name="stdStampTypeBlockLong">Bloc</string>
     <string name="stdStampTypeBreakNow">Pause maintenant</string>
     <string name="stdStampBreakForLastMI">{1} dernières minutes</string>
     <string name="stdStampBreakForNextMI">{1} prochaines minutes</string>
@@ -535,6 +535,9 @@
 
 	<!-- 3.17 -->
     <string name="commonDeltaOverview">Aperçu Delta</string>
+    
+    <!-- 3.18 -->
+    <string name="commonAddRow">Ajouter ligne</string>
     
 </resources>
 

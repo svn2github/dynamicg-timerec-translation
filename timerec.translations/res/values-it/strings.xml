@@ -38,7 +38,6 @@
     <string name="commonCategories">Lavori</string>
     <string name="commonHourlyRate">Tariffa oraria</string>
     <string name="commonEditCategories">Modifica lavori</string>
-    <string name="commonAddRow">Aggiungi riga</string>
     <string name="commonStop">Ferma</string>
     <string name="commonType">Tipo</string>
     <string name="commonIn">Inizio</string>
@@ -136,7 +135,8 @@
 	<string name="prefsProOnlyFeature">\u2192 Questa è una funzione disponibile \"solo nella versione Pro\"</string>
 	
     <string name="stdStampTitle">Pause &amp; blocchi</string>
-    <string name="stdStampTypeBlock">Blocco</string>
+    <string name="stdStampTypeBlockShort">Blocco</string>
+    <string name="stdStampTypeBlockLong">Blocco</string>
     
     <string name="autoBreakTitle">Pause automatiche</string>
     <string name="autoBreakBookWhen">Quando</string>
@@ -549,5 +549,8 @@
 	<!-- 3.17 -->
     <string name="commonDeltaOverview">Panoramica Delta</string>
 	
+    <!-- 3.18 -->
+    <string name="commonAddRow">Aggiungi riga</string>
+    
 </resources>
 
