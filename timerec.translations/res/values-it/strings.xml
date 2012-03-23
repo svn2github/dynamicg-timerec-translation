@@ -548,7 +548,7 @@
     <string name="commonDeltaOverview">Panoramica Delta</string>
 	
     <!-- 3.18 -->
-    <string name="commonAddRow">Aggiungi riga</string>
+    <string name="commonAddLine">Aggiungi riga</string>
     
 </resources>
 

@@ -535,7 +535,7 @@
     <string name="commonDeltaOverview">Aperçu Delta</string>
     
     <!-- 3.18 -->
-    <string name="commonAddRow">Ajouter ligne</string>
+    <string name="commonAddLine">Ajouter ligne</string>
     
 </resources>
 

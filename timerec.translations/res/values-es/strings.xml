@@ -549,7 +549,7 @@
     <string name="commonDeltaOverview">Resumen Delta</string>
     
     <!-- 3.18 -->
-    <string name="commonAddRow">Añadir línea</string>
+    <string name="commonAddLine">Añadir línea</string>
     
 </resources>
 
