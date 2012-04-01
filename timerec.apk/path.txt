@@ -9,5 +9,8 @@ http://dynamicg-timerec.googlecode.com/svn/trunk/timerec.apk/beta
 -- I18N
 http://dynamicg-timerec.googlecode.com/svn/trunk/timerec.apk/i18n/TimeRecording-i18n-315-01.apk
 
+-- MULTI INSTANCES
+http://dynamicg-timerec.googlecode.com/svn/trunk/timerec.apk/instances/readme-en.html
+
 archive folder: 
 C:\workspace\androidDeployment\apk
