@@ -540,7 +540,6 @@
     <string name="prefsThemeLight">Light</string>
     <string name="prefsThemeDark">Dark</string>
     <string name="commonBasicSettings">Basic settings</string>
-    <!-- delete "commonReset" -->
     <string name="autoBreakSkipWhenOff">Skip if outside time window</string>
     
     <string name="prefsTargetReachedNotification">Notification sound when reached</string>
