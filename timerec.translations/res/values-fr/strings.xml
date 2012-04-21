@@ -536,10 +536,11 @@
     <string name="commonDeleteAllLines">Effacer toutes les lignes</string>
     
     <!-- 4.04 -->
-    <string name="prefsTheme">Theme (Android 4)</string>
-    <string name="prefsThemeLight">Light</string>
-    <string name="prefsThemeDark">Dark</string>
-    <string name="commonBasicSettings">Basic settings</string>
+    <string name="prefsTheme">Thème (Android 4)</string>
+    <string name="prefsThemeLight">Clair</string>
+    <string name="prefsThemeDark">Sombre</string>
+    <string name="commonBasicSettings">Réglages de base</string>
+    
     <string name="autoBreakSkipWhenOff">Skip if outside time window</string>
     
     <string name="prefsTargetReachedNotification">Notification sound when reached</string>
