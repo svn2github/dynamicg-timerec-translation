@@ -1,1 +1,1 @@
-https://dynamicg-timerec.googlecode.com/svn/trunk/timerec.apk/utilPro/TimeRecUtilities.apk
+https://dynamicg-timerec.googlecode.com/svn/trunk/timerec.apk/utilPro/
