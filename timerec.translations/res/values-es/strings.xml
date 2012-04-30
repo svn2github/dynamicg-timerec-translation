@@ -540,12 +540,12 @@
     <string name="taskerPluginCondition">Condición</string>
 	<string name="commonCheckedOut">Checked out</string>
 
-	<!-- 3.17 -->
-    <string name="commonDeltaOverview">Resumen Delta</string>
-    
     <!-- 4.0x -->
     <string name="commonAddLine">Añadir línea</string>
     <string name="commonDeleteAllLines">Borrar todas las líneas</string>
+    
+    <!-- 4.0x (2) -->
+	<string name="expPrefsIsoDateFormat">AAAA/MM/DD</string>
     
     <!-- 4.04 -->
     <string name="prefsTheme">Theme (Android 4)</string>
@@ -553,19 +553,20 @@
     <string name="prefsThemeDark">Dark</string>
     <string name="commonBasicSettings">Basic settings</string>
     <string name="autoBreakSkipWhenOff">Skip if outside time window</string>
-    
-    <string name="prefsTargetReachedNotification">Notification sound when reached</string>
-    <string name="targetReachedNotifOnce">Once</string>
-    <string name="targetReachedNotifInsistent">Insistent</string>
-    
-    <!-- replacement for "commonDeltaOverview" -->
 	<string name="commonWorktimeOverview">Worktime overview</string>
 	<string name="commonViewNoun">View</string>
 	<string name="commonShort">Short</string>
-	
-	<string name="expPrefsIsoDateFormat">AAAA/MM/DD</string>
-	
     <string name="prefsReportingPeriod">Reporting period</string>
     <string name="prefsBackupAndRestore">Backup &amp; restore</string>
+    
+    <!-- 4.05 -->
+    <string name="commonBreakOver">Break over</string>
+    <string name="commonTargetReached">Target reached</string>
+    <string name="timeReachedAlarmSettings">\'{1}\' alarm settings</string>
+    <string name="timeReachedNotification">{1} at {2}</string> <!-- sample: "Target reached at 17:45" -->
+    <string name="alertNotificationSoundOnce">Notification sound (once)</string>
+    <string name="alertNotificationSoundInsistent">Notification sound (insistent)</string>
+    <string name="alertNotificationVibra">Vibrate</string>
+    <string name="alertNotificationAppVibra">Click here to install the \'Vibrate\' plugin</string>
     
 </resources>
