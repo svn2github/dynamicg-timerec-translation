@@ -539,9 +539,6 @@
     <string name="taskerPluginCondition">Condizione</string>
 	<string name="commonCheckedOut">Checked out</string>
 	
-	<!-- 3.17 -->
-    <string name="commonDeltaOverview">Panoramica Delta</string>
-	
     <!-- 4.0x -->
     <string name="commonAddLine">Aggiungi riga</string>
     <string name="commonDeleteAllLines">Eliminare tutte le linee</string>

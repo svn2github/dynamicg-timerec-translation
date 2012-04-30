@@ -526,9 +526,6 @@
     <string name="taskerPluginCondition">Condition</string>
 	<string name="commonCheckedOut">Checked out</string>
 
-	<!-- 3.17 -->
-    <string name="commonDeltaOverview">Aperçu Delta</string>
-    
     <!-- 4.0x -->
     <string name="commonAddLine">Ajouter ligne</string>
     <string name="commonDeleteAllLines">Effacer toutes les lignes</string>
