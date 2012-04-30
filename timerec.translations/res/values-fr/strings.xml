@@ -116,7 +116,6 @@
 	<string name="prefsWeekdayTargetTime">Substituer la durée de travail par semaine</string>
     <string name="prefsGroupFormatOptions">Options de format</string>
     <string name="prefsGroupCalendar">Calendrier</string>
-    <string name="prefsMonthViewOption">Vue \'Mois\'</string>
     <string name="prefsWeeklyTargetTime">Durée de travail par semaine</string>
 	<string name="prefsDefaultCategory">Tâche par défaut</string>
 	<string name="prefsKeepPrevCategory">Revenir à la tâche sélectionnée avant la pause</string>
@@ -126,7 +125,7 @@
 	<string name="prefsHintRestartRequired">\u2192 Changer ces paramètres nécessite un redémarage</string>
 	<string name="prefsHintPleaseRestart">\u2192 Merci de redémarrer l\'application</string>
 	<string name="prefsExportSettings">Paramètres d\'export des données</string>
-	<string name="prefsGridViewFont">Taille de la police sur la vue des données</string>
+	<string name="prefsGridViewFont">Taille de la police</string>
 	<string name="prefsProVersionThanks">Merci d\'avoir acheté la version \"Pro\"!</string>
 	<string name="prefsWidgetClickAction">Action sur le clic du widget</string>
 	<string name="prefsDomWidgetActionOpen">Ouvrir appli</string>
@@ -418,7 +417,6 @@
 	<string name="prefsMonthReportSplit">Séparer la vue \'Mois\' sur le premier jour\net sur ce jour</string>
 	<string name="expPrefsFilenamePrefix">Préfixe du nom de fichier</string>
 	<string name="expPrefsE4SkipSingleTaskTotal">E4: Sauter le total de la tâche, garder le total général</string>
-	<string name="prefsGroupReporting">Rapport</string>
 	
 	<string name="dailyTargetReachedAtLabel">Objectif atteint à {1}</string>
 	<string name="dailyTargetReachedAtPref">Afficher \'Objectif atteint à\'</string>
@@ -554,8 +552,6 @@
 	
 	<string name="expPrefsIsoDateFormat">AAAA/MM/JJ</string>
 	
-    <!-- deleted "prefsGroupReporting" -->
-    <!-- replacement for "prefsMonthViewOption" -->
     <string name="prefsReportingPeriod">Reporting period</string>
     <string name="prefsBackupAndRestore">Backup &amp; restore</string>
     

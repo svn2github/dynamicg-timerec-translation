@@ -107,7 +107,6 @@
 	<string name="prefsWeekdayTargetTime">Ignora obiettivo orario per i giorni</string>
     <string name="prefsGroupFormatOptions">Opzioni formato</string>
     <string name="prefsGroupCalendar">Calendario</string>
-    <string name="prefsMonthViewOption">Vista \'Mese\' mostra</string>
     <string name="prefsWeeklyTargetTime">Obiettivo orario settimanale</string>
 	<string name="prefsDefaultCategory">Lavoro di default</string>
 	<string name="prefsTaskGroupsActiveLabel">Gruppi di lavoro</string>
@@ -115,7 +114,7 @@
 	<string name="prefsCollapseCheckBtn">Unisci i pulsanti \'inizia/termina\'</string>
 	<string name="prefsHintRestartRequired">\u2192 Le modifiche su queste impostazioni necessitano di riavvio</string>
 	<string name="prefsExportSettings">Impostazioni Esportazione Dati</string>
-	<string name="prefsGridViewFont">Dimensione carattere su vista dati</string>
+	<string name="prefsGridViewFont">Dimensione carattere</string>
 	<string name="prefsProVersionThanks">Grazie dell\'Acquisto della Versione \"Pro\"!</string>
 	<string name="prefsWidgetClickAction">Azione al click sul widget</string>
 	<string name="prefsDomWidgetActionOpen">Apri app</string>
@@ -431,7 +430,6 @@
 	<string name="prefsMonthReportSplit">Dividi la vista \'Mese\' sul 1°\ne su questo giorno</string>
 	<string name="expPrefsFilenamePrefix">Prefisso nome del file</string>
 	<string name="expPrefsE4SkipSingleTaskTotal">E4: Salta il totale del lavoro, mantieni il totale generale</string>
-	<string name="prefsGroupReporting">Riassunto</string>
 	
 	<string name="dailyTargetReachedAtLabel">Obiettivo raggiunto alle {1}</string>
 	<string name="dailyTargetReachedAtPref">Mostra \'Obiettivo raggiunto alle\'</string>
@@ -566,8 +564,6 @@
 	
 	<string name="expPrefsIsoDateFormat">AAAA/MM/GG</string>
 	
-    <!-- deleted "prefsGroupReporting" -->
-    <!-- replacement for "prefsMonthViewOption" -->
     <string name="prefsReportingPeriod">Reporting period</string>
     <string name="prefsBackupAndRestore">Backup &amp; restore</string>
     

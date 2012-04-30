@@ -22,7 +22,6 @@
     <string name="menuEditStampsShort">Edit stamps</string>
     <string name="menuPreferences">Preferences</string>
     <string name="menuAdmin">Admin</string>
-    <string name="menuAbout">About</string>
     <string name="menuAddStandardEntry">Add break/unit \u2026</string>
     <string name="menuMore">More</string>
     
@@ -63,7 +62,6 @@
     <string name="commonSortAZ">Sort A-Z</string>
     <string name="commonEditShort">Edit</string>
     <string name="commonCSV">CSV</string>
-	<string name="commonReset">Reset</string>
     <string name="commonDetails">Details</string>
 	<string name="commonDoneToast">{1} \u2192done</string>
     <string name="commonBreak">Break</string>
@@ -119,8 +117,6 @@
 	<string name="prefsWeekdayTargetTime">Override target time per weekday</string>
     <string name="prefsGroupFormatOptions">Format options</string>
     <string name="prefsGroupCalendar">Calendar</string>
-    <string name="prefsGroupReporting">Reporting</string>
-    <string name="prefsMonthViewOption">\'Month\' view shows</string>
     <string name="prefsWeeklyTargetTime">Weekly target time</string>
     <string name="hintWeeklyTargetTime">\u2192 Sample input: \'38.75\'. Clear to disable.</string>
 	<string name="prefsDefaultCategory">Default task</string>
@@ -131,7 +127,7 @@
 	<string name="prefsHintRestartRequired">\u2192 Changes on on these settings require restart</string>
 	<string name="prefsHintPleaseRestart">\u2192 Please restart the app</string>
 	<string name="prefsExportSettings">Data export settings</string>
-	<string name="prefsGridViewFont">Font size on data views</string>
+	<string name="prefsGridViewFont">Font size</string>
 	<string name="prefsProVersionThanks">Thank you for buying the \"Pro\" version!</string>
 	<string name="prefsWidgetClickAction">Widget click action</string>
 	<string name="prefsDomWidgetActionOpen">Open app</string>
@@ -204,7 +200,6 @@
 	<string name="expDomNotesFilterLike">contains</string>
 	<string name="expPrefsShowTotalLine">E1-E4: Show \'Total\'</string>
 	<string name="expPrefsGroupBreakDate">E2,E4: Group break on \'Date\'</string>
-	<string name="expPrefsIsoDate">YYYY/MM/DD date format</string>
 	<string name="expPrefsCharsetCommon">Common character sets</string>
 	<string name="expPrefsCharsetFullList">Full list</string>
 	<string name="expPrefsTransposeMatrix">E5: Transpose matrix</string>
@@ -525,18 +520,47 @@
     
     <string name="taskerPluginCondition">Condition</string>
 	<string name="commonCheckedOut">Checked out</string>
-	
+
 	<!-- pt started with 3.16 baseline -->
 	
-	<!-- 3.17 -->
-    <string name="commonDeltaOverview">Delta overview</string>
-    
-    <!-- 3.18 -->
+    <!-- 4.0x -->
     <string name="commonAddLine">Add line</string> <!-- this replaces "commonAddRow" -->
     <string name="commonDeleteAllLines">Delete all lines</string>
     <!-- removed "categorySelectionTitle" -->
     <!-- removed "categoryEditorAddNew", renamed "categoryTitleForNewCat" to "commonNewTask" -->
     <string name="commonNewTask">New task</string>
     <!-- split stdStampTypeBlock into stdStampTypeBlockShort and stdStampTypeBlockLong -->
+
+    <!-- 4.04 -->
+    <string name="prefsTheme">Theme (Android 4)</string>
+    <string name="prefsThemeLight">Light</string>
+    <string name="prefsThemeDark">Dark</string>
+    <string name="commonBasicSettings">Basic settings</string>
+    <!-- delete "commonReset" -->
+    <string name="autoBreakSkipWhenOff">Skip if outside time window</string>
+    
+    <!-- replacement for "commonDeltaOverview" -->
+	<string name="commonWorktimeOverview">Worktime overview</string>
+	<string name="commonViewNoun">View</string>
+	<string name="commonShort">Short</string>
+	<!-- replacement for "expPrefsIsoDateFormat" -->
+	<string name="expPrefsIsoDateFormat">YYYY/MM/DD</string>
+	
+    <!-- deleted "prefsGroupReporting" -->
+    <!-- replacement for "prefsMonthViewOption" -->
+    <string name="prefsReportingPeriod">Reporting period</string>
+    <string name="prefsBackupAndRestore">Backup &amp; restore</string>
+    <!-- removed "menuAbout" -->
+    
+    <!-- 4.05 -->
+    <string name="commonBreakOver">Break over</string>
+    <string name="commonTargetReached">Target reached</string>
+    <string name="timeReachedAlarmSettings">\'{1}\' alarm settings</string>
+    <string name="timeReachedNotification">{1} at {2}</string> <!-- sample: "Target reached at 17:45" -->
+    
+    <string name="alertNotificationSoundOnce">Notification sound (once)</string>
+    <string name="alertNotificationSoundInsistent">Notification sound (insistent)</string>
+    <string name="alertNotificationVibra">Vibrate</string>
+    <string name="alertNotificationAppVibra">Click here to install the \'Vibrate\' plugin</string>
     
 </resources>

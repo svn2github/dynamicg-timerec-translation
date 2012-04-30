@@ -107,7 +107,6 @@
 	<string name="prefsWeekdayTargetTime">Sobreescribir tiempo por semana</string>
     <string name="prefsGroupFormatOptions">Opciones de formato</string>
     <string name="prefsGroupCalendar">Calendario</string>
-    <string name="prefsMonthViewOption">Vista de \'Mes\'</string>
     <string name="prefsWeeklyTargetTime">Objetivo de tiempo semanal</string>
 	<string name="prefsDefaultCategory">Tareas por defecto</string>
 	<string name="prefsTaskGroupsActiveLabel">Grupos de tareas</string>
@@ -432,7 +431,6 @@
 	<string name="prefsMonthReportSplit">Separar vista \'Mes\' el 1o\ny este día</string>
 	<string name="expPrefsFilenamePrefix">Prefijo de archivo</string>
 	<string name="expPrefsE4SkipSingleTaskTotal">E4: saltar todas las tareas, mantener total</string>
-	<string name="prefsGroupReporting">Listando</string>
 	
 	<string name="dailyTargetReachedAtLabel">Destino alcanzado a {1}</string>
 	<string name="dailyTargetReachedAtPref">Ver \'Destino alcanzado\'</string>
@@ -567,8 +565,6 @@
 	
 	<string name="expPrefsIsoDateFormat">AAAA/MM/DD</string>
 	
-    <!-- deleted "prefsGroupReporting" -->
-    <!-- replacement for "prefsMonthViewOption" -->
     <string name="prefsReportingPeriod">Reporting period</string>
     <string name="prefsBackupAndRestore">Backup &amp; restore</string>
     
