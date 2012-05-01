@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:android="http://schemas.android.com/apk/res/android">
 
+    <!-- IT -->
+	
 	<!-- internal -->
     <string name="appUserLabel">DynamicG App User</string>
     <string name="languageFlag">0</string>
@@ -546,21 +548,19 @@
     <!-- 4.0x (2) -->
 	<string name="expPrefsIsoDateFormat">AAAA/MM/GG</string>
     
-    <!-- 4.04 -->
+    <!-- 4.04/4.05 -->
     <string name="prefsTheme">Theme (Android 4)</string>
     <string name="prefsThemeLight">Light</string>
     <string name="prefsThemeDark">Dark</string>
     <string name="commonBasicSettings">Basic settings</string>
     <string name="autoBreakSkipWhenOff">Skip if outside time window</string>
 	<string name="commonWorktimeOverview">Worktime overview</string>
-	<string name="commonViewNoun">Vista</string>
+	<string name="commonViewNoun">Vista</string> <!-- "View" -->
 	<string name="commonShort">Short</string>
     <string name="prefsReportingPeriod">Reporting period</string>
-    <string name="prefsBackupAndRestore">Backup &amp; Ripristina</string>
-    
-    <!-- 4.05 -->
+    <string name="prefsBackupAndRestore">Backup &amp; Ripristina</string> <!-- "Backup & restore" -->
     <string name="commonBreakOver">Break over</string>
-    <string name="commonTargetReached">Obiettivo raggiunto</string>
+    <string name="commonTargetReached">Obiettivo raggiunto</string> <!-- "Target reached" -->
     <string name="timeReachedAlarmSettings">\'{1}\' alarm settings</string>
     <string name="timeReachedNotification">{1} at {2}</string> <!-- sample: "Break over at 17:45" -->
     <string name="alertNotificationSoundOnce">Notification sound (once)</string>
