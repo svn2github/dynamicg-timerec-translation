@@ -540,7 +540,7 @@
     <string name="commonBasicSettings">Basic settings</string>
     <string name="autoBreakSkipWhenOff">Skip if outside time window</string>
 	<string name="commonWorktimeOverview">Worktime overview</string>
-	<string name="commonViewNoun">View</string>
+	<string name="commonViewNoun">Vue</string>
 	<string name="commonShort">Short</string>
     <string name="prefsReportingPeriod">Reporting period</string>
     <string name="prefsBackupAndRestore">Sauvegarder &amp; restaurer</string>
