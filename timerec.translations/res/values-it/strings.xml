@@ -556,13 +556,13 @@
 	<string name="commonViewNoun">View</string>
 	<string name="commonShort">Short</string>
     <string name="prefsReportingPeriod">Reporting period</string>
-    <string name="prefsBackupAndRestore">Backup &amp; restore</string>
+    <string name="prefsBackupAndRestore">Backup &amp; Ripristina</string>
     
     <!-- 4.05 -->
     <string name="commonBreakOver">Break over</string>
-    <string name="commonTargetReached">Target reached</string>
+    <string name="commonTargetReached">Obiettivo raggiunto</string>
     <string name="timeReachedAlarmSettings">\'{1}\' alarm settings</string>
-    <string name="timeReachedNotification">{1} at {2}</string> <!-- sample: "Target reached at 17:45" -->
+    <string name="timeReachedNotification">{1} at {2}</string> <!-- sample: "Break over at 17:45" -->
     <string name="alertNotificationSoundOnce">Notification sound (once)</string>
     <string name="alertNotificationSoundInsistent">Notification sound (insistent)</string>
     <string name="alertNotificationVibra">Vibrate</string>
