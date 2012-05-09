@@ -550,23 +550,23 @@
 	<string name="expPrefsIsoDateFormat">AAAA/MM/DD</string>
     
     <!-- 4.04/4.05 -->
-	<string name="prefsTheme">Theme (Android 4)</string>
-	<string name="prefsThemeLight">Light</string>
-	<string name="prefsThemeDark">Dark</string>
-	<string name="commonBasicSettings">Basic settings</string>
-	<string name="autoBreakSkipWhenOff">Skip if outside time window</string>
-	<string name="commonWorktimeOverview">Worktime overview</string>
+	<string name="prefsTheme">Temas (Android 4)</string>
+	<string name="prefsThemeLight">Claro</string>
+	<string name="prefsThemeDark">Oscuro</string>
+	<string name="commonBasicSettings">Configuración Básica</string>
+	<string name="autoBreakSkipWhenOff">Saltar si fuera de la ventana temporal</string>
+	<string name="commonWorktimeOverview">Resumen tiempo de trabajo</string>
 	<string name="commonViewNoun">Vista</string> <!-- "View" -->
-	<string name="commonShort">Short</string>
-	<string name="prefsReportingPeriod">Reporting period</string>
+	<string name="commonShort">Corta</string>
+	<string name="prefsReportingPeriod">Periodo de informar</string>
 	<string name="prefsBackupAndRestore">Copia seguridad &amp; restaurar</string> <!-- "Backup & restore" -->
-	<string name="commonBreakOver">Break over</string>
+	<string name="commonBreakOver">Pausa terminada</string>
 	<string name="commonTargetReached">Destino alcanzado</string> <!-- "Target reached" -->
-	<string name="timeReachedAlarmSettings">\'{1}\' alarm settings</string>
-	<string name="timeReachedNotification">{1} at {2}</string> <!-- sample: "Break over at 17:45" -->
-	<string name="alertNotificationSoundOnce">Notification sound (once)</string>
-	<string name="alertNotificationSoundInsistent">Notification sound (insistent)</string>
-	<string name="alertNotificationVibra">Vibrate</string>
-	<string name="alertNotificationAppVibra">Click here to install the \'Vibrate\' plugin</string>
-    
+	<string name="timeReachedAlarmSettings">\'{1}\' configuración de la alarma</string>
+	<string name="timeReachedNotification">{1} a las {2}</string> <!-- sample: "Break over at 17:45" -->
+	<string name="alertNotificationSoundOnce">Sonido Notificación (único)</string>
+	<string name="alertNotificationSoundInsistent">Sonido Notificación (insistente)</string>
+	<string name="alertNotificationVibra">Vibrar</string>
+	<string name="alertNotificationAppVibra">Pulsa aquí para instalar el plugin de \'Vibración\'</string>
+	    
 </resources>
