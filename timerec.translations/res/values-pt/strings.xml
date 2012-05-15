@@ -2,9 +2,9 @@
 <resources xmlns:android="http://schemas.android.com/apk/res/android">
 
 	<!-- internal -->
-    <string name="appUserLabel">DynamicG App</string>
+    <string name="appUserLabel">DynamicG App User</string>
     <string name="languageFlag">0</string>
-    <string name="googleSitesLanguage">pt</string>
+    <string name="googleSitesLanguage">en</string>
 
 	<!-- translation credits -->
     <string name="aboutTranslation"></string>
@@ -408,7 +408,7 @@
 	
 	<string name="proReminderMktButton">Android Market</string>
 
-	<string name="widgetAppTitleShort">TR</string>
+	<string name="widgetAppTitleShort">RH</string>
 	<string name="widgetTitleFrame">Registro de Horários (Quadro)</string>
 	<string name="widgetTitleGloss">Registro de Horários (Vidro)</string>
 	<string name="widgetTitleSlider">Registro de Horários (Deslizante)</string>
@@ -522,22 +522,25 @@
     <string name="taskerPluginCondition">Condição</string>
 	<string name="commonCheckedOut">Checked out</string>
     
-    <!-- 4.0x -->
+    <!-- 4.0x (1) -->
+	<string name="expPrefsIsoDateFormat">YYYY/MM/DD</string>
     <string name="commonAddLine">Adicionar linha</string>
     <string name="commonNewTask">Tarefa nova</string>
+	
+    <!-- 4.0x (2) -->
     <string name="prefsReportingPeriod">Relatórios</string> <!-- "Reporting period" -->
     <string name="prefsBackupAndRestore">Backup &amp; restaurar</string>
+	<string name="commonViewNoun">Visão</string>
     
-    <string name="commonDeleteAllLines">Delete all lines</string>
+    <!-- 4.0x (3) -->
+	<string name="commonDeleteAllLines">Delete all lines</string>
     <string name="prefsTheme">Theme (Android 4)</string>
     <string name="prefsThemeLight">Light</string>
     <string name="prefsThemeDark">Dark</string>
     <string name="commonBasicSettings">Basic settings</string>
     <string name="autoBreakSkipWhenOff">Skip if outside time window</string>
 	<string name="commonWorktimeOverview">Worktime overview</string>
-	<string name="commonViewNoun">View</string>
 	<string name="commonShort">Short</string>
-	<string name="expPrefsIsoDateFormat">YYYY/MM/DD</string>
     <string name="commonBreakOver">Break over</string>
     <string name="commonTargetReached">Target reached</string>
     <string name="timeReachedAlarmSettings">\'{1}\' alarm settings</string>
