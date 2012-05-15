@@ -22,7 +22,6 @@
     <string name="menuEditStampsShort">Editar registros</string>
     <string name="menuPreferences">Preferências</string>
     <string name="menuAdmin">Admin</string>
-    <string name="menuAbout">Sobre</string>
     <string name="menuAddStandardEntry">Adicionar quebra/intervalo \u2026</string>
     <string name="menuMore">Mais</string>
     
@@ -119,7 +118,6 @@
 	<string name="prefsWeekdayTargetTime">Sobrescrever tempo alvo por semana</string>
     <string name="prefsGroupFormatOptions">Opções de formatação</string>
     <string name="prefsGroupCalendar">Calendário</string>
-    <string name="prefsGroupReporting">Relatórios</string>
     <string name="prefsMonthViewOption">Visualização por \'Mês\'</string>
     <string name="prefsWeeklyTargetTime">Tempo alvo semanal</string>
     <string name="hintWeeklyTargetTime">\u2192 Exemplo de entrada: \'38.75\'. Limpe para desativar.</string>
@@ -204,7 +202,6 @@
 	<string name="expDomNotesFilterLike">contém</string>
 	<string name="expPrefsShowTotalLine">E1-E4: Exibir \'Total\'</string>
 	<string name="expPrefsGroupBreakDate">E2,E4: Grupo de quebra em \'Data\'</string>
-	<string name="expPrefsIsoDate">YYYY/MM/DD formato de data</string>
 	<string name="expPrefsCharsetCommon">Conjunto de caracteres comuns</string>
 	<string name="expPrefsCharsetFullList">Lista completa</string>
 	<string name="expPrefsTransposeMatrix">E5: Matriz transposta</string>
@@ -529,35 +526,23 @@
     <!-- 4.0x -->
     <string name="commonAddLine">Adicionar linha</string>
     <string name="commonNewTask">Tarefa nova</string>
+    <string name="prefsReportingPeriod">Relatórios</string> <!-- "Reporting period" -->
     
-    <!-- 4.03 -->
     <string name="commonDeleteAllLines">Delete all lines</string>
-    
-    <!-- 4.04 -->
     <string name="prefsTheme">Theme (Android 4)</string>
     <string name="prefsThemeLight">Light</string>
     <string name="prefsThemeDark">Dark</string>
     <string name="commonBasicSettings">Basic settings</string>
     <string name="autoBreakSkipWhenOff">Skip if outside time window</string>
-    
 	<string name="commonWorktimeOverview">Worktime overview</string>
 	<string name="commonViewNoun">View</string>
 	<string name="commonShort">Short</string>
-	<!-- replacement for "expPrefsIsoDateFormat" -->
 	<string name="expPrefsIsoDateFormat">YYYY/MM/DD</string>
-	
-    <!-- deleted "prefsGroupReporting" -->
-    <!-- replacement for "prefsMonthViewOption" -->
-    <string name="prefsReportingPeriod">Reporting period</string>
     <string name="prefsBackupAndRestore">Backup &amp; restore</string>
-    <!-- removed "menuAbout" -->
-    
-    <!-- 4.05 -->
     <string name="commonBreakOver">Break over</string>
     <string name="commonTargetReached">Target reached</string>
     <string name="timeReachedAlarmSettings">\'{1}\' alarm settings</string>
     <string name="timeReachedNotification">{1} at {2}</string> <!-- sample: "Target reached at 17:45" -->
-    
     <string name="alertNotificationSoundOnce">Notification sound (once)</string>
     <string name="alertNotificationSoundInsistent">Notification sound (insistent)</string>
     <string name="alertNotificationVibra">Vibrate</string>
