@@ -118,7 +118,6 @@
 	<string name="prefsWeekdayTargetTime">Sobrescrever tempo alvo por semana</string>
     <string name="prefsGroupFormatOptions">Opções de formatação</string>
     <string name="prefsGroupCalendar">Calendário</string>
-    <string name="prefsMonthViewOption">Visualização por \'Mês\'</string>
     <string name="prefsWeeklyTargetTime">Tempo alvo semanal</string>
     <string name="hintWeeklyTargetTime">\u2192 Exemplo de entrada: \'38.75\'. Limpe para desativar.</string>
 	<string name="prefsDefaultCategory">Tarefa padrão</string>
