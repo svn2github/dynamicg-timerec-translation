@@ -40,7 +40,6 @@
     <string name="commonCategories">Tarefas</string>
     <string name="commonHourlyRate">Taxa horária</string>
     <string name="commonEditCategories">Editar tarefas</string>
-    <string name="commonAddRow">Adicionar linha</string>
     <string name="commonStop">Parar</string>
     <string name="commonType">Tipo</string>
     <string name="commonIn">Em</string>
@@ -64,7 +63,6 @@
     <string name="commonSortAZ">Ordenar A-Z</string>
     <string name="commonEditShort">Editar</string>
     <string name="commonCSV">CSV</string>
-	<string name="commonReset">Reiniciar</string>
     <string name="commonDetails">Detalhes</string>
 	<string name="commonDoneToast">{1} \u2192feito</string>
     <string name="commonBreak">Quebra</string>
@@ -167,7 +165,8 @@
 	<string name="commonLookupHint">\u2192 Dica: use [\u2026] para pesquisar</string>
 	
     <string name="stdStampTitle">Quebrar &amp; bloquear</string>
-    <string name="stdStampTypeBlock">Bloquear</string>
+    <string name="stdStampTypeBlockShort">Bloquear</string>
+    <string name="stdStampTypeBlockLong">Bloquear</string>
     <string name="stdStampTypeBreakNow">Pausar agora</string>
     <string name="stdStampBreakForLastMI">Pelos últimos {1} minutos</string>
     <string name="stdStampBreakForNextMI">Pelos próximos {1} minutos</string>
@@ -258,11 +257,8 @@
     <string name="dayShortFri">Sex</string>
     <string name="dayShortSat">Sáb</string>
     
-    <string name="categorySelectionTitle">Tarefa iniciada {1}</string>
     <string name="categoryNone">(sem tarefa)</string>
     <string name="categoryFilterAll">&lt;Todos&gt;</string>
-    <string name="categoryEditorAddNew">Adicionar tarefa</string>
-    <string name="categoryTitleForNewCat">Tarefa nova</string>
     <string name="categoryEditHeaderHourlyRate">Variação\nHorária</string>
     <string name="categoryEditHeaderSort">Ordenar</string>
     <string name="categorySelectNextCategory">Selecionar próxima tarefa</string>
@@ -529,5 +525,42 @@
     
     <string name="taskerPluginCondition">Condição</string>
 	<string name="commonCheckedOut">Checked out</string>
+    
+    <!-- 4.0x -->
+    <string name="commonAddLine">Adicionar linha</string>
+    <string name="commonNewTask">Tarefa nova</string>
+    
+    <!-- 4.03 -->
+    <string name="commonDeleteAllLines">Delete all lines</string>
+    
+    <!-- 4.04 -->
+    <string name="prefsTheme">Theme (Android 4)</string>
+    <string name="prefsThemeLight">Light</string>
+    <string name="prefsThemeDark">Dark</string>
+    <string name="commonBasicSettings">Basic settings</string>
+    <string name="autoBreakSkipWhenOff">Skip if outside time window</string>
+    
+	<string name="commonWorktimeOverview">Worktime overview</string>
+	<string name="commonViewNoun">View</string>
+	<string name="commonShort">Short</string>
+	<!-- replacement for "expPrefsIsoDateFormat" -->
+	<string name="expPrefsIsoDateFormat">YYYY/MM/DD</string>
+	
+    <!-- deleted "prefsGroupReporting" -->
+    <!-- replacement for "prefsMonthViewOption" -->
+    <string name="prefsReportingPeriod">Reporting period</string>
+    <string name="prefsBackupAndRestore">Backup &amp; restore</string>
+    <!-- removed "menuAbout" -->
+    
+    <!-- 4.05 -->
+    <string name="commonBreakOver">Break over</string>
+    <string name="commonTargetReached">Target reached</string>
+    <string name="timeReachedAlarmSettings">\'{1}\' alarm settings</string>
+    <string name="timeReachedNotification">{1} at {2}</string> <!-- sample: "Target reached at 17:45" -->
+    
+    <string name="alertNotificationSoundOnce">Notification sound (once)</string>
+    <string name="alertNotificationSoundInsistent">Notification sound (insistent)</string>
+    <string name="alertNotificationVibra">Vibrate</string>
+    <string name="alertNotificationAppVibra">Click here to install the \'Vibrate\' plugin</string>
     
 </resources>
