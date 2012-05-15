@@ -527,6 +527,7 @@
     <string name="commonAddLine">Adicionar linha</string>
     <string name="commonNewTask">Tarefa nova</string>
     <string name="prefsReportingPeriod">Relatórios</string> <!-- "Reporting period" -->
+    <string name="prefsBackupAndRestore">Backup &amp; restaurar</string>
     
     <string name="commonDeleteAllLines">Delete all lines</string>
     <string name="prefsTheme">Theme (Android 4)</string>
@@ -538,7 +539,6 @@
 	<string name="commonViewNoun">View</string>
 	<string name="commonShort">Short</string>
 	<string name="expPrefsIsoDateFormat">YYYY/MM/DD</string>
-    <string name="prefsBackupAndRestore">Backup &amp; restore</string>
     <string name="commonBreakOver">Break over</string>
     <string name="commonTargetReached">Target reached</string>
     <string name="timeReachedAlarmSettings">\'{1}\' alarm settings</string>
