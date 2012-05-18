@@ -20,7 +20,7 @@ Altamente configurável, muitas funcionalidades adicionais:
 • Notificação na status bar quando checked in
 • Suporte a plugin Tarefador/Local (Versão Pro somente)
 • Serviços públicos para integração em outros apps
-• Para multiplos trackers veja FAQ
+• Para multiplos trackers veja FAQ
 
 Limitação:
 • Menos tempo de rastreio é um minuto
