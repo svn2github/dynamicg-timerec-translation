@@ -1,0 +1,36 @@
+Gerencie seu quadro de horários.
+
+Funcionalidades básicas:
+• Check in & out
+• Atribuição de tarefa
+• Notas diárias & detalhadas
+• Revisão diária, semanal e mensal
+• Exportação de dados & email em CSV, HTML ou XML
+• Backup & restauração integrados
+• Sync com Google Calendar (uma via, somente para Pro users)
+• Integração com Dropbox, backup & restauração (Versão Pro)
+• Versão Pro é ad-free
+
+Altamente configurável, muitas funcionalidades adicionais:
+• Formato de data e hora
+• Taxa horária, pagamento de hora extra
+• Opções de calendário (primeiro dia da semana do mês, relatório bi-semanal)
+• Tempo alvo
+• Widget para exibir total diário
+• Notificação na status bar quando checked in
+• Suporte a plugin Tarefador/Local (Versão Pro somente)
+• Serviços públicos para integração em outros apps
+• Para multiplos trackers veja FAQ
+
+Limitação:
+• Menos tempo de rastreio é um minuto
+• Sem kilometragem ou despesas
+• Somente um valor de hora extra
+
+
+→ TUTORIAL: Veja o vídeo no YouTube para uma visão rápida do uso básico (procure por "DynamicG Time Recording")
+→ Traduções: Versões Italiano, Francês, Espanhol e Portugues disponíveis (veja meus outros apps)
+→ App2SD: por favor use o app em armazenamento interno quando usando widget (não instale no SD Card)
+→ Para changelog detalhado veja FAQ
+
+Tags: relógio ponto, rastreador de tempo, tempo de trabalho, registro de tempo.
