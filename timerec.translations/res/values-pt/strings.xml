@@ -405,7 +405,7 @@
 	<string name="err25">Erro: Backup falhou</string>
 	<string name="errFaqHint">Clique aqui para ajuda online,\nprocure \'Erro {1}\'</string>
 	
-	<string name="proReminderMktButton">Android Market</string>
+	<string name="proReminderMktButton">Google Play</string>
 
 	<string name="widgetAppTitleShort">RH</string>
 	<string name="widgetTitleFrame">Registro de Horários (Quadro)</string>

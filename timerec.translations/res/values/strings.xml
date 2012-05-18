@@ -405,7 +405,7 @@
 	<string name="err25">Error: Backup failed</string>
 	<string name="errFaqHint">Click here for online help,\nsee \'Error {1}\'</string>
 	
-	<string name="proReminderMktButton">Android Market</string>
+	<string name="proReminderMktButton">Google Play</string>
 
 	<string name="widgetAppTitleShort">TR</string>
 	<string name="widgetTitleFrame">Time Recording (Frame)</string>

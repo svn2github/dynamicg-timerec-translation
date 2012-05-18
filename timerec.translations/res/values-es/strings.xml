@@ -345,7 +345,7 @@
 	<string name="err22">Error: SD está llena</string>
 	<string name="errFaqHint">Ver FAQ, buscar \'ERROR {1}\' para solución</string>
 	
-	<string name="proReminderMktButton">Android Market</string>
+	<string name="proReminderMktButton">Google Play</string>
 
 	<!-- =================================================================== -->
     <string name="googleSitesLanguage">en</string>
