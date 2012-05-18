@@ -101,7 +101,6 @@
     <string name="checkboxIncludeDayNotes">Incluir notas no dia</string>
     <string name="confirmUpdateAdjacent">Também atualizar registro adjacente?</string>
     
-    <string name="prefsWindowTitle">Preferencias do Registro de Horários</string>
     <string name="prefsExportRecipient">Destinatário de email padrão</string>
     <string name="prefsExpCsvDataSeparator">Separador de coluna</string>
     <string name="prefsTotalFormat">Exibir total como</string>
