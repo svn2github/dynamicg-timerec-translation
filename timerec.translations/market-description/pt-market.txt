@@ -29,7 +29,6 @@ Limitação:
 
 
 → TUTORIAL: Veja o vídeo no YouTube para uma visão rápida do uso básico (procure por "DynamicG Time Recording")
-→ Traduções: Versões Italiano, Francês, Espanhol e Portugues disponíveis (veja meus outros apps)
 → App2SD: por favor use o app em armazenamento interno quando usando widget (não instale no SD Card)
 → Para changelog detalhado veja FAQ
 
