@@ -525,29 +525,29 @@
     <!-- 4.0x (1) -->
 	<string name="expPrefsIsoDateFormat">YYYY/MM/DD</string>
     <string name="commonAddLine">Adicionar linha</string>
-    <string name="commonNewTask">Tarefa nova</string>
+    <string name="commonNewTask">Nova tarefa</string>
 	
     <!-- 4.0x (2) -->
-    <string name="prefsReportingPeriod">Relatórios</string> <!-- "Reporting period" -->
+    <string name="prefsReportingPeriod">Período do relatório</string> <!-- "Reporting period" -->
     <string name="prefsBackupAndRestore">Backup &amp; restaurar</string>
 	<string name="commonViewNoun">Visão</string>
     
     <!-- 4.0x (3) -->
-	<string name="commonDeleteAllLines">Delete all lines</string>
-    <string name="prefsTheme">Theme (Android 4)</string>
-    <string name="prefsThemeLight">Light</string>
-    <string name="prefsThemeDark">Dark</string>
-    <string name="commonBasicSettings">Basic settings</string>
-    <string name="autoBreakSkipWhenOff">Skip if outside time window</string>
-	<string name="commonWorktimeOverview">Worktime overview</string>
-	<string name="commonShort">Short</string>
-    <string name="commonBreakOver">Break over</string>
-    <string name="commonTargetReached">Target reached</string>
-    <string name="timeReachedAlarmSettings">\'{1}\' alarm settings</string>
-    <string name="timeReachedNotification">{1} at {2}</string> <!-- sample: "Target reached at 17:45" -->
-    <string name="alertNotificationSoundOnce">Notification sound (once)</string>
-    <string name="alertNotificationSoundInsistent">Notification sound (insistent)</string>
-    <string name="alertNotificationVibra">Vibrate</string>
-    <string name="alertNotificationAppVibra">Click here to install the \'Vibrate\' plugin</string>
+	<string name="commonDeleteAllLines">Deletar todas as linhas</string>
+    <string name="prefsTheme">Tema (Android 4)</string>
+    <string name="prefsThemeLight">Claro</string>
+    <string name="prefsThemeDark">Escuro</string>
+    <string name="commonBasicSettings">Configurações básicas</string>
+    <string name="autoBreakSkipWhenOff">Passar se fora da janela de tempo</string>
+	<string name="commonWorktimeOverview">Revisão do tempo de trabalho</string>
+	<string name="commonShort">Ordenar</string>
+    <string name="commonBreakOver">Romper</string>
+    <string name="commonTargetReached">Alvo alcançado</string>
+    <string name="timeReachedAlarmSettings">\'{1}\' configurações de alarme</string>
+    <string name="timeReachedNotification">{1} às {2}</string> <!-- sample: "Target reached at 17:45" -->
+    <string name="alertNotificationSoundOnce">Notificação sonora (1x)</string>
+    <string name="alertNotificationSoundInsistent">Notificação sonora (persistente)</string>
+    <string name="alertNotificationVibra">Vibrar</string>
+    <string name="alertNotificationAppVibra">Clique aqui para instalar plugin \'Vibrate\'</string>
     
 </resources>
