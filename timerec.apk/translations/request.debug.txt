@@ -1,3 +1,2 @@
 <requested>ja</requested>
 <requested>ko</requested>
-<requested>xko</requested>
