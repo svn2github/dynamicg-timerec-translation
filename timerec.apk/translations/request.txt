@@ -1,3 +1,0 @@
-#ja = Japanese
-#ko = Korean
-xko = Korean
