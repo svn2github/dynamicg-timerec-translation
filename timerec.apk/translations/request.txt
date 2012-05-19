@@ -1,1 +1,3 @@
-<requested>..</requested>
+#ja = Japanese
+#ko = Korean
+xko = Korean/test
