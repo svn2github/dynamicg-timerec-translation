@@ -569,12 +569,12 @@
 	<string name="alertNotificationAppVibra">Pulsa aquí para instalar el plugin de \'Vibración\'</string>
 
     <!-- 4.06, 4.07 -->
+	<string name="expTypeCustomersPerDay">E6 Clientes por día</string>
+    <string name="customerNone">(no customer)</string>
+    <string name="cloudProviderDropbox">Dropbox</string>
     <string name="worktimeExceededLabel">Alarm if daily worktime &gt; x hours</string>
     <string name="worktimeExceededNotification">Daily worktime exceeds {1}</string>
     <string name="commonThreshold">Threshold</string>
-	<string name="expTypeCustomersPerDay">E6 Customers per day</string>
-    <string name="customerNone">(no customer)</string>
-    <string name="cloudProviderDropbox">Dropbox</string>
     <string name="commonOverview">Overview</string>
 		
 </resources>
