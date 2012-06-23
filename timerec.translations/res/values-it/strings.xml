@@ -189,6 +189,7 @@
     <string name="domainMonthview1M">1 Mese</string>
     <string name="domainMonthview2W">2 Settimane</string>
     <string name="domainMonthview4W">4 Settimane</string>
+    <string name="domainMonthview1W">1 Settimana</string>
 	<string name="domainExpDataInclusionAttachment">File allegato</string>
 	<string name="domainExpDataInclusionPlainText">Corpo del testo chiaro</string>
 	<string name="domainExpDataInclusionForViewer">Per lettore standard</string>
