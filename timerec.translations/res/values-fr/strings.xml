@@ -490,7 +490,6 @@
 	<string name="helpFAQ">FAQ</string>
 	<string name="helpWhatsNew">Nouveautés</string>
 	<string name="prefsMinimumBreak">Temps de pause minimum</string>
-	<string name="viewYTD">Année complète</string>
 	<string name="prefsShowIsoWeekNr">Montrer les numéros de semaine ISO</string>
 	
 	<string name="confirmDayRollOver">Clôturer le jour et passer au suivant ?</string>
@@ -555,4 +554,14 @@
 	<string name="alertNotificationVibra">Vibrer</string>
 	<string name="alertNotificationAppVibra">Cliquez ici pour installer le plugin \'Vibrer\'</string>
         
+    <!-- 4.06, 4.07 -->
+    <string name="worktimeExceededLabel">Alarm if daily worktime &gt; x hours</string>
+    <string name="worktimeExceededNotification">Daily worktime exceeds {1}</string>
+    <string name="commonThreshold">Threshold</string>
+	<!-- changed "catExtImpConfirm3" to "commonCannotUndo" -->
+	<string name="expTypeCustomersPerDay">E6 Customers per day</string>
+    <string name="customerNone">(no customer)</string>
+    <string name="cloudProviderDropbox">Dropbox</string>
+    <string name="commonOverview">Overview</string>
+		
 </resources>
