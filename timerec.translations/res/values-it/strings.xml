@@ -334,7 +334,7 @@
 	<string name="catExtFileMissing">File importato non trovato. Usa \"Esporta\" per creare un modello.</string>
 	<string name="catExtImpConfirm1">\u2192 LAVORI ESISTENTI {1} SARANNO ELIMINATI!</string>
 	<string name="catExtImpConfirm2">\u2192 Sii sicuro di non cambiare gli ID dei lavori già in uso!</string>
-	<string name="catExtImpConfirm3">\u2192 L\'importazione non può essere disfatta, eccetto con \'Ripristina\'</string>
+	<string name="commonCannotUndo">\u2192 L\'azione non può essere disfatta, eccetto con \'Ripristina\'</string>
 	<string name="catExtImpConfirm4">\u2022 File: {1}</string>
 	<string name="catExtImpConfirm5">\u2022 Numero di lavori da importare: {1}</string>
 	<string name="catExtNothingToImport">Niente da importare. Il file è vuoto?</string>
@@ -418,7 +418,7 @@
 
 	<!-- ==== UPGRADE FROM 2.04 TO 3.15 ==== -->
 	<string name="err25">Errore: Backup fallito</string>
-	<string name="bckSdCardAutoBackup">Backup su scheda SD ogni  x giorni</string>
+	<string name="bckSdCardAutoBackup">Backup su scheda SD ogni x giorni</string>
 	<string name="bckDropboxAutoBackup">Backup su Dropbox ogni x giorni</string>
 	
 	<string name="catExpImpTitle">Esporta/Importa</string>
@@ -571,7 +571,6 @@
     <string name="worktimeExceededLabel">Alarm if daily worktime &gt; x hours</string>
     <string name="worktimeExceededNotification">Daily worktime exceeds {1}</string>
     <string name="commonThreshold">Threshold</string>
-	<!-- changed "catExtImpConfirm3" to "commonCannotUndo" -->
 	<string name="expTypeCustomersPerDay">E6 Customers per day</string>
     <string name="customerNone">(no customer)</string>
     <string name="cloudProviderDropbox">Dropbox</string>

@@ -336,7 +336,7 @@
 	<string name="catExtFileMissing">Fichero de importación no encontrado. Usar \"Export\" para crear una plantilla</string>
 	<string name="catExtImpConfirm1">\u2192 EXISTEN {1} TAREAS QUE SERAN BORRADAS</string>
 	<string name="catExtImpConfirm2">\u2192 Asegurese que no cambia los ID\'s de las tareas ya en uso</string>
-	<string name="catExtImpConfirm3">\u2192 La importación no puede deshacerse, excepto con una \'Restauración\'</string>
+	<string name="commonCannotUndo">\u2192 La acción no puede deshacerse, excepto con una \'Restauración\'</string>
 	<string name="catExtImpConfirm4">\u2022 Fichero: {1}</string>
 	<string name="catExtImpConfirm5">\u2022 Número de tareas a importar: {1}</string>
 	<string name="catExtNothingToImport">Nada a importar. Fichero vacío?</string>
@@ -572,7 +572,6 @@
     <string name="worktimeExceededLabel">Alarm if daily worktime &gt; x hours</string>
     <string name="worktimeExceededNotification">Daily worktime exceeds {1}</string>
     <string name="commonThreshold">Threshold</string>
-	<!-- changed "catExtImpConfirm3" to "commonCannotUndo" -->
 	<string name="expTypeCustomersPerDay">E6 Customers per day</string>
     <string name="customerNone">(no customer)</string>
     <string name="cloudProviderDropbox">Dropbox</string>

@@ -374,7 +374,7 @@
 	<string name="catExtFileMissing">Fichier d\'import introuvable. Utilisez \"Exporter\" pour creer un modèle.</string>
 	<string name="catExtImpConfirm1">\u2192 LA TACHE EXISTANTE {1} SERA EFFACEE!</string>
 	<string name="catExtImpConfirm2">\u2192 Soyez sûr de ne pas changer les IDs des tâches déjà utilisées!</string>
-	<string name="catExtImpConfirm3">\u2192 L\'import ne peut pas être annulé, sauf avec \'Restaurer\'</string>
+	<string name="commonCannotUndo">\u2192 L\'action ne peut pas être annulé, sauf avec \'Restaurer\'</string>
 	<string name="catExtImpConfirm4">\u2022 Fichier: {1}</string>
 	<string name="catExtImpConfirm5">\u2022 Nombre de tâches à importer: {1}</string>
 	<string name="catExtNothingToImport">Rien à importer. Fichier vide ?</string>
@@ -558,7 +558,6 @@
     <string name="worktimeExceededLabel">Alarm if daily worktime &gt; x hours</string>
     <string name="worktimeExceededNotification">Daily worktime exceeds {1}</string>
     <string name="commonThreshold">Threshold</string>
-	<!-- changed "catExtImpConfirm3" to "commonCannotUndo" -->
 	<string name="expTypeCustomersPerDay">E6 Customers per day</string>
     <string name="customerNone">(no customer)</string>
     <string name="cloudProviderDropbox">Dropbox</string>

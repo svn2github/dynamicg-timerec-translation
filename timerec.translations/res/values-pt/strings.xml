@@ -395,7 +395,7 @@
 	<string name="catExtFileMissing">Arquivo de importação não encontrado. Use  \"Exportar\" para criar um modelo.</string>
 	<string name="catExtImpConfirm1">\u2192  {1} TAREFAS EXISTENTES SERÃO DELETADAS!</string>
 	<string name="catExtImpConfirm2">\u2192 Garanta que você não mudou os IDs das tarefas em uso!</string>
-	<string name="catExtImpConfirm3">\u2192 Importação não pode ser feita, exceto com \'Restaurar\'</string>
+	<string name="commonCannotUndo">\u2192 Ação não pode ser feita, exceto com \'Restaurar\'</string>
 	<string name="catExtImpConfirm4">\u2022 Arquivo: {1}</string>
 	<string name="catExtImpConfirm5">\u2022 Número de tarefas para importar: {1}</string>
 	<string name="catExtNothingToImport">Nada para importar. Arquivo vazio?</string>
@@ -552,7 +552,6 @@
     <string name="worktimeExceededLabel">Alarm if daily worktime &gt; x hours</string>
     <string name="worktimeExceededNotification">Daily worktime exceeds {1}</string>
     <string name="commonThreshold">Threshold</string>
-	<!-- changed "catExtImpConfirm3" to "commonCannotUndo" -->
 	<string name="expTypeCustomersPerDay">E6 Customers per day</string>
     <string name="customerNone">(no customer)</string>
     <string name="cloudProviderDropbox">Dropbox</string>
