@@ -216,9 +216,9 @@
 	
 	<string name="fileDeliveryLabel">Entrega</string>
 	<string name="fileDeliveryEmail">Enviar como email</string>
-	<string name="fileDeliveryDropbox">Upload para o Dropbox</string>
+	<string name="fileDeliveryCloud">Upload para o {1}</string>
 	<string name="fileDeliveryGoogleDocs">Enviar para o Google Docs</string>
-	<string name="fileDeliveryRestoreFromDropbox">Restaurar do Dropbox</string>
+	<string name="fileDeliveryRestoreFromCloud">Restaurar do {1}</string>
 	
     <string name="domainSepComma">Vírgula [,]</string>
     <string name="domainSepSemicolon">Ponto e Vírgula [;]</string>
@@ -269,9 +269,9 @@
     <string name="catExpImpExport">Exportar</string>
     <string name="catExpImpImport">Importar</string>
     <string name="catExpImpToSD">Exportar para o cartão SD</string>
-    <string name="catExpImpToDropbox">Exportar para o Dropbox</string>
+    <string name="catExpImpToCloud">Exportar para o {1}</string>
     <string name="catExpImpFromSD">Importar do cartão SD</string>
-    <string name="catExpImpFromDropbox">Importar do Dropbox</string>
+    <string name="catExpImpFromCloud">Importar do {1}</string>
     
     <string name="hintClickToChange">Clique para alterar</string>
     <string name="hintClickIconToEdit">Clique no ícone para editar notas</string>
@@ -290,7 +290,7 @@
     <string name="errorSdCardAccess">Erro ao acessar cartão SD</string>
     <string name="errorSdCardWrite">Erro ao escrever no cartão SD</string>
     <string name="errorCalSyncFailed">Sincronização com a agenda falhou</string>
-    <string name="errorDropboxAccessFailed">Falha ao acessar o Dropbox</string>
+    <string name="errorCloudAccessFailed">Falha ao acessar o {1}</string>
 
     <string name="aboutPublicServices">Serviços Públicos da App</string> 
     <string name="aboutPleaseRate">\u2022 Avaliação é muito apreciada:</string> 
@@ -307,7 +307,7 @@
     <string name="bckArchiveDataOlderThan">Arquivo de dados &gt; {1} meses</string>
     <string name="bckArchiveHint">\u2192 Use \"arquivar\" para mover dados antigos e criar uma \'base ativa\' menor e mais rápida</string>
     <string name="bckSdCardAutoBackup">Backup para o cartão SD a cada X dias</string>
-    <string name="bckDropboxAutoBackup">Backup para o Dropbox a cada X dias</string>
+    <string name="bckCloudAutoBackup">Backup para o {1} a cada X dias</string>
 	<string name="errorSdCardUnavailable">SD Card não disponível. Backup, restauração &amp; exportação no momento não são possíveis.</string>
 	
 	<string name="widgetAppTitle1">Hora</string>

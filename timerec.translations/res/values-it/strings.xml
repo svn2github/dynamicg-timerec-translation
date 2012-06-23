@@ -385,12 +385,12 @@
 	<string name="expPrefsTransposeMatrix">E5: Sposta matrice</string>
 	
     <string name="errorCalSyncFailed">Sincronizzazione con calendario fallita</string>
-    <string name="errorDropboxAccessFailed">Accessso a Dropbox fallito</string>
+    <string name="errorCloudAccessFailed">Accessso a {1} fallito</string>
 	
 	<string name="fileDeliveryLabel">Consegna</string>
 	<string name="fileDeliveryEmail">Invia come email</string>
-	<string name="fileDeliveryDropbox">Carica su Dropbox</string>
-	<string name="fileDeliveryRestoreFromDropbox">Ripristina da Dropbox</string>
+	<string name="fileDeliveryCloud">Carica su {1}</string>
+	<string name="fileDeliveryRestoreFromCloud">Ripristina da {1}</string>
 	
     <string name="stdStampTypeBreakNow">Fai pausa adesso</string>
     <string name="stdStampBreakForLastMI">Per gli ultimi {1} minuti</string>
@@ -419,15 +419,15 @@
 	<!-- ==== UPGRADE FROM 2.04 TO 3.15 ==== -->
 	<string name="err25">Errore: Backup fallito</string>
 	<string name="bckSdCardAutoBackup">Backup su scheda SD ogni x giorni</string>
-	<string name="bckDropboxAutoBackup">Backup su Dropbox ogni x giorni</string>
+	<string name="bckCloudAutoBackup">Backup su {1} ogni x giorni</string>
 	
 	<string name="catExpImpTitle">Esporta/Importa</string>
 	<string name="catExpImpExport">Esporta</string>
 	<string name="catExpImpImport">Importa</string>
 	<string name="catExpImpToSD">Esporta su scheda SD</string>
-	<string name="catExpImpToDropbox">Esporta su Dropbox</string>
+	<string name="catExpImpToCloud">Esporta su {1}</string>
 	<string name="catExpImpFromSD">Importa da scheda SD</string>
-	<string name="catExpImpFromDropbox">Importa da Dropbox</string>
+	<string name="catExpImpFromCloud">Importa da {1}</string>
 	<string name="hintWeeklyTargetTime">\u2192 Input d\'esempio: \'38.75\'. Cancella per disabilitare.</string>
 	<string name="prefsMonthReportSplit">Dividi la vista \'Mese\' sul 1°\ne su questo giorno</string>
 	<string name="expPrefsFilenamePrefix">Prefisso nome del file</string>

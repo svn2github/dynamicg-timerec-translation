@@ -386,12 +386,12 @@
 	<string name="expPrefsCharsetFullList">Lista completa</string>
 	
     <string name="errorCalSyncFailed">Ha fallado la sincronización con Calendario</string>
-    <string name="errorDropboxAccessFailed">Error al acceder a Dropbox</string>
+    <string name="errorCloudAccessFailed">Error al acceder a {1}</string>
 	
 	<string name="fileDeliveryLabel">Enviado</string>
 	<string name="fileDeliveryEmail">Enviar como correo</string>
-	<string name="fileDeliveryDropbox">Subir a Dropbox</string>
-	<string name="fileDeliveryRestoreFromDropbox">Restaurar de Dropbox</string>
+	<string name="fileDeliveryCloud">Subir a {1}</string>
+	<string name="fileDeliveryRestoreFromCloud">Restaurar de {1}</string>
 	
     <string name="stdStampTypeBreakNow">Pausa ahora</string>
     <string name="stdStampBreakForLastMI">Los últimos {1} minutos</string>
@@ -420,15 +420,15 @@
 	<!-- ==== UPGRADE FROM 2.04 TO 3.15 ==== -->
 	<string name="err25">Error: Fallo en copia de seguridad</string>
 	<string name="bckSdCardAutoBackup">Copia de seguridad en SD cada x días</string>
-	<string name="bckDropboxAutoBackup">Copia de seguridad a Dropbox cada x días</string>
+	<string name="bckCloudAutoBackup">Copia de seguridad a {1} cada x días</string>
 	
 	<string name="catExpImpTitle">Exportar/Importar</string>
 	<string name="catExpImpExport">Exportar</string>
 	<string name="catExpImpImport">Importar</string>
 	<string name="catExpImpToSD">Exportar a SD</string>
-	<string name="catExpImpToDropbox">Exportar a Dropbox</string>
+	<string name="catExpImpToCloud">Exportar a {1}</string>
 	<string name="catExpImpFromSD">Importar desde SD</string>
-	<string name="catExpImpFromDropbox">Importar desde Dropbox</string>
+	<string name="catExpImpFromCloud">Importar desde {1}</string>
 	<string name="hintWeeklyTargetTime">\u2192 Ejemplo de entrada: \'38.75\'. Vaciar para deshabilitar</string>
 	<string name="prefsMonthReportSplit">Separar vista \'Mes\' el 1o\ny este día</string>
 	<string name="expPrefsFilenamePrefix">Prefijo de archivo</string>

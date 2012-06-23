@@ -207,8 +207,8 @@
 	
 	<string name="fileDeliveryLabel">Envoi</string>
 	<string name="fileDeliveryEmail">Envoyer par email</string>
-	<string name="fileDeliveryDropbox">Envoyer vers Dropbox</string>
-	<string name="fileDeliveryRestoreFromDropbox">Récupérer à partir de Dropbox</string>
+	<string name="fileDeliveryCloud">Envoyer vers {1}</string>
+	<string name="fileDeliveryRestoreFromCloud">Récupérer à partir de {1}</string>
 	
     <string name="domainSepComma">Comma [,]</string>
     <string name="domainSepSemicolon">Semicolon [;]</string>
@@ -272,7 +272,7 @@
     <string name="errorCannotStartNewTask">Une inscription est déjà présente à {1}. Impossible de démarrer encore une nouvelle tâche</string>
     <string name="errorSdCardAccess">Erreur d\'accès à la carte SD</string>
     <string name="errorCalSyncFailed">La Synchro avec Calendar a échoué</string>
-    <string name="errorDropboxAccessFailed">L\'accès Dropbox a échoué</string>
+    <string name="errorCloudAccessFailed">L\'accès {1} a échoué</string>
 
     <string name="aboutPublicServices">Public App services</string> 
     <string name="aboutPleaseRate">\u2022 Une notation serait très appréciée:</string> 
@@ -406,15 +406,15 @@
 	<!-- ==== UPGRADE FROM 2.04 TO 3.15 ==== -->
 	<string name="err25">Erreur : la sauvegarde a échoué</string>
 	<string name="bckSdCardAutoBackup">Sauvegarder sur la carte SD tous les x jours</string>
-	<string name="bckDropboxAutoBackup">Sauvegarder vers Dropbox tous les x jours</string>
+	<string name="bckCloudAutoBackup">Sauvegarder vers {1} tous les x jours</string>
 	
 	<string name="catExpImpTitle">Export/Import</string>
 	<string name="catExpImpExport">Export</string>
 	<string name="catExpImpImport">Import</string>
 	<string name="catExpImpToSD">Exporter vers la carte SD</string>
-	<string name="catExpImpToDropbox">Exporter vers Dropbox</string>
+	<string name="catExpImpToCloud">Exporter vers {1}</string>
 	<string name="catExpImpFromSD">Importer à partir de la carte SD</string>
-	<string name="catExpImpFromDropbox">Importer à partir de Dropbox</string>
+	<string name="catExpImpFromCloud">Importer à partir de {1}</string>
 	<string name="hintWeeklyTargetTime">\u2192 Exemple d\'entrée: \'38.75\'. Effacer pour désactiver.</string>
 	<string name="prefsMonthReportSplit">Séparer la vue \'Mois\' sur le premier jour\net sur ce jour</string>
 	<string name="expPrefsFilenamePrefix">Préfixe du nom de fichier</string>
