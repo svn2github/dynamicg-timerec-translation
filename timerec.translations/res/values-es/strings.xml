@@ -164,8 +164,8 @@
 	<string name="expDomNotesFilterEqual">igual</string>
 	<string name="expDomNotesFilterLike">contiene</string>
 
-	<string name="expPrefsShowTotalLine">E1-E4: Mostrar \'Total\'</string>
-	<string name="expPrefsGroupBreakDate">E2,E4: Agrupar pausas por \'Fechas\'</string>
+	<string name="expPrefsShowTotalLine">E1-E4,E6: Mostrar \'Total\'</string>
+	<string name="expPrefsGroupBreakDate">E2,E4,E6: Agrupar pausas por \'Fechas\'</string>
 	<string name="expPrefsTransposeMatrix">E5: matriz de transposición</string>
 	
 	<string name="expTypeOverviewDays">E1 Resumen del día</string>
@@ -433,7 +433,7 @@
 	<string name="hintWeeklyTargetTime">\u2192 Ejemplo de entrada: \'38.75\'. Vaciar para deshabilitar</string>
 	<string name="prefsMonthReportSplit">Separar vista \'Mes\' el 1o\ny este día</string>
 	<string name="expPrefsFilenamePrefix">Prefijo de archivo</string>
-	<string name="expPrefsE4SkipSingleTaskTotal">E4: saltar todas las tareas, mantener total</string>
+	<string name="expPrefsE4SkipSingleTaskTotal">E4,E6: saltar todas las tareas, mantener total</string>
 	
 	<string name="dailyTargetReachedAtLabel">Destino alcanzado a {1}</string>
 	<string name="dailyTargetReachedAtPref">Ver \'Destino alcanzado\'</string>

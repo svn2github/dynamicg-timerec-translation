@@ -163,8 +163,8 @@
 	<string name="expPrefsDetailsReportActive">\'Dettagli\' del resonto abilitati</string>
 	<string name="expDomNotesFilterEqual">è uguale a</string>
 	<string name="expDomNotesFilterLike">contiene</string>
-	<string name="expPrefsShowTotalLine">E1-E4: Mostra \'Totale\'</string>
-	<string name="expPrefsGroupBreakDate">E2,E4: Gruppo di pause il \'Data\'</string>
+	<string name="expPrefsShowTotalLine">E1-E4,E6: Mostra \'Totale\'</string>
+	<string name="expPrefsGroupBreakDate">E2,E4,E6: Gruppo di pause il \'Data\'</string>
 
 	<string name="expTypeOverviewDays">E1 Panoramica del giorno</string>
 	<string name="expTypeOverviewWorkUnits">E2 Panoramica singoli lavori</string>
@@ -432,7 +432,7 @@
 	<string name="hintWeeklyTargetTime">\u2192 Input d\'esempio: \'38.75\'. Cancella per disabilitare.</string>
 	<string name="prefsMonthReportSplit">Dividi la vista \'Mese\' sul 1°\ne su questo giorno</string>
 	<string name="expPrefsFilenamePrefix">Prefisso nome del file</string>
-	<string name="expPrefsE4SkipSingleTaskTotal">E4: Salta il totale del lavoro, mantieni il totale generale</string>
+	<string name="expPrefsE4SkipSingleTaskTotal">E4,E6: Salta il totale del lavoro, mantieni il totale generale</string>
 	
 	<string name="dailyTargetReachedAtLabel">Obiettivo raggiunto alle {1}</string>
 	<string name="dailyTargetReachedAtPref">Mostra \'Obiettivo raggiunto alle\'</string>

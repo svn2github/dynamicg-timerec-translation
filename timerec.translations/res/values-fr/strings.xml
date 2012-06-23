@@ -192,8 +192,8 @@
 	<string name="expPrefsDetailsReportActive">Activer le rapport \'Detaillé\'</string>
 	<string name="expDomNotesFilterEqual">égale</string>
 	<string name="expDomNotesFilterLike">contient</string>
-	<string name="expPrefsShowTotalLine">E1-E4: Afficher \'Total\'</string>
-	<string name="expPrefsGroupBreakDate">E2,E4: Regrouper les pauses par \'Date\'</string>
+	<string name="expPrefsShowTotalLine">E1-E4,E6: Afficher \'Total\'</string>
+	<string name="expPrefsGroupBreakDate">E2,E4,E6: Regrouper les pauses par \'Date\'</string>
 	<string name="expPrefsCharsetCommon">Jeux de caractères communs</string>
 	<string name="expPrefsCharsetFullList">Liste complète</string>
 	<string name="expPrefsTransposeMatrix">E5: Transposer matrice</string>
@@ -419,7 +419,7 @@
 	<string name="hintWeeklyTargetTime">\u2192 Exemple d\'entrée: \'38.75\'. Effacer pour désactiver.</string>
 	<string name="prefsMonthReportSplit">Séparer la vue \'Mois\' sur le premier jour\net sur ce jour</string>
 	<string name="expPrefsFilenamePrefix">Préfixe du nom de fichier</string>
-	<string name="expPrefsE4SkipSingleTaskTotal">E4: Sauter le total de la tâche, garder le total général</string>
+	<string name="expPrefsE4SkipSingleTaskTotal">E4,E6: Sauter le total de la tâche, garder le total général</string>
 	
 	<string name="dailyTargetReachedAtLabel">Objectif atteint à {1}</string>
 	<string name="dailyTargetReachedAtPref">Afficher \'Objectif atteint à\'</string>

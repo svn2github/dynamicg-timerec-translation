@@ -198,13 +198,13 @@
 	<string name="expPrefsDetailsReportActive">\'Detalhes\' ativos no relatório</string>
 	<string name="expDomNotesFilterEqual">combinações</string>
 	<string name="expDomNotesFilterLike">contém</string>
-	<string name="expPrefsShowTotalLine">E1-E4: Exibir \'Total\'</string>
-	<string name="expPrefsGroupBreakDate">E2,E4: Grupo de quebra em \'Data\'</string>
+	<string name="expPrefsShowTotalLine">E1-E4,E6: Exibir \'Total\'</string>
+	<string name="expPrefsGroupBreakDate">E2,E4,E6: Grupo de quebra em \'Data\'</string>
 	<string name="expPrefsCharsetCommon">Conjunto de caracteres comuns</string>
 	<string name="expPrefsCharsetFullList">Lista completa</string>
 	<string name="expPrefsTransposeMatrix">E5: Matriz transposta</string>
 	<string name="expPrefsFilenamePrefix">Prefixo do nome do arquivo</string>
-	<string name="expPrefsE4SkipSingleTaskTotal">E4: Pular tarefa total, manter valor total</string>
+	<string name="expPrefsE4SkipSingleTaskTotal">E4,E6: Pular tarefa total, manter valor total</string>
     <string name="expPrefsShowAggregatedTasks">E1,E3: Exibir tarefas agregadas</string>
 	
 	<string name="expTypeOverviewDays">E1 Visão global do dia</string>
