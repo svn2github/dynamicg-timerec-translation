@@ -572,10 +572,10 @@
 	<string name="expTypeCustomersPerDay">E6 Clientes por día</string>
     <string name="customerNone">(sin cliente)</string>
     <string name="cloudProviderDropbox">Dropbox</string>
+    <string name="commonOverview">Resumen</string>
     
     <string name="worktimeExceededLabel">Alarm if daily worktime &gt; x hours</string>
     <string name="worktimeExceededNotification">Daily worktime exceeds {1}</string>
     <string name="commonThreshold">Threshold</string>
-    <string name="commonOverview">Overview</string>
 		
 </resources>
