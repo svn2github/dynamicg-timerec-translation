@@ -369,7 +369,7 @@
 	<string name="widgetPrefNotifBarText">Testo della notifica</string>
 	<string name="widgetPrefNotifBarHint">\u2192 Segnaposto: $1=orario d\'inizio, $2=totale, $3=lavoro</string>
 	<string name="widgetPrefRefreshInterval">Aggiorna intervallo in minuti</string>
-	<string name="widgetPrefHintRefresh">\u2192 Aggiornamenti piÃ¹ frequenti significa maggiore consumo della batteria!</string>
+	<string name="widgetPrefHintRefresh">\u2192 Aggiornamenti più frequenti significa maggiore consumo della batteria!</string>
 	<string name="widgetPrefKeepRunning">Mantieni attivo in background</string>
 	<string name="widgetPrefHintKeepRunning">\u2192 Spunta se il widget smette regolarmente di aggiornarsi</string>
 	
