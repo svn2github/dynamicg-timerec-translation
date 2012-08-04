@@ -589,5 +589,6 @@
     <string name="worktimeExceededNotification">Daily worktime exceeds {1}</string>
     <string name="commonThreshold">Threshold</string>
     <string name="prefsMainAutoScroll">Auto scroll to bottom</string>
+    <string name="expDomNotesFilterNotLike">doesn\'t contain</string>
 		
 </resources>
