@@ -581,7 +581,7 @@
     <string name="commonSwitchView">Cambiar vista</string>
     <string name="commonContinueTask">Continue task</string>
     <string name="commonOnlineHelp">Ayuda online</string>
-    <string name="expPrefsSaveFilters">Save filters</string>
+    <string name="expPrefsSaveFilters">Grabar filtros</string>
     <string name="commonSyncTitle">Synchronize title</string>
     
 </resources>
