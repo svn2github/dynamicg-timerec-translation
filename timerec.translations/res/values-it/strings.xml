@@ -578,10 +578,17 @@
 		
     <!-- 4.09 -->
     <string name="commonAuto">Auto</string> <!-- automatic -->
-    <string name="commonSwitchView">Switch view</string>
+    <string name="commonSwitchView">Cambia vista</string>
     <string name="commonContinueTask">Continue task</string>
     <string name="commonOnlineHelp">Aiuto online</string>
     <string name="expPrefsSaveFilters">Save filters</string>
     <string name="commonSyncTitle">Synchronize title</string>
     
+    <!-- #I18N# referenced but not active. see tag "#I18N#" -->
+    <string name="worktimeExceededLabel">Alarm if daily worktime &gt; x hours</string>
+    <string name="worktimeExceededNotification">Daily worktime exceeds {1}</string>
+    <string name="commonThreshold">Threshold</string>
+    <string name="prefsMainAutoScroll">Auto scroll to bottom</string>
+    <string name="expDomNotesFilterNotLike">doesn\'t contain</string>
+		
 </resources>
