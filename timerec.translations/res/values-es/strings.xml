@@ -367,7 +367,8 @@
 	<string name="commonFile">Fichero</string>
 	<string name="commonOpenWith">Abierto con</string>
 	
-	<string name="widgetPrefMainTitle">Widget &amp; Notificación</string>
+	<string name="commonWidget">Widget</string>
+	<string name="commonNotificatioBar">Notificación</string>
 	<string name="widgetPrefNotifBarActive">Si activo, notificaciones en barra de estado</string>
 	<string name="widgetPrefNotifBarText">Texto de notificación</string>
 	<string name="widgetPrefNotifBarHint">\u2192 Entradas: $1=Tiempo inicio, $2=total, $3=tarea</string>
@@ -475,7 +476,7 @@
 	<string name="edtoolsAppend">Añadir nota estandard</string>
 	<string name="widgetSdCardHint">\u2192 Los Widgets no funcionan si la app se ha instalado en la SD</string>
 	
-	<string name="prefsGroupMainScreenRefreshLabel">Refresco pantalla principal</string>
+	<string name="prefsGroupMainScreenLabel">Refresco pantalla principal</string>
 	<string name="prefsGroupMainScreenRefreshHint">\u2192 Esto aumentará el consumo de batería!</string>
 	<string name="prefsMainScreenRefresh">refrescar cada n minutos</string>
 	<string name="prefsKeepScreenOn">Mantener pantalla encendida</string>

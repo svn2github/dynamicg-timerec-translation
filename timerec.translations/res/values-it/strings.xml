@@ -364,8 +364,10 @@
 	<string name="commonCheckedIn">Iniziati</string>
 	<string name="commonFile">File</string>
 	<string name="commonOpenWith">Apri con</string>
+
+	<string name="commonWidget">Widget</string>
+	<string name="commonNotificatioBar">Notifica sulla Barra</string>
 	
-	<string name="widgetPrefMainTitle">Widget &amp; Notifica sulla Barra</string>
 	<string name="widgetPrefNotifBarActive">Notifica su Barra di Stato quando iniziato</string>
 	<string name="widgetPrefNotifBarText">Testo della notifica</string>
 	<string name="widgetPrefNotifBarHint">\u2192 Segnaposto: $1=orario d\'inizio, $2=totale, $3=lavoro</string>
@@ -474,7 +476,7 @@
 	<string name="edtoolsAppend">Aggiungi in fondo alla nota standard</string>
 	<string name="widgetSdCardHint">\u2192 I widgets non funzionano se l\'app è installata sulla scheda SD!</string>
 	
-	<string name="prefsGroupMainScreenRefreshLabel">Aggiorna schermata principale</string>
+	<string name="prefsGroupMainScreenLabel">Aggiorna schermata principale</string>
 	<string name="prefsGroupMainScreenRefreshHint">\u2192 Questo aumenterà il consumo della batteria!</string>
 	<string name="prefsMainScreenRefresh">Auto aggiornamento ogni n minuti</string>
 	<string name="prefsKeepScreenOn">Tieni lo schermo attivo</string>

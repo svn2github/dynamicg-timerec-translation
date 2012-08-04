@@ -408,6 +408,9 @@
 	
 	<string name="proReminderMktButton">Google Play</string>
 
+	<string name="commonWidget">Widget</string>
+	<string name="commonNotificatioBar">Barra de notificação</string>
+		
 	<string name="widgetAppTitleShort">RH</string>
 	<string name="widgetTitleFrame">Registro de Horários (Quadro)</string>
 	<string name="widgetTitleGloss">Registro de Horários (Vidro)</string>
@@ -415,7 +418,6 @@
 	<string name="widgetTitleFramePro">Registro de Horários Pro (Quadro)</string>
 	<string name="widgetTitleGlossPro">Registro de Horários Pro (Vidro)</string>
 	<string name="widgetTitleSliderPro">Registro de Horários Pro (Deslizante)</string>
-	<string name="widgetPrefMainTitle">Widget &amp; Barra de notificação</string>
 	<string name="widgetPrefNotifBarActive">Notificação na Barra de Status quando checado</string>
 	<string name="widgetPrefNotifBarText">Texto de notificação</string>
 	<string name="widgetPrefNotifBarHint">\u2192 Espaço reservado: $1=tempo de check-in, $2=total, $3=tarefa</string>
@@ -459,7 +461,7 @@
 	<string name="edtoolsAppend">Adicionar nota padrão</string>
 	<string name="widgetSdCardHint">\u2192 Widgets se o App foi instalado no SD Card!</string>
 	
-	<string name="prefsGroupMainScreenRefreshLabel">Atualizar tela principal</string>
+	<string name="prefsGroupMainScreenLabel">Atualizar tela principal</string>
 	<string name="prefsGroupMainScreenRefreshHint">\u2192 Isso irá aumentar o consumo da bateria!</string>
 	<string name="prefsMainScreenRefresh">Auto atualizar a cada n minutos</string>
 	<string name="prefsKeepScreenOn">Mantenha a tela ligada</string>
