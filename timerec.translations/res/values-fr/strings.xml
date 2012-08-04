@@ -566,7 +566,7 @@
     <!-- 4.09 -->
     <string name="commonAuto">Auto</string> <!-- automatic -->
     <string name="commonSwitchView">Changer la vue</string>
-    <string name="commonContinueTask">Continue task</string>
+    <string name="commonContinueTask">Continuer tâche</string>
     <string name="commonOnlineHelp">Aide en ligne</string>
     <string name="expPrefsSaveFilters">Sauver les filtres</string>
     <string name="commonSyncTitle">Synchroniser titre</string>

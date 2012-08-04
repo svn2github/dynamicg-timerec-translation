@@ -560,7 +560,7 @@
     <!-- 4.09 -->
     <string name="commonAuto">Auto</string> <!-- automatic -->
     <string name="commonSwitchView">Mudar visão</string>
-    <string name="commonContinueTask">Continue task</string>
+    <string name="commonContinueTask">Continuar tarefa</string>
     <string name="commonOnlineHelp">Ajuda online</string>
     <string name="expPrefsSaveFilters">Guardar os filtros</string>
     <string name="commonSyncTitle">Sincronizar título</string>
