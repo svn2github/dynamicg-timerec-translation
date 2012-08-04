@@ -580,7 +580,7 @@
     <string name="commonAuto">Auto</string> <!-- automatic -->
     <string name="commonSwitchView">Switch view</string>
     <string name="commonContinueTask">Continue task</string>
-    <string name="commonOnlineHelp">Online Help</string>
+    <string name="commonOnlineHelp">Ayuda online</string>
     <string name="expPrefsSaveFilters">Save filters</string>
     <string name="commonSyncTitle">Synchronize title</string>
     
