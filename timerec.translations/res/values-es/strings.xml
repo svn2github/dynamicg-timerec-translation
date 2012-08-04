@@ -582,6 +582,6 @@
     <string name="commonContinueTask">Continue task</string>
     <string name="commonOnlineHelp">Ayuda online</string>
     <string name="expPrefsSaveFilters">Grabar filtros</string>
-    <string name="commonSyncTitle">Synchronize title</string>
+    <string name="commonSyncTitle">Sincronizar el título</string>
     
 </resources>

@@ -582,7 +582,7 @@
     <string name="commonContinueTask">Continue task</string>
     <string name="commonOnlineHelp">Aiuto online</string>
     <string name="expPrefsSaveFilters">Salva filtri</string>
-    <string name="commonSyncTitle">Synchronize title</string>
+    <string name="commonSyncTitle">sincronizzare il titolo</string>
     
     <!-- #I18N# referenced but not active. see tag "#I18N#" -->
     <string name="worktimeExceededLabel">Alarm if daily worktime &gt; x hours</string>
