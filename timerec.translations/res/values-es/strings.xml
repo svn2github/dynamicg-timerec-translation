@@ -579,7 +579,7 @@
     <!-- 4.09 -->
     <string name="commonAuto">Auto</string> <!-- automatic -->
     <string name="commonSwitchView">Cambiar vista</string>
-    <string name="commonContinueTask">Continue task</string>
+    <string name="commonContinueTask">Continuar tarea</string>
     <string name="commonOnlineHelp">Ayuda online</string>
     <string name="expPrefsSaveFilters">Guardar los filtros</string>
     <string name="commonSyncTitle">Sincronizar el título</string>
