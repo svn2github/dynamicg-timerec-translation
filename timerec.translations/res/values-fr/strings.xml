@@ -562,10 +562,5 @@
     <string name="customerNone">(pas de client)</string>
     <string name="cloudProviderDropbox">Dropbox</string>
     <string name="commonOverview">Aperçu</string>
-    
-    <!-- referenced but not active. see tag "#I18N#" -->
-    <string name="worktimeExceededLabel">Alarm if daily worktime &gt; x hours</string>
-    <string name="worktimeExceededNotification">Daily worktime exceeds {1}</string>
-    <string name="commonThreshold">Threshold</string>
 		
 </resources>
