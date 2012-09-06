@@ -163,8 +163,8 @@
 	<string name="expPrefsDetailsReportActive">\'Dettagli\' del resonto abilitati</string>
 	<string name="expDomNotesFilterEqual">è uguale a</string>
 	<string name="expDomNotesFilterLike">contiene</string>
-	<string name="expPrefsShowTotalLine">E1-E4,E6: Mostra \'Totale\'</string>
-	<string name="expPrefsGroupBreakDate">E2,E4,E6: Gruppo di pause il \'Data\'</string>
+	<string name="expPrefsShowTotalLine">Mostra \'Totale\'</string>
+	<string name="expPrefsGroupBreakDate">Gruppo di pause il \'Data\'</string>
 
 	<string name="expTypeOverviewDays">E1 Panoramica del giorno</string>
 	<string name="expTypeOverviewWorkUnits">E2 Panoramica singoli lavori</string>
@@ -385,7 +385,7 @@
 	
 	<string name="expPrefsCharsetCommon">Set di caratteri comune</string>
 	<string name="expPrefsCharsetFullList">Elenco completo</string>
-	<string name="expPrefsTransposeMatrix">E5: Sposta matrice</string>
+	<string name="expPrefsTransposeMatrix">Sposta matrice</string>
 	
     <string name="errorCalSyncFailed">Sincronizzazione con calendario fallita</string>
     <string name="errorCloudAccessFailed">Accessso a {1} fallito</string>
@@ -434,7 +434,7 @@
 	<string name="hintWeeklyTargetTime">\u2192 Input d\'esempio: \'38.75\'. Cancella per disabilitare.</string>
 	<string name="prefsMonthReportSplit">Dividi la vista \'Mese\' sul 1°\ne su questo giorno</string>
 	<string name="expPrefsFilenamePrefix">Prefisso nome del file</string>
-	<string name="expPrefsE4SkipSingleTaskTotal">E4,E6: Salta il totale del lavoro, mantieni il totale generale</string>
+	<string name="expPrefsE4SkipSingleTaskTotal">Salta il totale del lavoro, mantieni il totale generale</string>
 	
 	<string name="dailyTargetReachedAtLabel">Obiettivo raggiunto alle {1}</string>
 	<string name="dailyTargetReachedAtPref">Mostra \'Obiettivo raggiunto alle\'</string>
@@ -532,12 +532,12 @@
 	<string name="commonLookupHint">\u2192 Suggerimento: usa la funzione ricerca [\u2026] .</string>
 	<string name="commonResetSettings">Resetta le impostazioni a default</string>
 	<string name="commonFlip">Ribalta</string>
-	<string name="expPrefsShowAggregatedTasks">E1,E3: Mostra lavori aggregati</string>
+	<string name="expPrefsShowAggregatedTasks">Mostra lavori aggregati</string>
 	
 	<!-- ==== 3.16 / customers ==== -->
     <string name="commonCustomer">Cliente</string>
     <string name="prefsCustomerFilter">Filtro cliente</string>
-    <string name="expPrefsShowCustomer">E2,E4,E5: Mostra cliente</string>
+    <string name="expPrefsShowCustomer">Mostra cliente</string>
     <string name="commonDeleteEntry">Elimina voce</string>
     <string name="commonDeleteLine">Elimina linea</string>
     <string name="taskerPluginCondition">Condizione</string>
@@ -590,5 +590,11 @@
     <string name="commonThreshold">Threshold</string>
     <string name="prefsMainAutoScroll">Auto scroll to bottom</string>
     <string name="expDomNotesFilterNotLike">doesn\'t contain</string>
-		
+    
+    <!-- 4.10/4.11 -->
+    <string name="commonExtras">Extras</string>
+    <string name="paidOt2Factor">Factor</string>
+    <string name="commonRateButton">Rate</string> <!-- as in "please rate the app" -->
+	<string name="edtoolsGeoLocation">Add geo location</string>
+    
 </resources>

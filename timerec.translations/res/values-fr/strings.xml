@@ -192,11 +192,11 @@
 	<string name="expPrefsDetailsReportActive">Activer le rapport \'Detaillé\'</string>
 	<string name="expDomNotesFilterEqual">égale</string>
 	<string name="expDomNotesFilterLike">contient</string>
-	<string name="expPrefsShowTotalLine">E1-E4,E6: Afficher \'Total\'</string>
-	<string name="expPrefsGroupBreakDate">E2,E4,E6: Regrouper les pauses par \'Date\'</string>
+	<string name="expPrefsShowTotalLine">Afficher \'Total\'</string>
+	<string name="expPrefsGroupBreakDate">Regrouper les pauses par \'Date\'</string>
 	<string name="expPrefsCharsetCommon">Jeux de caractères communs</string>
 	<string name="expPrefsCharsetFullList">Liste complète</string>
-	<string name="expPrefsTransposeMatrix">E5: Transposer matrice</string>
+	<string name="expPrefsTransposeMatrix">Transposer matrice</string>
 	
 	<string name="expTypeOverviewDays">E1 Aperçu de la journée</string>
 	<string name="expTypeOverviewWorkUnits">E2 Aperçu unité de travail</string>
@@ -421,7 +421,7 @@
 	<string name="hintWeeklyTargetTime">\u2192 Exemple d\'entrée: \'38.75\'. Effacer pour désactiver.</string>
 	<string name="prefsMonthReportSplit">Séparer la vue \'Mois\' sur le premier jour\net sur ce jour</string>
 	<string name="expPrefsFilenamePrefix">Préfixe du nom de fichier</string>
-	<string name="expPrefsE4SkipSingleTaskTotal">E4,E6: Sauter le total de la tâche, garder le total général</string>
+	<string name="expPrefsE4SkipSingleTaskTotal">Sauter le total de la tâche, garder le total général</string>
 	
 	<string name="dailyTargetReachedAtLabel">Objectif atteint à {1}</string>
 	<string name="dailyTargetReachedAtPref">Afficher \'Objectif atteint à\'</string>
@@ -519,12 +519,12 @@
 	<string name="commonLookupHint">\u2192 Astuce: utiliser [\u2026] pour la recherche.</string>
 	<string name="commonResetSettings">Réinitialiser avec les paramètres par défaut</string>
 	<string name="commonFlip">Retourner</string>
-	<string name="expPrefsShowAggregatedTasks">E1, E3: Afficher les tâches agrégées</string>
+	<string name="expPrefsShowAggregatedTasks">Afficher les tâches agrégées</string>
 	
 	<!-- ==== 3.16 / customers ==== -->
     <string name="commonCustomer">Client</string>
     <string name="prefsCustomerFilter">Filtre client</string>
-    <string name="expPrefsShowCustomer">E2,E4,E5: Afficher \'Client\'</string>
+    <string name="expPrefsShowCustomer">Afficher \'Client\'</string>
     <string name="commonDeleteEntry">Supprimer l\'entrée</string>
     <string name="commonDeleteLine">Supprimer la ligne</string>
     <string name="taskerPluginCondition">Condition</string>
@@ -570,5 +570,11 @@
     <string name="commonOnlineHelp">Aide en ligne</string>
     <string name="expPrefsSaveFilters">Sauver les filtres</string>
     <string name="commonSyncTitle">Synchroniser titre</string>
+    
+    <!-- 4.10/4.11 -->
+    <string name="commonExtras">Extras</string>
+    <string name="paidOt2Factor">Factor</string>
+    <string name="commonRateButton">Rate</string> <!-- as in "please rate the app" -->
+	<string name="edtoolsGeoLocation">Add geo location</string>
     
 </resources>

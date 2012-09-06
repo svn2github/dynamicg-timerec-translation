@@ -198,14 +198,14 @@
 	<string name="expPrefsDetailsReportActive">\'Detalhes\' ativos no relatório</string>
 	<string name="expDomNotesFilterEqual">combinações</string>
 	<string name="expDomNotesFilterLike">contém</string>
-	<string name="expPrefsShowTotalLine">E1-E4,E6: Exibir \'Total\'</string>
-	<string name="expPrefsGroupBreakDate">E2,E4,E6: Grupo de quebra em \'Data\'</string>
+	<string name="expPrefsShowTotalLine">Exibir \'Total\'</string>
+	<string name="expPrefsGroupBreakDate">Grupo de quebra em \'Data\'</string>
 	<string name="expPrefsCharsetCommon">Conjunto de caracteres comuns</string>
 	<string name="expPrefsCharsetFullList">Lista completa</string>
-	<string name="expPrefsTransposeMatrix">E5: Matriz transposta</string>
+	<string name="expPrefsTransposeMatrix">Matriz transposta</string>
 	<string name="expPrefsFilenamePrefix">Prefixo do nome do arquivo</string>
-	<string name="expPrefsE4SkipSingleTaskTotal">E4,E6: Pular tarefa total, manter valor total</string>
-    <string name="expPrefsShowAggregatedTasks">E1,E3: Exibir tarefas agregadas</string>
+	<string name="expPrefsE4SkipSingleTaskTotal">Pular tarefa total, manter valor total</string>
+    <string name="expPrefsShowAggregatedTasks">Exibir tarefas agregadas</string>
 	
 	<string name="expTypeOverviewDays">E1 Visão global do dia</string>
 	<string name="expTypeOverviewWorkUnits">E2 Visão geral da unidade de trabalho</string>
@@ -516,7 +516,7 @@
     <!-- 3.16 -->
     <string name="commonCustomer">Cliente</string>
     <string name="prefsCustomerFilter">Filtrar cliente</string>
-    <string name="expPrefsShowCustomer">E2,E4,E5: Exibir cliente</string>
+    <string name="expPrefsShowCustomer">Exibir cliente</string>
     <string name="commonDeleteEntry">Excluir registro</string>
     <string name="commonDeleteLine">Excluir linha</string>
     
@@ -564,5 +564,11 @@
     <string name="commonOnlineHelp">Ajuda online</string>
     <string name="expPrefsSaveFilters">Guardar os filtros</string>
     <string name="commonSyncTitle">Sincronizar título</string>
+    
+    <!-- 4.10/4.11 -->
+    <string name="commonExtras">Extras</string>
+    <string name="paidOt2Factor">Factor</string>
+    <string name="commonRateButton">Rate</string> <!-- as in "please rate the app" -->
+	<string name="edtoolsGeoLocation">Add geo location</string>
     
 </resources>
