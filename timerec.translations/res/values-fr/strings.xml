@@ -460,7 +460,7 @@
 	<string name="edtoolsCap">Capitalisation par défaut</string>
 	<string name="edtoolsCapWords">Mots</string>
 	<string name="edtoolsCapSentences">Phrases</string>
-	<string name="edtoolsAppend">Ajouter la note standard</string>
+	<string name="edtoolsAppend">Ajouter note standard</string>
 	<string name="widgetSdCardHint">\u2192 Les Widgets ne fonctionnent pas si l\'application est installée sur la carte SD !</string>
 	
 	<string name="prefsGroupMainScreenLabel">Rafraichissement écran principal</string>
@@ -573,6 +573,6 @@
     <string name="commonExtras">Extras</string>
     <string name="commonRateButton">Noter</string> <!-- as in "please rate the app" -->
     <string name="paidOt2Factor">Facteur</string>
-	<string name="edtoolsGeoLocation">Add geo location</string>
+	<string name="edtoolsGeoLocation">Ajouter localisation</string>
     
 </resources>

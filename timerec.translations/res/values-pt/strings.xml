@@ -567,6 +567,6 @@
     <string name="commonExtras">Extras</string>
     <string name="commonRateButton">Avaliar</string> <!-- as in "please rate the app" -->
     <string name="paidOt2Factor">Fator</string>
-	<string name="edtoolsGeoLocation">Add geo location</string>
+	<string name="edtoolsGeoLocation">Adicionar localização</string>
     
 </resources>
