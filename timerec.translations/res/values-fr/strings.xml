@@ -572,7 +572,7 @@
     <!-- 4.10/4.11 -->
     <string name="commonExtras">Extras</string>
     <string name="commonRateButton">Noter</string> <!-- as in "please rate the app" -->
-    <string name="paidOt2Factor">Factor</string>
+    <string name="paidOt2Factor">Facteur</string>
 	<string name="edtoolsGeoLocation">Add geo location</string>
     
 </resources>
