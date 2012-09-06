@@ -206,7 +206,6 @@
 	<string name="expPrefsTransposeMatrix">Matriz transposta</string>
 	<string name="expPrefsFilenamePrefix">Prefixo do nome do arquivo</string>
 	<string name="expPrefsE4SkipSingleTaskTotal">Pular tarefa total, manter valor total</string>
-    <string name="expPrefsShowAggregatedTasks">Exibir tarefas agregadas</string>
 	
 	<string name="expTypeOverviewDays">E1 Visão global do dia</string>
 	<string name="expTypeOverviewWorkUnits">E2 Visão geral da unidade de trabalho</string>
@@ -550,7 +549,6 @@
     <string name="alertNotificationSoundOnce">Notificação sonora (1x)</string>
     <string name="alertNotificationSoundInsistent">Notificação sonora (persistente)</string>
     <string name="alertNotificationVibra">Vibrar</string>
-    <string name="alertNotificationAppVibra">Clique aqui para instalar plugin \'Vibrate\'</string>
     
     <!-- 4.06, 4.07 -->
 	<string name="expTypeCustomersPerDay">E6 Clientes por dia</string>

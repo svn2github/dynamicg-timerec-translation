@@ -533,7 +533,6 @@
 	<string name="commonLookupHint">\u2192 Ayuda: usa [\u2026] para buscar.</string>
 	<string name="commonResetSettings">Restaurar a fábrica</string>
 	<string name="commonFlip">Voltear</string>
-	<string name="expPrefsShowAggregatedTasks">Ver tareas añadidas</string>
 		
 	<!-- ==== 3.16 / customers ==== -->
     <string name="commonCustomer">Cliente</string>
@@ -569,7 +568,6 @@
 	<string name="alertNotificationSoundOnce">Sonido Notificación (único)</string>
 	<string name="alertNotificationSoundInsistent">Sonido Notificación (insistente)</string>
 	<string name="alertNotificationVibra">Vibrar</string>
-	<string name="alertNotificationAppVibra">Pulsa aquí para instalar el plugin de \'Vibración\'</string>
 
     <!-- 4.06, 4.07 -->
 	<string name="expTypeCustomersPerDay">E6 Clientes por día</string>
