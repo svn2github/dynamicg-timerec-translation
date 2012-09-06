@@ -411,8 +411,9 @@
 	<string name="calSyncEventTitleLabel">Título del evento</string>
 	<string name="calSyncCheckSettings">Pulsar para comprobar \'{1}\' configuración.</string>
 
-	<string name="utilityAppMissing">\u2192 Se necesita otra aplicación \'{1}\'.\nPulsar para descargar</string>
-	
+	<string name="marketAppMissing">Se necesita otra aplicación. Pulsar para descargar</string>
+	<string name="marketPluginMissing">Se necesita otra aplicación. Pulsar para descargar</string>
+		
 	<string name="commonSeeOnlineHelp">\u2192 Ver ayuda online</string>
     <string name="confirmDeleteItemHint">\u2192 Ayuda: utiliza \'Menu/{1}\' para borrar entradas individuales</string>
 	<string name="expPrefsAmtWithCurrency">Mostrar moneda en cantidades</string>

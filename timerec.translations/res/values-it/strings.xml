@@ -411,8 +411,9 @@
 	<string name="calSyncEventTitleLabel">Titolo evento</string>
 	<string name="calSyncCheckSettings">Clicca qui per controllare \'{1}\' le impostazioni.</string>
 
-	<string name="utilityAppMissing">\u2192 Applicazione aggiuntiva \'{1}\' necessaria.\nClicca qui per il download</string>
-	
+	<string name="marketAppMissing">Applicazione aggiuntiva necessaria. Clicca qui per il download</string>
+	<string name="marketPluginMissing">Applicazione aggiuntiva necessaria. Clicca qui per il download</string>
+		
 	<string name="commonSeeOnlineHelp">\u2192 Vedi aiuto online</string>
     <string name="confirmDeleteItemHint">\u2192 Suggerimento: usa \'Menu/{1}\' per eliminare le singole voci</string>
 	<string name="expPrefsAmtWithCurrency">Mostra valuta sugli importi</string>
