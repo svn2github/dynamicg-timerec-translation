@@ -156,7 +156,7 @@
 	<string name="expPrefsTargetIntent">\'Enviar\' intento de destino</string>
 	<string name="expPrefsFileEncoding">Codificar fichero</string>
 	<string name="expPrefsHideAmounts">Ocultar importes</string>
-	<string name="expPrefsDaysToShow">E1-E3 muestras estos días</string>
+	<string name="expPrefsDaysToShow">Muestran estos días</string>
 	<string name="expDomDaysShowAll">todo</string>
 	<string name="expDomDaysShowSt">con registros</string>
 	<string name="expDomDaysShowStNt">con registros o notas</string>

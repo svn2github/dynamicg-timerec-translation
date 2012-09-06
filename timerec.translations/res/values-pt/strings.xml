@@ -191,7 +191,7 @@
 	<string name="expPrefsFileEncoding">Codificação do arquivo</string>
 	<string name="expPrefsHideAmounts">Esconder totais</string>
 	<string name="expPrefsAmtWithCurrency">Exibir moeda nos totais</string>
-	<string name="expPrefsDaysToShow">E1-E3 exibir estes dias</string>
+	<string name="expPrefsDaysToShow">Exibir estes dias</string>
 	<string name="expDomDaysShowAll">todas</string>
 	<string name="expDomDaysShowSt">com registros</string>
 	<string name="expDomDaysShowStNt">com registros ou notas</string>

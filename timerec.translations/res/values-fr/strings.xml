@@ -185,7 +185,7 @@
 	<string name="expPrefsFileEncoding">Encodage fichier</string>
 	<string name="expPrefsHideAmounts">Masquer montants</string>
 	<string name="expPrefsAmtWithCurrency">Afficher la devise pour les montants</string>
-	<string name="expPrefsDaysToShow">E1-E3 Montrer ces jours</string>
+	<string name="expPrefsDaysToShow">Montrer ces jours</string>
 	<string name="expDomDaysShowAll">Tout</string>
 	<string name="expDomDaysShowSt">Avec enregistrements</string>
 	<string name="expDomDaysShowStNt">Avec enregistrements ou notes</string>
