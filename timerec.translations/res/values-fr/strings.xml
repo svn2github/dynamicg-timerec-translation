@@ -277,7 +277,6 @@
     <string name="errorCloudAccessFailed">L\'accès {1} a échoué</string>
 
     <string name="aboutPublicServices">Public App services</string> 
-    <string name="aboutPleaseRate">\u2022 Une notation serait très appréciée:</string> 
     <string name="aboutPro">Version Pro</string>
 	<string name="aboutAvailableHere">\'{1}\' disponible ici</string> 
 
@@ -572,8 +571,8 @@
     
     <!-- 4.10/4.11 -->
     <string name="commonExtras">Extras</string>
+    <string name="commonRateButton">Noter</string> <!-- as in "please rate the app" -->
     <string name="paidOt2Factor">Factor</string>
-    <string name="commonRateButton">Rate</string> <!-- as in "please rate the app" -->
 	<string name="edtoolsGeoLocation">Add geo location</string>
     
 </resources>

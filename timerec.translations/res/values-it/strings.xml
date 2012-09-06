@@ -237,7 +237,6 @@
     <string name="errorSdCardAccess">Errore di accesso su Card SD</string>
 
     <string name="aboutPublicServices">Servizi pubblici dell\'App</string> 
-    <string name="aboutPleaseRate">\u2022 La votazione è gradita e ben accetta:</string> 
     <string name="aboutPro">Versione Pro</string>
 	<string name="aboutAvailableHere">\'{1}\' disponibile qua</string> 
 
@@ -592,8 +591,8 @@
     
     <!-- 4.10/4.11 -->
     <string name="commonExtras">Extra</string>
+    <string name="commonRateButton">Valutare</string> <!-- as in "please rate the app" -->
     <string name="paidOt2Factor">Factor</string>
-    <string name="commonRateButton">Rate</string> <!-- as in "please rate the app" -->
 	<string name="edtoolsGeoLocation">Add geo location</string>
     
 </resources>
