@@ -583,7 +583,7 @@
     <string name="expPrefsSaveFilters">Guardar los filtros</string>
     <string name="commonSyncTitle">Sincronizar el título</string>
     
-    <!-- 4.10/4.11 ###PENDING### -->
+    <!-- 4.10/4.11 -->
     <string name="commonExtras">Extras</string>
     <string name="paidOt2Factor">Factor</string>
     <string name="commonRateButton">Rate</string> <!-- as in "please rate the app" -->
