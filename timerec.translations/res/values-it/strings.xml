@@ -423,7 +423,7 @@
 	<string name="err25">Errore: Backup fallito</string>
 	<string name="bckSdCardAutoBackup">Backup su scheda SD ogni x giorni</string>
 	<string name="bckCloudAutoBackup">Backup su {1} ogni x giorni</string>
-	<string name="prefsAutoBackup">Backup ogni n giorni</string>
+	<string name="prefsAutoBackup">Backup ogni x giorni</string>
 	
 	<string name="catExpImpTitle">Esporta/Importa</string>
 	<string name="catExpImpExport">Esporta</string>
@@ -480,7 +480,7 @@
 	<string name="prefsGroupMainScreenLabel">Aggiorna schermata principale</string>
 	<string name="prefsGroupMainScreenRefreshHint">\u2192 Questo aumenterà il consumo della batteria!</string>
 	<string name="prefsMainScreenRefresh">Auto aggiornamento ogni n minuti</string>
-	<string name="commonRefreshMM">Auto aggiornamento ogni n minuti</string>
+	<string name="commonRefreshMM">Auto aggiornamento ogni x minuti</string>
 	<string name="prefsKeepScreenOn">Tieni lo schermo attivo</string>
 	
 	<string name="expPrefsShowEmailOnHTML">Mostra indirizzo email sulle esportazioni in HTML</string>

@@ -410,7 +410,7 @@
 	<string name="err25">Erreur : la sauvegarde a échoué</string>
 	<string name="bckSdCardAutoBackup">Sauvegarder sur la carte SD tous les x jours</string>
 	<string name="bckCloudAutoBackup">Sauvegarder vers {1} tous les x jours</string>
-	<string name="prefsAutoBackup">Sauvegarder tous les n jours</string>
+	<string name="prefsAutoBackup">Sauvegarder tous les x jours</string>
 	
 	<string name="catExpImpTitle">Export/Import</string>
 	<string name="catExpImpExport">Export</string>
@@ -467,7 +467,7 @@
 	<string name="prefsGroupMainScreenLabel">Rafraichissement écran principal</string>
 	<string name="prefsGroupMainScreenRefreshHint">\u2192 Cela augmentera la consommation de la batterie!</string>
 	<string name="prefsMainScreenRefresh">Rafraichissement auto toutes les n minutes</string>
-	<string name="commonRefreshMM">Rafraichissement auto toutes les n minutes</string>
+	<string name="commonRefreshMM">Rafraichissement auto toutes les x minutes</string>
 	<string name="prefsKeepScreenOn">Laisser l\'écran allumé</string>
 	
 	<string name="expPrefsShowEmailOnHTML">Montrer l\'adresse email sur les exports HTML</string>

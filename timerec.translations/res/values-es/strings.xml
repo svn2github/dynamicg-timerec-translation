@@ -423,7 +423,7 @@
 	<string name="err25">Error: Fallo en copia de seguridad</string>
 	<string name="bckSdCardAutoBackup">Copia de seguridad en SD cada x días</string>
 	<string name="bckCloudAutoBackup">Copia de seguridad a {1} cada x días</string>
-	<string name="prefsAutoBackup">Copia de seguridad cada n días</string>
+	<string name="prefsAutoBackup">Copia de seguridad cada x días</string>
 	
 	<string name="catExpImpTitle">Exportar/Importar</string>
 	<string name="catExpImpExport">Exportar</string>
@@ -480,7 +480,7 @@
 	<string name="prefsGroupMainScreenLabel">Refresco pantalla principal</string>
 	<string name="prefsGroupMainScreenRefreshHint">\u2192 Esto aumentará el consumo de batería!</string>
 	<string name="prefsMainScreenRefresh">refrescar cada n minutos</string>
-	<string name="commonRefreshMM">refrescar cada n minutos</string>
+	<string name="commonRefreshMM">refrescar cada x minutos</string>
 	<string name="prefsKeepScreenOn">Mantener pantalla encendida</string>
 	
 	<string name="expPrefsShowEmailOnHTML">Mostrar correo cuando se exporta a HTML</string>
