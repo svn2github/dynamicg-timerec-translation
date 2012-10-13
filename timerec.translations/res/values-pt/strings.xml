@@ -578,7 +578,7 @@
     <string name="commonUndo">Reiniciar</string> <!-- "undo changes" on text editor -->
     <string name="domainMonthviewSemiM">Bimensal</string>
 	<string name="prefsFirstDayOfPeriodN">Primeiro dia do período {1} (1-31)</string>
-	<string name="prefsCurrentWeekOfRepPeriod">Semana atual de seu período de relatório</string>
+	<string name="prefsCurrentWeekOfRepPeriod">semana em curso</string>
     
     <!-- ### PENDING ### -->
 	<string name="prefsScrollSizeWeeks">Scrolling on \'{1}\' view</string>

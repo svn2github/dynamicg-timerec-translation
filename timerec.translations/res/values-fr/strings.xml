@@ -583,7 +583,7 @@
     <string name="commonUndo">Effacer</string> <!-- "undo changes" on text editor -->
     <string name="domainMonthviewSemiM">Bimensuel</string>
 	<string name="prefsFirstDayOfPeriodN">Premier jour de la période {1} (1-31)</string>
-	<string name="prefsCurrentWeekOfRepPeriod">Semaine en cours de votre période de déclaration</string>
+	<string name="prefsCurrentWeekOfRepPeriod">Semaine en cours</string>
     
     <!-- ### PENDING ### -->
 	<string name="prefsScrollSizeWeeks">Scrolling on \'{1}\' view</string>
