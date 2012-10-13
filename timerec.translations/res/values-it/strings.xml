@@ -591,6 +591,8 @@
     <string name="commonThreshold">Threshold</string>
     <string name="prefsMainAutoScroll">Auto scroll to bottom</string>
     <string name="expDomNotesFilterNotLike">doesn\'t contain</string>
+    <string name="prefsStayOnPreviousDay">Show previous day if opened before</string>
+    <!-- #I18N# referenced but not active. see tag "#I18N#" -->
     
     <!-- 4.10/4.11 -->
     <string name="commonExtras">Extra</string>
