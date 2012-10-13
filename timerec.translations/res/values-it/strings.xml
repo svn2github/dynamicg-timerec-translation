@@ -605,5 +605,6 @@
 	<!-- 4.12/4.13 -->
 	<string name="commonSdCard">Card SD</string>
     <string name="commonUndo">Azzera</string> <!-- "undo changes" on text editor -->
-		
+    <string name="domainMonthviewSemiM">Bimensile</string>
+    
 </resources>

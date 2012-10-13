@@ -581,5 +581,6 @@
 	<!-- 4.12/4.13 -->
 	<string name="commonSdCard">Carte SD</string>
     <string name="commonUndo">Effacer</string> <!-- "undo changes" on text editor -->
-		
+    <string name="domainMonthviewSemiM">Bimensuel</string>
+    
 </resources>

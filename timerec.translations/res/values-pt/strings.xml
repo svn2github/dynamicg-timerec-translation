@@ -576,5 +576,6 @@
 	<!-- 4.12/4.13 -->
 	<string name="commonSdCard">Cartão SD</string>
     <string name="commonUndo">Reiniciar</string> <!-- "undo changes" on text editor -->
-		
+    <string name="domainMonthviewSemiM">Bimensal</string>
+    
 </resources>
