@@ -607,4 +607,11 @@
     <string name="commonUndo">Azzera</string> <!-- "undo changes" on text editor -->
     <string name="domainMonthviewSemiM">Bimensile</string>
     
+    <!-- ### PENDING ### -->
+	<string name="prefsFirstDayOfPeriodN">First day of period {1} (1-31)</string>
+	<string name="prefsCurrentWeekOfRepPeriod">Current week of your reporting period</string>
+	<string name="prefsScrollSizeWeeks">Scrolling on \'{1}\' view</string>
+	<string name="calSyncNighShift">Support night shifts</string>
+    <!-- ### PENDING ### -->
+    
 </resources>
