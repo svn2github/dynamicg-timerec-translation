@@ -410,6 +410,7 @@
 	<string name="err25">Erreur : la sauvegarde a échoué</string>
 	<string name="bckSdCardAutoBackup">Sauvegarder sur la carte SD tous les x jours</string>
 	<string name="bckCloudAutoBackup">Sauvegarder vers {1} tous les x jours</string>
+	<string name="prefsAutoBackup">Sauvegarder tous les n jours</string>
 	
 	<string name="catExpImpTitle">Export/Import</string>
 	<string name="catExpImpExport">Export</string>

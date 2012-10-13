@@ -423,6 +423,7 @@
 	<string name="err25">Errore: Backup fallito</string>
 	<string name="bckSdCardAutoBackup">Backup su scheda SD ogni x giorni</string>
 	<string name="bckCloudAutoBackup">Backup su {1} ogni x giorni</string>
+	<string name="prefsAutoBackup">Backup ogni n giorni</string>
 	
 	<string name="catExpImpTitle">Esporta/Importa</string>
 	<string name="catExpImpExport">Esporta</string>

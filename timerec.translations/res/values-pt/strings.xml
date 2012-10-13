@@ -308,6 +308,8 @@
     <string name="bckArchiveHint">\u2192 Use \"arquivar\" para mover dados antigos e criar uma \'base ativa\' menor e mais rápida</string>
     <string name="bckSdCardAutoBackup">Backup para o cartão SD a cada X dias</string>
     <string name="bckCloudAutoBackup">Backup para o {1} a cada X dias</string>
+    <string name="prefsAutoBackup">Backup para a cada n dias</string>
+    
 	<string name="errorSdCardUnavailable">SD Card não disponível. Backup, restauração &amp; exportação no momento não são possíveis.</string>
 	
 	<string name="widgetAppTitle1">Hora</string>

@@ -423,6 +423,7 @@
 	<string name="err25">Error: Fallo en copia de seguridad</string>
 	<string name="bckSdCardAutoBackup">Copia de seguridad en SD cada x días</string>
 	<string name="bckCloudAutoBackup">Copia de seguridad a {1} cada x días</string>
+	<string name="prefsAutoBackup">Copia de seguridad cada n días</string>
 	
 	<string name="catExpImpTitle">Exportar/Importar</string>
 	<string name="catExpImpExport">Exportar</string>
