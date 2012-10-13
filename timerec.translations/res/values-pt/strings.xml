@@ -553,6 +553,7 @@
 	<string name="expTypeCustomersPerDay">E6 Clientes por dia</string>
     <string name="customerNone">(sem cliente)</string>
     <string name="cloudProviderDropbox">Dropbox</string>
+    <string name="cloudProviderGoogleDrive">Google Drive</string>
     <string name="commonOverview">Visão global</string>
 		
     <!-- 4.09 -->
@@ -569,4 +570,7 @@
     <string name="paidOt2Factor">Fator</string>
 	<string name="edtoolsGeoLocation">Adicionar localização</string>
     
+	<!-- 4.12/4.13 -->
+	<string name="commonSdCard">Cartão SD</string>
+	
 </resources>
