@@ -479,6 +479,7 @@
 	<string name="prefsGroupMainScreenLabel">Aggiorna schermata principale</string>
 	<string name="prefsGroupMainScreenRefreshHint">\u2192 Questo aumenterà il consumo della batteria!</string>
 	<string name="prefsMainScreenRefresh">Auto aggiornamento ogni n minuti</string>
+	<string name="commonRefreshMM">Auto aggiornamento ogni n minuti</string>
 	<string name="prefsKeepScreenOn">Tieni lo schermo attivo</string>
 	
 	<string name="expPrefsShowEmailOnHTML">Mostra indirizzo email sulle esportazioni in HTML</string>
@@ -598,5 +599,6 @@
     
 	<!-- 4.12/4.13 -->
 	<string name="commonSdCard">Card SD</string>
-	
+    <string name="commonUndo">Azzera</string> <!-- "undo changes" on text editor -->
+		
 </resources>

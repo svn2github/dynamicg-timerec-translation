@@ -479,6 +479,7 @@
 	<string name="prefsGroupMainScreenLabel">Refresco pantalla principal</string>
 	<string name="prefsGroupMainScreenRefreshHint">\u2192 Esto aumentará el consumo de batería!</string>
 	<string name="prefsMainScreenRefresh">refrescar cada n minutos</string>
+	<string name="commonRefreshMM">refrescar cada n minutos</string>
 	<string name="prefsKeepScreenOn">Mantener pantalla encendida</string>
 	
 	<string name="expPrefsShowEmailOnHTML">Mostrar correo cuando se exporta a HTML</string>
@@ -591,5 +592,6 @@
     
 	<!-- 4.12/4.13 -->
 	<string name="commonSdCard">Tarjeta SD</string>
-	
+    <string name="commonUndo">Inicializar</string> <!-- "undo changes" on text editor -->
+		
 </resources>
