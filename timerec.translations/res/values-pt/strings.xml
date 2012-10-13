@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:android="http://schemas.android.com/apk/res/android">
 
+	<!-- PT -->
+	
 	<!-- internal -->
     <string name="appUserLabel">DynamicG App User</string>
     <string name="languageFlag">0</string>
