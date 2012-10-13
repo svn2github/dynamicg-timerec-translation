@@ -595,10 +595,10 @@
 	<string name="commonSdCard">Tarjeta SD</string>
     <string name="commonUndo">Inicializar</string> <!-- "undo changes" on text editor -->
     <string name="domainMonthviewSemiM">Bimensual</string>
+	<string name="prefsFirstDayOfPeriodN">El primer día del período {1} (1-31)</string>
+	<string name="prefsCurrentWeekOfRepPeriod">Semana actual de su período</string>
 
     <!-- ### PENDING ### -->
-	<string name="prefsFirstDayOfPeriodN">First day of period {1} (1-31)</string>
-	<string name="prefsCurrentWeekOfRepPeriod">Current week of your reporting period</string>
 	<string name="prefsScrollSizeWeeks">Scrolling on \'{1}\' view</string>
 	<string name="calSyncNighShift">Support night shifts</string>
     <!-- ### PENDING ### -->
