@@ -3,6 +3,8 @@ svn url:
 http://dynamicg-timerec.googlecode.com/svn/trunk/timerec.apk/204
 http://dynamicg-timerec.googlecode.com/svn/trunk/timerec.apk/305
 
+http://dynamicg-timerec.googlecode.com/svn/trunk/timerec.apk/appstore
+
 -- BETA
 http://dynamicg-timerec.googlecode.com/svn/trunk/timerec.apk/beta
 
