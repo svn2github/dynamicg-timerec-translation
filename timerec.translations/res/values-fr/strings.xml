@@ -587,4 +587,9 @@
 	<string name="prefsScrollSizeWeeks">Faire défiler sur la vue \'{1}\'</string>
 	<string name="calSyncNighShift">Soutenir horaire tournant</string>
     
+	<!-- ### PENDING ### -->
+	<string name="commonRetry">Retry</string>
+	<string name="expPrefsGoogleDocsConversion">Convert to Google Docs document</string>
+	<!-- ### PENDING ### -->
+	
 </resources>
