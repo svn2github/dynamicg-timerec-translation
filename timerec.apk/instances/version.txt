@@ -2,6 +2,6 @@
 <date>2012/09/12</date>
 
 # currently deployed:
-# version: 120 / 4.13
-# svn revision: 12338
-# date: 2012/10/30
+# version: 123 / 4.14
+# svn revision: 12443
+# date: 2012/11/05
