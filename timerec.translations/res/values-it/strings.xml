@@ -594,12 +594,13 @@
     <string name="prefsStayOnPreviousDay">Show previous day if opened before</string>
     <string name="hintAlsoSeePage">\u2192 Also see {1} on page {2}</string>
     <string name="dailyTargetReachedInLabel">{1} to go</string>
-    
 	<string name="commonDecimal">Decimal</string>
 	<string name="archiveLocation">Archive file is stored here:\n\u2022 Folder: {1}\n\u2022 Name: {2}\nNote this file is not backed up by the app.</string>
 	<string name="backupReminderTitle">Backup reminder</string>
 	<string name="backupReminderBody">Please remember to back up your data regularly.</string>
 	<string name="commonDoNotShowAgain">Don\'t show this message again</string>
+	<string name="commonBackupShort">Backup</string>
+	<string name="commonLater">Later</string>
     <!-- #I18N# referenced but not active. see tag "#I18N#" -->
     
     <!-- 4.10/4.11 -->
