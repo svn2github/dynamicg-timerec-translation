@@ -585,7 +585,7 @@
 	<string name="prefsFirstDayOfPeriodN">Premier jour de la période {1} (1-31)</string>
 	<string name="prefsCurrentWeekOfRepPeriod">Semaine en cours</string>
 	<string name="prefsScrollSizeWeeks">Faire défiler sur la vue \'{1}\'</string>
-	<string name="calSyncNighShift">Soutenir horaire tournant</string>
+	<string name="calSyncNightShift">Soutenir horaire tournant</string>
 	
 	<string name="commonRetry">Essayez à nouveau</string>
     

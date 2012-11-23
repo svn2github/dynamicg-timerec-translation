@@ -586,7 +586,7 @@
 	
     <!-- ### PENDING ### -->
 	<string name="prefsScrollSizeWeeks">Scrolling on \'{1}\' view</string>
-	<string name="calSyncNighShift">Support night shifts</string>
+	<string name="calSyncNightShift">Support night shifts</string>
 	<string name="expPrefsGoogleDocsConversion">Convert to Google Docs document</string>
 	<!-- ### PENDING ### -->
     
