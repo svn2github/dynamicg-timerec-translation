@@ -8,9 +8,6 @@
     <string name="languageFlag">0</string>
     <string name="googleSitesLanguage">en</string>
 
-	<!-- translation credits -->
-    <string name="aboutTranslation"></string>
-    
 	<!-- labels -->
     <string name="app_name">Registro de Horários</string>
     <string name="app_name_pro">Registro de Horários Pro</string>
@@ -334,7 +331,6 @@
 	<string name="dstorTargetPhone">Telefone</string>
 	<string name="dstorTargetSdCard">SDCard</string>
 	<string name="dstorCurrent">Dados já armazenados em {1}.</string>
-	<string name="dstorDeletionHint">Irá ser deletada em \'Desinstalar App\'!</string>
 	<string name="dstorMoveTo">Mover dados para {1}</string>
 	<string name="dstorImport">Restaurar backup</string>
 	<string name="dstorImportDone">Importação de {1} finalizada, linhas={2}.</string>

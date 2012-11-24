@@ -6,9 +6,6 @@
     <string name="languageFlag">0</string>
     <string name="googleSitesLanguage">en</string>
 
-	<!-- translation credits -->
-    <string name="aboutTranslation"></string>
-    
 	<!-- labels -->
     <string name="app_name">Time Recording</string>
     <string name="app_name_pro">Time Recording Pro</string>

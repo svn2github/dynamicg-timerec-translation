@@ -7,9 +7,6 @@
     <string name="appUserLabel">DynamicG App User</string>
     <string name="languageFlag">0</string>
     
-	<!-- translation credits -->
-    <string name="aboutTranslation"></string>
-    
     <string name="app_name">Hojas de Tiempos</string>
     <string name="app_name_pro">Hojas de Tiempos Pro</string>
     
@@ -271,7 +268,6 @@
 	<string name="dstorTargetPhone">Teléfono</string>
 	<string name="dstorTargetSdCard">SD</string>
 	<string name="dstorCurrent">Los datos se guardan en {1}.</string>
-	<string name="dstorDeletionHint">Se borrarán en \'Desinstalar App\'!</string>
 	<string name="dstorMoveTo">Mover datos a {1}</string>
 	<string name="dstorImport">Restaurar backup</string>
 	<string name="dstorImportDone">Importador desde {1}, rows={2}.</string>

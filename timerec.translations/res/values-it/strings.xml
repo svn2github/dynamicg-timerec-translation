@@ -7,9 +7,6 @@
     <string name="appUserLabel">DynamicG App User</string>
     <string name="languageFlag">0</string>
     
-	<!-- translation credits -->
-    <string name="aboutTranslation">Tradotto da Michael Lepori\nmic.lepori@gmail.com</string>
-    
     <string name="app_name">Registra Orari</string>
     <string name="app_name_pro">Registra Orari Pro</string>
     
@@ -269,7 +266,6 @@
 	<string name="dstorTargetPhone">Telefono</string>
 	<string name="dstorTargetSdCard">CardSD</string>
 	<string name="dstorCurrent">Dati attualmente salvati su {1}.</string>
-	<string name="dstorDeletionHint">Sarà eliminato da \'Disinstalla app\'!</string>
 	<string name="dstorMoveTo">Sposta i dati su {1}</string>
 	<string name="dstorImport">Ripristina backup</string>
 	<string name="dstorImportDone">Importazione da {1} completata, rows={2}.</string>
