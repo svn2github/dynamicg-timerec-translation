@@ -165,7 +165,6 @@
 	<string name="expTypeOverviewWorkUnits">E2 Resumen unidad de trabajo</string>
 	<string name="expTypeOverviewDayAttendance">E3 Presencia díaria</string>
 	<string name="expTypeTasksPerDay">E4 Tareas por día</string>
-	<string name="expTypeDetails">Detalles (cada registro)</string>
 	<string name="expPreview">Previsualizar</string>
 	
     <string name="domainSepComma">Coma [,]</string>
@@ -418,7 +417,6 @@
 	<string name="catExpImpFromSD">Importar desde SD</string>
 	<string name="catExpImpFromCloud">Importar desde {1}</string>
 	<string name="hintWeeklyTargetTime">\u2192 Ejemplo de entrada: \'38.75\'. Vaciar para deshabilitar</string>
-	<string name="prefsMonthReportSplit">Separar vista \'Mes\' el 1o\ny este día</string>
 	<string name="expPrefsFilenamePrefix">Prefijo de archivo</string>
 	<string name="expPrefsE4SkipSingleTaskTotal">Saltar todas las tareas, mantener total</string>
 	
@@ -464,7 +462,6 @@
 	
 	<string name="prefsGroupMainScreenLabel">Refresco pantalla principal</string>
 	<string name="prefsGroupMainScreenRefreshHint">\u2192 Esto aumentará el consumo de batería!</string>
-	<string name="prefsMainScreenRefresh">refrescar cada n minutos</string>
 	<string name="commonRefreshMM">refrescar cada x minutos</string>
 	<string name="prefsKeepScreenOn">Mantener pantalla encendida</string>
 	

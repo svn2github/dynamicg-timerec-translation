@@ -163,7 +163,6 @@
 	<string name="expTypeOverviewWorkUnits">E2 Panoramica singoli lavori</string>
 	<string name="expTypeOverviewDayAttendance">E3 Frequenza del giorno</string>
 	<string name="expTypeTasksPerDay">E4 Lavori al giorno</string>
-	<string name="expTypeDetails">Dettagli (ogni timbratura)</string>
 	<string name="expPreview">Anteprima</string>
 	
     <string name="domainSepComma">Virgola [,]</string>
@@ -418,7 +417,6 @@
 	<string name="catExpImpFromSD">Importa da scheda SD</string>
 	<string name="catExpImpFromCloud">Importa da {1}</string>
 	<string name="hintWeeklyTargetTime">\u2192 Input d\'esempio: \'38.75\'. Cancella per disabilitare.</string>
-	<string name="prefsMonthReportSplit">Dividi la vista \'Mese\' sul 1°\ne su questo giorno</string>
 	<string name="expPrefsFilenamePrefix">Prefisso nome del file</string>
 	<string name="expPrefsE4SkipSingleTaskTotal">Salta il totale del lavoro, mantieni il totale generale</string>
 	
@@ -464,7 +462,6 @@
 	
 	<string name="prefsGroupMainScreenLabel">Aggiorna schermata principale</string>
 	<string name="prefsGroupMainScreenRefreshHint">\u2192 Questo aumenterà il consumo della batteria!</string>
-	<string name="prefsMainScreenRefresh">Auto aggiornamento ogni n minuti</string>
 	<string name="commonRefreshMM">Auto aggiornamento ogni x minuti</string>
 	<string name="prefsKeepScreenOn">Tieni lo schermo attivo</string>
 	

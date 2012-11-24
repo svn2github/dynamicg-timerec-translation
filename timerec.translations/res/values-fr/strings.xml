@@ -195,7 +195,6 @@
 	<string name="expTypeOverviewWorkUnits">E2 Aperçu unité de travail</string>
 	<string name="expTypeOverviewDayAttendance">E3 Journée de présence</string>
 	<string name="expTypeTasksPerDay">E4 Tâches par jour</string>
-	<string name="expTypeDetails">Détails (chaque enregistrement)</string>
 	<string name="expPreview">Prévisualisation</string>
 	
 	<string name="fileDeliveryLabel">Envoi</string>
@@ -405,7 +404,6 @@
 	<string name="catExpImpFromSD">Importer à partir de la carte SD</string>
 	<string name="catExpImpFromCloud">Importer à partir de {1}</string>
 	<string name="hintWeeklyTargetTime">\u2192 Exemple d\'entrée: \'38.75\'. Effacer pour désactiver.</string>
-	<string name="prefsMonthReportSplit">Séparer la vue \'Mois\' sur le premier jour\net sur ce jour</string>
 	<string name="expPrefsFilenamePrefix">Préfixe du nom de fichier</string>
 	<string name="expPrefsE4SkipSingleTaskTotal">Sauter le total de la tâche, garder le total général</string>
 	
@@ -451,7 +449,6 @@
 	
 	<string name="prefsGroupMainScreenLabel">Rafraichissement écran principal</string>
 	<string name="prefsGroupMainScreenRefreshHint">\u2192 Cela augmentera la consommation de la batterie!</string>
-	<string name="prefsMainScreenRefresh">Rafraichissement auto toutes les n minutes</string>
 	<string name="commonRefreshMM">Rafraichissement auto toutes les x minutes</string>
 	<string name="prefsKeepScreenOn">Laisser l\'écran allumé</string>
 	

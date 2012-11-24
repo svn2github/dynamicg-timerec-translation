@@ -119,7 +119,6 @@
     <string name="hintWeeklyTargetTime">\u2192 Exemplo de entrada: \'38.75\'. Limpe para desativar.</string>
 	<string name="prefsDefaultCategory">Tarefa padrão</string>
 	<string name="prefsKeepPrevCategory">Manter a tarefa selecionada após a pausa</string>
-	<string name="prefsMonthReportSplit">Separar visualização \'Mensal\' no primeiro dia</string>
 	<string name="prefsExpDecimalSep">Separador decimal</string>
 	<string name="prefsCollapseCheckBtn">Combinar botões \'check in/check out\'</string>
 	<string name="prefsHintRestartRequired">\u2192 Alterar estas configurações requerem restart</string>
@@ -206,7 +205,6 @@
 	<string name="expTypeOverviewWorkUnits">E2 Visão geral da unidade de trabalho</string>
 	<string name="expTypeOverviewDayAttendance">E3 Presença diária</string>
 	<string name="expTypeTasksPerDay">E4 Tarefas por dia</string>
-	<string name="expTypeDetails">Detalhes (cada registro)</string>
 	<string name="expPreview">Pré-visualizar</string>
 	
 	<string name="fileDeliveryLabel">Entrega</string>
@@ -452,7 +450,6 @@
 	
 	<string name="prefsGroupMainScreenLabel">Atualizar tela principal</string>
 	<string name="prefsGroupMainScreenRefreshHint">\u2192 Isso irá aumentar o consumo da bateria!</string>
-	<string name="prefsMainScreenRefresh">Auto atualizar a cada n minutos</string>
 	<string name="commonRefreshMM">Auto atualizar a cada x minutos</string>
 	<string name="prefsKeepScreenOn">Mantenha a tela ligada</string>
 	
