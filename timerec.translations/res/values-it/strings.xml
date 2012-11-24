@@ -116,7 +116,6 @@
 	<string name="prefsHintRestartRequired">\u2192 Le modifiche su queste impostazioni necessitano di riavvio</string>
 	<string name="prefsExportSettings">Impostazioni Esportazione Dati</string>
 	<string name="prefsGridViewFont">Dimensione carattere</string>
-	<string name="prefsProVersionThanks">Grazie dell\'Acquisto della Versione \"Pro\"!</string>
 	<string name="prefsWidgetClickAction">Azione al click sul widget</string>
 	<string name="prefsDomWidgetActionOpen">Apri app</string>
 	<string name="prefsDomWidgetActionPunch">Timbra Cartellino</string>

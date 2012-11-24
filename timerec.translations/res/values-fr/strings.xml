@@ -127,7 +127,6 @@
 	<string name="prefsHintPleaseRestart">\u2192 Merci de redémarrer l\'application</string>
 	<string name="prefsExportSettings">Paramètres d\'export des données</string>
 	<string name="prefsGridViewFont">Taille de la police</string>
-	<string name="prefsProVersionThanks">Merci d\'avoir acheté la version \"Pro\"!</string>
 	<string name="prefsWidgetClickAction">Action sur le clic du widget</string>
 	<string name="prefsDomWidgetActionOpen">Ouvrir appli</string>
 	<string name="prefsDomWidgetActionPunch">Démarrer comptage</string>

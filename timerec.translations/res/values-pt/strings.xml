@@ -130,7 +130,6 @@
 	<string name="prefsHintPleaseRestart">\u2192 Por favor reinicie a aplicação</string>
 	<string name="prefsExportSettings">Configurações de exportação de dados</string>
 	<string name="prefsGridViewFont">Tamanho da fonte na exibição de dados</string>
-	<string name="prefsProVersionThanks">Obrigado por comprar a versão \"Pro\"!</string>
 	<string name="prefsWidgetClickAction">Ação de toque no widget</string>
 	<string name="prefsDomWidgetActionOpen">Abrir aplicação</string>
 	<string name="prefsDomWidgetActionPunch">Toque para tempo</string>

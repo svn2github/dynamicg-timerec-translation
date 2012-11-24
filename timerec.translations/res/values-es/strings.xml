@@ -116,7 +116,6 @@
 	<string name="prefsHintRestartRequired">\u2192 Cambios en esta configuración requiere un reinicio</string>
 	<string name="prefsExportSettings">Configuración de exportación de datos</string>
 	<string name="prefsGridViewFont">Tamaña de letras</string>
-	<string name="prefsProVersionThanks">Gracias por comprar la versión \"Pro\"!</string>
 	<string name="prefsWidgetClickAction">Acción al pulsar Widget</string>
 	<string name="prefsDomWidgetActionOpen">Abrir aplicación</string>
 	<string name="prefsDomWidgetActionPunch">Fichar hora</string>
