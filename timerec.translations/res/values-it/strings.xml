@@ -111,7 +111,6 @@
 	<string name="prefsExpDecimalSep">Separatore decimali</string>
 	<string name="prefsCollapseCheckBtn">Unisci i pulsanti \'inizia/termina\'</string>
 	<string name="prefsHintRestartRequired">\u2192 Le modifiche su queste impostazioni necessitano di riavvio</string>
-	<string name="prefsExportSettings">Impostazioni Esportazione Dati</string>
 	<string name="prefsGridViewFont">Dimensione carattere</string>
 	<string name="prefsWidgetClickAction">Azione al click sul widget</string>
 	<string name="prefsDomWidgetActionOpen">Apri app</string>

@@ -122,7 +122,6 @@
 	<string name="prefsCollapseCheckBtn">Fusionner les boutons \'Démarrer/Terminer\'</string>
 	<string name="prefsHintRestartRequired">\u2192 Changer ces paramètres nécessite un redémarage</string>
 	<string name="prefsHintPleaseRestart">\u2192 Merci de redémarrer l\'application</string>
-	<string name="prefsExportSettings">Paramètres d\'export des données</string>
 	<string name="prefsGridViewFont">Taille de la police</string>
 	<string name="prefsWidgetClickAction">Action sur le clic du widget</string>
 	<string name="prefsDomWidgetActionOpen">Ouvrir appli</string>

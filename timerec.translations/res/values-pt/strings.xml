@@ -125,7 +125,6 @@
 	<string name="prefsCollapseCheckBtn">Combinar botões \'check in/check out\'</string>
 	<string name="prefsHintRestartRequired">\u2192 Alterar estas configurações requerem restart</string>
 	<string name="prefsHintPleaseRestart">\u2192 Por favor reinicie a aplicação</string>
-	<string name="prefsExportSettings">Configurações de exportação de dados</string>
 	<string name="prefsGridViewFont">Tamanho da fonte na exibição de dados</string>
 	<string name="prefsWidgetClickAction">Ação de toque no widget</string>
 	<string name="prefsDomWidgetActionOpen">Abrir aplicação</string>
