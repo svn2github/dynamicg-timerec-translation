@@ -1,0 +1,60 @@
+    
+    <!-- 4.06 -->
+    <string name="worktimeExceededLabel">Alarm if daily worktime &gt; x hours</string>
+    <string name="worktimeExceededNotification">Daily worktime exceeds {1}</string>
+    <string name="commonThreshold">Threshold</string>
+    
+	<string name="expTypeCustomersPerDay">E6 Clients per day</string>
+    <string name="customerNone">(no client)</string>
+    
+    <!-- 4.07 -->
+    <string name="cloudProviderDropbox">Dropbox</string>
+    <string name="cloudProviderGoogleDrive">Google Drive</string>
+	<string name="commonOverview">Overview</string>
+    
+    <!-- 4.09 -->
+    <string name="commonAuto">Auto</string> <!-- "Automatic" -->
+    <string name="commonSwitchView">Switch view</string>
+    <string name="commonContinueTask">Continue task</string>
+    <string name="commonOnlineHelp">Online help</string>
+    <string name="prefsMainAutoScroll">Auto scroll to bottom</string>
+    <string name="expPrefsSaveFilters">Save filters</string>
+    <string name="commonSyncTitle">Synchronize title</string>
+    
+    <!-- 4.10 -->
+    <string name="paidOt2Factor">Factor</string>
+    <string name="commonRateButton">Rate</string> <!-- "Please rate the app" -->
+    
+    <!-- 4.11 -->
+    <string name="commonExtras">Extras</string>
+	<string name="edtoolsGeoLocation">Add geo location</string>
+    
+	<!-- 4.12 -->
+	<string name="domainMonthviewSemiM">Semimonthly</string>
+	<string name="prefsFirstDayOfPeriodN">First day of period {1} (1-31)</string>
+	<string name="prefsCurrentWeekOfRepPeriod">Current week of your reporting period</string>
+	<string name="prefsScrollSizeWeeks">Scrolling on \'{1}\' view</string>
+	<string name="hintAlsoSeePage">\u2192 Also see {1} on page {2}</string>
+    <string name="dailyTargetReachedInLabel">{1} to go</string>
+
+	<!-- 4.13 -->
+    <string name="commonUndo">Undo</string> <!-- "Undo changes" on text editor -->
+    <string name="prefsStayOnPreviousDay">Show previous day if opened before</string>
+    <string name="prefsAutoBackup">Auto backup every x days</string>
+    <string name="commonSdCard">SD Card</string>
+	<string name="commonRefreshMM">Refresh every x minutes</string>
+	<string name="calSyncNightShift">Support night shifts</string>
+	<string name="commonDecimal">Decimal</string>
+	<string name="archiveLocation">Archive file is stored here:\n\u2022 Folder: {1}\n\u2022 Name: {2}\nNote this file is not backed up by the app.</string>
+	<string name="backupReminderTitle">Backup reminder</string>
+	<string name="backupReminderBody">Please remember to back up your data regularly.</string>
+	<string name="commonDoNotShowAgain">Don\'t show this message again</string>
+	
+	<!-- 4.14 -->
+	<string name="commonRetry">Retry</string>
+	<string name="expPrefsGoogleDocsConversion">Convert to Google Docs document</string>
+	
+	<!-- 4.15 -->
+	<string name="commonBackupShort">Backup</string>
+	<string name="commonLater">Later</string>
+	
