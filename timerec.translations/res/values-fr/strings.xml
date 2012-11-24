@@ -95,7 +95,6 @@
     
     <string name="confirmDeleteEntry">Effacer cette entrée ?</string>
     <string name="confirmDeleteDay">Effacer les entrées pour cette journée ?</string>
-    <string name="confirmDeleteItemHint">\u2192 Astuce: utilisez \'Menu/{1}\' pour supprimer des entrées unitaires.</string>
     <string name="checkboxIncludeDayNotes">Inclure les notes journalières</string>
     <string name="confirmUpdateAdjacent">Mettre aussi à jour les enregistrements adjacents ?</string>
     
@@ -239,7 +238,6 @@
     <string name="categoryNone">(pas de tâche)</string>
     <string name="categoryFilterAll">&lt;Tout&gt;</string>
     <string name="commonNewTask">Nouvelle tâche</string>
-    <string name="categoryEditHeaderTitle">Titre</string>
     <string name="categoryEditHeaderHourlyRate">Taux\nHoraire</string>
     <string name="categoryEditHeaderSort">Tri</string>
     <string name="categorySelectNextCategory">Sélectionner tâche suiv.</string>
@@ -324,8 +322,6 @@
 	
 	<string name="dstorFree2ProImportConfirmation">Importer les données et les paramètres de la version gratuite ?</string>
 	<string name="dstorFree2ProLiveImport">Import version gratuite (données vivantes)</string>
-	<string name="dstorFree2ProLatestBackup">Import version gratuite (dernière sauvegarde)</string>
-	<string name="dstorFree2ProAppSettings">Import version gratuite paramètres application</string>
 	
 	<!-- diff sync marker A -->
 	<string name="pdotMainTitle">Heures supplémentaires</string>
@@ -399,8 +395,6 @@
 	
 	<!-- ==== UPGRADE FROM 2.04 TO 3.15 ==== -->
 	<string name="err25">Erreur : la sauvegarde a échoué</string>
-	<string name="bckSdCardAutoBackup">Sauvegarder sur la carte SD tous les x jours</string>
-	<string name="bckCloudAutoBackup">Sauvegarder vers {1} tous les x jours</string>
 	<string name="prefsAutoBackup">Sauvegarder tous les x jours</string>
 	
 	<string name="catExpImpTitle">Export/Import</string>

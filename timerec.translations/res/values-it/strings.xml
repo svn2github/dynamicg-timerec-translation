@@ -201,7 +201,6 @@
     <string name="categoryNone">(lavoro n/d)</string>
     <string name="categoryFilterAll">&lt;Tutti&gt;</string>
     <string name="commonNewTask">Nuovo lavoro</string>
-    <string name="categoryEditHeaderTitle">Titolo</string>
     <string name="categoryEditHeaderHourlyRate">Tariffa\nOraria</string>
     <string name="categoryEditHeaderSort">Ordinamento</string>
     <string name="categorySelectNextCategory">Seleziona prossimo lavoro</string>
@@ -283,8 +282,6 @@
 	
 	<string name="dstorFree2ProImportConfirmation">Importare i dati e le impostazioni dalla versione gratuita?</string>
 	<string name="dstorFree2ProLiveImport">Importazione dalla versione gratuita (dati live)</string>
-	<string name="dstorFree2ProLatestBackup">Importazione dalla versione gratuita (ultimo backup)</string>
-	<string name="dstorFree2ProAppSettings">Impostazioni app dalla versione gratuita</string>
 	
 	<!-- diff sync marker A -->
 	<string name="pdotMainTitle">Straordinari</string>
@@ -405,15 +402,12 @@
 	<string name="marketPluginMissing">Applicazione aggiuntiva necessaria. Clicca qui per il download</string>
 		
 	<string name="commonSeeOnlineHelp">\u2192 Vedi aiuto online</string>
-    <string name="confirmDeleteItemHint">\u2192 Suggerimento: usa \'Menu/{1}\' per eliminare le singole voci</string>
 	<string name="expPrefsAmtWithCurrency">Mostra valuta sugli importi</string>
 
 	<string name="commonPreviouslyUsed">Utilizzati in precedenza</string>
 
 	<!-- ==== UPGRADE FROM 2.04 TO 3.15 ==== -->
 	<string name="err25">Errore: Backup fallito</string>
-	<string name="bckSdCardAutoBackup">Backup su scheda SD ogni x giorni</string>
-	<string name="bckCloudAutoBackup">Backup su {1} ogni x giorni</string>
 	<string name="prefsAutoBackup">Backup ogni x giorni</string>
 	
 	<string name="catExpImpTitle">Esporta/Importa</string>

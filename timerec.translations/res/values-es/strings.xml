@@ -203,7 +203,6 @@
     <string name="categoryNone">(sin tarea)</string>
     <string name="categoryFilterAll">&lt;todo&gt;</string>
     <string name="commonNewTask">Nueva tarea</string>
-    <string name="categoryEditHeaderTitle">Título</string>
     <string name="categoryEditHeaderHourlyRate">Precio\nHoras</string>
     <string name="categoryEditHeaderSort">Ordenar</string>
     <string name="categorySelectNextCategory">Seleccionar siguiente tarea</string>
@@ -285,8 +284,6 @@
 	
 	<string name="dstorFree2ProImportConfirmation">Importar datos y configuración de la versión gratuita?</string>
 	<string name="dstorFree2ProLiveImport">Importados de la versión gratuita</string>
-	<string name="dstorFree2ProLatestBackup">Importados de la versión gratuita (Ultima copia)</string>
-	<string name="dstorFree2ProAppSettings">Configuración desde la versión gratuita</string>
 	
 	<!-- diff sync marker A -->
 	<string name="pdotMainTitle">Pago sobrepasado</string>
@@ -405,15 +402,12 @@
 	<string name="marketPluginMissing">Se necesita otra aplicación. Pulsar para descargar</string>
 		
 	<string name="commonSeeOnlineHelp">\u2192 Ver ayuda online</string>
-    <string name="confirmDeleteItemHint">\u2192 Ayuda: utiliza \'Menu/{1}\' para borrar entradas individuales</string>
 	<string name="expPrefsAmtWithCurrency">Mostrar moneda en cantidades</string>
 	
 	<string name="commonPreviouslyUsed">Anteriormente usado</string>
     
 	<!-- ==== UPGRADE FROM 2.04 TO 3.15 ==== -->
 	<string name="err25">Error: Fallo en copia de seguridad</string>
-	<string name="bckSdCardAutoBackup">Copia de seguridad en SD cada x días</string>
-	<string name="bckCloudAutoBackup">Copia de seguridad a {1} cada x días</string>
 	<string name="prefsAutoBackup">Copia de seguridad cada x días</string>
 	
 	<string name="catExpImpTitle">Exportar/Importar</string>

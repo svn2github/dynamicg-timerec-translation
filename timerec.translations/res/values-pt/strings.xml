@@ -96,7 +96,6 @@
     
     <string name="confirmDeleteEntry">Deletar este registro?</string>
     <string name="confirmDeleteDay">Deletar entradas para este dia?</string>
-    <string name="confirmDeleteItemHint">\u2192 Dica: Use \'Menu/{1}\' para deletar entradas únicas</string>
     <string name="checkboxIncludeDayNotes">Incluir notas no dia</string>
     <string name="confirmUpdateAdjacent">Também atualizar registro adjacente?</string>
     
@@ -302,8 +301,6 @@
     <string name="bckSwitchToLive">Voltar para dados ativos</string>
     <string name="bckArchiveDataOlderThan">Arquivo de dados &gt; {1} meses</string>
     <string name="bckArchiveHint">\u2192 Use \"arquivar\" para mover dados antigos e criar uma \'base ativa\' menor e mais rápida</string>
-    <string name="bckSdCardAutoBackup">Backup para o cartão SD a cada X dias</string>
-    <string name="bckCloudAutoBackup">Backup para o {1} a cada X dias</string>
     <string name="prefsAutoBackup">Backup para a cada x dias</string>
     
 	<string name="errorSdCardUnavailable">SD Card não disponível. Backup, restauração &amp; exportação no momento não são possíveis.</string>
@@ -349,8 +346,6 @@
 	
 	<string name="dstorFree2ProImportConfirmation">Importar dados e configurações da versão free?</string>
 	<string name="dstorFree2ProLiveImport">Importação da versão free (dados ativos)</string>
-	<string name="dstorFree2ProLatestBackup">Importação da versão free (último backup)</string>
-	<string name="dstorFree2ProAppSettings">Configurações do App da versão free</string>
 	
 	<!-- diff sync marker A -->
 	<string name="pdotMainTitle">Pagar hora-extra</string>
