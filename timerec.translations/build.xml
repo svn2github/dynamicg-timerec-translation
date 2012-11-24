@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="TimeRecLanguagePack1" default="main">
+	
+	<property name="workspace" value="${basedir}/.." />
+	<property name="projectname" value="timerec.translations" />
+	<property name="appNamespace" value="com.dynamicg.timerec.languagePack1" />
+	
+	<target name="main">
+		<ant antfile="${workspace}/timerec.build/plain-build/common.build.xml" target=".build">
+			<property name="projectname" value="${projectname}" />
+		</ant>
+	</target>
+	
+</project>
