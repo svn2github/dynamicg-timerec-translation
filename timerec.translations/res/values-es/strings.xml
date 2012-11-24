@@ -519,7 +519,6 @@
 	<string name="commonAppRequired">App necesaria</string>
 	<string name="commonUpdateCurrentTask">actualizar tareas del la actual unidad de tiempo</string>
 	
-	<string name="dstorHintProvideBackup2">\u2192 Ayuda: busca la carpeta con el fichero \u00ab{1}\u00bb.</string>
 	<string name="errorSdCardWrite">Error en Sd</string>
 	<string name="calSyncInvalidCalendarTitle">Nombre de calendario inválido</string>
 	<string name="commonLookupHint">\u2192 Ayuda: usa [\u2026] para buscar.</string>

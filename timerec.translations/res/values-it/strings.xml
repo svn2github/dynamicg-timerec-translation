@@ -519,7 +519,6 @@
 	<string name="commonAppRequired">App richiesta</string>
 	<string name="commonUpdateCurrentTask">Aggiorna il lavoro con l\'attuale unità di lavoro</string>
 	
-	<string name="dstorHintProvideBackup2">\u2192 Suggerimento: cerca la cartella con il file \u00ab{1}\u00bb.</string>
 	<string name="errorSdCardWrite">Errore di scrittura su scheda SD</string>
 	<string name="calSyncInvalidCalendarTitle">Nome del calendario mancante o non valido</string>
 	<string name="commonLookupHint">\u2192 Suggerimento: usa la funzione ricerca [\u2026] .</string>

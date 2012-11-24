@@ -506,7 +506,6 @@
 	<string name="commonAppRequired">App requise</string>
 	<string name="commonUpdateCurrentTask">Mettre à jour la tâche de l\'unité de travail courante</string>
 	
-	<string name="dstorHintProvideBackup2">\u2192 Astuce: Rechercher le dossier avec le fichier \u00ab{1}\u00bb.</string>
 	<string name="errorSdCardWrite">Erreur en ecriture sur la carte SD</string>
 	<string name="calSyncInvalidCalendarTitle">Nom de calendrier manquant ou invalide</string>
 	<string name="commonLookupHint">\u2192 Astuce: utiliser [\u2026] pour la recherche.</string>

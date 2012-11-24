@@ -345,7 +345,6 @@
 	<string name="dstorSettingsBRTitle">Configurações do App</string>
 	<string name="dstorInitialRecovery">Backup detectado no SD Card. Restaurar dados?</string>
 	<string name="dstorHintProvideBackup">Nenhum arquivo de backup encontrado no SD Card.</string>
-	<string name="dstorHintProvideBackup2">\u2192 Dica: Procure pela pasta com arquivo \u00ab{1}\u00bb.</string>
 	<string name="dstorIncludeSettings">Incluir configurações?</string>
 	<string name="dstorMoveToSdcardWarn">Aviso: Armazenamento no SC Card *não é* recomendada. Você poderá enfrentar problemas em acessos de USB &amp; \'somente leitura\', ou (em casos raros) arquivos de dados deletados.</string>
 	
