@@ -1,2 +1,1 @@
-<requested>ja</requested>
-<requested>ko</requested>
+<requested>ja ko</requested>
