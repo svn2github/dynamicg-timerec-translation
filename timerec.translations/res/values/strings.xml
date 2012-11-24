@@ -1,30 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:android="http://schemas.android.com/apk/res/android">
 
-	<!-- internal -->
+	<!-- internal - do not translate -->
     <string name="appUserLabel">DynamicG App User</string>
     <string name="languageFlag">0</string>
     <string name="googleSitesLanguage">en</string>
 
-	<!-- translation credits -->
-    <string name="aboutTranslation"></string>
-    
 	<!-- labels -->
     <string name="app_name">Time Recording</string>
     <string name="app_name_pro">Time Recording Pro</string>
-    
     <string name="homescreenCheckinNow">Check in now</string>
     <string name="homescreenCheckoutNow">Check out now</string>
     <string name="homescreenAddBreak">Add break \u2026</string>
     <string name="homescreenHintNoStamps">No stamps yet.\nOpen \'Day\' and use \'Left Arrow\' to add entries to past days.</string>
     <string name="homescreenAddStamp">Add stamp \u2026</string>
-
     <string name="menuEditStampsShort">Edit stamps</string>
     <string name="menuPreferences">Preferences</string>
     <string name="menuAdmin">Admin</string>
     <string name="menuAddStandardEntry">Add break/unit \u2026</string>
     <string name="menuMore">More</string>
-    
     <string name="commonDays">Days</string>
     <string name="commonEdit">Edit</string>
     <string name="commonError">Error</string>
@@ -70,7 +64,6 @@
     <string name="commonActionEdit">Edit \'{1}\'</string>
 	<string name="commonSeeOnlineHelp">\u2192 See online help</string>
 	<string name="commonData">Data</string>
-	<string name="commonCheckedIn">Checked in</string>
 	<string name="commonFile">File</string>
 	<string name="commonOpenWith">Open with</string>
 	<string name="commonPreviouslyUsed">Previously used</string>
@@ -505,36 +498,28 @@
     <string name="commonDeleteLine">Delete line</string>
     
     <string name="taskerPluginCondition">Condition</string>
+	<string name="commonCheckedIn">Checked in</string>
 	<string name="commonCheckedOut">Checked out</string>
 	
     <!-- 4.0x -->
-    <string name="commonAddLine">Add line</string> <!-- this replaces "commonAddRow" -->
+    <string name="commonAddLine">Add line</string>
     <string name="commonDeleteAllLines">Delete all lines</string>
-    <!-- removed "categorySelectionTitle" -->
-    <!-- removed "categoryEditorAddNew", renamed "categoryTitleForNewCat" to "commonNewTask" -->
     <string name="commonNewTask">New task</string>
-    <!-- split stdStampTypeBlock into stdStampTypeBlockShort and stdStampTypeBlockLong -->
 
     <!-- 4.04 -->
     <string name="prefsTheme">Theme (Android 4)</string>
     <string name="prefsThemeLight">Light</string>
     <string name="prefsThemeDark">Dark</string>
     <string name="commonBasicSettings">Basic settings</string>
-    <!-- delete "commonReset" -->
     <string name="autoBreakSkipWhenOff">Skip if outside time window</string>
     
-    <!-- replacement for "commonDeltaOverview" -->
 	<string name="commonWorktimeOverview">Worktime overview</string>
 	<string name="commonViewNoun">View</string>
 	<string name="commonShort">Short</string>
-	<!-- replacement for "expPrefsIsoDateFormat" -->
 	<string name="expPrefsIsoDateFormat">YYYY/MM/DD</string>
 	
-    <!-- deleted "prefsGroupReporting" -->
-    <!-- replacement for "prefsMonthViewOption" -->
     <string name="prefsReportingPeriod">Reporting period</string>
     <string name="prefsBackupAndRestore">Backup &amp; restore</string>
-    <!-- removed "menuAbout" -->
     
     <!-- 4.05 -->
     <string name="commonBreakOver">Break over</string>
@@ -550,7 +535,6 @@
     <string name="worktimeExceededLabel">Alarm if daily worktime &gt; x hours</string>
     <string name="worktimeExceededNotification">Daily worktime exceeds {1}</string>
     <string name="commonThreshold">Threshold</string>
-	<!-- changed "catExtImpConfirm3" to "commonCannotUndo" -->
     
 	<string name="expTypeCustomersPerDay">E6 Clients per day</string>
     <string name="customerNone">(no client)</string>
@@ -559,11 +543,9 @@
     <string name="cloudProviderDropbox">Dropbox</string>
     <string name="cloudProviderGoogleDrive">Google Drive</string>
 	<string name="commonOverview">Overview</string>
-    <!-- removed "viewYTD" -->
     
     <!-- 4.09 -->
-    <!-- changes: "prefsGroupMainScreenLabel", "commonWidget", "commonNotificatioBar" -->
-    <string name="commonAuto">Auto</string> <!-- automatic -->
+    <string name="commonAuto">Auto</string> <!-- "Automatic" -->
     <string name="commonSwitchView">Switch view</string>
     <string name="commonContinueTask">Continue task</string>
     <string name="commonOnlineHelp">Online help</string>
@@ -573,16 +555,10 @@
     
     <!-- 4.10 -->
     <string name="paidOt2Factor">Factor</string>
-    <string name="commonRateButton">Rate</string> <!-- as in "please rate the app" -->
-    <!-- removed "aboutPleaseRate" --> 
+    <string name="commonRateButton">Rate</string> <!-- "Please rate the app" -->
     
     <!-- 4.11 -->
-    <!-- removed "expPrefsShowAggregatedTasks" -->
-    <!-- naming on "expPrefsShowCustomer" -->
     <string name="commonExtras">Extras</string>
-
-    <!-- remove alertNotificationAppVibra -->
-    <!-- renaming: marketAppMissing, marketPluginMissing -->
 	<string name="edtoolsGeoLocation">Add geo location</string>
     
 	<!-- 4.12 -->
@@ -594,10 +570,11 @@
     <string name="dailyTargetReachedInLabel">{1} to go</string>
 
 	<!-- 4.13 -->
-    <string name="commonUndo">Undo</string> <!-- "undo changes" on text editor -->
+    <string name="commonUndo">Undo</string> <!-- "Undo changes" on text editor -->
     <string name="prefsStayOnPreviousDay">Show previous day if opened before</string>
     <string name="prefsAutoBackup">Auto backup every x days</string>
     <string name="commonSdCard">SD Card</string>
+	<string name="commonRefreshMM">Refresh every x minutes</string>
 	<string name="calSyncNightShift">Support night shifts</string>
 	<string name="commonDecimal">Decimal</string>
 	<string name="archiveLocation">Archive file is stored here:\n\u2022 Folder: {1}\n\u2022 Name: {2}\nNote this file is not backed up by the app.</string>

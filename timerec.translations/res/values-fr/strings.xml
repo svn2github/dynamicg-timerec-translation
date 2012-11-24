@@ -121,7 +121,6 @@
     <string name="prefsWeeklyTargetTime">Durée de travail par semaine</string>
 	<string name="prefsDefaultCategory">Tâche par défaut</string>
 	<string name="prefsKeepPrevCategory">Revenir à la tâche sélectionnée avant la pause</string>
-	<string name="prefsTaskGroupsActiveLabel">Groupes des Tâches</string>
 	<string name="prefsExpDecimalSep">Séparateur décimal</string>
 	<string name="prefsCollapseCheckBtn">Fusionner les boutons \'Démarrer/Terminer\'</string>
 	<string name="prefsHintRestartRequired">\u2192 Changer ces paramètres nécessite un redémarage</string>
@@ -133,7 +132,6 @@
 	<string name="prefsDomWidgetActionOpen">Ouvrir appli</string>
 	<string name="prefsDomWidgetActionPunch">Démarrer comptage</string>
 	<string name="prefsDomWidgetActionMixed">Icone=Démarrer, Texte=Ouvrir</string>
-	<string name="prefsStampViewFullscreen">Plein écran vue Jour/Semaine/Mois</string>
 	<string name="prefsPunchNowRounding">Arrondi sur \'Démarrer maintenant\'</string>
 	<string name="prefsPunchNowRoundingOption">Options d\'arrondi</string>
 	<string name="prefsPunchNowRoundingSlot">Arrondi à la minute</string>
@@ -399,7 +397,6 @@
 	<string name="widgetPrefNotifBarActive">Notifier dans la barre de status</string>
 	<string name="widgetPrefNotifBarText">Texte notification</string>
 	<string name="widgetPrefNotifBarHint">\u2192 Espaces réservés: $1=HeureDébut, $2=total, $3=tâche</string>
-	<string name="widgetPrefRefreshInterval">Intervalle de rafraichissement en minutes</string>
 	<string name="widgetPrefHintRefresh">\u2192 Des rafraichissments plus rapides entrainent une utilisation plus importante de la batterie!</string>
 	<string name="widgetPrefKeepRunning">Exécution en tâche de fond</string>
 	<string name="widgetPrefHintKeepRunning">\u2192 Cochez si le widget arrête régulièrement de se rafraichir</string>
@@ -475,7 +472,6 @@
 	<string name="expSearchDayNotes">Filtre des notes de la journée</string>
 	<string name="expSearchWorkUnitNotes">Filtre des notes des unités de travail</string>
 	<string name="expPrefsAutoCloseWindow">Fermer la boite de dialogue après l\'export</string>
-	<string name="taskerPluginHint">\u2192 La version Pro s\'intègre dans les programmes Tasker/Locale</string>
 	<string name="taskerPluginSelectAction">Sélectionnez l\'action qui doit être déclenchée:</string>
 	<string name="commonTaskSelectionOpen">Ouvrir la sélection des tâches</string>
 	<string name="commonStartNewTask">Démarrez une nouvelle tâche</string>

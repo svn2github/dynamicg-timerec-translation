@@ -111,7 +111,6 @@
     <string name="prefsGroupCalendar">Calendario</string>
     <string name="prefsWeeklyTargetTime">Objetivo de tiempo semanal</string>
 	<string name="prefsDefaultCategory">Tareas por defecto</string>
-	<string name="prefsTaskGroupsActiveLabel">Grupos de tareas</string>
 	<string name="prefsExpDecimalSep">Separador Decimal</string>
 	<string name="prefsCollapseCheckBtn">Fusionar botones \'Iniciar/Finalizar\'</string>
 	<string name="prefsHintRestartRequired">\u2192 Cambios en esta configuración requiere un reinicio</string>
@@ -122,7 +121,6 @@
 	<string name="prefsDomWidgetActionOpen">Abrir aplicación</string>
 	<string name="prefsDomWidgetActionPunch">Fichar hora</string>
 	<string name="prefsDomWidgetActionMixed">Icono=fichar, Texto=abrir</string>
-	<string name="prefsStampViewFullscreen">Pantalla completa: Día/Semana/Mes</string>
 	<string name="prefsPunchNowRounding">Redondedo para \'fichar ahora\'</string>
 	<string name="prefsPunchNowRoundingOption">Opciones de redondeo</string>
 	<string name="prefsPunchNowRoundingSlot">Redondear minutos</string>
@@ -371,7 +369,6 @@
 	<string name="widgetPrefNotifBarActive">Si activo, notificaciones en barra de estado</string>
 	<string name="widgetPrefNotifBarText">Texto de notificación</string>
 	<string name="widgetPrefNotifBarHint">\u2192 Entradas: $1=Tiempo inicio, $2=total, $3=tarea</string>
-	<string name="widgetPrefRefreshInterval">Refrescar en intervalos de minutos</string>
 	<string name="widgetPrefHintRefresh">\u2192 Un refresco más rápido disminuye la batería</string>
 	<string name="widgetPrefKeepRunning">Mantener funcionando en fondo</string>
 	<string name="widgetPrefHintKeepRunning">\u2192 Pulsar si se para el refresco</string>
@@ -488,7 +485,6 @@
 	<string name="expSearchDayNotes">Filtrar días con notas</string>
 	<string name="expSearchWorkUnitNotes">Filtro Notas de bloques de trabajo</string>
 	<string name="expPrefsAutoCloseWindow">Cerrar diálogo después de exportar</string>
-	<string name="taskerPluginHint">\u2192 \'Versión Pro\' se integra con Tasker/Locale</string>
 	<string name="taskerPluginSelectAction">Selecciona la acción que debe disparar</string>
 	<string name="commonTaskSelectionOpen">Abrir selección de tarea</string>
 	<string name="commonStartNewTask">Comenzar nueva tarea</string>

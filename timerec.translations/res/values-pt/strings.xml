@@ -135,7 +135,6 @@
 	<string name="prefsDomWidgetActionOpen">Abrir aplicação</string>
 	<string name="prefsDomWidgetActionPunch">Toque para tempo</string>
 	<string name="prefsDomWidgetActionMixed">Ícones=toque, Texto=abrir</string>
-	<string name="prefsStampViewFullscreen">Dia/Semana/Mês visualizar em tela cheia</string>
 	<string name="prefsPunchNowRounding">Arredondamento em \'toque agora\'</string>
 	<string name="prefsPunchNowRoundingOption">Opções de arredondamento</string>
 	<string name="prefsPunchNowRoundingSlot">Arredondar para minutos</string>
@@ -424,7 +423,6 @@
 	<string name="widgetPrefNotifBarActive">Notificação na Barra de Status quando checado</string>
 	<string name="widgetPrefNotifBarText">Texto de notificação</string>
 	<string name="widgetPrefNotifBarHint">\u2192 Espaço reservado: $1=tempo de check-in, $2=total, $3=tarefa</string>
-	<string name="widgetPrefRefreshInterval">Intervalo de atualização em minutos</string>
 	<string name="widgetPrefHintRefresh">\u2192 Constantes atualizações significam mais uso de bateria!</string>
 	<string name="widgetPrefKeepRunning">Manter rodando em background</string>
 	<string name="widgetPrefHintKeepRunning">\u2192 Assinale se o widget para de atualizar regularmente</string>
@@ -476,7 +474,6 @@
 	<string name="expSearchDayNotes">Filtro de notas diárias</string>
 	<string name="expSearchWorkUnitNotes">Filtro de unidade de trabalho</string>
 	<string name="expPrefsAutoCloseWindow">Fechar caixa de diálogo depois de exportar</string>
-	<string name="taskerPluginHint">\u2192 \'Versão Pro\' integra Tarefas/Localização</string>
 	<string name="taskerPluginSelectAction">Selecione a ação que deve ser disparada:</string>
 	<string name="commonTaskSelectionOpen">Abra seleção de tarefa</string>
 	<string name="commonStartNewTask">Iniciar nova tarefa</string>

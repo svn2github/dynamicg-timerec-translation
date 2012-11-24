@@ -111,7 +111,6 @@
     <string name="prefsGroupCalendar">Calendario</string>
     <string name="prefsWeeklyTargetTime">Obiettivo orario settimanale</string>
 	<string name="prefsDefaultCategory">Lavoro di default</string>
-	<string name="prefsTaskGroupsActiveLabel">Gruppi di lavoro</string>
 	<string name="prefsExpDecimalSep">Separatore decimali</string>
 	<string name="prefsCollapseCheckBtn">Unisci i pulsanti \'inizia/termina\'</string>
 	<string name="prefsHintRestartRequired">\u2192 Le modifiche su queste impostazioni necessitano di riavvio</string>
@@ -122,7 +121,6 @@
 	<string name="prefsDomWidgetActionOpen">Apri app</string>
 	<string name="prefsDomWidgetActionPunch">Timbra Cartellino</string>
 	<string name="prefsDomWidgetActionMixed">Icone=timbra, Testo=apri</string>
-	<string name="prefsStampViewFullscreen">Vista a schermo intero di Giorno/Settimana/Mese</string>
 	<string name="prefsPunchNowRounding">Inizia turno al \'Timbra ora\'</string>
 	<string name="prefsPunchNowRoundingOption">Opzioni dei turni</string>
 	<string name="prefsPunchNowRoundingSlot">Crea il turno ai minuti</string>
@@ -370,7 +368,6 @@
 	<string name="widgetPrefNotifBarActive">Notifica su Barra di Stato quando iniziato</string>
 	<string name="widgetPrefNotifBarText">Testo della notifica</string>
 	<string name="widgetPrefNotifBarHint">\u2192 Segnaposto: $1=orario d\'inizio, $2=totale, $3=lavoro</string>
-	<string name="widgetPrefRefreshInterval">Aggiorna intervallo in minuti</string>
 	<string name="widgetPrefHintRefresh">\u2192 Aggiornamenti più frequenti significa maggiore consumo della batteria!</string>
 	<string name="widgetPrefKeepRunning">Mantieni attivo in background</string>
 	<string name="widgetPrefHintKeepRunning">\u2192 Spunta se il widget smette regolarmente di aggiornarsi</string>
@@ -488,7 +485,6 @@
 	<string name="expSearchDayNotes">Filtro nelle note del giorno</string>
 	<string name="expSearchWorkUnitNotes">Filtro nelle note dell\'unità di lavoro</string>
 	<string name="expPrefsAutoCloseWindow">Chiudi messaggio dopo esportazione</string>
-	<string name="taskerPluginHint">\u2192 La \'Versione Pro\' integra nella Tasker/Locale</string>
 	<string name="taskerPluginSelectAction">Seleziona l\'azione che dovrà essere eseguita:</string>
 	<string name="commonTaskSelectionOpen">Apri lavoro selezionato</string>
 	<string name="commonStartNewTask">Inizia un nuovo lavoro</string>
