@@ -462,7 +462,7 @@
 	
 	<string name="prefsGroupMainScreenLabel">Refresco pantalla principal</string>
 	<string name="prefsGroupMainScreenRefreshHint">\u2192 Esto aumentará el consumo de batería!</string>
-	<string name="commonRefreshMM">refrescar cada x minutos</string>
+	<string name="commonRefreshMM">Refrescar cada x minutos</string>
 	<string name="prefsKeepScreenOn">Mantener pantalla encendida</string>
 	
 	<string name="expPrefsShowEmailOnHTML">Mostrar correo cuando se exporta a HTML</string>
@@ -566,7 +566,7 @@
     <string name="commonSyncTitle">Sincronizar el título</string>
     
     <!-- 4.10/4.11 -->
-    <string name="commonExtras">Extras</string>
+    <string name="commonExtras">Extra</string>
     <string name="commonRateButton">Evaluar</string> <!-- as in "please rate the app" -->
     <string name="paidOt2Factor">Factor</string>
 	<string name="edtoolsGeoLocation">Añadir localización</string>
