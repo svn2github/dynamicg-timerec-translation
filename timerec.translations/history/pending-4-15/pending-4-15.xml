@@ -1,0 +1,189 @@
+
+<!-- ########################### ORIGINAL TEXTS ########################### -->
+    
+    <!-- translate one of these -->
+	<string name="translationLink_es">Spanish language pack available here</string>
+	<string name="translationLink_fr">French language pack available here</string>
+	<string name="translationLink_it">Italian language pack available here</string>
+	<string name="translationLink_pt">Portuguese language pack available here</string>
+    
+    <!-- 4.06 -->
+    <string name="worktimeExceededLabel">Alarm if daily worktime &gt; x hours</string>
+    <string name="worktimeExceededNotification">Daily worktime exceeds {1}</string>
+    <string name="commonThreshold">Threshold</string>
+    
+	<string name="expTypeCustomersPerDay">E6 Clients per day</string>
+    <string name="customerNone">(no client)</string>
+    
+    <!-- 4.07 -->
+	<string name="commonOverview">Overview</string>
+    
+    <!-- 4.09 -->
+    <string name="commonAuto">Auto</string> <!-- "Automatic" -->
+    <string name="commonSwitchView">Switch view</string>
+    <string name="commonContinueTask">Continue task</string>
+    <string name="commonOnlineHelp">Online help</string>
+    <string name="prefsMainAutoScroll">Auto scroll to bottom</string>
+    <string name="expPrefsSaveFilters">Save filters</string>
+    <string name="commonSyncTitle">Synchronize title</string>
+    
+    <!-- 4.10 -->
+    <string name="paidOt2Factor">Factor</string>
+    <string name="commonRateButton">Rate</string> <!-- "Please rate the app" -->
+    
+    <!-- 4.11 -->
+    <string name="commonExtras">Extras</string>
+	<string name="edtoolsGeoLocation">Add geo location</string>
+    
+	<!-- 4.12 -->
+	<string name="domainMonthviewSemiM">Semimonthly</string>
+	<string name="prefsFirstDayOfPeriodN">First day of period {1} (1-31)</string>
+	<string name="prefsCurrentWeekOfRepPeriod">Current week of your reporting period</string>
+	<string name="prefsScrollSizeWeeks">Scrolling on \'{1}\' view</string>
+	<string name="hintAlsoSeePage">\u2192 Also see {1} on page {2}</string>
+    <string name="dailyTargetReachedInLabel">{1} to go</string>
+
+	<!-- 4.13 -->
+    <string name="commonUndo">Undo</string> <!-- "Undo changes" on text editor -->
+    <string name="prefsStayOnPreviousDay">Show previous day if opened before</string>
+    <string name="prefsAutoBackup">Auto backup every x days</string>
+    <string name="commonSdCard">SD Card</string>
+	<string name="commonRefreshMM">Refresh every x minutes</string>
+	<string name="calSyncNightShift">Support night shifts</string>
+	<string name="commonDecimal">Decimal</string>
+	<string name="archiveLocation">Archive file is stored here:\n\u2022 Folder: {1}\n\u2022 Name: {2}\nNote this file is not backed up by the app.</string>
+	<string name="backupReminderTitle">Backup reminder</string>
+	<string name="backupReminderBody">Please remember to back up your data regularly.</string>
+	<string name="commonDoNotShowAgain">Don\'t show this message again</string>
+	
+	<!-- 4.14 -->
+	<string name="commonRetry">Retry</string>
+	<string name="expPrefsGoogleDocsConversion">Convert to Google Docs document</string>
+	
+	<!-- 4.15 -->
+	<string name="commonBackupShort">Backup</string>
+	<string name="commonLater">Later</string>
+	
+
+<!-- ########################### SPANISH ########################### -->
+	
+    <!-- 4.06, 4.07 -->
+	<string name="expTypeCustomersPerDay">E6 Clientes por día</string>
+    <string name="customerNone">(sin cliente)</string>
+    <string name="commonOverview">Resumen</string>
+    
+    <!-- 4.09 -->
+    <string name="commonAuto">Auto</string> <!-- automatic -->
+    <string name="commonSwitchView">Cambiar vista</string>
+    <string name="commonContinueTask">Continuar tarea</string>
+    <string name="commonOnlineHelp">Ayuda online</string>
+    <string name="expPrefsSaveFilters">Guardar los filtros</string>
+    <string name="commonSyncTitle">Sincronizar el título</string>
+    
+    <!-- 4.10/4.11 -->
+    <string name="commonExtras">Extras</string>
+    <string name="commonRateButton">Evaluar</string> <!-- as in "please rate the app" -->
+    <string name="paidOt2Factor">Factor</string>
+	<string name="edtoolsGeoLocation">Añadir localización</string>
+    
+	<!-- 4.12/4.13 -->
+	<string name="commonSdCard">Tarjeta SD</string>
+    <string name="commonUndo">Inicializar</string> <!-- "undo changes" on text editor -->
+    <string name="domainMonthviewSemiM">Bimensual</string>
+	<string name="prefsFirstDayOfPeriodN">El primer día del período {1} (1-31)</string>
+	<string name="prefsCurrentWeekOfRepPeriod">Semana en curso</string>
+
+	<string name="commonRetry">Inténtalo de nuevo</string>
+	
+<!-- ########################### FRENCH ########################### -->
+
+    <!-- 4.06, 4.07 -->
+	<string name="expTypeCustomersPerDay">E6 Clients par jour</string>
+    <string name="customerNone">(pas de client)</string>
+    <string name="commonOverview">Aperçu</string>
+		
+    <!-- 4.09 -->
+    <string name="commonAuto">Auto</string> <!-- automatic -->
+    <string name="commonSwitchView">Changer la vue</string>
+    <string name="commonContinueTask">Continuer tâche</string>
+    <string name="commonOnlineHelp">Aide en ligne</string>
+    <string name="expPrefsSaveFilters">Sauver les filtres</string>
+    <string name="commonSyncTitle">Synchroniser titre</string>
+    
+    <!-- 4.10/4.11 -->
+    <string name="commonExtras">Extras</string>
+    <string name="commonRateButton">Noter</string> <!-- as in "please rate the app" -->
+    <string name="paidOt2Factor">Facteur</string>
+	<string name="edtoolsGeoLocation">Ajouter localisation</string>
+    
+	<!-- 4.12/4.13 -->
+	<string name="commonSdCard">Carte SD</string>
+    <string name="commonUndo">Effacer</string> <!-- "undo changes" on text editor -->
+    <string name="domainMonthviewSemiM">Bimensuel</string>
+	<string name="prefsFirstDayOfPeriodN">Premier jour de la période {1} (1-31)</string>
+	<string name="prefsCurrentWeekOfRepPeriod">Semaine en cours</string>
+	<string name="prefsScrollSizeWeeks">Faire défiler sur la vue \'{1}\'</string>
+	<string name="calSyncNightShift">Soutenir horaire tournant</string>
+	
+	<string name="commonRetry">Essayez à nouveau</string>
+
+<!-- ########################### ITALIAN ########################### -->
+
+    <!-- 4.06, 4.07 -->
+	<string name="expTypeCustomersPerDay">E6 Clienti al giorno</string>
+    <string name="customerNone">(cliente n/d)</string>
+    <string name="commonOverview">Panoramica</string>
+		
+    <!-- 4.09 -->
+    <string name="commonAuto">Auto</string> <!-- automatic -->
+    <string name="commonSwitchView">Cambia vista</string>
+    <string name="commonContinueTask">Continua lavoro</string>
+    <string name="commonOnlineHelp">Aiuto online</string>
+    <string name="expPrefsSaveFilters">Salvare i filtri</string>
+    <string name="commonSyncTitle">Sincronizzare il titolo</string>
+    
+    <!-- 4.10/4.11 -->
+    <string name="commonExtras">Extra</string>
+    <string name="commonRateButton">Valutare</string> <!-- as in "please rate the app" -->
+    <string name="paidOt2Factor">Fattore</string>
+	<string name="edtoolsGeoLocation">Aggiungi localizzazione</string>
+    
+	<!-- 4.12/4.13 -->
+	<string name="commonSdCard">Card SD</string>
+    <string name="commonUndo">Azzera</string> <!-- "undo changes" on text editor -->
+    <string name="domainMonthviewSemiM">Bimensile</string>
+	<string name="prefsFirstDayOfPeriodN">Primo giorno del periodo {1} (1-31)</string>
+	<string name="prefsCurrentWeekOfRepPeriod">Settimana corrente</string>
+    
+	<string name="commonRetry">Riprovare</string>
+
+<!-- ########################### PORTUGUESE ########################### -->
+
+    <!-- 4.06, 4.07 -->
+	<string name="expTypeCustomersPerDay">E6 Clientes por dia</string>
+    <string name="customerNone">(sem cliente)</string>
+    <string name="commonOverview">Visão global</string>
+		
+    <!-- 4.09 -->
+    <string name="commonAuto">Auto</string> <!-- automatic -->
+    <string name="commonSwitchView">Mudar visão</string>
+    <string name="commonContinueTask">Continuar tarefa</string>
+    <string name="commonOnlineHelp">Ajuda online</string>
+    <string name="expPrefsSaveFilters">Guardar os filtros</string>
+    <string name="commonSyncTitle">Sincronizar título</string>
+    
+    <!-- 4.10/4.11 -->
+    <string name="commonExtras">Extras</string>
+    <string name="commonRateButton">Avaliar</string> <!-- as in "please rate the app" -->
+    <string name="paidOt2Factor">Fator</string>
+	<string name="edtoolsGeoLocation">Adicionar localização</string>
+    
+	<!-- 4.12/4.13 -->
+	<string name="commonSdCard">Cartão SD</string>
+    <string name="commonUndo">Reiniciar</string> <!-- "undo changes" on text editor -->
+    <string name="domainMonthviewSemiM">Bimensal</string>
+	<string name="prefsFirstDayOfPeriodN">Primeiro dia do período {1} (1-31)</string>
+	<string name="prefsCurrentWeekOfRepPeriod">Semana em curso</string>
+    
+	<string name="commonRetry">Tente novamente</string>
+
