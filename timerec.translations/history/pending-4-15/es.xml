@@ -12,7 +12,7 @@
 	<string name="edtoolsGeoLocation">Add geo location</string>
 	<string name="commonRetry">Retry</string> <!-- "Try again" -->
 	<string name="domainMonthviewSemiM">Semimonthly</string>
-	<string name="prefsFirstDayOfPeriodN">First day of period {1} (1-31)</string>
+	<string name="prefsFirstDayOfPeriodN">First day of period {1} (1-31)</string> <!-- {1} is "1" or "2" i.e. period 1, period 2 -->
     <string name="commonSdCard">SD Card</string>
     <string name="commonUndo">Undo</string> <!-- "Undo changes" on text editor -->
 	<string name="prefsCurrentWeekOfRepPeriod">Current week of your reporting period</string>
@@ -23,7 +23,7 @@
 	<string name="translationLink_es">Spanish language pack available here</string>
     <string name="worktimeExceededLabel">Alarm if daily worktime &gt; x hours</string>
     <string name="worktimeExceededNotification">Daily worktime exceeds {1}</string>
-    <string name="commonThreshold">Threshold</string>
+    <string name="commonThreshold">Threshold</string> <!-- same as "Limit" -->
     <string name="prefsMainAutoScroll">Auto scroll to bottom</string>
 	<string name="prefsScrollSizeWeeks">Scrolling on \'{1}\' view</string>
 	<string name="hintAlsoSeePage">\u2192 Also see {1} on page {2}</string>
