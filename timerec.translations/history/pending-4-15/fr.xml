@@ -1,6 +1,5 @@
-<!-- ########################### ENGLISH ########################### -->
     
-	<!-- PENDING (1) - SEE PROPOSAL BELOW -->
+	<!-- PENDING (1) - SEE DRAFT BELOW -->
 	<string name="expTypeCustomersPerDay">E6 Clients per day</string>
     <string name="customerNone">(no client)</string>
 	<string name="commonOverview">Overview</string>
@@ -39,9 +38,7 @@
 	<string name="commonBackupShort">Backup</string>
 	<string name="commonLater">Later</string>
 	
-
-<!-- ########################### FRENCH ########################### -->
-
+    <!-- DRAFT -->
 	<string name="expTypeCustomersPerDay">E6 Clients par jour</string>
     <string name="customerNone">(pas de client)</string>
     <string name="commonOverview">Aperçu</string>
