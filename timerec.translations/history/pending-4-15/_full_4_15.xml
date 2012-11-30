@@ -1,12 +1,6 @@
 
 <!-- ########################### ENGLISH ########################### -->
     
-    <!-- TRANSLATE FOR YOUR LANGUAGE [translationLink_xx] -->
-	<string name="translationLink_es">Spanish language pack available here</string>
-	<string name="translationLink_fr">French language pack available here</string>
-	<string name="translationLink_it">Italian language pack available here</string>
-	<string name="translationLink_pt">Portuguese language pack available here</string>
-    
 	<!-- PLEASE VERIFY (SEE BELOW) -->
 	<string name="expTypeCustomersPerDay">E6 Clients per day</string>
     <string name="customerNone">(no client)</string>

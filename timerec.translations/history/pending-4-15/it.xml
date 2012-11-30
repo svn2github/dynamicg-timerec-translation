@@ -20,7 +20,6 @@
     <string name="paidOt2Factor">Factor</string> <!-- for multiplication (amount * time) -->
     
     <!-- PENDING (2) -->
-	<string name="translationLink_it">Italian language pack available here</string>
     <string name="worktimeExceededLabel">Alarm if daily worktime &gt; x hours</string>
     <string name="worktimeExceededNotification">Daily worktime exceeds {1}</string>
     <string name="commonThreshold">Threshold</string> <!-- same as "Limit" -->
