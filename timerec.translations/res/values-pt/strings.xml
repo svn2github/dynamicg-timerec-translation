@@ -428,7 +428,6 @@
 	<string name="commonStampValidDate">Data de validade</string>
 	<string name="actualDateSelectionTitle">Mudar data de validade</string>
 	<string name="actualDateSelectionHint">\u2192 Usar a segunda opção somente quando trabalhando depois da meia noite</string>
-	<string name="actualDateSetAlert">Dica: Use \'Menu\' para mudar as datas de validade. Isso é útil para pessoas que trabalham depois da meia noite.</string>
 	<string name="actualDateSwitchWorkdayLabel">\u2192 Clique aqui para mudar para o próximo dia de trabalho.</string>
 
 	<string name="prefsWorkLateGroup">Opções para \'Trabalhando até tarde\'</string>

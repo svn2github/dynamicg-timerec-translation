@@ -424,7 +424,6 @@
 	<string name="commonStampValidDate">Validity date</string>
 	<string name="actualDateSelectionTitle">Change validity date</string>
 	<string name="actualDateSelectionHint">\u2192 Use second option only when working over midnight</string>
-	<string name="actualDateSetAlert">Hint: Use \'Menu\' to change the stamp\'s validity date. This is useful for people working over midnight.</string>
 	<string name="actualDateSwitchWorkdayLabel">\u2192 Click here to switch to next work day.</string>
 
 	<string name="prefsWorkLateGroup">\'Working late\' options</string>

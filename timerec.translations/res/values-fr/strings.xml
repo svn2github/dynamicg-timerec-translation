@@ -428,7 +428,6 @@
 	<string name="commonStampValidDate">Date de validité</string>
 	<string name="actualDateSelectionTitle">Changer la date de validité</string>
 	<string name="actualDateSelectionHint">\u2192 Utiliser la seconde option seulement quand vous travaillez au delà de minuit</string>
-	<string name="actualDateSetAlert">Info: Utiliser \'Menu\' pour changer le tampon de la date de validité. Cela est utile pour les personnes travaillant au delà de minuit.</string>
 	<string name="actualDateSwitchWorkdayLabel">\u2192 Cliquer ici pour passer au jour de travail suivant.</string>
 	
 	<string name="prefsWorkLateGroup">Options \'Travailler tard\'</string>

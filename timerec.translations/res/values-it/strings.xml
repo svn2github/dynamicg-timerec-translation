@@ -441,7 +441,6 @@
 	<string name="commonStampValidDate">Data di validità</string>
 	<string name="actualDateSelectionTitle">Modifica data di validità</string>
 	<string name="actualDateSelectionHint">\u2192 Usa la seconda opzione solo quando il turno supera la mezzanotte</string>
-	<string name="actualDateSetAlert">Suggerimento: usa \'Menu\' per cambiare la data di validità della timbratura. Questo può essere utile per quelle persone che lavorano oltre la mezzanotte.</string>
 	<string name="actualDateSwitchWorkdayLabel">\u2192 Clicca qui per spostarti al successivo giorno lavorativo.</string>
 	
 	<string name="prefsWorkLateGroup">Opzioni \'Lavoro tardivo\'</string>

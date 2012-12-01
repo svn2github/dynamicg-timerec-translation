@@ -441,7 +441,6 @@
 	<string name="commonStampValidDate">Validar fecha</string>
 	<string name="actualDateSelectionTitle">Cambiar validación de fecha</string>
 	<string name="actualDateSelectionHint">\u2192 Utiliza una segunda opción para los dias trabajos en turnos de noche</string>
-	<string name="actualDateSetAlert">Ayuda: Usa \'Menu\' para cambiar los tiempos. Esta opción es útil para aquellos que trabajan a medianoche</string>
 	<string name="actualDateSwitchWorkdayLabel">\u2192 Pulsa aquí para cambiar a un día laborable</string>
 	
 	<string name="prefsWorkLateGroup">\'Horas extras\' opciones</string>
