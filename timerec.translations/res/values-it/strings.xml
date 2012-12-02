@@ -4,7 +4,7 @@
     <!-- IT -->
 	
 	<!-- internal -->
-    <string name="i18nCompatibility">406</string>
+    <string name="i18nCompatibility">415</string>
     <string name="appUserLabel">DynamicG App User</string>
     <string name="googleSitesLanguage">en</string>
     <string name="languageFlag">0</string>
@@ -462,7 +462,6 @@
 	
 	<string name="prefsGroupMainScreenLabel">Aggiorna schermata principale</string>
 	<string name="prefsGroupMainScreenRefreshHint">\u2192 Questo aumenterà il consumo della batteria!</string>
-	<string name="commonRefreshMM">Auto aggiornamento ogni x minuti</string>
 	<string name="prefsKeepScreenOn">Tieni lo schermo attivo</string>
 	
 	<string name="expPrefsShowEmailOnHTML">Mostra indirizzo email sulle esportazioni in HTML</string>
@@ -550,58 +549,48 @@
 	<string name="alertNotificationSoundInsistent">Suono di notifica (persistente)</string>
 	<string name="alertNotificationVibra">Vibrazione</string>
 	    
-    <!-- 4.06, 4.07 -->
-	<string name="expTypeCustomersPerDay">E6 Clienti al giorno</string>
-    <string name="customerNone">(cliente n/d)</string>
+    <!-- 4.06+ -->
     <string name="cloudProviderDropbox">Dropbox</string>
     <string name="cloudProviderGoogleDrive">Google Drive</string>
-    <string name="commonOverview">Panoramica</string>
-		
-    <!-- 4.09 -->
     <string name="commonAuto">Auto</string> <!-- automatic -->
+    <string name="commonExtras">Extra</string>
+    
+    <!-- 4.15/TRANSLATED -->
+    <string name="worktimeExceededLabel">Allarme se il tempo giornaliero di lavoro &gt; x ore</string>
+    <string name="worktimeExceededNotification">Tempo di lavoro giornaliero superi {1}</string>
+    <string name="commonThreshold">Soglia</string> <!-- same as "Limit" -->
+    <string name="prefsMainAutoScroll">Auto scorrimento in fondo</string>
+	<string name="prefsScrollSizeWeeks">Scorrimento al \'{1}\' vista</string>
+	<string name="hintAlsoSeePage">\u2192 Vedi anche {1} su pagina {2}</string>
+    <string name="dailyTargetReachedInLabel">{1} vai</string>
+    <string name="prefsStayOnPreviousDay">Mostra giorno precedente se aperto prima</string>
+	<string name="commonRefreshMM">Aggiorna ogni x minuti</string>
+	<string name="calSyncNightShift">Supporta turni notturni</string>
+	<string name="commonDecimal">Decimali</string>
+	<string name="archiveLocation">Il file d\'archivio è memorizzato qui:\n\u2022 Cartella: {1}\n\u2022 Nome: {2}\nNota che questo file non è salvato dall\'app.</string>
+	<string name="backupReminderTitle">Promemoria di backup</string>
+	<string name="backupReminderBody">Ricorda di salvare i tuoi dati regolarmente.</string>
+	<string name="commonDoNotShowAgain">Non mostrare ancora questo messaggio</string>
+	<string name="expPrefsGoogleDocsConversion">Converti a documento di Google Docs</string>
+	<string name="commonBackupShort">Backup</string>
+	<string name="commonLater">Più tardi</string>
+	
+	<string name="expTypeCustomersPerDay">E6 Clienti al giorno</string>
+    <string name="customerNone">(cliente n/d)</string>
+	<string name="commonOverview">Vista generale</string>
     <string name="commonSwitchView">Cambia vista</string>
     <string name="commonContinueTask">Continua lavoro</string>
     <string name="commonOnlineHelp">Aiuto online</string>
-    <string name="expPrefsSaveFilters">Salvare i filtri</string>
-    <string name="commonSyncTitle">Sincronizzare il titolo</string>
-    
-    <!-- #I18N# referenced but not active. see tag "#I18N#" -->
-    <string name="worktimeExceededLabel">Alarm if daily worktime &gt; x hours</string>
-    <string name="worktimeExceededNotification">Daily worktime exceeds {1}</string>
-    <string name="commonThreshold">Threshold</string>
-    <string name="prefsMainAutoScroll">Auto scroll to bottom</string>
-    <string name="expDomNotesFilterNotLike">doesn\'t contain</string>
-    <string name="prefsStayOnPreviousDay">Show previous day if opened before</string>
-    <string name="hintAlsoSeePage">\u2192 Also see {1} on page {2}</string>
-    <string name="dailyTargetReachedInLabel">{1} to go</string>
-	<string name="commonDecimal">Decimal</string>
-	<string name="archiveLocation">Archive file is stored here:\n\u2022 Folder: {1}\n\u2022 Name: {2}\nNote this file is not backed up by the app.</string>
-	<string name="backupReminderTitle">Backup reminder</string>
-	<string name="backupReminderBody">Please remember to back up your data regularly.</string>
-	<string name="commonDoNotShowAgain">Don\'t show this message again</string>
-	<string name="commonBackupShort">Backup</string>
-	<string name="commonLater">Later</string>
-    <!-- #I18N# referenced but not active. see tag "#I18N#" -->
-    
-    <!-- 4.10/4.11 -->
-    <string name="commonExtras">Extra</string>
-    <string name="commonRateButton">Valutare</string> <!-- as in "please rate the app" -->
-    <string name="paidOt2Factor">Fattore</string>
-	<string name="edtoolsGeoLocation">Aggiungi localizzazione</string>
-    
-	<!-- 4.12/4.13 -->
-	<string name="commonSdCard">Card SD</string>
-    <string name="commonUndo">Azzera</string> <!-- "undo changes" on text editor -->
-    <string name="domainMonthviewSemiM">Bimensile</string>
-	<string name="prefsFirstDayOfPeriodN">Primo giorno del periodo {1} (1-31)</string>
-	<string name="prefsCurrentWeekOfRepPeriod">Settimana corrente</string>
-    
-	<string name="commonRetry">Riprovare</string>
-	
-    <!-- ### PENDING ### -->
-	<string name="prefsScrollSizeWeeks">Scrolling on \'{1}\' view</string>
-	<string name="calSyncNightShift">Support night shifts</string>
-	<string name="expPrefsGoogleDocsConversion">Convert to Google Docs document</string>
-	<!-- ### PENDING ### -->
+    <string name="expPrefsSaveFilters">Salva filtri</string>
+    <string name="commonSyncTitle">Sincronizza titolo</string>
+	<string name="edtoolsGeoLocation">Aggiungi Tag Gps</string>
+	<string name="commonRetry">Riprova</string> <!-- "Try again" -->
+	<string name="domainMonthviewSemiM">Quindicinale</string>
+	<string name="prefsFirstDayOfPeriodN">Primo giorno del periodo {1} (1-31)</string> <!-- {1} is "1" or "2" i.e. period 1, period 2 -->
+    <string name="commonSdCard">Scheda SD</string>
+    <string name="commonUndo">Annulla</string> <!-- "Undo changes" on text editor -->
+	<string name="prefsCurrentWeekOfRepPeriod">Settimana attuale del tuo periodo riassuntivo</string>
+    <string name="commonRateButton">Vota</string> <!-- "Please rate the app" -->
+    <string name="paidOt2Factor">Coefficiente</string> <!-- for multiplication (amount * time) -->
     
 </resources>
