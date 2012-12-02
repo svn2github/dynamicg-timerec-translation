@@ -4,7 +4,9 @@
     <!-- IT -->
 	
 	<!-- internal -->
+    <string name="i18nCompatibility">406</string>
     <string name="appUserLabel">DynamicG App User</string>
+    <string name="googleSitesLanguage">en</string>
     <string name="languageFlag">0</string>
     
     <string name="app_name">Registra Orari</string>
@@ -334,7 +336,6 @@
 	<string name="proReminderMktButton">Market Android</string>
 
 	<!-- =================================================================== -->
-    <string name="googleSitesLanguage">en</string>
     
 	<string name="widgetAppTitleShort">RO</string>
 	<string name="widgetTitleFrame">Registra Orari (Frame)</string>

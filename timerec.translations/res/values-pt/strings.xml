@@ -4,6 +4,7 @@
 	<!-- PT -->
 	
 	<!-- internal -->
+    <string name="i18nCompatibility">406</string>
     <string name="appUserLabel">DynamicG App User</string>
     <string name="languageFlag">0</string>
     <string name="googleSitesLanguage">en</string>

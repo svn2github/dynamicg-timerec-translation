@@ -4,9 +4,11 @@
     <!-- ES -->
     
 	<!-- internal -->
+    <string name="i18nCompatibility">415</string>
     <string name="appUserLabel">DynamicG App User</string>
     <string name="languageFlag">0</string>
-    
+    <string name="googleSitesLanguage">en</string>
+
     <string name="app_name">Hojas de Tiempos</string>
     <string name="app_name_pro">Hojas de Tiempos Pro</string>
     
@@ -336,8 +338,7 @@
 	<string name="proReminderMktButton">Google Play</string>
 
 	<!-- =================================================================== -->
-    <string name="googleSitesLanguage">en</string>
-    
+	
 	<string name="widgetAppTitleShort">HT</string>
 	<string name="widgetTitleFrame">Hojas de Tiempos (Frame)</string>
 	<string name="widgetTitleGloss">Hojas de Tiempos (Gloss)</string>
