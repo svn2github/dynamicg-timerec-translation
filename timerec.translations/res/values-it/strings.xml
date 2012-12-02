@@ -593,4 +593,9 @@
     <string name="commonRateButton">Vota</string> <!-- "Please rate the app" -->
     <string name="paidOt2Factor">Coefficiente</string> <!-- for multiplication (amount * time) -->
     
+	<!-- 4.16 / this is only temporary for the i18n build -->
+	<string name="activityCheckIn">Time Recording/Check in</string>
+	<string name="activityCheckOut">Time Recording/Check out</string>
+	<string name="activityPunch">Time Recording/Punch</string>
+	
 </resources>
