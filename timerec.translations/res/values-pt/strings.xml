@@ -4,7 +4,7 @@
 	<!-- PT -->
 	
 	<!-- internal -->
-    <string name="i18nCompatibility">406</string>
+    <string name="i18nCompatibility">415</string>
     <string name="appUserLabel">DynamicG App User</string>
     <string name="languageFlag">0</string>
     <string name="googleSitesLanguage">en</string>
@@ -450,7 +450,6 @@
 	
 	<string name="prefsGroupMainScreenLabel">Atualizar tela principal</string>
 	<string name="prefsGroupMainScreenRefreshHint">\u2192 Isso irá aumentar o consumo da bateria!</string>
-	<string name="commonRefreshMM">Auto atualizar a cada x minutos</string>
 	<string name="prefsKeepScreenOn">Mantenha a tela ligada</string>
 	
 	<string name="expPrefsShowEmailOnHTML">Exibir endereço de email na exportação HTML</string>
@@ -536,40 +535,48 @@
     <string name="alertNotificationSoundInsistent">Notificação sonora (persistente)</string>
     <string name="alertNotificationVibra">Vibrar</string>
     
-    <!-- 4.06, 4.07 -->
-	<string name="expTypeCustomersPerDay">E6 Clientes por dia</string>
-    <string name="customerNone">(sem cliente)</string>
+    <!-- 4.06+ -->
     <string name="cloudProviderDropbox">Dropbox</string>
     <string name="cloudProviderGoogleDrive">Google Drive</string>
-    <string name="commonOverview">Visão global</string>
-		
-    <!-- 4.09 -->
     <string name="commonAuto">Auto</string> <!-- automatic -->
+    <string name="commonExtras">Extra</string>
+    
+    <!-- 4.15/TRANSLATED -->
+    <string name="worktimeExceededLabel">Alarme se tempo de trabalho diário > x horas</string>
+    <string name="worktimeExceededNotification">Tempo de trabalho diário excedeu {1}</string>
+    <string name="commonThreshold">Limiar</string> <!-- same as "Limit" -->
+    <string name="prefsMainAutoScroll">Auto rolar para parte inferior</string>
+	<string name="prefsScrollSizeWeeks">Rolando na tela \'{1}\'</string>
+	<string name="hintAlsoSeePage">\u2192 Veja também {1} na página {2}</string>
+    <string name="dailyTargetReachedInLabel">{1} para ir</string>
+    <string name="prefsStayOnPreviousDay">Exibir dia anterior se aberto antes</string>
+	<string name="commonRefreshMM">Atualizar a cada x minutos</string>
+	<string name="calSyncNightShift">Suportar mudanças noturnas</string>
+	<string name="commonDecimal">Decimal</string>
+	<string name="archiveLocation">Arquivo está armazenado aqui:\n\u2022 Pasta: {1}\n\u2022 Nome: {2}\nNote que este arquivo não é um backup da app.</string>
+	<string name="backupReminderTitle">Lembrete de backup</string>
+	<string name="backupReminderBody">Por favor lembre-se de realizar backup regularmente.</string>
+	<string name="commonDoNotShowAgain">Não exibir esta mensagem novamente</string>
+	<string name="expPrefsGoogleDocsConversion">Converter para documento Google Docs</string>
+	<string name="commonBackupShort">Backup</string>
+	<string name="commonLater">Mais tarde</string>
+	
+	<string name="expTypeCustomersPerDay">E6 Clientes por dia</string>
+    <string name="customerNone">(sem cliente)</string>
+	<string name="commonOverview">Visão geral</string>
     <string name="commonSwitchView">Mudar visão</string>
     <string name="commonContinueTask">Continuar tarefa</string>
-    <string name="commonOnlineHelp">Ajuda online</string>
-    <string name="expPrefsSaveFilters">Guardar os filtros</string>
+    <string name="commonOnlineHelp">Ajuda Online</string>
+    <string name="expPrefsSaveFilters">Salvar os filtros</string>
     <string name="commonSyncTitle">Sincronizar título</string>
-    
-    <!-- 4.10/4.11 -->
-    <string name="commonExtras">Extra</string>
-    <string name="commonRateButton">Avaliar</string> <!-- as in "please rate the app" -->
-    <string name="paidOt2Factor">Fator</string>
 	<string name="edtoolsGeoLocation">Adicionar localização</string>
-    
-	<!-- 4.12/4.13 -->
-	<string name="commonSdCard">Cartão SD</string>
-    <string name="commonUndo">Reiniciar</string> <!-- "undo changes" on text editor -->
-    <string name="domainMonthviewSemiM">Bimensal</string>
-	<string name="prefsFirstDayOfPeriodN">Primeiro dia do período {1} (1-31)</string>
-	<string name="prefsCurrentWeekOfRepPeriod">Semana em curso</string>
-    
-	<string name="commonRetry">Tente novamente</string>
-	
-    <!-- ### PENDING ### -->
-	<string name="prefsScrollSizeWeeks">Scrolling on \'{1}\' view</string>
-	<string name="calSyncNightShift">Support night shifts</string>
-	<string name="expPrefsGoogleDocsConversion">Convert to Google Docs document</string>
-	<!-- ### PENDING ### -->
+	<string name="commonRetry">Tentar novament</string> <!-- "Try again" -->
+	<string name="domainMonthviewSemiM">Bimensal</string>
+	<string name="prefsFirstDayOfPeriodN">Primeiro dia do período {1} (1-31)</string> <!-- {1} is "1" or "2" i.e. period 1, period 2 -->
+    <string name="commonSdCard">SD Card</string>
+    <string name="commonUndo">Desfazer</string> <!-- "Undo changes" on text editor -->
+	<string name="prefsCurrentWeekOfRepPeriod">Semana atual do seu relatório periódico</string>
+    <string name="commonRateButton">Avaliar</string> <!-- "Please rate the app" -->
+    <string name="paidOt2Factor">Fator</string> <!-- for multiplication (amount * time) -->
     
 </resources>
