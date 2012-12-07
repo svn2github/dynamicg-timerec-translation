@@ -450,7 +450,6 @@
 	
 	<string name="prefsGroupMainScreenLabel">Rafraichissement écran principal</string>
 	<string name="prefsGroupMainScreenRefreshHint">\u2192 Cela augmentera la consommation de la batterie!</string>
-	<string name="commonRefreshMM">Rafraichissement auto toutes les x minutes</string>
 	<string name="prefsKeepScreenOn">Laisser l\'écran allumé</string>
 	
 	<string name="expPrefsShowEmailOnHTML">Montrer l\'adresse email sur les exports HTML</string>
@@ -538,40 +537,48 @@
 	<string name="alertNotificationSoundInsistent">Son de notification (insistant)</string>
 	<string name="alertNotificationVibra">Vibrer</string>
         
-    <!-- 4.06, 4.07 -->
-	<string name="expTypeCustomersPerDay">E6 Clients par jour</string>
-    <string name="customerNone">(pas de client)</string>
+    <!-- 4.06+ -->
     <string name="cloudProviderDropbox">Dropbox</string>
     <string name="cloudProviderGoogleDrive">Google Drive</string>
-    <string name="commonOverview">Aperçu</string>
-		
-    <!-- 4.09 -->
     <string name="commonAuto">Auto</string> <!-- automatic -->
+    <string name="commonExtras">Extra</string>
+    
+    <!-- 4.15/TRANSLATED -->
+    <string name="worktimeExceededLabel">Avertir si travail journalier &gt; x heures</string>
+    <string name="worktimeExceededNotification">Le travail journalier excède {1}</string>
+    <string name="commonThreshold">Seuil</string> <!-- same as "Limit" -->
+    <string name="prefsMainAutoScroll">Se déplacer jusqu\'en bas</string>
+	<string name="prefsScrollSizeWeeks">Faire défiler sur la vue \'{1}\'</string>
+	<string name="hintAlsoSeePage">\u2192 Voir aussi {1} à la page {2}</string>
+    <string name="dailyTargetReachedInLabel">{1} à faire</string>
+    <string name="prefsStayOnPreviousDay">Montrer le jour précédent si ouvert avant</string>
+	<string name="commonRefreshMM">Rafraichir toutes les x minutes</string>
+	<string name="commonDecimal">Décimal</string>
+	<string name="archiveLocation">Le fichier Archive est stocké ici:\n\u2022 Répertoire: {1}\n\u2022 Nom: {2}\nNotez que ce fichier n\'est pas sauvegardé par l\'application.</string>
+	<string name="backupReminderTitle">Rappel Sauvegarde</string>
+	<string name="backupReminderBody">Pensez à sauvegarder regulièrement vos données.</string>
+	<string name="commonDoNotShowAgain">Ne plus afficher ce message</string>
+	<string name="expPrefsGoogleDocsConversion">Convertir vers document Google Docs</string>
+	<string name="commonBackupShort">Sauvegarder</string>
+	<string name="commonLater">Plus tard</string>
+	<string name="expTypeCustomersPerDay">E6 Clients par jour</string>
+    <string name="customerNone">(pas de client)</string>
+    <string name="commonOverview">Aperçu</string>
     <string name="commonSwitchView">Changer la vue</string>
     <string name="commonContinueTask">Continuer tâche</string>
     <string name="commonOnlineHelp">Aide en ligne</string>
     <string name="expPrefsSaveFilters">Sauver les filtres</string>
     <string name="commonSyncTitle">Synchroniser titre</string>
-    
-    <!-- 4.10/4.11 -->
-    <string name="commonExtras">Extra</string>
     <string name="commonRateButton">Noter</string> <!-- as in "please rate the app" -->
     <string name="paidOt2Factor">Facteur</string>
 	<string name="edtoolsGeoLocation">Ajouter localisation</string>
-    
-	<!-- 4.12/4.13 -->
 	<string name="commonSdCard">Carte SD</string>
-    <string name="commonUndo">Effacer</string> <!-- "undo changes" on text editor -->
+    <string name="commonUndo">Annuler</string> <!-- "undo changes" on text editor -->
     <string name="domainMonthviewSemiM">Bimensuel</string>
 	<string name="prefsFirstDayOfPeriodN">Premier jour de la période {1} (1-31)</string>
 	<string name="prefsCurrentWeekOfRepPeriod">Semaine en cours</string>
-	<string name="prefsScrollSizeWeeks">Faire défiler sur la vue \'{1}\'</string>
 	<string name="calSyncNightShift">Soutenir horaire tournant</string>
+	<string name="commonRetry">Réessayer</string>
 	
-	<string name="commonRetry">Essayez à nouveau</string>
-    
-	<!-- ### PENDING ### -->
-	<string name="expPrefsGoogleDocsConversion">Convert to Google Docs document</string>
-	<!-- ### PENDING ### -->
 	
 </resources>
