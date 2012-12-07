@@ -36,6 +36,7 @@
     <string name="commonActionAddCheckOut">Adicionar check-out \u2026</string>
     <string name="commonSample">Exemplo</string>
     <string name="commonDataExport">Exportar dados</string>
+    <string name="commonReportsAndExport">Exportar dados</string>
     <string name="commonCategories">Tarefas</string>
     <string name="commonHourlyRate">Taxa horária</string>
     <string name="commonEditCategories">Editar tarefas</string>
