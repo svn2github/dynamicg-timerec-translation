@@ -602,4 +602,7 @@
 	<!-- PENDING/DISABLED -->
 	<string name="expDomNotesFilterNotLike">doesn\'t contain</string>
 	
+	<!-- 4.16 -->
+	<string name="workUnitDetailRep">Rapporto di lavoro</string>
+	
 </resources>

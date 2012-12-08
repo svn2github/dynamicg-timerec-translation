@@ -579,5 +579,8 @@
 	<string name="prefsCurrentWeekOfRepPeriod">Semana atual do seu relatório periódico</string>
     <string name="commonRateButton">Avaliar</string> <!-- "Please rate the app" -->
     <string name="paidOt2Factor">Fator</string> <!-- for multiplication (amount * time) -->
-    
+
+	<!-- 4.16 -->
+	<string name="workUnitDetailRep">Relatório trabalhar</string>
+	
 </resources>
