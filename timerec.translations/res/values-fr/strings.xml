@@ -580,5 +580,7 @@
 	<string name="calSyncNightShift">Soutenir horaire tournant</string>
 	<string name="commonRetry">Réessayer</string>
 	
-	
+	<!-- 4.16 -->
+	<string name="workUnitDetailRep">Rapport de travail</string>
+
 </resources>

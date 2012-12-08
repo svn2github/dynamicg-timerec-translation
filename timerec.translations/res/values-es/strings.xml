@@ -594,4 +594,7 @@
 	<string name="prefsCurrentWeekOfRepPeriod">Semana en curso</string>
 	<string name="commonRetry">Inténtalo de nuevo</string>
 
+	<!-- 4.16 -->
+	<string name="workUnitDetailRep">Informe de trabajo</string>
+	
 </resources>
