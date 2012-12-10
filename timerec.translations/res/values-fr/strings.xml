@@ -577,7 +577,7 @@
     <string name="domainMonthviewSemiM">Bimensuel</string>
 	<string name="prefsFirstDayOfPeriodN">Premier jour de la période {1} (1-31)</string>
 	<string name="prefsCurrentWeekOfRepPeriod">Semaine en cours</string>
-	<string name="calSyncNightShift">Soutenir horaire tournant</string>
+	<string name="calSyncNightShift">Supporter les horaires tournants</string>
 	<string name="commonRetry">Réessayer</string>
 	
 	<!-- 4.16 -->
