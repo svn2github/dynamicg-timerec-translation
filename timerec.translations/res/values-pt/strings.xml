@@ -305,8 +305,8 @@
     
 	<string name="errorSdCardUnavailable">SD Card não disponível. Backup, restauração &amp; exportação no momento não são possíveis.</string>
 	
-	<string name="widgetAppTitle1">Hora</string>
-    <string name="widgetAppTitle2">Armazenando</string>
+	<string name="widgetAppTitle1">Registro</string>
+    <string name="widgetAppTitle2">Horários</string>
     
     <string name="stdCommentTitle">Nota padrão</string>
     <string name="stdCommentSelect">Selecione uma nota padrão</string>
