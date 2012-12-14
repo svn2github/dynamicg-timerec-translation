@@ -283,8 +283,8 @@
     <string name="bckArchiveHint">\u2192 Utilisez \"Archiver\" pour déplacer les données anciennes et ainsi optimiser la \'base vivante\'</string>
 	<string name="errorSdCardUnavailable">Carte SD Card non disponible. Sauvegarde/restauration/export actuellement impossible!</string>
 	
-	<string name="widgetAppTitle1">Heure</string>
-    <string name="widgetAppTitle2">Enregistrement</string>
+	<string name="widgetAppTitle1">Gestion</string>
+    <string name="widgetAppTitle2">du temps</string>
     
     <string name="stdCommentTitle">Note standard</string>
     <string name="stdCommentSelect">Choisir une note standard</string>
