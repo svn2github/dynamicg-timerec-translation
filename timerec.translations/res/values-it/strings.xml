@@ -8,6 +8,7 @@
     <string name="appUserLabel">DynamicG App User</string>
     <string name="googleSitesLanguage">en</string>
     <string name="languageFlag">0</string>
+    <string name="commonID">ID</string>
     
     <string name="app_name">Registra Orari</string>
     <string name="app_name_pro">Registra Orari Pro</string>
