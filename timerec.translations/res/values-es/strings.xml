@@ -247,8 +247,8 @@
     <string name="bckArchiveHint">\u2192 Usar \"archivo\" para mover los datos antiguos y hacer los \'datos actuales\' más pequeños y rápido</string>
 	<string name="errorSdCardUnavailable">Tarjeta SD no disponible. Copiar de seguridad/restaurar/exportar no es posible</string>
 	
-	<string name="widgetAppTitle1">Tiempo</string>
-    <string name="widgetAppTitle2">Grabación</string>
+	<string name="widgetAppTitle1">Hojas de</string>
+    <string name="widgetAppTitle2">Tiempos</string>
     
     <string name="stdCommentTitle">Nota Estandard</string>
     <string name="stdCommentSelect">Escoger nota estandard</string>
