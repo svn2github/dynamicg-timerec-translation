@@ -8,7 +8,6 @@
     <string name="appUserLabel">DynamicG App User</string>
     <string name="googleSitesLanguage">en</string>
     <string name="languageFlag">0</string>
-    <string name="commonID">ID</string>
     
     <string name="app_name">Registra Orari</string>
     <string name="app_name_pro">Registra Orari Pro</string>
@@ -606,4 +605,8 @@
 	<!-- 4.16 -->
 	<string name="workUnitDetailRep">Rapporto di lavoro</string>
 	
+	<!-- 4.16/pending -->
+    <string name="commonID">ID</string>
+    <string name="prefsDeltaWeekOnMain">Show \'Delta\' on main screen</string>
+		
 </resources>
