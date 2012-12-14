@@ -5,6 +5,7 @@
     <string name="app_name">Zeiterfassung</string>
     <string name="app_name_pro">Zeiterfassung Pro</string>
     <string name="googleSitesLanguage">de</string>
+    <string name="i18nCompatibility">0</string>
     
     <string name="homescreenCheckinNow">Jetzt einstempeln</string>
     <string name="homescreenCheckoutNow">Jetzt ausstempeln</string>
@@ -29,6 +30,7 @@
     <string name="commonActionAddCheckOut">Ausstempeln \u2026</string>
     <string name="commonSample">Beispiel</string>
     <string name="commonDataExport">Berichte</string>
+    <string name="commonReportsAndExport">Berichte &amp; Datenexport</string>
     <string name="commonCategories">Tätigkeiten</string>
     <string name="commonHourlyRate">Stundensatz</string>
     <string name="commonEditCategories">Tätigkeiten editieren</string>
@@ -586,5 +588,13 @@
 	
 	<!-- <string name="commonBackupShort">Backup</string> -->
 	<string name="commonLater">Später</string>
+
+	<!-- 4.16 -->
+	<string name="activityCheckIn">Zeiterfassung/Einstempeln</string>
+	<string name="activityCheckOut">Zeiterfassung/Ausstempeln</string>
+	<string name="activityPunch">Zeiterfassung/Stempeln</string>
 	
+	<string name="prefsDeltaWeekOnMain">\'Delta\' auf Hauptschirm zeigen</string>
+	<string name="workUnitDetailRep">Arbeitsnachweis</string>
+
 </resources>

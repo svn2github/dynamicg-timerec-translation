@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:android="http://schemas.android.com/apk/res/android">
 
+	<!-- internal - do not translate -->
+    <string name="appUserLabel">DynamicG App User</string>
+    <string name="languageFlag">0</string>
+    <string name="googleSitesLanguage">en</string>
+    <string name="i18nCompatibility">0</string>
+    
+	<!-- labels -->
     <string name="app_name">Time Recording</string>
     <string name="app_name_pro">Time Recording Pro</string>
     <string name="homescreenCheckinNow">Check in now</string>
     <string name="homescreenCheckoutNow">Check out now</string>
     <string name="homescreenAddBreak">Add break \u2026</string>
-    <string name="homescreenHintNoStamps">No stamps yet.\nOpen \'Day\' and use \'Left Arrow\' to add entries to past days.</string>
+    <string name="homescreenHintNoStamps">No stamps.\nOpen \'Day\' and use \'Left Arrow\' to add entries to past days.</string>
     <string name="homescreenAddStamp">Add stamp \u2026</string>
     <string name="menuEditStampsShort">Edit stamps</string>
     <string name="menuPreferences">Preferences</string>
@@ -24,6 +31,7 @@
     <string name="commonActionAddCheckOut">Add check-out \u2026</string>
     <string name="commonSample">Sample</string>
     <string name="commonDataExport">Reports</string>
+    <string name="commonReportsAndExport">Reports &amp; data export</string>
     <string name="commonCategories">Tasks</string>
     <string name="commonHourlyRate">Hourly rate</string>
     <string name="commonEditCategories">Edit tasks</string>
@@ -61,7 +69,7 @@
 	<string name="commonFile">File</string>
 	<string name="commonOpenWith">Open with</string>
 	<string name="commonPreviouslyUsed">Previously used</string>
-    
+	
     <string name="buttonOk">OK</string>
     <string name="buttonCancel">Cancel</string>
     <string name="buttonChange">Change</string>
@@ -269,7 +277,7 @@
     <string name="hintPleaseWait">Please wait ...</string>
 
     <string name="errorTimeslotNotFree">Entry at \'{1}\' already exists</string>
-    <string name="errorCannotStartNewTask">Already checked in at {1}, cannot start new task yet</string>
+    <string name="errorCannotStartNewTask">Already checked in at {1}, cannot start new task</string>
     <string name="errorSdCardAccess">SD Card access error</string>
     <string name="errorSdCardWrite">SD Card write error</string>
     <string name="errorCalSyncFailed">Calendar sync failed</string>
@@ -582,5 +590,14 @@
 	<!-- 4.15 -->
 	<string name="commonBackupShort">Backup</string>
 	<string name="commonLater">Later</string>
+	
+	<!-- 4.16 -->
+	<string name="commonID">ID</string>		
+	<string name="activityCheckIn">Time Recording/Check in</string>
+	<string name="activityCheckOut">Time Recording/Check out</string>
+	<string name="activityPunch">Time Recording/Punch</string>
+	
+	<string name="prefsDeltaWeekOnMain">Show \'Delta\' on main screen</string>
+	<string name="workUnitDetailRep">Work log</string>
 	
 </resources>
