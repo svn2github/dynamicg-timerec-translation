@@ -46,23 +46,6 @@ public class ProcessorE2 {
 		TimeRecDataFetcher.callDataExport(context, exportType, today, today, exportFormat, listener);
 	}
 
-	private static String stripLeadingZero(String s) {
-		if (s.startsWith("0")) {
-			return s.substring(1);
-		}
-		return s;
-	}
-
-	static String escapeTime(String s) {
-		if (s==null||s.length()==0) {
-			return "";
-		}
-		String[] time = s.split(s.contains(".") ? "\\." : ":");
-		return "Hours "+stripLeadingZero(time[0])
-				+" Minutes "+stripLeadingZero(time[1])
-				;
-	}
-
 	/*
 	 * see "sample.timerec.20121228.20121228.e2.xml" for complete E2 sample
 	 */
@@ -76,13 +59,13 @@ public class ProcessorE2 {
 		HashMap<String, String> lastWorkUnit = workUnits.size()>0 ? workUnits.get(workUnits.size()-1) : null;
 		if (lastWorkUnit!=null) {
 			buffer.append("Task", lastWorkUnit.get("taskTitle"));
-			buffer.append("Time", escapeTime(lastWorkUnit.get("timeTotal")));
+			buffer.append("Time", ReportDataUtil.escapeTime(lastWorkUnit.get("timeTotal")));
 			buffer.append("Amount", lastWorkUnit.get("amount"));
 		}
 
 		HashMap<String, String> grandTotal = reader.grandTotal;
 		if (grandTotal!=null) {
-			buffer.append("Grand Total Time", escapeTime(grandTotal.get("time")));
+			buffer.append("Grand Total Time", ReportDataUtil.escapeTime(grandTotal.get("time")));
 			buffer.append("Grand Total Amount", grandTotal.get("amount"));
 		}
 
