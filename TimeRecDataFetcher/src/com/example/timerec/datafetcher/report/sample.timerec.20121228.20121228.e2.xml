@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<timerecording>
+ <exportinfo>
+  <type>2</type><exportfrom>2012-12-28</exportfrom><exportto>2012-12-28</exportto><deviceid>940a6ec574be2378</deviceid><fnamePrefix>timerec</fnamePrefix>
+ </exportinfo>
+ <day value="2012-12-28">
+  <workunit>
+   <taskId>4</taskId>
+   <date>28.12.2012</date><dayname>Fri</dayname><weeknr>W52</weeknr><timeCheckin value="2012-12-28 08:27:00">08:27</timeCheckin><timeCheckout value="2012-12-28 12:44:00">12:44</timeCheckout><timeTotal>04.28</timeTotal><amount>428.33</amount><taskTitle>DGApps Admin</taskTitle><workunitComment/><dayTotal>09.17</dayTotal><dayComment/>
+  </workunit>
+  <workunit>
+   <taskId>1</taskId>
+   <date>28.12.2012</date><dayname>Fri</dayname><weeknr>W52</weeknr><timeCheckin value="2012-12-28 13:56:00">13:56</timeCheckin><timeCheckout value="2012-12-28 18:49:00">18:49</timeCheckout><timeTotal>04.88</timeTotal><amount>195.33</amount><taskTitle>DGApps New Features With Extras</taskTitle><workunitComment/>
+  </workunit>
+ </day>
+ <grandtotal>
+  <numberOfDays>1</numberOfDays><time>09.17</time><amount>663.35</amount>
+ </grandtotal>
+</timerecording>
