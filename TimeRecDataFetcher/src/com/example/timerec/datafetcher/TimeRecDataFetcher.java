@@ -47,8 +47,13 @@ public class TimeRecDataFetcher {
 			public void onReceive(Context context, Intent resultIntent) {
 				Bundle bundle = this.getResultExtras(true);
 				String filepath = bundle.getString(KEY_RESULT_FILE);
-				File file = new File(filepath);
-				listener.received(file);
+				if (filepath!=null) {
+					File file = new File(filepath);
+					listener.received(file);
+				}
+				else {
+					System.err.println("com.example.timerec.datafetcher.TimeRecDataFetcher: DID NOT RECEIVE FILE");
+				}
 			}
 		};
 
