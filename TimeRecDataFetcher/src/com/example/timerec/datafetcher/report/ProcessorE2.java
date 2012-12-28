@@ -48,7 +48,7 @@ public class ProcessorE2 {
 
 	private static String stripLeadingZero(String s) {
 		if (s.startsWith("0")) {
-			s = s.substring(1);
+			return s.substring(1);
 		}
 		return s;
 	}
@@ -57,7 +57,6 @@ public class ProcessorE2 {
 		if (s==null||s.length()==0) {
 			return "";
 		}
-		System.err.println("S="+s);
 		String[] time = s.split(s.contains(".") ? "\\." : ":");
 		return "Hours "+stripLeadingZero(time[0])
 				+" Minutes "+stripLeadingZero(time[1])
