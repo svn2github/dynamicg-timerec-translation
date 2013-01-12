@@ -12,13 +12,13 @@
     <string name="app_name_pro">Time Recording Pro</string>
     <string name="homescreenCheckinNow">Check in now</string>
     <string name="homescreenCheckoutNow">Check out now</string>
-    <string name="homescreenAddBreak">Add break \u2026</string>
+    <string name="homescreenAddBreak">Add break</string>
     <string name="homescreenHintNoStamps">No stamps.\nOpen \'Day\' and use \'Left Arrow\' to add entries to past days.</string>
-    <string name="homescreenAddStamp">Add stamp \u2026</string>
+    <string name="homescreenAddStamp">Add stamp</string>
     <string name="menuEditStampsShort">Edit stamps</string>
     <string name="menuPreferences">Preferences</string>
     <string name="menuAdmin">Admin</string>
-    <string name="menuAddStandardEntry">Add break/unit \u2026</string>
+    <string name="menuAddStandardEntry">Add break/unit</string>
     <string name="menuMore">More</string>
     <string name="commonDays">Days</string>
     <string name="commonEdit">Edit</string>
@@ -27,8 +27,8 @@
     <string name="commonNo">No</string>
     <string name="commonTitleCheckIn">Check-In</string>
     <string name="commonTitleCheckOut">Check-Out</string>
-    <string name="commonActionAddCheckIn">Add check-in \u2026</string>
-    <string name="commonActionAddCheckOut">Add check-out \u2026</string>
+    <string name="commonActionAddCheckIn">Add check-in</string>
+    <string name="commonActionAddCheckOut">Add check-out</string>
     <string name="commonSample">Sample</string>
     <string name="commonDataExport">Reports</string>
     <string name="commonReportsAndExport">Reports &amp; data export</string>
@@ -76,7 +76,7 @@
     <string name="buttonClose">Close</string>
     <string name="buttonSave">Save</string>
     <string name="buttonResetText">Reset</string>
-    <string name="buttonSwitchTask">Switch task \u2026</string>
+    <string name="buttonSwitchTask">Switch task</string>
 
     <string name="headerDate">Date</string>
     <string name="headerTotalDecimal">Total (decimal)</string>

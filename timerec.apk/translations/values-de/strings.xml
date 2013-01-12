@@ -9,9 +9,9 @@
     
     <string name="homescreenCheckinNow">Jetzt einstempeln</string>
     <string name="homescreenCheckoutNow">Jetzt ausstempeln</string>
-    <string name="homescreenAddBreak">Pause \u2026</string>
+    <string name="homescreenAddBreak">Pause</string>
     <string name="homescreenHintNoStamps">Keine Einträge bisher.\n\'Tag\' öffnen und \'Pfeil Links\' benutzen um Einträge für vergangene Tage zu erfassen.</string>
-    <string name="homescreenAddStamp">Stempeln \u2026</string>
+    <string name="homescreenAddStamp">Stempeln</string>
 
     <string name="menuEditStampsShort">Editieren</string>
     <string name="menuPreferences">Einstellungen</string>
@@ -26,8 +26,8 @@
     <string name="commonNo">Nein</string>
     <string name="commonTitleCheckIn">Ein</string>
     <string name="commonTitleCheckOut">Aus</string>
-    <string name="commonActionAddCheckIn">Einstempeln \u2026</string>
-    <string name="commonActionAddCheckOut">Ausstempeln \u2026</string>
+    <string name="commonActionAddCheckIn">Einstempeln</string>
+    <string name="commonActionAddCheckOut">Ausstempeln</string>
     <string name="commonSample">Beispiel</string>
     <string name="commonDataExport">Berichte</string>
     <string name="commonReportsAndExport">Berichte &amp; Datenexport</string>
@@ -76,7 +76,7 @@
     <string name="buttonClose">Schliessen</string>
     <string name="buttonSave">Speichern</string>
     <string name="buttonResetText">Leeren</string>
-    <string name="buttonSwitchTask">Task wechseln \u2026</string>
+    <string name="buttonSwitchTask">Task wechseln</string>
 
     <string name="headerDate">Datum</string>
     <string name="headerTotalDecimal">Zeit (dezimal)</string>
