@@ -15,14 +15,14 @@
     
     <string name="homescreenCheckinNow">Check in agora</string>
     <string name="homescreenCheckoutNow">Check out agora</string>
-    <string name="homescreenAddBreak">Adicionar quebra \u2026</string>
+    <string name="homescreenAddBreak">Adicionar quebra</string>
     <string name="homescreenHintNoStamps">Sem registro ainda.\nAbra \'Dia\' e use \'Seta Esquerda\' para adicionar entradas nos dias passados.</string>
-    <string name="homescreenAddStamp">Adicionar registro \u2026</string>
+    <string name="homescreenAddStamp">Adicionar registro</string>
 
     <string name="menuEditStampsShort">Editar registros</string>
     <string name="menuPreferences">Preferências</string>
     <string name="menuAdmin">Admin</string>
-    <string name="menuAddStandardEntry">Adicionar quebra/intervalo \u2026</string>
+    <string name="menuAddStandardEntry">Adicionar quebra/intervalo</string>
     <string name="menuMore">Mais</string>
     
     <string name="commonDays">Dias</string>
@@ -32,8 +32,8 @@
     <string name="commonNo">Não</string>
     <string name="commonTitleCheckIn">Check-In</string>
     <string name="commonTitleCheckOut">Check-Out</string>
-    <string name="commonActionAddCheckIn">Adicionar check-in \u2026</string>
-    <string name="commonActionAddCheckOut">Adicionar check-out \u2026</string>
+    <string name="commonActionAddCheckIn">Adicionar check-in</string>
+    <string name="commonActionAddCheckOut">Adicionar check-out</string>
     <string name="commonSample">Exemplo</string>
     <string name="commonDataExport">Exportar dados</string>
     <string name="commonReportsAndExport">Exportar dados</string>
@@ -82,7 +82,7 @@
     <string name="buttonClose">Fechar</string>
     <string name="buttonSave">Salvar</string>
     <string name="buttonResetText">Reiniciar</string>
-    <string name="buttonSwitchTask">Mudar tarefa \u2026</string>
+    <string name="buttonSwitchTask">Mudar tarefa</string>
 
     <string name="headerDate">Data</string>
     <string name="headerTotalDecimal">Total (decimal)</string>

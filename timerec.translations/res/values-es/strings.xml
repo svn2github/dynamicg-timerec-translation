@@ -14,14 +14,14 @@
     
     <string name="homescreenCheckinNow">Iniciar</string>
     <string name="homescreenCheckoutNow">Finalizar</string>
-    <string name="homescreenAddBreak">Pausar \u2026</string>
+    <string name="homescreenAddBreak">Pausar</string>
     <string name="homescreenHintNoStamps">Sin tiempos aún.\nAbre \'Día\' y usa la flecha \'Izqueirda\' para añadir entradas en el pasado.</string>
-    <string name="homescreenAddStamp">Añadir entrada \u2026</string>
+    <string name="homescreenAddStamp">Añadir entrada</string>
 
     <string name="menuEditStampsShort">Editar entradas</string>
     <string name="menuPreferences">Preferencias</string>
     <string name="menuAdmin">Administrar</string>
-    <string name="menuAddStandardEntry">Añadir pausa/bloque \u2026</string>
+    <string name="menuAddStandardEntry">Añadir pausa/bloque</string>
     <string name="menuMore">Más</string>
     
     <string name="commonDays">Días</string>
@@ -31,8 +31,8 @@
     <string name="commonNo">No</string>
     <string name="commonTitleCheckIn">Iniciar</string>
     <string name="commonTitleCheckOut">Finalizar</string>
-    <string name="commonActionAddCheckIn">Añadir Inicio \u2026</string>
-    <string name="commonActionAddCheckOut">Añadir Fin \u2026</string>
+    <string name="commonActionAddCheckIn">Añadir Inicio</string>
+    <string name="commonActionAddCheckOut">Añadir Fin</string>
     <string name="commonSample">Ejemplo</string>
     <string name="commonDataExport">Exportar datos</string>
     <string name="commonReportsAndExport">Exportar datos</string>
@@ -75,7 +75,7 @@
     <string name="buttonClose">Cerrar</string>
     <string name="buttonSave">Grabar</string>
     <string name="buttonResetText">Inicializar</string>
-    <string name="buttonSwitchTask">Cambiar tarea \u2026</string>
+    <string name="buttonSwitchTask">Cambiar tarea</string>
 
     <string name="headerDate">Fecha</string>
     <string name="headerTotalDecimal">Total (decimal)</string>

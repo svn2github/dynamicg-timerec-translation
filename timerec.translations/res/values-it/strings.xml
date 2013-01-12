@@ -14,14 +14,14 @@
     
     <string name="homescreenCheckinNow">Inizia ora</string>
     <string name="homescreenCheckoutNow">Termina ora</string>
-    <string name="homescreenAddBreak">Aggiungi pausa \u2026</string>
+    <string name="homescreenAddBreak">Aggiungi pausa</string>
     <string name="homescreenHintNoStamps">Nessuna timbratura effettuata.\nApri \'Giorno\' ed usa la \'Freccia Sinistra\' per aggiungere annotazioni dei giorni passati.</string>
-    <string name="homescreenAddStamp">Aggiungi timbratura \u2026</string>
+    <string name="homescreenAddStamp">Aggiungi timbratura</string>
 
     <string name="menuEditStampsShort">Modifica timbrature</string>
     <string name="menuPreferences">Preferenze</string>
     <string name="menuAdmin">Admin</string>
-    <string name="menuAddStandardEntry">Aggiungi pausa/blocco \u2026</string>
+    <string name="menuAddStandardEntry">Aggiungi pausa/blocco</string>
     <string name="menuMore">Altro</string>
     
     <string name="commonDays">Giorni</string>
@@ -31,8 +31,8 @@
     <string name="commonNo">No</string>
     <string name="commonTitleCheckIn">Inizio</string>
     <string name="commonTitleCheckOut">Termine</string>
-    <string name="commonActionAddCheckIn">Aggiungi inizio \u2026</string>
-    <string name="commonActionAddCheckOut">Aggiungi termine \u2026</string>
+    <string name="commonActionAddCheckIn">Aggiungi inizio</string>
+    <string name="commonActionAddCheckOut">Aggiungi termine</string>
     <string name="commonSample">Esempio</string>
     <string name="commonDataExport">Esporta dati</string>
     <string name="commonReportsAndExport">Esporta dati</string>
@@ -75,7 +75,7 @@
     <string name="buttonClose">Chiudi</string>
     <string name="buttonSave">Salva</string>
     <string name="buttonResetText">Azzera</string>
-    <string name="buttonSwitchTask">Cambia lavoro \u2026</string>
+    <string name="buttonSwitchTask">Cambia lavoro</string>
 
     <string name="headerDate">Data</string>
     <string name="headerTotalDecimal">Totale (decimali)</string>
