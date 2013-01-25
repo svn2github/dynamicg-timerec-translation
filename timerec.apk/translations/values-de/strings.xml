@@ -597,4 +597,7 @@
 	<string name="prefsDeltaWeekOnMain">\'Delta\' auf Hauptschirm zeigen</string>
 	<string name="workUnitDetailRep">Arbeitsnachweis</string>
 
+	<!-- 4.17 -->
+	<string name="commonIncremental">Inkrementell</string>
+	
 </resources>

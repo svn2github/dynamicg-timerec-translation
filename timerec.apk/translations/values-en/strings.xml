@@ -599,5 +599,8 @@
 	
 	<string name="prefsDeltaWeekOnMain">Show \'Delta\' on main screen</string>
 	<string name="workUnitDetailRep">Work log</string>
+
+	<!-- 4.17 -->
+	<string name="commonIncremental">Incremental</string>
 	
 </resources>
