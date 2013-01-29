@@ -2,6 +2,6 @@
 <date>2012/12/19</date>
 
 # --currently deployed--
-# version: 127 / 4.16
+# version: 129 / 4.17
 # svn revision: from tag
-# date: 2012/12/14
+# date: 2013/01/29
