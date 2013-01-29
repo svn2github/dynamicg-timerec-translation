@@ -608,5 +608,8 @@
 	<!-- 4.16/pending -->
     <string name="commonID">ID</string>
     <string name="prefsDeltaWeekOnMain">Show \'Delta\' on main screen</string>
-		
+    
+    <!-- 4.17/pending -->
+	<string name="commonIncremental">Incremental</string>
+	
 </resources>
