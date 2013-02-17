@@ -600,4 +600,7 @@
 	<!-- 4.17 -->
 	<string name="commonIncremental">Inkrementell</string>
 	
+	<!-- 4.18 -->
+	<string name="commonForceDeletion">Löschung erzwingen</string>	
+	
 </resources>
