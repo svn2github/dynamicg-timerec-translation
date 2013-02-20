@@ -437,7 +437,6 @@
 	<string name="prefsActualDateDisplay">Montrer la date de validité dans le sélecteur de date</string>
 	<string name="prefsStopRunningWorkdayLabel">Si vous oubliez d\'indiquer la fin, le compteur s\'arrêtera à cette heure:</string>
 	<string name="prefsStopRunningWorkdayHint">\u2192 Ne *PAS* changer si vous travaillez en horaire tournant</string>
-	<string name="prefsActualDateBreakAlert">\u2192 Cette fonction peut rendre inutilisable le sélecteur de date sur certains périphériques. Cliquez ici pour vérifier. Notez que vous pouvez aussi utiliser \'Menu\' pour cette boite de dialogue.</string>
 	<string name="prefsActualDateShowAlways">Toujours</string>
 	<string name="prefsActualDateShowCrossMn">Si au delà de minuit</string>
 	

@@ -430,7 +430,6 @@
 	<string name="prefsActualDateDisplay">Show validity date in Time Picker</string>
 	<string name="prefsStopRunningWorkdayLabel">If I forget to check out, running counter stops at this time:</string>
 	<string name="prefsStopRunningWorkdayHint">\u2192 Do *not* change if you work rotating shift</string>
-	<string name="prefsActualDateBreakAlert">\u2192 This will break the Time Picker on some devices. Click here to check. Note you can also use \'Menu\' on that dialog.</string>
 	<string name="prefsActualDateShowAlways">Always</string>
 	<string name="prefsActualDateShowCrossMn">If over midnight</string>
 	

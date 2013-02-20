@@ -437,7 +437,6 @@
 	<string name="prefsActualDateDisplay">Exibir data de validade no Selecionador de Hora</string>
 	<string name="prefsStopRunningWorkdayLabel">Se eu esquecer de fazer checkout, contagem do contador para depois desta hora:</string>
 	<string name="prefsStopRunningWorkdayHint">\u2192 *Não* mude se você trabalha com horários diferenciados</string>
-	<string name="prefsActualDateBreakAlert">\u2192 Isso irá quebrar o Selecionador de Hora em alguns aparelhos. Clique aqui para checar. Note que você pode usar  \'Menu\' na caixa de diálogo.</string>
 	<string name="prefsActualDateShowAlways">Sempre</string>
 	<string name="prefsActualDateShowCrossMn">Se for depois da meia noite</string>
 	

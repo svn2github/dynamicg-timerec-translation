@@ -450,7 +450,6 @@
 	<string name="prefsActualDateDisplay">Ver validador de fecha y tiempo</string>
 	<string name="prefsStopRunningWorkdayLabel">Si olvidas de hacer checkout, el contador se detendrá a esta hora:</string>
 	<string name="prefsStopRunningWorkdayHint">\u2192 No cambiar si tienes turnos rotativos</string>
-	<string name="prefsActualDateBreakAlert">\u2192 Esto interrumpirá el selector de hora en ciertos dispositivos. Pulsa aquí. Ten en cuenta que puedes utilizar \'Menu\' para este diálogo.</string>
 	<string name="prefsActualDateShowAlways">Siempre</string>
 	<string name="prefsActualDateShowCrossMn">Si en media noche</string>
 	

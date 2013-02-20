@@ -429,7 +429,6 @@
 	<string name="prefsActualDateDisplay">Geldigheidsdatum weergeven in de tijdselectie</string>
 	<string name="prefsStopRunningWorkdayLabel">Als u bent vergeten om uit te klokken blijven de Tellers staan:</string>
 	<string name="prefsStopRunningWorkdayHint">\u2192 *Niet* veranderen als u werkt in een draaiende shift</string>
-	<string name="prefsActualDateBreakAlert">\u2192 Op enkele apparaten werkt dit niet. Klik om te proberen. Zie ook \'Menu\' op de tijd-dialoogvenster om te selecteren.</string>
 	<string name="prefsActualDateShowAlways">Altijd</string>
 	<string name="prefsActualDateShowCrossMn">Indien om middernacht</string>
 	

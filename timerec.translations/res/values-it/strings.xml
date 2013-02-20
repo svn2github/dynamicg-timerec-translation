@@ -450,7 +450,6 @@
 	<string name="prefsActualDateDisplay">Mostra la data di validità nella selezione del Tempo</string>
 	<string name="prefsStopRunningWorkdayLabel">Se dimentico di terminare un lavoro, il contatore in esecuzione si ferma alle:</string>
 	<string name="prefsStopRunningWorkdayHint">\u2192 *Non* modificare se lavori con turni ruotati</string>
-	<string name="prefsActualDateBreakAlert">\u2192 Questo interromperà il selezionatore del tempo su alcuni dispositivi. Clicca qui per verificare. Nota che puoi anche usare il comando \'Menu\' in questa finestra.</string>
 	<string name="prefsActualDateShowAlways">Sempre</string>
 	<string name="prefsActualDateShowCrossMn">Se oltre la mezzanotte</string>
 	
