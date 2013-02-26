@@ -429,7 +429,6 @@
 	<string name="prefsActualDateDisplay">Gültigkeitsdatum anzeigen in der Zeit-Auswahl</string>
 	<string name="prefsStopRunningWorkdayLabel">Bei vergessenem Ausstempeln bleibt der Zähler um diese Zeit stehen:</string>
 	<string name="prefsStopRunningWorkdayHint">\u2192 *Nicht* ändern wenn du rotierende Schicht arbeitest</string>
-	<string name="prefsActualDateBreakAlert">\u2192 Auf einigen Geräten funktioniert dies NICHT. Hier klicken um zu prüfen. Siehe auch \'Menü\' auf dem Zeitwahl-Dialog.</string>
 	<string name="prefsActualDateShowAlways">Immer</string>
 	<string name="prefsActualDateShowCrossMn">Falls über Mitternacht</string>
 	
