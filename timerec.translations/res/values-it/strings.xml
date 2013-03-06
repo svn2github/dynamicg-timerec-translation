@@ -332,7 +332,7 @@
 	
 	<string name="err21">Errore: Database di sola lettura</string>	
 	<string name="err22">Errore: la Card SD è piena</string>
-	<string name="errFaqHint">Vedi le FAQ, parola chiave \'ERRORE {1}\' per cercare la soluzione.</string>
+	<string name="errFaqHint">Vedi le FAQ, parola chiave «ERROR {1}» per cercare la soluzione.</string>
 	
 	<string name="proReminderMktButton">Market Android</string>
 

@@ -371,7 +371,7 @@
 	
 	<string name="err21">Erreur: Base en lecture seule</string>	
 	<string name="err22">Erreur: Disque plein</string>
-	<string name="errFaqHint">Cliquez ici pour l\'aide en ligne.\nMot-clé \'ERROR {1}\'</string>
+	<string name="errFaqHint">Cliquez ici pour l\'aide en ligne.\nMot-clé «ERROR {1}»</string>
 	
 	<string name="proReminderMktButton">Google Play</string>
 

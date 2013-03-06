@@ -334,7 +334,7 @@
 	
 	<string name="err21">Error: BBDD sólo lectura</string>
 	<string name="err22">Error: SD está llena</string>
-	<string name="errFaqHint">Ver FAQ, buscar \'ERROR {1}\' para solución</string>
+	<string name="errFaqHint">Ver FAQ, buscar «ERROR {1}» para solución</string>
 	
 	<string name="proReminderMktButton">Google Play</string>
 
