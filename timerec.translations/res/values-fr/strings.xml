@@ -149,8 +149,8 @@
 	<string name="calSyncShowConfirmation">Afficher une confirmation à la fin de la synchro</string>
 	<string name="calSyncEventTitleLabel">Titre événement</string>
 	<string name="calSyncCheckSettings">Cliquez ici pour vérifier les paramètres \'{1}\'.</string>
-	<string name="marketAppMissing">Application supplémentaire requise. Cliquez ici pour télécharger</string>
-	<string name="marketPluginMissing">Application supplémentaire requise. Cliquez ici pour télécharger</string>
+	<string name="marketAppMissing">Application supplémentaire requise. «Cliquez ici pour télécharger»</string>
+	<string name="marketPluginMissing">Application supplémentaire requise. «Cliquez ici pour télécharger»</string>
 	
     <string name="stdStampTitle">Pauses &amp; blocs</string>
     <string name="stdStampTypeBlockShort">Bloc</string>
