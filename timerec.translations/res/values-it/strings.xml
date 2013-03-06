@@ -611,4 +611,7 @@
     <!-- 4.17/pending -->
 	<string name="commonIncremental">Incremental</string>
 	
+	<!-- 4.16+ -->
+	<string name="prefsShowButtonsLine3">Mostra «{1}» &amp; «{2}»</string>
+	
 </resources>

@@ -582,4 +582,7 @@
 	<!-- 4.16 -->
 	<string name="workUnitDetailRep">Relatório trabalhar</string>
 	
+	<!-- 4.16+ -->
+	<string name="prefsShowButtonsLine3">Exibir «{1}» &amp; «{2}»</string>
+	
 </resources>
