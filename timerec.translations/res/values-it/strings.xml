@@ -606,12 +606,12 @@
 	
 	<!-- 4.16++ manual -->
 	<string name="prefsShowButtonsLine3">Mostra «{1}» &amp; «{2}»</string>
+    <string name="commonID">ID</string>
 	
 	<!-- PENDING 4.16++ -->
-    <string name="commonID">ID</string>
-	<string name="commonIncremental">Incremental</string>
     <string name="prefsDeltaWeekOnMain">Show \'Delta\' on main screen</string>
+	<string name="commonIncremental">Incremental</string>
 	<string name="commonForceDeletion">Force deletion</string>	
 	<string name="calSyncSingleBlock">Sync work units as one single event</string>
-    
+	
 </resources>
