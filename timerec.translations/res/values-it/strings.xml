@@ -604,14 +604,14 @@
 	<!-- 4.16 -->
 	<string name="workUnitDetailRep">Rapporto di lavoro</string>
 	
-	<!-- 4.16/pending -->
-    <string name="commonID">ID</string>
-    <string name="prefsDeltaWeekOnMain">Show \'Delta\' on main screen</string>
-    
-    <!-- 4.17/pending -->
-	<string name="commonIncremental">Incremental</string>
-	
-	<!-- 4.16+ -->
+	<!-- 4.16++ manual -->
 	<string name="prefsShowButtonsLine3">Mostra «{1}» &amp; «{2}»</string>
 	
+	<!-- PENDING 4.16++ -->
+    <string name="commonID">ID</string>
+	<string name="commonIncremental">Incremental</string>
+    <string name="prefsDeltaWeekOnMain">Show \'Delta\' on main screen</string>
+	<string name="commonForceDeletion">Force deletion</string>	
+	<string name="calSyncSingleBlock">Sync work units as one single event</string>
+    
 </resources>
