@@ -135,11 +135,16 @@
 	<string name="prefsProOnlyFeature">\u2192 This is a \"Pro version only\" feature</string>
 	<string name="prefsPunchRoundTaskSwitch">Also apply on «Switch task»</string>
 	<string name="prefsCalendarSyncGroup">Google calendar sync</string>
+	
+	<!-- when you tick that and restart the app, the buttons should be smaller than before, i.e. more space is available for the "body" -->
 	<string name="prefsHomescreenBtSmall">Small buttons on homescreen</string>
-
+	
 	<string name="calSyncCalendarName">Calendar name</string>
 	<string name="calSyncHints2">\u2192 Only one-way sync supported</string>
+	
+	<!-- for calendar sync - how long should the system wait before syncing data from my app to calendar when the user has changed something -->
 	<string name="calSyncWriteDelay">Write delay (seconds/minutes) after changes</string>
+	
 	<string name="calSyncForStamps">Sync stamps as \'events\'</string>
 	<string name="calSyncForDayNotes">Sync day notes as \'all day event\'</string>
 	<string name="calSyncShowConfirmation">Show confirmation after sync</string>
@@ -149,6 +154,8 @@
 	<string name="marketAppMissing">Additional App required. «Click here for download»</string>
 	<string name="marketPluginMissing">Plugin required. «Click here for download»</string>
 	<string name="calSyncInvalidCalendarTitle">Calendar name missing or invalid</string>
+	
+	<!-- WHERE: when you put in an invalid calendar account name in the "Calendar Sync Settings" on preferences page 1: -->
 	<string name="commonLookupHint">\u2192 Hint: use the [\u2026] lookup</string>
 	
     <string name="stdStampTitle">Breaks &amp; work units</string>
@@ -174,11 +181,17 @@
     <string name="sendMailIntentTitle">Send email</string>
     <string name="exportMailTitle">Time Recording Report {3}, {1}</string>
     <string name="exportMailBody">{title}\ncreated on {2}</string>
+    
+    <!-- refers to Excel import of the CSV produced by my app - that message is in the body of the email when sending a CSV report and tries to say "if import is scrambled and everything is packed into one single field, then please go to my app's export settings and try changing the item called "Column Separator" there" -->
     <string name="exportColumnSeparatorHint">Hint: change the \'Column separator\' on the export settings if the data is imported as one single column</string>
+	
 	<string name="repTaskMatrix">Task matrix</string>
 	<string name="expPrefsDataInclusion">Data inclusion</string>
 	<string name="expPrefsAttachmentMimeType">Attachment \'MIME type\'</string>
+	
+	<!-- do not translate, used for custom "send report" app settings -->
 	<string name="expPrefsTargetIntent">\'Send\' target intent</string>
+	
 	<string name="expPrefsFileEncoding">File encoding</string>
 	<string name="expPrefsHideAmounts">Hide amounts</string>
 	<string name="expPrefsAmtWithCurrency">Show currency on amounts</string>
@@ -347,28 +360,32 @@
 	<string name="pdotCalculatePer">Apply calculation to</string>
 	<string name="pdotShowDetails">Show details on report</string>
 	<string name="pdotDomainFullRep">Full report</string>
+	
+	<!-- this tries to explain that the user should set "8" as Bonus Amount if his regular hourly rate is 16 and extra payment for overtime is 50% (or "1.5 times") -->
 	<string name="pdotRateHint">\u2192 Sample: set to \'8\' if normal rate is $16 and overtime pay is x1.5, since 24-16=8</string>
+	
 	<string name="pdotMainHint">\u2192 Only shows on \'Month\' view. Needs \'Daily\' or \'Weekly\' target time enabled.</string>
 	
-	<!-- diff sync marker B -->
 	<string name="sdcardErrorReboot">\u2022 Please reboot your phone and try again.\n\u2022 If the problem persists please contact developer.</string>
 	<string name="sdcardErrorReadonly">SD Card is read only.</string>
 	<string name="sdcardErrorShared">SD Card blocked by USB access. Please disconnect phone from USB and try again.</string>
 
-	<!-- diff sync marker C -->
     <string name="brprefsRestoreAction">Restore app settings</string>
     <string name="brprefsFileSelection">Restore settings as of {1}</string>
     <string name="brprefsBackupAction">Backup app settings to SD Card</string>
     <string name="brprefsBackupFileExists">Backup file exists. Overwrite?</string>
     
-	<!-- diff sync marker D -->	
+    <!-- internal admin - alternatively use "Reorganise database" -->
 	<string name="admRebuildIndexes">Rebuild indexes</string>
+	
 	<string name="admDeleteOldLabel">Delete old data</string>
 	<string name="admDeleteOldHint">Select date to delete up to</string>
 	<string name="admDeleteOldBody">Delete all data up to {1}?\nThis cannot be undone.</string>
 	<string name="admDeleteAll">Delete all data</string>
 	
+	<!-- do not translate -->
 	<string name="pubsIssue">{1} issue</string>
+	
 	<string name="pubsCheckinDone">Check-in done</string>
 	<string name="pubsCheckoutDone">Check-out done</string>
 	<string name="pubsAlreadyCheckedIn">Already checked in</string>
@@ -421,7 +438,10 @@
 	<string name="commonMigrationWorking">Data migration running ...</string>
 	<string name="commonStampValidDate">Validity date</string>
 	<string name="actualDateSelectionTitle">Change validity date</string>
+	
+	<!-- long format: "only use the second option (or "selection item") if you are working across midnight (e.g. starting at 14:00 and working until 02:00 the next day)" -->
 	<string name="actualDateSelectionHint">\u2192 Use second option only when working over midnight</string>
+	
 	<string name="actualDateSwitchWorkdayLabel">\u2192 Click here to switch to next work day.</string>
 
 	<string name="prefsWorkLateGroup">\'Working late\' options</string>
@@ -497,7 +517,9 @@
     <string name="commonDeleteEntry">Delete entry</string>
     <string name="commonDeleteLine">Delete line</string>
     
+    <!-- "Condition" as per the Tasker app where you define actions based on rules and phone state (i.e. condition) -->
     <string name="taskerPluginCondition">Condition</string>
+    
 	<string name="commonCheckedIn">Checked in</string>
 	<string name="commonCheckedOut">Checked out</string>
 	
@@ -564,9 +586,18 @@
 	<!-- 4.12 -->
 	<string name="domainMonthviewSemiM">Semimonthly</string>
 	<string name="prefsFirstDayOfPeriodN">First day of period {1} (1-31)</string>
+	
+	<!-- this is when you go to Preferences page 1. set "Reporting period" to 4 weeks then tap "Settings". 
+	what it means is "As of now, which week number of your 4 week working period are you currently in?" (without that my app doesn't know at which date the "4 week" period actually starts)
+	-->
 	<string name="prefsCurrentWeekOfRepPeriod">Current week of your reporting period</string>
+	
+	<!-- whether clicking Left / Right on the Month view should jump 1 week or 4 weeks with each click. in order for that to work, the app needs to have the setting just above -->
 	<string name="prefsScrollSizeWeeks">Scrolling on «{1}» view</string>
+	
 	<string name="hintAlsoSeePage">\u2192 Also see {1} on page {2}</string>
+    
+    <!-- you can flip between two display modes with the "target reached" setting: the first says "Target reached at 18:30". when you do a "long click" on that text it will show the remaining time instead (i.e. "3:00 to go before you can go home") -->
     <string name="dailyTargetReachedInLabel">{1} to go</string>
 
 	<!-- 4.13 -->
@@ -600,6 +631,7 @@
 	<string name="workUnitDetailRep">Work log</string>
 
 	<!-- 4.17 -->
+	<!-- applies to "Automatic breaks" on settings page 2. the meaning is something like "Does the full break apply (when ticked off) or should the break length increase parallel to the work duration (when ticked on) -->
 	<string name="commonIncremental">Incremental</string>
 	
 	<!-- 4.18 -->
