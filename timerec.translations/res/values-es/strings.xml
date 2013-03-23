@@ -598,5 +598,6 @@
 	
 	<!-- 4.16+ -->
 	<string name="prefsShowButtonsLine3">Mostrar «{1}» &amp; «{2}»</string>
+	<string name="prefsRepPeriodWeeks">{2} {1}</string>
 	
 </resources>

@@ -613,5 +613,6 @@
 	<string name="commonIncremental">Incremental</string>
 	<string name="commonForceDeletion">Force deletion</string>	
 	<string name="calSyncSingleBlock">Sync work units as one single event</string>
+	<string name="prefsRepPeriodWeeks">{2} {1}</string>
 	
 </resources>
