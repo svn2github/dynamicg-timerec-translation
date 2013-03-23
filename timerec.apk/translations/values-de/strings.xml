@@ -10,7 +10,7 @@
     <string name="homescreenCheckinNow">Jetzt einstempeln</string>
     <string name="homescreenCheckoutNow">Jetzt ausstempeln</string>
     <string name="homescreenAddBreak">Pause</string>
-    <string name="homescreenHintNoStamps">Keine Einträge bisher.\n\'Tag\' öffnen und \'Pfeil Links\' benutzen um Einträge für vergangene Tage zu erfassen.</string>
+    <string name="homescreenHintNoStamps">Keine Einträge bisher.\n«Tag» öffnen und «Pfeil links» benutzen um Einträge für vergangene Tage zu erfassen.</string>
     <string name="homescreenAddStamp">Stempeln</string>
 
     <string name="menuEditStampsShort">Editieren</string>
@@ -60,7 +60,7 @@
     <!-- "commonDetails" -->
 	<string name="commonDoneToast">{1} \u2192erledigt</string>
     <string name="commonBreak">Pause</string>
-    <string name="commonEnabledOption">\'{1}\' aktiv</string>
+    <string name="commonEnabledOption">«{1}» aktiv</string>
     <string name="commonActive">Aktiv</string>
     <string name="commonActionEdit">{1} editieren</string>
 	<string name="commonSeeOnlineHelp">\u2192 Siehe Online-Hilfe</string>
@@ -104,7 +104,7 @@
     <string name="prefsFirstDayOfMonth">Erster Tag des Monats (1-31)</string>
     <string name="prefsAmountCurrencyString">Darstellung für Betrag mit Währung</string>
     <string name="prefsDailyTargetTime">Sollzeit pro Tag</string>
-    <string name="prefsTimePickerIncrement">\'Zeitwahl\' Minuten-Inkrement</string>
+    <string name="prefsTimePickerIncrement">«Zeitwahl» Minuten-Inkrement</string>
 	<string name="prefsShortTab4">Datum,Zeit</string>
 	<!-- "prefsShortTracking" -->
 	<!-- "prefsGroupInterface" -->
@@ -133,7 +133,7 @@
 	<string name="prefsDomRoundInUpOutDown">Ein=auf, Aus=ab</string>
 	<string name="prefsDomRoundInDownOutUp">Ein=ab, Aus=auf</string>
 	<string name="prefsProOnlyFeature">\u2192 Nur in der Pro-Version aktiv</string>
-	<string name="prefsPunchRoundTaskSwitch">Auch bei \'Task wechseln\' anwenden</string>
+	<string name="prefsPunchRoundTaskSwitch">Auch bei «Task wechseln» anwenden</string>
 	<string name="prefsCalendarSyncGroup">Google Kalender Sync</string>
 	<string name="prefsHomescreenBtSmall">Kleine Buttons auf Homescreen</string>
 
@@ -145,9 +145,9 @@
 	<string name="calSyncShowConfirmation">Nach Sync Bestätigung anzeigen</string>
 	<string name="calSyncEventTitleLabel">Termin-Titel</string>
 	<string name="calSyncEventTitleHint">\u2192 Platzhalter: $1=Task, $2=Total, $3=Zeit von/bis, $6=Kunde. Siehe Hilfe.</string>
-	<string name="calSyncCheckSettings">Hier klicken um \'{1}\' Einstellungen zu prüfen.</string>
-	<string name="marketAppMissing">Zusätzliche App benötigt. Hier klicken für Download</string>
-	<string name="marketPluginMissing">Plugin benötigt. Hier klicken für Download</string>
+	<string name="calSyncCheckSettings">Hier klicken um «{1}» Einstellungen zu prüfen.</string>
+	<string name="marketAppMissing">Zusätzliche App benötigt. «Hier klicken für Download»</string>
+	<string name="marketPluginMissing">Plugin benötigt. «Hier klicken für Download»</string>
 	<string name="calSyncInvalidCalendarTitle">Kalendar-Name leer oder ungültig</string>
 	<string name="commonLookupHint">\u2192 Tipp: Klick auf [\u2026] für gültige Werte</string>
 	
@@ -157,7 +157,7 @@
     <string name="stdStampTypeBreakNow">Pause jetzt</string>
     <string name="stdStampBreakForLastMI">Für vorangehende {1} Minuten</string>
     <string name="stdStampBreakForNextMI">Für nächste {1} Minuten</string>
-    <string name="stdStampsBreakNowItems">Einträge für \'{1}\'</string>
+    <string name="stdStampsBreakNowItems">Einträge für «{1}»</string>
     
     <string name="autoBreakTitle">Automatische Pausen</string>
     <string name="autoBreakBookWhen">Wann</string>
@@ -168,8 +168,8 @@
     <string name="dailyTargetOptTurnOff">Ausschalten</string>
     <string name="dailyTargetOptOvertime">Als Überzeit buchen</string>
     <string name="dailyTargetReachedAtLabel">Sollzeit bis {1}</string>
-    <string name="dailyTargetReachedAtPref">\'Sollzeit bis\' anzeigen</string>
-    <string name="dailyTargetReachedAtHint">\u2192 \'Automatische Pausen\' werden hierbei berücksichtigt</string>
+    <string name="dailyTargetReachedAtPref">«Sollzeit bis» anzeigen</string>
+    <string name="dailyTargetReachedAtHint">\u2192 «Automatische Pausen» werden hierbei berücksichtigt</string>
     
     <string name="sendMailIntentTitle">Email versenden</string>
     <string name="exportMailTitle">Zeiterfassung Bericht {3}, {1}</string>
@@ -276,7 +276,7 @@
 	<string name="hintTooMuchEntries">Zu viele Einträge</string>
     <string name="hintPleaseWait">Bitte warten ...</string>
 
-    <string name="errorTimeslotNotFree">Eintrag um \'{1}\' bereits vorhanden</string>
+    <string name="errorTimeslotNotFree">Eintrag um {1} bereits vorhanden</string>
     <string name="errorCannotStartNewTask">Bereits eingestempelt um {1}, wechseln noch nicht möglich</string>
     <string name="errorSdCardAccess">SD-Karte Zugriffsfehler</string>
     <string name="errorSdCardWrite">SD-Karte Schreibfehler</string>
@@ -285,13 +285,13 @@
 
     <string name="aboutPublicServices">App-Services</string> 
     <!-- "aboutPro" -->
-	<string name="aboutAvailableHere">\'{1}\' hier verfügbar</string> 
+	<string name="aboutAvailableHere">«{1}» hier verfügbar</string> 
 
     <string name="bckBackupTitle">Datensicherung</string>
     <string name="bckRestoreTitle">Wiederherstellen</string>
     <string name="bckCreateBackup">Backup erstellen</string>
     <string name="bckArchiveTitle">Archiv</string>
-    <string name="backupBody">Für Restore angehängte Datei auf SD-Karte (top level) kopieren. Danach \'Einstellungen/Wiederherstellen...\', \'Backup einspielen\'.</string>
+    <string name="backupBody">Für Wiederherstellung angehängte Datei zuoberst auf SD-Karte kopieren. Danach \'Einstellungen/Wiederherstellen\', \'Backup einspielen\'.</string>
     <string name="bckSwitchToArchive">Zu Archiv wechseln</string>
     <string name="bckSwitchToLive">Archiv schliessen, zurück zu aktuellen Daten</string>
     <string name="bckArchiveDataOlderThan">Daten &gt; {1} Monate archivieren</string>
@@ -319,16 +319,16 @@
 	<string name="dstorDataStorage">Speicherverwaltung</string>
 	<string name="dstorTargetPhone">Telefon</string>
 	<string name="dstorTargetSdCard">SD Karte</string>
-	<string name="dstorCurrent">Daten aktuell auf \'{1}\' gespeichert.</string>
-	<string name="dstorMoveTo">Verschieben nach \'{1}\'</string>
+	<string name="dstorCurrent">Daten aktuell auf {1} gespeichert.</string>
+	<string name="dstorMoveTo">Verschieben nach {1}</string>
 	<string name="dstorImport">Backup einspielen</string>
-	<string name="dstorImportDone">Import von \'{1}\' beendet, Zeilen={2}.</string>
-	<string name="dstorSwitch">Wechsel zu \'{1}\', kein Datentransfer</string>
-	<string name="dstorSwitchDone">Datenspeicherung ist jetzt auf \'{1}\'</string>
+	<string name="dstorImportDone">Import von {1} beendet, Zeilen={2}.</string>
+	<string name="dstorSwitch">Wechsel zu {1}, kein Datentransfer</string>
+	<string name="dstorSwitchDone">Datenspeicherung ist jetzt auf {1}</string>
 	<string name="dstorConfirmMigration">Daten auf Telefonspeicher verschieben? Dies erhöht die Stabilität.</string>
 	<string name="dstorWarning">Vorsicht bei Gebrauch. Siehe FAQ.</string>
 	<string name="dstorRestoreLocalBck">Lokales Backup einspielen</string>
-	<string name="dstorFileNotFound">File \'{1}\' nicht gefunden.</string>
+	<string name="dstorFileNotFound">File {1} nicht gefunden.</string>
 	<string name="dstorCannotProcess">Aktion nicht möglich.</string>
 	<string name="dstorPreferred">Speicherung auf Telefon bevorzugt.</string>
 	<string name="dstorSettingsBRTitle">App-Einstellungen</string>
@@ -387,7 +387,7 @@
 	<string name="err21">Fehler: Datenbank readonly</string>	
 	<string name="err22">Fehler: SD Karte ist voll</string>
 	<string name="err25">Fehler: Backup gescheitert</string>
-	<string name="errFaqHint">Hier klicken für Online-Hilfe,\nsiehe \'Error {1}\'</string>
+	<string name="errFaqHint">Hier klicken für Online-Hilfe: «ERROR {1}»</string>
 	
 	<!-- proReminderMktButton -->
 
@@ -466,7 +466,7 @@
 	<string name="calSyncCalendarTypeShared">Geteilt, auch für anderes</string>
 	
 	<!-- "helpInfo" -->
-	<!-- "helpFAQ" -->
+	<string name="helpFAQ">Hilfe &amp; FAQ</string>
 	<string name="helpWhatsNew">Was ist neu</string>
 	<string name="prefsMinimumBreak">Mindestlänge der Pause</string>
 	<string name="prefsShowIsoWeekNr">ISO Wochennummer zeigen</string>
@@ -525,7 +525,7 @@
     <!-- 4.05 -->
     <string name="commonBreakOver">Pause vorbei</string>
     <string name="commonTargetReached">Sollzeit erreicht</string>
-    <string name="timeReachedAlarmSettings">\'{1}\' Alarm</string>
+    <string name="timeReachedAlarmSettings">«{1}» Alarm</string>
     <string name="timeReachedNotification">{1} um {2}</string>
     
     <string name="alertNotificationSoundOnce">Nachrichtston (einmal)</string>
@@ -564,7 +564,7 @@
 	<string name="domainMonthviewSemiM">Halbmonatlich</string>
 	<string name="prefsFirstDayOfPeriodN">Erster Tag von Periode {1} (1-31)</string>
 	<string name="prefsCurrentWeekOfRepPeriod">Aktuelle Woche des Rapportierungs-Zeitraums</string>
-	<string name="prefsScrollSizeWeeks">Blättern auf \'{1}\' Sicht</string>
+	<string name="prefsScrollSizeWeeks">Blättern auf «{1}» Sicht</string>
 	<string name="hintAlsoSeePage">\u2192 Siehe auch {1} auf Seite {2}</string>
     <string name="dailyTargetReachedInLabel">Sollzeit erreicht in {1}</string>
 
@@ -601,5 +601,10 @@
 	
 	<!-- 4.18 -->
 	<string name="commonForceDeletion">Löschung erzwingen</string>	
+
+	<!-- 4.19 -->
+	<string name="calSyncSingleBlock">Sync der Arbeitseinheiten als einen einzigen Termin</string>
+	<string name="prefsShowButtonsLine3">«{1}» &amp; «{2}» anzeigen</string>
+	<string name="prefsRepPeriodWeeks">{2} {1}</string>
 	
 </resources>

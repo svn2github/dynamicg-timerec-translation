@@ -13,7 +13,7 @@
     <string name="homescreenCheckinNow">Check in now</string>
     <string name="homescreenCheckoutNow">Check out now</string>
     <string name="homescreenAddBreak">Add break</string>
-    <string name="homescreenHintNoStamps">No stamps.\nOpen \'Day\' and use \'Left Arrow\' to add entries to past days.</string>
+    <string name="homescreenHintNoStamps">No stamps.\nOpen «Day» and use «Left Arrow» to add entries to past days.</string>
     <string name="homescreenAddStamp">Add stamp</string>
     <string name="menuEditStampsShort">Edit stamps</string>
     <string name="menuPreferences">Preferences</string>
@@ -61,9 +61,9 @@
     <string name="commonDetails">Details</string>
 	<string name="commonDoneToast">{1} \u2192done</string>
     <string name="commonBreak">Break</string>
-    <string name="commonEnabledOption">\'{1}\' enabled</string>
+    <string name="commonEnabledOption">«{1}» enabled</string>
     <string name="commonActive">Active</string>
-    <string name="commonActionEdit">Edit \'{1}\'</string>
+    <string name="commonActionEdit">Edit «{1}»</string>
 	<string name="commonSeeOnlineHelp">\u2192 See online help</string>
 	<string name="commonData">Data</string>
 	<string name="commonFile">File</string>
@@ -104,7 +104,7 @@
     <string name="prefsFirstDayOfMonth">First day of month (1-31)</string>
     <string name="prefsAmountCurrencyString">Amount/currency presentation</string>
     <string name="prefsDailyTargetTime">Daily target time</string>
-    <string name="prefsTimePickerIncrement">\'Time picker\' minute increment</string>
+    <string name="prefsTimePickerIncrement">«Time picker» minute increment</string>
 	<string name="prefsShortTab4">Date,Time</string>
 	<string name="prefsShortTracking">Tracking</string>
 	<string name="prefsGroupInterface">Interface</string>
@@ -133,7 +133,7 @@
 	<string name="prefsDomRoundInUpOutDown">In=up, Out=down</string>
 	<string name="prefsDomRoundInDownOutUp">In=down, Out=up</string>
 	<string name="prefsProOnlyFeature">\u2192 This is a \"Pro version only\" feature</string>
-	<string name="prefsPunchRoundTaskSwitch">Also apply on \'Switch task\'</string>
+	<string name="prefsPunchRoundTaskSwitch">Also apply on «Switch task»</string>
 	<string name="prefsCalendarSyncGroup">Google calendar sync</string>
 	<string name="prefsHomescreenBtSmall">Small buttons on homescreen</string>
 
@@ -145,9 +145,9 @@
 	<string name="calSyncShowConfirmation">Show confirmation after sync</string>
 	<string name="calSyncEventTitleLabel">Event title</string>
 	<string name="calSyncEventTitleHint">\u2192 Tokens: $1=Task, $2=Total, $3=Time from/to, $6=Client. See help.</string>
-	<string name="calSyncCheckSettings">Click here to check \'{1}\' settings.</string>
-	<string name="marketAppMissing">Additional App required. Click here for download</string>
-	<string name="marketPluginMissing">Plugin required. Click here for download</string>
+	<string name="calSyncCheckSettings">Click here to check «{1}» settings.</string>
+	<string name="marketAppMissing">Additional App required. «Click here for download»</string>
+	<string name="marketPluginMissing">Plugin required. «Click here for download»</string>
 	<string name="calSyncInvalidCalendarTitle">Calendar name missing or invalid</string>
 	<string name="commonLookupHint">\u2192 Hint: use the [\u2026] lookup</string>
 	
@@ -157,7 +157,7 @@
     <string name="stdStampTypeBreakNow">Break now</string>
     <string name="stdStampBreakForLastMI">For last {1} minutes</string>
     <string name="stdStampBreakForNextMI">For next {1} minutes</string>
-    <string name="stdStampsBreakNowItems">Entries for \'{1}\'</string>
+    <string name="stdStampsBreakNowItems">Entries for «{1}»</string>
     
     <string name="autoBreakTitle">Automatic breaks</string>
     <string name="autoBreakBookWhen">When</string>
@@ -168,8 +168,8 @@
     <string name="dailyTargetOptTurnOff">Turn off</string>
     <string name="dailyTargetOptOvertime">Book as overtime</string>
     <string name="dailyTargetReachedAtLabel">Target reached at {1}</string>
-    <string name="dailyTargetReachedAtPref">Show \'Target reached at\'</string>
-    <string name="dailyTargetReachedAtHint">\u2192 Note this will take \'Automatic breaks\' into account</string>
+    <string name="dailyTargetReachedAtPref">Show «Target reached at»</string>
+    <string name="dailyTargetReachedAtHint">\u2192 Note this will take «Automatic breaks» into account</string>
     
     <string name="sendMailIntentTitle">Send email</string>
     <string name="exportMailTitle">Time Recording Report {3}, {1}</string>
@@ -276,7 +276,7 @@
 	<string name="hintTooMuchEntries">Too much entries</string>
     <string name="hintPleaseWait">Please wait ...</string>
 
-    <string name="errorTimeslotNotFree">Entry at \'{1}\' already exists</string>
+    <string name="errorTimeslotNotFree">Entry at {1} already exists</string>
     <string name="errorCannotStartNewTask">Already checked in at {1}, cannot start new task</string>
     <string name="errorSdCardAccess">SD Card access error</string>
     <string name="errorSdCardWrite">SD Card write error</string>
@@ -285,13 +285,13 @@
 
     <string name="aboutPublicServices">Public App services</string> 
     <string name="aboutPro">Pro</string>
-	<string name="aboutAvailableHere">\'{1}\' available here</string> 
+	<string name="aboutAvailableHere">«{1}» available here</string> 
 
     <string name="bckBackupTitle">Backup</string>
     <string name="bckRestoreTitle">Restore</string>
     <string name="bckCreateBackup">Create backup</string>
     <string name="bckArchiveTitle">Archive</string>
-    <string name="backupBody">To restore: copy attached file to SD Card (top level), open \'Preferences/Restore...\', click \'Restore backup\'</string>
+    <string name="backupBody">To restore: copy attached file to SD Card (top level), open \'Preferences/Restore\', click \'Restore backup\'</string>
     <string name="bckSwitchToArchive">View archived data</string>
     <string name="bckSwitchToLive">Switch back to live data</string>
     <string name="bckArchiveDataOlderThan">Archive data &gt; {1} months</string>
@@ -328,7 +328,7 @@
 	<string name="dstorConfirmMigration">Move data to phone storage? This will increase stability.</string>
 	<string name="dstorWarning">Caution: use with care. See FAQ.</string>
 	<string name="dstorRestoreLocalBck">Restore local backup</string>
-	<string name="dstorFileNotFound">File \'{1}\' not found.</string>
+	<string name="dstorFileNotFound">File {1} not found.</string>
 	<string name="dstorCannotProcess">Cannot process.</string>
 	<string name="dstorPreferred">Storage on Phone is preferred.</string>
 	<string name="dstorSettingsBRTitle">App settings</string>
@@ -387,7 +387,7 @@
 	<string name="err21">Error: Database readonly</string>	
 	<string name="err22">Error: SD Card is full</string>
 	<string name="err25">Error: Backup failed</string>
-	<string name="errFaqHint">Click here for online help,\nsee \'Error {1}\'</string>
+	<string name="errFaqHint">Click here for online help: «ERROR {1}»</string>
 	
 	<string name="proReminderMktButton">Google Play</string>
 
@@ -466,7 +466,7 @@
 	<string name="calSyncCalendarTypeShared">Shared, has other entries</string>
 	
 	<string name="helpInfo">Info</string>
-    <string name="helpFAQ">FAQ</string>
+    <string name="helpFAQ">Help &amp; FAQ</string>
 	<string name="helpWhatsNew">What\'s new</string>
 	<string name="prefsMinimumBreak">Minimum break time</string>
 	<string name="prefsShowIsoWeekNr">Show ISO week number</string>
@@ -524,7 +524,7 @@
     <!-- 4.05 -->
     <string name="commonBreakOver">Break over</string>
     <string name="commonTargetReached">Target reached</string>
-    <string name="timeReachedAlarmSettings">\'{1}\' alarm settings</string>
+    <string name="timeReachedAlarmSettings">«{1}» alarm settings</string>
     <string name="timeReachedNotification">{1} at {2}</string> <!-- sample: "Target reached at 17:45" -->
     
     <string name="alertNotificationSoundOnce">Notification sound (once)</string>
@@ -565,7 +565,7 @@
 	<string name="domainMonthviewSemiM">Semimonthly</string>
 	<string name="prefsFirstDayOfPeriodN">First day of period {1} (1-31)</string>
 	<string name="prefsCurrentWeekOfRepPeriod">Current week of your reporting period</string>
-	<string name="prefsScrollSizeWeeks">Scrolling on \'{1}\' view</string>
+	<string name="prefsScrollSizeWeeks">Scrolling on «{1}» view</string>
 	<string name="hintAlsoSeePage">\u2192 Also see {1} on page {2}</string>
     <string name="dailyTargetReachedInLabel">{1} to go</string>
 
@@ -604,5 +604,12 @@
 	
 	<!-- 4.18 -->
 	<string name="commonForceDeletion">Force deletion</string>	
+	
+	<!-- 4.19 -->
+	<string name="calSyncSingleBlock">Sync work units as one single event</string>
+	<string name="prefsShowButtonsLine3">Show «{1}» &amp; «{2}»</string>
+	
+	<!-- 4.19.1 -->
+	<string name="prefsRepPeriodWeeks">Week {1}</string> <!-- {1} is week number 1-4. see dropdown list on "2 weeks" or "4 weeks" reporting period settings -->
 	
 </resources>
