@@ -25,7 +25,7 @@
     <string name="commonError">出错</string>
     <string name="commonYes">是</string>
     <string name="commonNo">否</string>
-    <string name="commonTitleCheckIn">开始</string>
+    <string name="commonTitleCheckIn">打卡</string>
     <string name="commonTitleCheckOut">结束</string>
     <string name="commonActionAddCheckIn">添加开始打卡记录</string>
     <string name="commonActionAddCheckOut">添加结束打卡记录</string>
@@ -35,9 +35,9 @@
     <string name="commonCategories">任务</string>
     <string name="commonHourlyRate">时薪</string>
     <string name="commonEditCategories">编辑任务</string>
-    <string name="commonStop">止End</string>
+    <string name="commonStop">止</string>
     <string name="commonType">类型</string>
-    <string name="commonIn">开始</string>
+    <string name="commonIn">打卡</string>
     <string name="commonOut">结束</string>
     <string name="commonDay">日</string>
     <string name="commonWeek">周</string>
@@ -75,7 +75,7 @@
     <string name="buttonChange">修改</string>
     <string name="buttonClose">关闭</string>
     <string name="buttonSave">保存</string>
-    <string name="buttonResetText">重设Reset</string>
+    <string name="buttonResetText">重设</string>
     <string name="buttonSwitchTask">切换任务</string>
 
     <string name="headerDate">日期</string>
@@ -93,20 +93,20 @@
     <string name="confirmDeleteEntry">删除这个记录?</string>
     <string name="confirmDeleteDay">删除这一天的全部记录?</string>
     <string name="checkboxIncludeDayNotes">包括日记</string>
-    <string name="confirmUpdateAdjacent">同时更新临近的记录adjacent stamp?</string>
+    <string name="confirmUpdateAdjacent">同时更新临近的记录</string>
     
     <string name="prefsExportRecipient">默认接收邮箱</string>
     <string name="prefsExpCsvDataSeparator">分隔符</string>
-    <string name="prefsTotalFormat">显示统计如Show totals as</string>
+    <string name="prefsTotalFormat">显示统计如</string>
     <string name="prefsTimeFormat">时间格式</string>
     <string name="prefsDateFormat">日期格式</string>
     <string name="prefsFirstDayOfWeek">周的第一天</string>
     <string name="prefsFirstDayOfMonth">月的第一天(1-31)</string>
     <string name="prefsAmountCurrencyString">货币符号/小数点</string>
-    <string name="prefsDailyTargetTime">日目标时长Daily target time</string>
+    <string name="prefsDailyTargetTime">日目标时长</string>
     <string name="prefsTimePickerIncrement">设置时间时的最小间隔</string>
 	<string name="prefsShortTab4">日期和时间</string>
-	<string name="prefsShortTracking">记录Tracking</string>
+	<string name="prefsShortTracking">记录</string>
 	<string name="prefsGroupInterface">界面</string>
 	<string name="prefsWeekdayTargetTime">单独设置日目标时长</string>
     <string name="prefsGroupFormatOptions">设置格式</string>
@@ -115,11 +115,11 @@
     <string name="hintWeeklyTargetTime">\u2192示例: \'38.75\'. 若不设置请清空</string>
 	<string name="prefsDefaultCategory">默认任务</string>
 	<string name="prefsKeepPrevCategory">继续休息前的任务</string>
-	<string name="prefsExpDecimalSep">十进制分隔符Decimal separator</string>
+	<string name="prefsExpDecimalSep">十进制分隔符</string>
 	<string name="prefsCollapseCheckBtn">合并\'开始打卡/结束打卡\'键 </string>
 	<string name="prefsHintRestartRequired">\u2192这些设置修改后需要重启软件</string>
 	<string name="prefsHintPleaseRestart">\u2192请重启本软件</string>
-	<string name="prefsGridViewFont">字体大小Font size</string>
+	<string name="prefsGridViewFont">字体大小</string>
 	<string name="prefsWidgetClickAction">点击桌面插件的操作</string>
 	<string name="prefsDomWidgetActionOpen">打开软件</string>
 	<string name="prefsDomWidgetActionPunch">计时</string>
@@ -135,14 +135,14 @@
 	<string name="prefsProOnlyFeature">\u2192仅限\"Pro版\"</string>
 	<string name="prefsPunchRoundTaskSwitch">Also apply on \'Switch task\'</string>
 	<string name="prefsCalendarSyncGroup">同步到Google calendar</string>
-	<string name="prefsHomescreenBtSmall">Small buttons on homescreen</string>
+	<string name="prefsHomescreenBtSmall">显示小按键以增加工作区空间</string>
 
 	<string name="calSyncCalendarName">日历名称</string>
 	<string name="calSyncHints2">\u2192仅单向同步</string>
-	<string name="calSyncWriteDelay">Write delay (seconds/minutes) after changes</string>
+	<string name="calSyncWriteDelay">修改后X秒/分钟同步修改</string>
 	<string name="calSyncForStamps">将记录同步为\'事件\'</string>
 	<string name="calSyncForDayNotes">同步日记为\'全天事件\'</string>
-	<string name="calSyncShowConfirmation">同步后显示确认选项Show confirmation after sync</string>
+	<string name="calSyncShowConfirmation">同步后显示确认选项</string>
 	<string name="calSyncEventTitleLabel">事件标题</string>
 	<string name="calSyncEventTitleHint">\u2192记号: $1=任务, $2=合计, $3=时间起/止, $6=客户.查看在线帮助</string>
 	<string name="calSyncCheckSettings">点击检查\'{1}\'设置</string>
@@ -153,14 +153,14 @@
 	
     <string name="stdStampTitle">间歇&amp;工作单元</string>
     <string name="stdStampTypeBlockShort">工作单元</string>
-    <string name="stdStampTypeBlockLong">工作单元Work unit</string>
+    <string name="stdStampTypeBlockLong">工作单元</string>
     <string name="stdStampTypeBreakNow">开始休息</string>
     <string name="stdStampBreakForLastMI">之前的{1}分钟</string>
     <string name="stdStampBreakForNextMI">接下来的{1}分钟</string>
     <string name="stdStampsBreakNowItems">\'{1}\'的休息时间</string>
     
     <string name="autoBreakTitle">自动间歇</string>
-    <string name="autoBreakBookWhen">当</string>
+    <string name="autoBreakBookWhen">开始</string>
     <string name="autoBreakDomFirst">激活，一个自动间歇</string>
     <string name="autoBreakDomAll">激活，多个自动间歇</string>
     
@@ -278,10 +278,10 @@
 
     <string name="errorTimeslotNotFree">已存在\'{1}\'的记录</string>
     <string name="errorCannotStartNewTask">{1}已打卡，无法开始新任务</string>
-    <string name="errorSdCardAccess">SD卡读取错误 Card access error</string>
-    <string name="errorSdCardWrite">SD卡写入错误 Card write error</string>
+    <string name="errorSdCardAccess">SD卡读取错误</string>
+    <string name="errorSdCardWrite">SD卡写入错误</string>
     <string name="errorCalSyncFailed">日历同步失败</string>
-    <string name="errorCloudAccessFailed">{1}读取失败access failed</string>
+    <string name="errorCloudAccessFailed">{1}读取失败</string>
 
     <string name="aboutPublicServices">Public App services</string> 
     <string name="aboutPro">Pro</string>
@@ -326,7 +326,7 @@
 	<string name="dstorSwitch">使用{1}(不移动数据)</string>
 	<string name="dstorSwitchDone">现在数据存储在{1}</string>
 	<string name="dstorConfirmMigration">确认移动数据到手机？这将会提高软件运行稳定性。</string>
-	<string name="dstorWarning">注意:小心使用。请参阅FAQ。</string>
+	<string name="dstorWarning">注意:小心使用。请参阅常见问题。</string>
 	<string name="dstorRestoreLocalBck">从本地备份恢复</string>
 	<string name="dstorFileNotFound">未发现\'{1}\'文件</string>
 	<string name="dstorCannotProcess">无法处理</string>
@@ -404,7 +404,7 @@
 	<string name="widgetPrefNotifBarText">通知栏文字</string>
 	<string name="widgetPrefNotifBarHint">\u2192记号:$1=打卡时间, $2=合计, $3=任务</string>
 	<string name="widgetPrefHintRefresh">\u2192刷新频率越高越耗电！</string>
-	<string name="widgetPrefKeepRunning">保持后台运行。</string>
+	<string name="widgetPrefKeepRunning">保持后台运行</string>
 	<string name="widgetPrefHintKeepRunning">\u2192若桌面插件经常不更新时间，请勾选！</string>
 
 	<!-- copy days -->
@@ -429,6 +429,7 @@
 	<string name="prefsActualDateDisplay">在设置时间时显示生效日期</string>
 	<string name="prefsStopRunningWorkdayLabel">如果忘记取消打卡，请于以下时间结束计时:</string>
 	<string name="prefsStopRunningWorkdayHint">\u2192 如果你是轮班制,请不要修改设置</string>
+	 <string name="prefsActualDateBreakAlert">\u2192 This will break the Time Picker on some devices. Click here to check. Note you can also use \'Menu\' on that dialog.</string> 
 
 	<string name="prefsActualDateShowAlways">总是</string>
 	<string name="prefsActualDateShowCrossMn">如果超过0点</string>
@@ -467,7 +468,7 @@
 	<string name="calSyncCalendarTypeShared">不限于本软件使用</string>
 	
 	<string name="helpInfo">帮助</string>
-    <string name="helpFAQ">FAQ</string>
+    <string name="helpFAQ">常见问题</string>
 	<string name="helpWhatsNew">更新日志</string>
 	<string name="prefsMinimumBreak">最小间歇时间</string>
 	<string name="prefsShowIsoWeekNr">显示国际标准周编号</string>
@@ -523,7 +524,7 @@
     <string name="prefsBackupAndRestore">备份&amp; 恢复</string>
     
     <!-- 4.05 -->
-    <string name="commonBreakOver">休息结束的</string>
+    <string name="commonBreakOver">休息结束</string>
     <string name="commonTargetReached">目标完成</string>
     <string name="timeReachedAlarmSettings">设置\'{1}\'提醒</string>
     <string name="timeReachedNotification">{2}{1}</string> <!--示例:"目标将完成于17:45"-->
@@ -555,7 +556,7 @@
     <string name="commonSyncTitle">在标题栏同步显示修改</string>
     
     <!-- 4.10 -->
-    <string name="paidOt2Factor">Factor</string>
+    <string name="paidOt2Factor">倍数</string>
     <string name="commonRateButton">评分</string> <!-- "Please rate the app" -->
     
     <!-- 4.11 -->
@@ -563,12 +564,12 @@
 	<string name="edtoolsGeoLocation">添加地理位置</string>
     
 	<!-- 4.12 -->
-	<string name="domainMonthviewSemiM">半个月</string>
+	<string name="domainMonthviewSemiM">每15天</string>
 	<string name="prefsFirstDayOfPeriodN">第一天为{1} (1-31)</string>
-	<string name="prefsCurrentWeekOfRepPeriod">Current week of your reporting period</string>
-	<string name="prefsScrollSizeWeeks">Scrolling on \'{1}\' view</string>
-	<string name="hintAlsoSeePage">\u2192 Also see {1} on page {2}</string>
-    <string name="dailyTargetReachedInLabel">{1} to go</string>
+	<string name="prefsCurrentWeekOfRepPeriod">目前属于报告周期中的</string>
+	<string name="prefsScrollSizeWeeks">在\'{1}\'视图中滚动的间隔</string>
+	<string name="hintAlsoSeePage">\u2192同时参考{2}→{1}</string>
+    <string name="dailyTargetReachedInLabel">还剩{1}</string>
 
 	<!-- 4.13 -->
     <string name="commonUndo">撤销</string> <!-- "Undo changes" on text editor -->
@@ -576,7 +577,7 @@
     <string name="prefsAutoBackup">每x天自动备份</string>
     <string name="commonSdCard">SD卡</string>
 	<string name="commonRefreshMM">每x分钟刷新一次</string>
-	<string name="calSyncNightShift">支持夜班Support night shifts</string>
+	<string name="calSyncNightShift">支持夜班</string>
 	<string name="commonDecimal">十进制</string>
 	<string name="archiveLocation">归档文件保存在:\n\u2022 文件夹: {1}\n\u2022 文件名: {2}\n注意:不是本软件的备份.</string>
 	<string name="backupReminderTitle">备份提醒</string>
@@ -598,7 +599,7 @@
 	<string name="activityPunch">Time Recording/计时</string>
 	
 	<string name="prefsDeltaWeekOnMain">显示 \'差额\'</string>
-	<string name="workUnitDetailRep">流水账</string>
+	<string name="workUnitDetailRep">导出流水账</string>
 
 	<!-- 4.17 -->
 	<string name="commonIncremental">Incremental</string>
