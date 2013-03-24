@@ -568,8 +568,8 @@
 	<string name="prefsFirstDayOfPeriodN">第一天为{1} (1-31)</string>
 	<string name="prefsCurrentWeekOfRepPeriod">目前属于报告周期中的</string>
 	<string name="prefsScrollSizeWeeks">在\'{1}\'视图中滚动的间隔</string>
-	<string name="hintAlsoSeePage">\u2192同时参考{2}→{1}</string>
-    <string name="dailyTargetReachedInLabel">还剩{1}</string>
+	<string name="hintAlsoSeePage">\u2192同时参考{2}{1}</string>
+    <string name="dailyTargetReachedInLabel">剩余时间：{1}</string>
 
 	<!-- 4.13 -->
     <string name="commonUndo">撤销</string> <!-- "Undo changes" on text editor -->
@@ -603,5 +603,14 @@
 
 	<!-- 4.17 -->
 	<string name="commonIncremental">Incremental</string>
+<!-- 4.18 -->
+	<string name="commonForceDeletion">强制删除</string>	
+	
+	<!-- 4.19 -->
+	<string name="calSyncSingleBlock">将工作单元同步为一个事件</string>
+	<string name="prefsShowButtonsLine3">显示«{1}» &amp; «{2}»</string>
+	
+	<!-- 4.19.1 -->
+	<string name="prefsRepPeriodWeeks">第{1}周</string> <!-- {1} is week number 1-4. see dropdown list on "2 weeks" or "4 weeks" reporting period settings -->
 	
 </resources>
