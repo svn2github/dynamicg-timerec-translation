@@ -53,11 +53,14 @@
     <string name="commonBreak">ブレイク</string>
     <string name="commonEnabledOption">\'{1}\'可能にする</string>
     <string name="commonActive">アクティブにする</string>
+<string name="commonSeeOnlineHelp">オンラインヘルプを見る</string>
 <string name="commonData">データ</string>
+<string name="commonFile">ファイル</string>
+<string name="commonOpenWith">前回使用した</string>
     <string name="buttonOk">OK</string>
     <string name="buttonCancel">キャンセル</string>
     <string name="buttonChange">変更</string>
-    <string name="buttonClose">クローズ</string>
+    <string name="buttonClose">閉じる</string>
     <string name="buttonSave">セーブ</string>
     <string name="buttonResetText">リセット</string>
     <string name="buttonSwitchTask">タスクの切り替え</string>
@@ -76,6 +79,7 @@
     <string name="checkboxIncludeDayNotes">ノートの追加</string>
     <string name="confirmUpdateAdjacent">隣接するスタンプの更新</string>
     <string name="prefsExportRecipient">emailの受信者のディフォルト</string>
+    <string name="prefsExpCsvDataSeparator">コラムを分ける方法</string>
     <string name="prefsTotalFormat">合計を表示</string>
     <string name="prefsTimeFormat">時間のフォーマット</string>
     <string name="prefsDateFormat">日付のフォーマット</string>
@@ -103,6 +107,12 @@
     <string name="dailyTargetReachedAtHint">\u2192 Note this will take \'Automatic breaks\' into account</string>
     <string name="sendMailIntentTitle">emailの送信</string>
     <string name="exportMailTitle">Time recording レポート</string>
+<string name="repTaskMatrix">タスクマトリックス</string>
+<string name="expTypeOverviewDays">日ごとの概要</string>
+<string name="expTypeOverviewWorkUnits">ワークユニットの概要</string>
+<string name="expTypeOverviewDayAttendance">？？？</string>
+<string name="expTypeTasksPerDay">日ごとのタスク</string>
+<string name="expPreview">プレビュー</string>
     <string name="domainSepComma">カンマ [,]</string>
     <string name="domainSepSemicolon">セミコロン [;]</string>
     <string name="domainSepPipe">Pipe [|]</string>
@@ -146,6 +156,7 @@
     <string name="catExpImpFromCloud">からインポート</string>
     <string name="hintClickToChange">クリックして変更</string>
     <string name="hintClickIconToEdit">アイコンをクリックしてノートを編集</string>
+    <string name="hintNoStampsClickToAdd">この日のエントリーはありませんでした。\nOpen Menu 又はここをクリックして追加</string>
     <string name="hintZeroOutToDisable">無効にするため\'00:00\にセットする</string>
     <string name="hintAmountRounding">Roundingについての注意：小計と合計はそれぞれroundingされるので、必ずしも数字は一致しない</string>
     <string name="hintRateOverride">タスク毎にレートは上書きできる</string>
@@ -163,6 +174,7 @@
     <string name="bckArchiveTitle">アーカイブ作成</string>
     <string name="bckSwitchToArchive">アーカイブされたデータの参照</string>
     <string name="bckSwitchToLive">ライブデータへ戻す</string>
+    <string name="bckArchiveDataOlderThan">データのアーカイブ&gt; {1} ヶ月</string>
     <string name="widgetAppTitle2">レコーディング</string>
     <string name="stdCommentTitle">標準ノート</string>
     <string name="stdCommentSelect">標準ノートの選択</string>
@@ -179,9 +191,12 @@
     <string name="brprefsFileSelection">アプリの設定を {1}時点に復元</string>
     <string name="brprefsBackupAction">SDカードにアプリの設定のバックアップをとる</string>
     <string name="brprefsBackupFileExists">バックアップファイルは存在するが、上書きしますか？</string>
+<string name="commonWidget">ウィジェット</string>
+<string name="commonNotificatioBar">表示バー</string>
     <string name="helpFAQ">FAQ</string>
     <string name="prefsMonthlyTargetTime">月次目標時間</string>
     <string name="prefsTimeZoneLock">タイムゾーンのロック</string>
+    <string name="calSyncActiveOnCheckin">チェックインのシンクロナイズ</string>
     <string name="commonAppRequired">アプリがありません。</string>
     <string name="commonUpdateCurrentTask">現在のワークユニットのタスクを更新する</string>
     <string name="commonResetSettings">ディフォルト設定に戻す</string>
@@ -200,7 +215,9 @@
     <string name="prefsThemeDark">ダーク</string>
     <string name="commonBasicSettings">基本設定</string>
     <string name="autoBreakSkipWhenOff">設定した時間外ならスキップ</string>
+<string name="commonWorktimeOverview">ワークタイム</string>
     <string name="prefsReportingPeriod">レポート期間</string>
+    <string name="prefsBackupAndRestore">バックアップと復元</string>
     <string name="commonBreakOver">ブレイクの終了</string>
     <string name="commonTargetReached">目標達成</string>
     <string name="timeReachedAlarmSettings">\'{1}\' アラーム設定</string>
@@ -223,6 +240,7 @@
     <string name="commonRateButton">レート</string>
     <string name="commonExtras">エキストラ</string>
     <string name="commonUndo">やり直し</string>
+    <string name="prefsStayOnPreviousDay">開いていた場合、前日を開示</string>
     <string name="prefsAutoBackup">自動バックアップ （x日毎）</string>
     <string name="commonSdCard">SD カード</string>
 </resources>
