@@ -62,7 +62,7 @@
     <string name="commonEnabledOption">\'{1}\'可能にする</string>
     <string name="commonActive">アクティブにする</string>
     <string name="commonActionEdit">編集 «{1}»</string>
-<string name="commonSeeOnlineHelp">オンラインヘルプを見る</string>
+<string name="commonSeeOnlineHelp">\u2192 オンラインヘルプを見る</string>
 <string name="commonData">データ</string>
 <string name="commonFile">ファイル</string>
 <string name="commonOpenWith">を使用して開く</string>
@@ -263,9 +263,9 @@
     <string name="catExpImpExport">エクスポート</string>
     <string name="catExpImpImport">インポート</string>
     <string name="catExpImpToSD">SDカードへエクスポート</string>
-    <string name="catExpImpToCloud">へエクスポート</string>
+    <string name="catExpImpToCloud">へエクスポート {1}</string>
     <string name="catExpImpFromSD">SDカードからインポート</string>
-    <string name="catExpImpFromCloud">からインポート</string>
+    <string name="catExpImpFromCloud">からインポート {1}</string>
     <string name="hintClickToChange">クリックして変更</string>
     <string name="hintClickIconToEdit">アイコンをクリックしてノートを編集</string>
     <string name="hintNoStampsClickToAdd">この日のエントリーはありませんでした。\nOpen Menu 又はここをクリックして追加</string>
