@@ -1,5 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+	<!-- internal - do not translate -->
+    <string name="appUserLabel">DynamicG App User</string>
+    <string name="languageFlag">0</string>
+    <string name="googleSitesLanguage">en</string>
+    <string name="i18nCompatibility">0</string>
+    
+	<!-- labels -->
     <string name="app_name">Time Recording</string>
     <string name="app_name_pro">Time Recording Pro</string>
     <string name="homescreenCheckinNow">今すぐチェックイン</string>
@@ -7,29 +15,29 @@
     <string name="homescreenAddBreak">ブレイクの追加</string>
     <string name="homescreenAddStamp">スタンプの追加</string>
     <string name="menuEditStampsShort">スタンプの編集</string>
-    <string name="menuPreferences">お気に入り</string>
+    <string name="menuPreferences">ユーザー設定</string>
     <string name="menuAdmin">アドミン</string>
     <string name="menuAddStandardEntry">ブレイク/ユニットの追加</string>
     <string name="menuMore">追加</string>
     <string name="commonDays">日</string>
     <string name="commonEdit">編集</string>
     <string name="commonError">エラー</string>
-    <string name="commonYes">Yes</string>
-    <string name="commonNo">No</string>
+    <string name="commonYes">はい</string>
+    <string name="commonNo">いいえ</string>
     <string name="commonTitleCheckIn">チェックイン</string>
     <string name="commonTitleCheckOut">チェックアウト</string>
     <string name="commonActionAddCheckIn">チェックイン追加</string>
     <string name="commonActionAddCheckOut">チェックアウト追加</string>
     <string name="commonSample">サンプル</string>
-    <string name="commonDataExport">レポート</string>
+    <string name="commonDataExport">データエクスポート</string>
     <string name="commonReportsAndExport">レポート・データの出力</string>
     <string name="commonCategories">タスク</string>
     <string name="commonHourlyRate">時給</string>
     <string name="commonEditCategories">タスクの編集</string>
     <string name="commonStop">終了</string>
     <string name="commonType">タイプ</string>
-    <string name="commonIn">In</string>
-    <string name="commonOut">Out</string>
+    <string name="commonIn">イン</string>
+    <string name="commonOut">アウト</string>
     <string name="commonDay">日</string>
     <string name="commonWeek">週</string>
     <string name="commonMonth">月</string>
@@ -53,10 +61,13 @@
     <string name="commonBreak">ブレイク</string>
     <string name="commonEnabledOption">\'{1}\'可能にする</string>
     <string name="commonActive">アクティブにする</string>
+    <string name="commonActionEdit">編集 «{1}»</string>
 <string name="commonSeeOnlineHelp">オンラインヘルプを見る</string>
 <string name="commonData">データ</string>
 <string name="commonFile">ファイル</string>
-<string name="commonOpenWith">前回使用した</string>
+<string name="commonOpenWith">を使用して開く</string>
+	<string name="commonPreviouslyUsed">前回使用した</string>
+	
     <string name="buttonOk">OK</string>
     <string name="buttonCancel">キャンセル</string>
     <string name="buttonChange">変更</string>
@@ -72,47 +83,137 @@
     <string name="headerAmountShort">合計</string>
     <string name="headerNoteDay">ノート</string>
     <string name="headerNoteWorkUnit">ノート</string>
-    <string name="headerDelta">差分</string>
+    <string name="headerDelta">差分</string>    
     <string name="editSetNewTime">新たな時間設定</string>
     <string name="confirmDeleteEntry">このスタンプの削除？</string>
     <string name="confirmDeleteDay">この日の入力を消去？</string>
     <string name="checkboxIncludeDayNotes">ノートの追加</string>
     <string name="confirmUpdateAdjacent">隣接するスタンプの更新</string>
-    <string name="prefsExportRecipient">emailの受信者のディフォルト</string>
+    <string name="prefsExportRecipient">emailの受信者のデフォルト</string>
     <string name="prefsExpCsvDataSeparator">コラムを分ける方法</string>
     <string name="prefsTotalFormat">合計を表示</string>
     <string name="prefsTimeFormat">時間のフォーマット</string>
     <string name="prefsDateFormat">日付のフォーマット</string>
     <string name="prefsFirstDayOfWeek">週の始めり</string>
     <string name="prefsFirstDayOfMonth">月の始まり(1-31)</string>
+    <string name="prefsAmountCurrencyString">金額/通貨 表記</string>
     <string name="prefsDailyTargetTime">1日の目標時間</string>
+    <string name="prefsTimePickerIncrement">«タイムピッカー» 分の増加</string>
+	<string name="prefsShortTab4">データ、時間</string>
+	<string name="prefsShortTracking">トラッキング</string>
+	<string name="prefsGroupInterface">インターフェイス</string>
+	<string name="prefsWeekdayTargetTime">日ごとに目標時間を上書きする</string>
     <string name="prefsGroupFormatOptions">フォーマットオプション</string>
     <string name="prefsGroupCalendar">カレンダー</string>
     <string name="prefsWeeklyTargetTime">1週間の目標時間</string>
+    <string name="hintWeeklyTargetTime">\u2192 例: \'38.75\'. 無効にするにはクリアしてください.</string>
+	<string name="prefsDefaultCategory">デフォルトタスク</string>
+	<string name="prefsKeepPrevCategory">ブレイク後も選択されたタスクを保持</string>
+	<string name="prefsExpDecimalSep">小数点表記</string>
+	<string name="prefsCollapseCheckBtn"> \'チェックイン/チェックアウト\' ボタンの統合</string>
+	<string name="prefsHintRestartRequired">\u2192 設定の効力を発生するには、アプリを再起動してください</string>
+	<string name="prefsHintPleaseRestart">\u2192 アプリを再起動してください</string>
+	<string name="prefsGridViewFont">フォントサイズ</string>
+	<string name="prefsWidgetClickAction">ウィジェットクリックアクション</string>
+	<string name="prefsDomWidgetActionOpen">アプリを開く</string>
+	<string name="prefsDomWidgetActionPunch">パンチタイム</string>
+	<string name="prefsDomWidgetActionMixed">アイコン=パンチ, テキスト=開く</string>
+	<string name="prefsPunchNowRounding">\'punch now\'の四捨五入</string>
+	<string name="prefsPunchNowRoundingOption">四捨五入オプション</string>
+	<string name="prefsPunchNowRoundingSlot">分単位での四捨五入</string>
+	<string name="prefsDomRoundStd">四捨五入</string>
+	<string name="prefsDomRoundUp">切り上げ</string>
+	<string name="prefsDomRoundDown">切り下げ</string>
+	<string name="prefsDomRoundInUpOutDown">チェックイン=切り上げ, チェックアウト=切り下げ</string>
+	<string name="prefsDomRoundInDownOutUp">チェックイン=切り下げ, チェックアウト=切り上げ</string>
+	<string name="prefsProOnlyFeature">\u2192 こちらは \"Proバージョン用\" 仕様</string>
+	<string name="prefsPunchRoundTaskSwitch"> «タスクの切り替え»にも適用</string>
+	<string name="prefsCalendarSyncGroup">Google カレンダーへのシンク</string>
+	
+	<!-- when you tick that and restart the app, the buttons should be smaller than before, i.e. more space is available for the "body" -->
+	<string name="prefsHomescreenBtSmall">ホーム画面での小さいボタン</string>
+	
+	<string name="calSyncCalendarName">カレンダー名</string>
+	<string name="calSyncHints2">\u2192 一方向のシンクしかサポートしていません</string>
+	
+	<!-- for calendar sync - how long should the system wait before syncing data from my app to calendar when the user has changed something -->
+	<string name="calSyncWriteDelay">変更後ディレイを記入 (秒/分)</string>
+	
+	<string name="calSyncForStamps">スタンプを \'イベント\'としてシンク</string>
+	<string name="calSyncForDayNotes">デイノートを \'前日イベントとして\'シンク</string>
+	<string name="calSyncShowConfirmation">シンク完了後に確認</string>
+	<string name="calSyncEventTitleLabel">イベントタイトル</string>
+	<string name="calSyncEventTitleHint">\u2192 印: $1=タスク, $2=合計, $3=時間 から/まで, $6=クライアント. See help.</string>
+	<string name="calSyncCheckSettings"> «{1}» の設定を確認するにはここをクリックしてください.</string>
+	<string name="marketAppMissing">追加アプリが必要です. «ダウンロードはこちらから»</string>
+	<string name="marketPluginMissing">プラグインが必要. «ダウンロードはこちらから»</string>
+	<string name="calSyncInvalidCalendarTitle">カレンダー名が設定されていないか、無効です</string>
+	
+	<!-- WHERE: when you put in an invalid calendar account name in the "Calendar Sync Settings" on preferences page 1: -->
+	<string name="commonLookupHint">\u2192 ヒント: [\u2026] lookupを使用してください</string>
+	
+    <string name="stdStampTitle">ブレイク &amp; ワークユニット</string>
     <string name="stdStampTypeBlockShort">ユニット</string>
     <string name="stdStampTypeBlockLong">ワークユニット</string>
     <string name="stdStampTypeBreakNow">今すぐブレイク</string>
     <string name="stdStampBreakForLastMI">最後の {1}分間の</string>
     <string name="stdStampBreakForNextMI">次の {1}分間の</string>
-    <string name="stdStampsBreakNowItems">Entries for \'{1}\'</string>
+    <string name="stdStampsBreakNowItems">\'{1}\'のエントリー</string>
     <string name="autoBreakTitle">自動ブレイク</string>
     <string name="autoBreakBookWhen">いつ</string>
-    <string name="autoBreakDomFirst">Active, single break</string>
-    <string name="autoBreakDomAll">Active, multiple breaks</string>
+    <string name="autoBreakDomFirst">アクティブ, 単数ブレイク</string>
+    <string name="autoBreakDomAll">アクティブ, 複数ブレイク</string>
     <string name="dailyTargetOptionTitle">目標時間オプション</string>
     <string name="dailyTargetOptTurnOff">取り消す</string>
     <string name="dailyTargetOptOvertime">オーバータイムとしてつける</string>
-    <string name="dailyTargetReachedAtLabel">Target reached at {1}</string>
-    <string name="dailyTargetReachedAtPref">Show \'Target reached at\'</string>
-    <string name="dailyTargetReachedAtHint">\u2192 Note this will take \'Automatic breaks\' into account</string>
+    <string name="dailyTargetReachedAtLabel">達成目標 {1}</string>
+    <string name="dailyTargetReachedAtPref">\'達成目標\'を見せる</string>
+    <string name="dailyTargetReachedAtHint">\u2192 注意：これは\'自動ブレイク\' を考慮する</string>
     <string name="sendMailIntentTitle">emailの送信</string>
     <string name="exportMailTitle">Time recording レポート</string>
+    <string name="exportMailBody">{title}\ncreated on {2}</string>
+    
+    <!-- refers to Excel import of the CSV produced by my app - that message is in the body of the email when sending a CSV report and tries to say "if import is scrambled and everything is packed into one single field, then please go to my app's export settings and try changing the item called "Column Separator" there" -->
+    <string name="exportColumnSeparatorHint">Hint: change the \'Column separator\' on the export settings if the data is imported as one single column</string>
+<string name="expTypeTaskMatrix">タスクマトリックス</string>
 <string name="repTaskMatrix">タスクマトリックス</string>
+	<string name="expPrefsDataInclusion">添付ファイル</string>
+	<string name="expPrefsAttachmentMimeType">添付\'MIME type\'</string>
+	
+	<!-- do not translate, used for custom "send report" app settings -->
+	<string name="expPrefsTargetIntent">目標目的の\'送信\' </string>
+	
+	<string name="expPrefsFileEncoding">File encoding</string>
+	<string name="expPrefsHideAmounts">Hide amounts</string>
+	<string name="expPrefsAmtWithCurrency">Show currency on amounts</string>
+	<string name="expPrefsDaysToShow">Show these days</string>
+	<string name="expDomDaysShowAll">all</string>
+	<string name="expDomDaysShowSt">with stamps</string>
+	<string name="expDomDaysShowStNt">with stamps or notes</string>
+	<string name="expPrefsDetailsReportActive">\'詳細\' レポート適用</string>
+	<string name="expDomNotesFilterEqual">matches</string>
+	<string name="expDomNotesFilterLike">contains</string>
+	<string name="expDomNotesFilterNotLike">doesn\'t contain</string>
+	<string name="expPrefsShowTotalLine">\'合計\'の行を表示する</string>
+	<string name="expPrefsGroupBreakDate">Group break on \'Date\'</string>
+	<string name="expPrefsCharsetCommon">Common character sets</string>
+	<string name="expPrefsCharsetFullList">全てのリスト</string>
+	<string name="expPrefsTransposeMatrix">Transpose matrix</string>
+	<string name="expPrefsFilenamePrefix">ファイル名の表示</string>
+	<string name="expPrefsE4SkipSingleTaskTotal">タスクの合計をスキップし、総計をキープする</string>
+	
 <string name="expTypeOverviewDays">日ごとの概要</string>
 <string name="expTypeOverviewWorkUnits">ワークユニットの概要</string>
-<string name="expTypeOverviewDayAttendance">？？？</string>
+<string name="expTypeOverviewDayAttendance">Day Attendanceの概要</string>
 <string name="expTypeTasksPerDay">日ごとのタスク</string>
 <string name="expPreview">プレビュー</string>
+	
+	<string name="fileDeliveryLabel">Delivery</string>
+	<string name="fileDeliveryEmail">Emailとして送信</string>
+	<string name="fileDeliveryCloud">アップロード（to） {1}</string>
+	<string name="fileDeliveryGoogleDocs">Google Docsへ送る</string>
+	<string name="fileDeliveryRestoreFromCloud">修復する（to） {1}</string>
+	
     <string name="domainSepComma">カンマ [,]</string>
     <string name="domainSepSemicolon">セミコロン [;]</string>
     <string name="domainSepPipe">Pipe [|]</string>
@@ -131,6 +232,13 @@
     <string name="domainMonthview2W">2 週間</string>
     <string name="domainMonthview4W">4 週間</string>
     <string name="domainMonthview1W">1 週間</string>
+	<string name="domainExpDataInclusionAttachment">添付ファイル</string>
+	<string name="domainExpDataInclusionPlainText">Plain body text</string>
+	<string name="domainExpDataInclusionForViewer">スタンダードビューヤ用</string>
+	<string name="domainExpFormatCSV">Excel (CSV)</string>
+	<string name="domainExpFormatHTML">ウェブページ (HTML)</string>
+	<string name="domainExpFormatXML">XML</string>
+
     <string name="dayShortSun">日</string>
     <string name="dayShortMon">月</string>
     <string name="dayShortTue">火</string>
@@ -138,12 +246,16 @@
     <string name="dayShortThu">木</string>
     <string name="dayShortFri">金</string>
     <string name="dayShortSat">土</string>
+    
     <string name="categoryNone">（タスクなし）</string>
+    <string name="categoryFilterAll">&lt;All&gt;</string>
     <string name="categoryEditHeaderHourlyRate">ソート</string>
     <string name="categoryEditHeaderSort">並び替え</string>
     <string name="categorySelectNextCategory">次のタスクの選択</string>
+    <string name="categoryHasChildrenCannotDelete">タスク選択済みです、消去してください！\'inactive\' にセットしてください.</string>
     <string name="categoryFilter">フィルター （タスク）</string>
     <string name="categoryEditLink">タスク編集</string>
+    <string name="categoryEditorHintMenu">\u2192 その他の機能についてはメニューをご覧下さい</string>
     <string name="categorySampleEntry1">クライアント1-オンサイト</string>
     <string name="categorySampleEntry2">クライアント1- リモートサポート</string>
     <string name="categorySampleEntry3">トレーニング</string>
@@ -158,8 +270,12 @@
     <string name="hintClickIconToEdit">アイコンをクリックしてノートを編集</string>
     <string name="hintNoStampsClickToAdd">この日のエントリーはありませんでした。\nOpen Menu 又はここをクリックして追加</string>
     <string name="hintZeroOutToDisable">無効にするため\'00:00\にセットする</string>
+    <string name="hintAmountPrecision">\u2192 \'$#.#\' 又は\'$#.##\' を1 又は 2桁に使用する.</string>
     <string name="hintAmountRounding">Roundingについての注意：小計と合計はそれぞれroundingされるので、必ずしも数字は一致しない</string>
     <string name="hintRateOverride">タスク毎にレートは上書きできる</string>
+	<string name="hintDbRecreateConfirmation">注意: データベースが空です。再度作成しますか？</string>
+	<string name="hintCreatingBackup">バックアップを作成中...</string>
+	<string name="hintTooMuchEntries">エントリー数が多すぎます</string>
     <string name="hintPleaseWait">しばらくお待ち下さい。</string>
     <string name="errorTimeslotNotFree">\'{1}\' への入力はすでにされている</string>
     <string name="errorCannotStartNewTask">\'{1}\' はチェック済み、新しいタスクは開始できない</string>
@@ -167,70 +283,266 @@
     <string name="errorSdCardWrite">SDカード書き込みエラー</string>
     <string name="errorCalSyncFailed">カレンダーの同期のフェイル</string>
     <string name="errorCloudAccessFailed">アクセスフェイル</string>
+
+    <string name="aboutPublicServices">Public App services</string> 
     <string name="aboutPro">プロ</string>
+	<string name="aboutAvailableHere">«{1}» はこちらでお求めいただけます</string> 
+
     <string name="bckBackupTitle">バックアップ</string>
     <string name="bckRestoreTitle">修復</string>
     <string name="bckCreateBackup">バックアップ作成</string>
     <string name="bckArchiveTitle">アーカイブ作成</string>
+    <string name="backupBody">To restore: copy attached file to SD Card (top level), open \'Preferences/Restore\', click \'Restore backup\'</string>
     <string name="bckSwitchToArchive">アーカイブされたデータの参照</string>
     <string name="bckSwitchToLive">ライブデータへ戻す</string>
     <string name="bckArchiveDataOlderThan">データのアーカイブ&gt; {1} ヶ月</string>
-    <string name="widgetAppTitle2">レコーディング</string>
+    <string name="bckArchiveHint">\u2192 ライブデータベースの容量をより小さくそして速くするため、古いデータをアーカイブへ移行してください</string>
+	<string name="errorSdCardUnavailable">SD Cardが見つかりません。バックアップ、修復、&amp; エクスポートは現在できません.</string>
+	
+	<string name="widgetAppTitle1">Time</string>
+    <string name="widgetAppTitle2">Recording</string>
     <string name="stdCommentTitle">標準ノート</string>
     <string name="stdCommentSelect">標準ノートの選択</string>
     <string name="stdCommentAppend">現在のテキストを追加</string>
     <string name="stdCommentDefaultEntry1">バケーション</string>
     <string name="stdCommentDefaultEntry2">報酬</string>
+    
     <string name="noteMassTitle">複数の日にコメントする</string>
+    <string name="noteMassIfTextExists">テキストが存在する場合</string>
     <string name="noteMassOptAppend">追加</string>
     <string name="noteMassOptReplace">上書き</string>
     <string name="noteMassOptSkip">スキップ</string>
     <string name="noteMassOnlyTheseDays">これらの日に追加</string>
     <string name="noteMassSkipEmptyDays">スタンプなしに日をスキップする</string>
+    
+	<string name="dstorMainTitle">データ管理</string>
+	<string name="dstorDataStorage">データ容量管理</string>
+	<string name="dstorTargetPhone">電話</string>
+	<string name="dstorTargetSdCard">SD Card</string>
+	<string name="dstorCurrent">データは現在{1}に保存されている.</string>
+	<string name="dstorMoveTo">データを{1}に移動</string>
+	<string name="dstorImport">バックアップを修復する</string>
+	<string name="dstorImportDone">{1}よりインポート 完了, 段={2}.</string>
+	<string name="dstorSwitch">{1} を使用する(データの移動なし)</string>
+	<string name="dstorSwitchDone">データは現在{1}に保存されている</string>
+	<string name="dstorConfirmMigration">電話端末にデータを移動しますか? こちらを選択すると、安定感は増します.</string>
+	<string name="dstorWarning">注意して使用して下さい. FAQをご確認ください.</string>
+	<string name="dstorRestoreLocalBck">ローカルバックアップを修復する</string>
+	<string name="dstorFileNotFound">ファイル{1}が見つかりません.</string>
+	<string name="dstorCannotProcess">プロセスできません.</string>
+	<string name="dstorPreferred">電話への保存を推薦します.</string>
+	<string name="dstorSettingsBRTitle">アプリ設定</string>
+	<string name="dstorInitialRecovery">SDカード上のバックアップは消去されています。データを復旧しますか？</string>
+	<string name="dstorHintProvideBackup">No backup file found on SD Card.\nDirectory: {1}</string>
+	<string name="dstorIncludeSettings">Include settings?</string>
+	<string name="dstorMoveToSdcardWarn">Warning: Storage on SD Card is *not* recommended. You might hit USB access &amp; \'read only\' issues, or (in rare cases) deleted data files.</string>
+	
+	<string name="dstorFree2ProImportConfirmation">Import data and settings from free version?</string>
+	<string name="dstorFree2ProLiveImport">無料バージョンよりインポートする</string>
+	
+	<!-- diff sync marker A -->
+	<string name="pdotMainTitle">超過時間の支払い</string>
+	<string name="pdotOvertimeRate">時間毎レートサーチャージ</string>
+	<string name="pdotBasedOn">超過時間単位</string>
+	<string name="pdotCalculatePer">計算を適用する</string>
+	<string name="pdotShowDetails">レポート上の詳細を表示</string>
+	<string name="pdotDomainFullRep">フルレポート</string>
+	
+	<!-- this tries to explain that the user should set "8" as Bonus Amount if his regular hourly rate is 16 and extra payment for overtime is 50% (or "1.5 times") -->
+	<string name="pdotRateHint">\u2192 サンプル: 通常レートが$16で、超過時間の支払いがx1.5の倍、\'8\'へセットする（24-16=8のため）</string>
+	
+	<string name="pdotMainHint">\u2192 \'月\' ビューでのみ表示. \'日\' 又は \'週\' の目標時間の設定が必要.</string>
+	
+	<string name="sdcardErrorReboot">\u2022 電話やデバイスを再起動してください.\n\u2022 問題が解決しない場合、開発者にご連絡ください.</string>
+	<string name="sdcardErrorReadonly">SDカードは読み取り専用です.</string>
+	<string name="sdcardErrorShared">SDカードはUSBにアクセスされているためブロックされています. USB接続を解除して、再度お試しください.</string>
+
     <string name="brprefsRestoreAction">アプリの設定の復元</string>
     <string name="brprefsFileSelection">アプリの設定を {1}時点に復元</string>
     <string name="brprefsBackupAction">SDカードにアプリの設定のバックアップをとる</string>
     <string name="brprefsBackupFileExists">バックアップファイルは存在するが、上書きしますか？</string>
+    
+    <!-- internal admin - alternatively use "データベースの再編" -->
+	<string name="admRebuildIndexes">インデックスの再作成</string>
+	
+	<string name="admDeleteOldLabel">古いデータの消去</string>
+	<string name="admDeleteOldHint">削除する日にちを選択する</string>
+	<string name="admDeleteOldBody">{1}までのデータを消去しますか?\n一度消去すると、元には戻せません.</string>
+	<string name="admDeleteAll">全データの消去</string>
+	
+	<!-- do not translate -->
+	<string name="pubsIssue">{1} issue</string>
+	
+	<string name="pubsCheckinDone">チェックイン完了</string>
+	<string name="pubsCheckoutDone">チェックアウト完了</string>
+	<string name="pubsAlreadyCheckedIn">チェックイン完了済み</string>
+	<string name="pubsAlreadyCheckedOut">チェックアウト完了済み</string>
+	<string name="pubsPriorCheckoutMissing">Prior check-in missing</string>
+	
+	<string name="catExtExportDone">エクスポート完了, ファイルはこちら:\n{1}</string>
+	<string name="catExtFileMissing">インポートファイルは見つかりませんでした. テンプレートの作成には\"エクスポート\" をご使用ください.</string>
+	<string name="catExtImpConfirm1">\u2192 存在しています {1} タスクは消去されます!</string>
+	<string name="catExtImpConfirm2">\u2192 使用されているタスクのIDを消去しないようにご注意ください!</string>
+	<string name="commonCannotUndo">\u2192 \'復旧\'をしない限り、このアクションを元に戻すことはできません</string>
+	<string name="catExtImpConfirm4">\u2022 ファイル: {1}</string>
+	<string name="catExtImpConfirm5">\u2022 インポートするタスク数: {1}</string>
+	<string name="catExtNothingToImport">インポートするものが見つかりません。ファイルは空ですか?</string>
+	
+	<string name="err21">エラー: データベースは読み取り専用です</string>	
+	<string name="err22">エラー: SDカードの容量はフルです</string>
+	<string name="err25">エラー: バックアップは失敗しました</string>
+	<string name="errFaqHint">オンラインヘルプを参照するにはここをクリック: «ERROR {1}»</string>
+	
+	<string name="proReminderMktButton">Google Play</string>
+
 <string name="commonWidget">ウィジェット</string>
 <string name="commonNotificatioBar">表示バー</string>
+	<string name="widgetAppTitleShort">TR</string>
+	<string name="widgetTitleFrame">Time Recording (Frame)</string>
+	<string name="widgetTitleGloss">Time Recording (Gloss)</string>
+	<string name="widgetTitleSlider">Time Recording (Slider)</string>
+	<string name="widgetTitleFramePro">Time Recording Pro (Frame)</string>
+	<string name="widgetTitleGlossPro">Time Recording Pro (Gloss)</string>
+	<string name="widgetTitleSliderPro">Time Recording Pro (Slider)</string>
+	<string name="widgetPrefNotifBarActive">チェックイン時のステータスバー表示</string>
+	<string name="widgetPrefNotifBarText">表示テキスト</string>
+	<string name="widgetPrefNotifBarHint">\u2192 プレースホルダー: $1=チェックインタイム, $2=合計, $3=タスク</string>
+	<string name="widgetPrefHintRefresh">\u2192 早めの更新をすれば、バッテリーの使用が増えます！</string>
+	<string name="widgetPrefKeepRunning">裏で常に起動する</string>
+	<string name="widgetPrefHintKeepRunning">\u2192 ウェジットが定期的に更新されない場合はチェック</string>
+
+	<!-- copy days -->
+	<string name="copyDaysTitle">日にちのコピー</string>
+	<string name="copyDaysSourceRange">コピーする日にちの範囲</string>
+	<string name="copyDaysToLabel">ここへコピー</string>
+	<string name="copyDaysToStart">この日に開始</string>
+	<string name="copyDaysOverwrite">データが存在すれば上書きする</string>
+	<string name="copyDaysDone">\u2192 {1} 日コピー完了</string>
+
+	<!-- v3.01 -->
+	<string name="commonSwitchedTo">\u2192 {1}へ切り替え完了</string>
+	<string name="commonWorkDay">ワークデイ</string>
+	<string name="commonMigrationWorking">データの移行中...</string>
+	<string name="commonStampValidDate">実行日</string>
+	<string name="actualDateSelectionTitle">実行日の変更</string>
+	
+	<!-- long format: "only use the second option (or "selection item") if you are working across midnight (e.g. starting at 14:00 and working until 02:00 the next day)" -->
+	<string name="actualDateSelectionHint">\u2192 二つ目のオプションは深夜を超えてワークされる場合のみ使用してください</string>
+	
+	<string name="actualDateSwitchWorkdayLabel">\u2192 次のワークデイに切り替える場合は、ここをクリック.</string>
+
+	<string name="prefsWorkLateGroup">\'ワークレイト\' オプション</string>
+	<string name="workLatePrefsHint">\u2192 {1} はユーザー設定4ページ目でご確認ください.</string>
+	<string name="prefsActualDateDisplay">タイムピッカーで有効日を確認する</string>
+	<string name="prefsStopRunningWorkdayLabel">チェックアウトを忘れた場合、この時間でランニングカウンターは終了します:</string>
+	<string name="prefsStopRunningWorkdayHint">\u2192 変動シフトにてワークされる場合、こちらは使用しないでください</string>
+	<string name="prefsActualDateShowAlways">常に</string>
+	<string name="prefsActualDateShowCrossMn">深夜を超えたら</string>
+	
+	<!-- v3.02 -->
+	<string name="commonNone">無し</string>
+	<string name="edtoolsCap">デフォルト大文字設定</string>
+	<string name="edtoolsCapWords">文字</string>
+	<string name="edtoolsCapSentences">文書</string>
+	<string name="edtoolsAppend">標準ノートの追加</string>
+	<string name="widgetSdCardHint">\u2192 このアプリがSDカードに保存されている場合、ウィジェットを起動することはできません!</string>
+	
+	<string name="prefsGroupMainScreenLabel">メイン画面</string>
+	<string name="prefsGroupMainScreenRefreshHint">\u2192 この操作をすると、電池の使用量が増加します</string>
+	<string name="prefsKeepScreenOn">画面をオンにする</string>
+	
+	<string name="expPrefsShowEmailOnHTML">HTMLのエクスポートをする場合、emailアドレスを見せる</string>
+	
+	<!-- v3.06 -->
+	<string name="expSearchDayNotes">デイノートのフィルター</string>
+	<string name="expSearchWorkUnitNotes">ワークユニットノートのフィルター</string>
+	<string name="expPrefsAutoCloseWindow">エクスポート後にダイアログを終了する</string>
+	<string name="taskerPluginSelectAction">動作するアクションを選択する:</string>
+	<string name="commonTaskSelectionOpen">タスクセレクションを開く</string>
+	<string name="commonStartNewTask">新タスクを開始</string>
+	<string name="commonNewTaskStarted">新タスクは開始されました</string>
+	<string name="taskerPreselectedCategory">追加設定: 選択されたアクションにこのタスクを適用する:</string>
+	<string name="commonWeeklyDelta">差分 W</string>
+	<string name="commonMonthlyDelta">差分 M</string>
+	<string name="prefsHideAdsLabel">\u2022 広告</string>
+	<string name="prefsHideAdsButton">広告を消す{1}まで</string>
+	<string name="prefsHideAdsHint">\u2192 こちらは何度でも実行いただけます</string>
+	<string name="admResetAllPrefs">全ての設定をリセットする</string>
+	<string name="calSyncCalendarType">カレンダーのタイプ</string>
+	<string name="calSyncCalendarTypeExclusive">TimeRec専用</string>
+	<string name="calSyncCalendarTypeShared">他のエントリーとの共有</string>
+	
+	<string name="helpInfo">情報</string>
     <string name="helpFAQ">FAQ</string>
+	<string name="helpWhatsNew">新規情報</string>
+	<string name="prefsMinimumBreak">最小ブレイク時間</string>
+	<string name="prefsShowIsoWeekNr">ISOウィーク番号を表示</string>
+	
+	<string name="confirmDayRollOver">日を終了して延期しますか?</string>
+	<string name="prefDayRollOver">ワークが深夜を超えた場合\'その日を終了して &amp; 延期する\' </string>
+	
+	<string name="categoryEditHeaderTargetOff">目標時間の設定なし</string>
+	<string name="categoryEditHeaderUnpaid">未支払い</string>
+	<string name="categoryEditHeaderFixedAmtWorkUnit">ユニット単位の決まった時間</string>
+	<string name="categoryEditHeaderFixedAmtDay">日単位の決まった時間</string>
+	<string name="categoryEditSortRenumber">ソートの番号を再設定</string>
+	<string name="commonColumnVisibility">表示/非表示する項目</string>
+	
     <string name="prefsMonthlyTargetTime">月次目標時間</string>
     <string name="prefsTimeZoneLock">タイムゾーンのロック</string>
     <string name="calSyncActiveOnCheckin">チェックインのシンクロナイズ</string>
     <string name="commonAppRequired">アプリがありません。</string>
     <string name="commonUpdateCurrentTask">現在のワークユニットのタスクを更新する</string>
-    <string name="commonResetSettings">ディフォルト設定に戻す</string>
+    <string name="commonResetSettings">デフォルト設定に戻す</string>
     <string name="commonFlip">フリップ</string>
+    
+    <!-- 3.16 -->
     <string name="commonCustomer">クライアント</string>
     <string name="prefsCustomerFilter">フィルター（クライアント）</string>
     <string name="expPrefsShowCustomer">クライアントを示す</string>
     <string name="commonDeleteEntry">エントリーの削除</string>
     <string name="commonDeleteLine">行の削除</string>
+    
+    <!-- "Condition" as per the Tasker app where you define actions based on rules and phone state (i.e. condition) -->
     <string name="taskerPluginCondition">コンディション</string>
+    
+	<string name="commonCheckedIn">チェックイン完了</string>
+	<string name="commonCheckedOut">チェックアウト完了</string>
+	
+    <!-- 4.0x -->
     <string name="commonAddLine">行の追加</string>
     <string name="commonDeleteAllLines">全ての行の削除</string>
     <string name="commonNewTask">新たなタスク</string>
+
+    <!-- 4.04 -->
     <string name="prefsTheme">テーマ (Android 4)</string>
     <string name="prefsThemeLight">ライト</string>
     <string name="prefsThemeDark">ダーク</string>
     <string name="commonBasicSettings">基本設定</string>
     <string name="autoBreakSkipWhenOff">設定した時間外ならスキップ</string>
 <string name="commonWorktimeOverview">ワークタイム</string>
+	<string name="commonViewNoun">表示</string>
+	<string name="commonShort">Short</string>
+	<string name="expPrefsIsoDateFormat">YYYY/MM/DD</string>
     <string name="prefsReportingPeriod">レポート期間</string>
     <string name="prefsBackupAndRestore">バックアップと復元</string>
     <string name="commonBreakOver">ブレイクの終了</string>
     <string name="commonTargetReached">目標達成</string>
     <string name="timeReachedAlarmSettings">\'{1}\' アラーム設定</string>
+    <string name="timeReachedNotification">{1} at {2}</string> <!-- サンプル: "17:45に目標到達" -->
     <string name="alertNotificationSoundOnce">通知音 （1回）</string>
-    <string name="alertNotificationSoundInsistent">通知音 （1回）</string>
+    <string name="alertNotificationSoundInsistent">通知音 （繰り返し）</string>
     <string name="alertNotificationVibra">バイブレーション</string>
     <string name="worktimeExceededLabel">ワークタイムが&gt; x 時間超過したら、アラームを鳴らす</string>
     <string name="worktimeExceededNotification">日ごとのワークタイム超過</string>
+    <string name="commonThreshold">Threshold</string>
+	<string name="expTypeCustomersPerDay">日ごとのクライアント</string>
     <string name="customerNone">（クライアントなし）</string>
     <string name="cloudProviderDropbox">Dropbox</string>
     <string name="cloudProviderGoogleDrive">Google Drive</string>
+	<string name="commonOverview">Overview</string>
     <string name="commonAuto">自動</string>
-    <string name="commonSwitchView">Viewの切り替え</string>
+    <string name="commonSwitchView">表示の切り替え</string>
     <string name="commonContinueTask">タスクの続き</string>
     <string name="commonOnlineHelp">オンラインヘルプ</string>
     <string name="prefsMainAutoScroll">自動スクロール</string>
@@ -239,8 +551,37 @@
     <string name="paidOt2Factor">ファクター</string>
     <string name="commonRateButton">レート</string>
     <string name="commonExtras">エキストラ</string>
+	<string name="edtoolsGeoLocation">Add geo location</string>
+	<string name="domainMonthviewSemiM"></string>
+	<string name="prefsFirstDayOfPeriodN">期間の初日{1} (1-31)</string>
+	<string name="prefsCurrentWeekOfRepPeriod">選択期間の現在の週</string>
+	<string name="prefsScrollSizeWeeks">Scrolling on «{1}» view</string>
+	<string name="hintAlsoSeePage">\u2192 Also see {1} on page {2}</string>
+    <string name="dailyTargetReachedInLabel">{1} to go</string>
     <string name="commonUndo">やり直し</string>
     <string name="prefsStayOnPreviousDay">開いていた場合、前日を開示</string>
     <string name="prefsAutoBackup">自動バックアップ （x日毎）</string>
     <string name="commonSdCard">SD カード</string>
+	<string name="commonRefreshMM">x分ごとに更新</string>
+	<string name="calSyncNightShift">夜勤のサポート</string>
+	<string name="commonDecimal">Decimal</string>
+	<string name="archiveLocation">アーカイブファイルはこちらに保存されています:\n\u2022 フォルダ: {1}\n\u2022 ファイル名: {2}\n注意：このファイルはアプリによってバックアップされておりません.</string>
+	<string name="backupReminderTitle">バックアップのリマインダー</string>
+	<string name="backupReminderBody">定期的にバックアップを取っておいてください.</string>
+	<string name="commonDoNotShowAgain">このメッセージは表示しないでください</string>
+	<string name="commonRetry">リトライ</string>
+	<string name="expPrefsGoogleDocsConversion">Google Docsドキュメントに変換する</string>
+	<string name="commonBackupShort">バックアップ</string>
+	<string name="commonLater">後で</string>
+	<string name="commonID">ID</string>		
+	<string name="activityCheckIn">Time Recording/チェックイン</string>
+	<string name="activityCheckOut">Time Recording/チェックアウト</string>
+	<string name="activityPunch">Time Recording/パンチ</string>
+	<string name="prefsDeltaWeekOnMain">\'差分\' をメイン画面に表示する</string>
+	<string name="workUnitDetailRep">ワークログ</string>
+	<string name="commonIncremental">増加</string>
+	<string name="commonForceDeletion">強制消去</string>	
+	<string name="calSyncSingleBlock">一つのイベントとしてワークユニットをシンク</string>
+	<string name="prefsShowButtonsLine3">Show «{1}» &amp; «{2}»</string>
+	<string name="prefsRepPeriodWeeks">週{1}</string> <!-- {1} は1-4の週番号です. ドロップダウンリスクから"2週" 又は "4週の"レポート期間設定をご参照ください -->
 </resources>
