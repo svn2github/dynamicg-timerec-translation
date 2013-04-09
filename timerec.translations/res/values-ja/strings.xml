@@ -59,15 +59,15 @@
     <string name="commonCSV">csvファイル</string>
     <string name="commonDetails">詳細</string>
     <string name="commonBreak">ブレイク</string>
-    <string name="commonEnabledOption">\'{1}\'可能にする</string>
+    <string name="commonEnabledOption">\'{1}\'をアクティブにする</string>
     <string name="commonActive">アクティブにする</string>
     <string name="commonActionEdit">編集 «{1}»</string>
 <string name="commonSeeOnlineHelp">\u2192 オンラインヘルプを見る</string>
 <string name="commonData">データ</string>
 <string name="commonFile">ファイル</string>
 <string name="commonOpenWith">を使用して開く</string>
-	<string name="commonPreviouslyUsed">前回使用した</string>
-	
+	<string name="commonPreviouslyUsed">前回使用した項目</string>
+	<string name="commonAppInfo">アプリ情報</string>
     <string name="buttonOk">OK</string>
     <string name="buttonCancel">キャンセル</string>
     <string name="buttonChange">変更</string>
@@ -106,12 +106,12 @@
     <string name="prefsGroupFormatOptions">フォーマットオプション</string>
     <string name="prefsGroupCalendar">カレンダー</string>
     <string name="prefsWeeklyTargetTime">1週間の目標時間</string>
-    <string name="hintWeeklyTargetTime">\u2192 例: \'38.75\'. 無効にするにはクリアしてください.</string>
+    <string name="hintWeeklyTargetTime">\u2192 例: \'38.75\'. 無効にするにはクリアしてください。</string>
 	<string name="prefsDefaultCategory">デフォルトタスク</string>
 	<string name="prefsKeepPrevCategory">ブレイク後も選択されたタスクを保持</string>
 	<string name="prefsExpDecimalSep">小数点表記</string>
 	<string name="prefsCollapseCheckBtn"> \'チェックイン/チェックアウト\' ボタンの統合</string>
-	<string name="prefsHintRestartRequired">\u2192 設定の効力を発生するには、アプリを再起動してください</string>
+	<string name="prefsHintRestartRequired">\u2192 設定の効力を適用するには、アプリを再起動してください</string>
 	<string name="prefsHintPleaseRestart">\u2192 アプリを再起動してください</string>
 	<string name="prefsGridViewFont">フォントサイズ</string>
 	<string name="prefsWidgetClickAction">ウィジェットクリックアクション</string>
@@ -143,18 +143,18 @@
 	<string name="calSyncForDayNotes">デイノートを \'前日イベントとして\'シンク</string>
 	<string name="calSyncShowConfirmation">シンク完了後に確認</string>
 	<string name="calSyncEventTitleLabel">イベントタイトル</string>
-	<string name="calSyncEventTitleHint">\u2192 印: $1=タスク, $2=合計, $3=時間 から/まで, $6=クライアント. See help.</string>
+	<string name="calSyncEventTitleHint">\u2192 印: $1=タスク, $2=合計, $3=時間 から/まで, $6=クライアント:ヘルプをご参照ください。</string>
 	<string name="calSyncCheckSettings"> «{1}» の設定を確認するにはここをクリックしてください.</string>
-	<string name="marketAppMissing">追加アプリが必要です. «ダウンロードはこちらから»</string>
-	<string name="marketPluginMissing">プラグインが必要. «ダウンロードはこちらから»</string>
+	<string name="marketAppMissing">追加アプリが必要です。«ダウンロードはこちらから»</string>
+	<string name="marketPluginMissing">プラグインが必要。«ダウンロードはこちらから»</string>
 	<string name="calSyncInvalidCalendarTitle">カレンダー名が設定されていないか、無効です</string>
 	
 	<!-- WHERE: when you put in an invalid calendar account name in the "Calendar Sync Settings" on preferences page 1: -->
 	<string name="commonLookupHint">\u2192 ヒント: [\u2026] lookupを使用してください</string>
 	
-    <string name="stdStampTitle">ブレイク &amp; ワークユニット</string>
+    <string name="stdStampTitle">ブレイク &amp; 作業ユニット</string>
     <string name="stdStampTypeBlockShort">ユニット</string>
-    <string name="stdStampTypeBlockLong">ワークユニット</string>
+    <string name="stdStampTypeBlockLong">作業ユニット</string>
     <string name="stdStampTypeBreakNow">今すぐブレイク</string>
     <string name="stdStampBreakForLastMI">最後の {1}分間の</string>
     <string name="stdStampBreakForNextMI">次の {1}分間の</string>
@@ -186,16 +186,16 @@
 	<string name="expPrefsFileEncoding">File encoding</string>
 	<string name="expPrefsHideAmounts">Hide amounts</string>
 	<string name="expPrefsAmtWithCurrency">Show currency on amounts</string>
-	<string name="expPrefsDaysToShow">Show these days</string>
-	<string name="expDomDaysShowAll">all</string>
-	<string name="expDomDaysShowSt">with stamps</string>
-	<string name="expDomDaysShowStNt">with stamps or notes</string>
+	<string name="expPrefsDaysToShow">これらの日にちを表示する</string>
+	<string name="expDomDaysShowAll">全て</string>
+	<string name="expDomDaysShowSt">スタンプ付き</string>
+	<string name="expDomDaysShowStNt">スタンプ又はノート付き</string>
 	<string name="expPrefsDetailsReportActive">\'詳細\' レポート適用</string>
-	<string name="expDomNotesFilterEqual">matches</string>
-	<string name="expDomNotesFilterLike">contains</string>
-	<string name="expDomNotesFilterNotLike">doesn\'t contain</string>
+	<string name="expDomNotesFilterEqual">一致する</string>
+	<string name="expDomNotesFilterLike">含む</string>
+	<string name="expDomNotesFilterNotLike">含まない</string>
 	<string name="expPrefsShowTotalLine">\'合計\'の行を表示する</string>
-	<string name="expPrefsGroupBreakDate">Group break on \'Date\'</string>
+	<string name="expPrefsGroupBreakDate">ブレイクを\'日\'事にグループ化する</string>
 	<string name="expPrefsCharsetCommon">Common character sets</string>
 	<string name="expPrefsCharsetFullList">全てのリスト</string>
 	<string name="expPrefsTransposeMatrix">Transpose matrix</string>
@@ -203,7 +203,7 @@
 	<string name="expPrefsE4SkipSingleTaskTotal">タスクの合計をスキップし、総計をキープする</string>
 	
 <string name="expTypeOverviewDays">日ごとの概要</string>
-<string name="expTypeOverviewWorkUnits">ワークユニットの概要</string>
+<string name="expTypeOverviewWorkUnits">作業ユニットの概要</string>
 <string name="expTypeOverviewDayAttendance">Day Attendanceの概要</string>
 <string name="expTypeTasksPerDay">日ごとのタスク</string>
 <string name="expPreview">プレビュー</string>
@@ -252,7 +252,7 @@
     <string name="categoryEditHeaderHourlyRate">ソート</string>
     <string name="categoryEditHeaderSort">並び替え</string>
     <string name="categorySelectNextCategory">次のタスクの選択</string>
-    <string name="categoryHasChildrenCannotDelete">タスク選択済みです、消去してください！\'inactive\' にセットしてください.</string>
+    <string name="categoryHasChildrenCannotDelete">タスク選択済みです、消去してください！\'inactive\' にセットしてください。</string>
     <string name="categoryFilter">フィルター （タスク）</string>
     <string name="categoryEditLink">タスク編集</string>
     <string name="categoryEditorHintMenu">\u2192 その他の機能についてはメニューをご覧下さい</string>
@@ -263,14 +263,14 @@
     <string name="catExpImpExport">エクスポート</string>
     <string name="catExpImpImport">インポート</string>
     <string name="catExpImpToSD">SDカードへエクスポート</string>
-    <string name="catExpImpToCloud">へエクスポート {1}</string>
+    <string name="catExpImpToCloud">{1}へエクスポート</string>
     <string name="catExpImpFromSD">SDカードからインポート</string>
-    <string name="catExpImpFromCloud">からインポート {1}</string>
+    <string name="catExpImpFromCloud">{1}からインポート</string>
     <string name="hintClickToChange">クリックして変更</string>
     <string name="hintClickIconToEdit">アイコンをクリックしてノートを編集</string>
-    <string name="hintNoStampsClickToAdd">この日のエントリーはありませんでした。\nOpen Menu 又はここをクリックして追加</string>
+    <string name="hintNoStampsClickToAdd">この日のエントリーはありません。\nOpen Menu 又はここをクリックして追加</string>
     <string name="hintZeroOutToDisable">無効にするため\'00:00\にセットする</string>
-    <string name="hintAmountPrecision">\u2192 \'$#.#\' 又は\'$#.##\' を1 又は 2桁に使用する.</string>
+    <string name="hintAmountPrecision">\u2192 \'$#.#\' 又は\'$#.##\' を1 又は 2桁に使用する</string>
     <string name="hintAmountRounding">Roundingについての注意：小計と合計はそれぞれroundingされるので、必ずしも数字は一致しない</string>
     <string name="hintRateOverride">タスク毎にレートは上書きできる</string>
 	<string name="hintDbRecreateConfirmation">注意: データベースが空です。再度作成しますか？</string>
@@ -278,7 +278,7 @@
 	<string name="hintTooMuchEntries">エントリー数が多すぎます</string>
     <string name="hintPleaseWait">しばらくお待ち下さい。</string>
     <string name="errorTimeslotNotFree">\'{1}\' への入力はすでにされている</string>
-    <string name="errorCannotStartNewTask">\'{1}\' はチェック済み、新しいタスクは開始できない</string>
+    <string name="errorCannotStartNewTask">\'{1}\' はチェック済みで、新しいタスクは開始できません</string>
     <string name="errorSdCardAccess">SDカードアクセスエラー</string>
     <string name="errorSdCardWrite">SDカード書き込みエラー</string>
     <string name="errorCalSyncFailed">カレンダーの同期のフェイル</string>
@@ -297,7 +297,7 @@
     <string name="bckSwitchToLive">ライブデータへ戻す</string>
     <string name="bckArchiveDataOlderThan">データのアーカイブ&gt; {1} ヶ月</string>
     <string name="bckArchiveHint">\u2192 ライブデータベースの容量をより小さくそして速くするため、古いデータをアーカイブへ移行してください</string>
-	<string name="errorSdCardUnavailable">SD Cardが見つかりません。バックアップ、修復、&amp; エクスポートは現在できません.</string>
+	<string name="errorSdCardUnavailable">SD Cardが見つかりません。バックアップ、修復、&amp; エクスポートは現在できません。</string>
 	
 	<string name="widgetAppTitle1">Time</string>
     <string name="widgetAppTitle2">Recording</string>
@@ -319,23 +319,23 @@
 	<string name="dstorDataStorage">データ容量管理</string>
 	<string name="dstorTargetPhone">電話</string>
 	<string name="dstorTargetSdCard">SD Card</string>
-	<string name="dstorCurrent">データは現在{1}に保存されている.</string>
+	<string name="dstorCurrent">データは現在{1}に保存されている</string>
 	<string name="dstorMoveTo">データを{1}に移動</string>
 	<string name="dstorImport">バックアップを修復する</string>
-	<string name="dstorImportDone">{1}よりインポート 完了, 段={2}.</string>
+	<string name="dstorImportDone">{1}よりインポート 完了, 段={2}</string>
 	<string name="dstorSwitch">{1} を使用する(データの移動なし)</string>
 	<string name="dstorSwitchDone">データは現在{1}に保存されている</string>
-	<string name="dstorConfirmMigration">電話端末にデータを移動しますか? こちらを選択すると、安定感は増します.</string>
-	<string name="dstorWarning">注意して使用して下さい. FAQをご確認ください.</string>
+	<string name="dstorConfirmMigration">電話端末にデータを移動しますか? こちらを選択すると、安定感は増します。</string>
+	<string name="dstorWarning">注意して使用して下さい。FAQをご確認ください</string>
 	<string name="dstorRestoreLocalBck">ローカルバックアップを修復する</string>
-	<string name="dstorFileNotFound">ファイル{1}が見つかりません.</string>
-	<string name="dstorCannotProcess">プロセスできません.</string>
-	<string name="dstorPreferred">電話への保存を推薦します.</string>
+	<string name="dstorFileNotFound">ファイル{1}が見つかりません</string>
+	<string name="dstorCannotProcess">プロセスできません</string>
+	<string name="dstorPreferred">電話への保存を推薦します</string>
 	<string name="dstorSettingsBRTitle">アプリ設定</string>
 	<string name="dstorInitialRecovery">SDカード上のバックアップは消去されています。データを復旧しますか？</string>
 	<string name="dstorHintProvideBackup">No backup file found on SD Card.\nDirectory: {1}</string>
 	<string name="dstorIncludeSettings">Include settings?</string>
-	<string name="dstorMoveToSdcardWarn">Warning: Storage on SD Card is *not* recommended. You might hit USB access &amp; \'read only\' issues, or (in rare cases) deleted data files.</string>
+	<string name="dstorMoveToSdcardWarn">注意：SDカードへの保存は推薦されていません。エラーや、データが消去されることがあります。</string>
 	
 	<string name="dstorFree2ProImportConfirmation">Import data and settings from free version?</string>
 	<string name="dstorFree2ProLiveImport">無料バージョンよりインポートする</string>
@@ -349,13 +349,13 @@
 	<string name="pdotDomainFullRep">フルレポート</string>
 	
 	<!-- this tries to explain that the user should set "8" as Bonus Amount if his regular hourly rate is 16 and extra payment for overtime is 50% (or "1.5 times") -->
-	<string name="pdotRateHint">\u2192 サンプル: 通常レートが$16で、超過時間の支払いがx1.5の倍、\'8\'へセットする（24-16=8のため）</string>
+	<string name="pdotRateHint">\u2192 サンプル: 通常レートが$16で、超過時間の支払いがx1.5の場合、\'8\'へセットする（24-16=8のため）</string>
 	
-	<string name="pdotMainHint">\u2192 \'月\' ビューでのみ表示. \'日\' 又は \'週\' の目標時間の設定が必要.</string>
+	<string name="pdotMainHint">\u2192 \'月\' ビューでのみ表示。\'日\' 又は \'週\' の目標時間の設定が必要。</string>
 	
-	<string name="sdcardErrorReboot">\u2022 電話やデバイスを再起動してください.\n\u2022 問題が解決しない場合、開発者にご連絡ください.</string>
-	<string name="sdcardErrorReadonly">SDカードは読み取り専用です.</string>
-	<string name="sdcardErrorShared">SDカードはUSBにアクセスされているためブロックされています. USB接続を解除して、再度お試しください.</string>
+	<string name="sdcardErrorReboot">\u2022 電話やデバイスを再起動してください。\n\u2022 問題が解決しない場合、開発者にご連絡ください。</string>
+	<string name="sdcardErrorReadonly">SDカードは読み取り専用です</string>
+	<string name="sdcardErrorShared">SDカードはUSBにアクセスされているためブロックされています。USB接続を解除して、再度お試しください。</string>
 
     <string name="brprefsRestoreAction">アプリの設定の復元</string>
     <string name="brprefsFileSelection">アプリの設定を {1}時点に復元</string>
@@ -367,7 +367,7 @@
 	
 	<string name="admDeleteOldLabel">古いデータの消去</string>
 	<string name="admDeleteOldHint">削除する日にちを選択する</string>
-	<string name="admDeleteOldBody">{1}までのデータを消去しますか?\n一度消去すると、元には戻せません.</string>
+	<string name="admDeleteOldBody">{1}までのデータを消去しますか?\n一度消去すると、元には戻せません。</string>
 	<string name="admDeleteAll">全データの消去</string>
 	
 	<!-- do not translate -->
@@ -380,7 +380,7 @@
 	<string name="pubsPriorCheckoutMissing">Prior check-in missing</string>
 	
 	<string name="catExtExportDone">エクスポート完了, ファイルはこちら:\n{1}</string>
-	<string name="catExtFileMissing">インポートファイルは見つかりませんでした. テンプレートの作成には\"エクスポート\" をご使用ください.</string>
+	<string name="catExtFileMissing">インポートファイルは見つかりませんでした。テンプレートの作成には\"エクスポート\" をご使用ください。</string>
 	<string name="catExtImpConfirm1">\u2192 存在しています {1} タスクは消去されます!</string>
 	<string name="catExtImpConfirm2">\u2192 使用されているタスクのIDを消去しないようにご注意ください!</string>
 	<string name="commonCannotUndo">\u2192 \'復旧\'をしない限り、このアクションを元に戻すことはできません</string>
@@ -407,7 +407,7 @@
 	<string name="widgetPrefNotifBarActive">チェックイン時のステータスバー表示</string>
 	<string name="widgetPrefNotifBarText">表示テキスト</string>
 	<string name="widgetPrefNotifBarHint">\u2192 プレースホルダー: $1=チェックインタイム, $2=合計, $3=タスク</string>
-	<string name="widgetPrefHintRefresh">\u2192 早めの更新をすれば、バッテリーの使用が増えます！</string>
+	<string name="widgetPrefHintRefresh">\u2192 早めの更新に設定すると、バッテリーの使用が増えます！</string>
 	<string name="widgetPrefKeepRunning">裏で常に起動する</string>
 	<string name="widgetPrefHintKeepRunning">\u2192 ウェジットが定期的に更新されない場合はチェック</string>
 
@@ -421,21 +421,21 @@
 
 	<!-- v3.01 -->
 	<string name="commonSwitchedTo">\u2192 {1}へ切り替え完了</string>
-	<string name="commonWorkDay">ワークデイ</string>
+	<string name="commonWorkDay">作業日</string>
 	<string name="commonMigrationWorking">データの移行中...</string>
 	<string name="commonStampValidDate">実行日</string>
 	<string name="actualDateSelectionTitle">実行日の変更</string>
 	
 	<!-- long format: "only use the second option (or "selection item") if you are working across midnight (e.g. starting at 14:00 and working until 02:00 the next day)" -->
-	<string name="actualDateSelectionHint">\u2192 二つ目のオプションは深夜を超えてワークされる場合のみ使用してください</string>
+	<string name="actualDateSelectionHint">\u2192 二つ目のオプションは深夜を超えて作業される場合のみ使用してください</string>
 	
-	<string name="actualDateSwitchWorkdayLabel">\u2192 次のワークデイに切り替える場合は、ここをクリック.</string>
+	<string name="actualDateSwitchWorkdayLabel">\u2192 次の作業日に切り替える場合は、ここをクリック.</string>
 
-	<string name="prefsWorkLateGroup">\'ワークレイト\' オプション</string>
-	<string name="workLatePrefsHint">\u2192 {1} はユーザー設定4ページ目でご確認ください.</string>
+	<string name="prefsWorkLateGroup">\'深夜作業\' オプション</string>
+	<string name="workLatePrefsHint">\u2192 {1} はユーザー設定4ページ目でご確認ください。</string>
 	<string name="prefsActualDateDisplay">タイムピッカーで有効日を確認する</string>
 	<string name="prefsStopRunningWorkdayLabel">チェックアウトを忘れた場合、この時間でランニングカウンターは終了します:</string>
-	<string name="prefsStopRunningWorkdayHint">\u2192 変動シフトにてワークされる場合、こちらは使用しないでください</string>
+	<string name="prefsStopRunningWorkdayHint">\u2192 変動シフトにて作業される場合、こちらは使用しないでください</string>
 	<string name="prefsActualDateShowAlways">常に</string>
 	<string name="prefsActualDateShowCrossMn">深夜を超えたら</string>
 	
@@ -448,14 +448,14 @@
 	<string name="widgetSdCardHint">\u2192 このアプリがSDカードに保存されている場合、ウィジェットを起動することはできません!</string>
 	
 	<string name="prefsGroupMainScreenLabel">メイン画面</string>
-	<string name="prefsGroupMainScreenRefreshHint">\u2192 この操作をすると、電池の使用量が増加します</string>
+	<string name="prefsGroupMainScreenRefreshHint">\u2192 この項目にチェックすると、電池の使用量が増加します</string>
 	<string name="prefsKeepScreenOn">画面をオンにする</string>
 	
 	<string name="expPrefsShowEmailOnHTML">HTMLのエクスポートをする場合、emailアドレスを見せる</string>
 	
 	<!-- v3.06 -->
 	<string name="expSearchDayNotes">デイノートのフィルター</string>
-	<string name="expSearchWorkUnitNotes">ワークユニットノートのフィルター</string>
+	<string name="expSearchWorkUnitNotes">作業ユニットノートのフィルター</string>
 	<string name="expPrefsAutoCloseWindow">エクスポート後にダイアログを終了する</string>
 	<string name="taskerPluginSelectAction">動作するアクションを選択する:</string>
 	<string name="commonTaskSelectionOpen">タスクセレクションを開く</string>
@@ -474,16 +474,16 @@
 	
 	<string name="helpInfo">情報</string>
     <string name="helpFAQ">FAQ</string>
-	<string name="helpWhatsNew">新規情報</string>
+	<string name="helpWhatsNew">新着情報</string>
 	<string name="prefsMinimumBreak">最小ブレイク時間</string>
 	<string name="prefsShowIsoWeekNr">ISOウィーク番号を表示</string>
 	
-	<string name="confirmDayRollOver">日を終了して延期しますか?</string>
-	<string name="prefDayRollOver">ワークが深夜を超えた場合\'その日を終了して &amp; 延期する\' </string>
+	<string name="confirmDayRollOver">日を終了して翌日に繰り越しますか?</string>
+	<string name="prefDayRollOver">作業が深夜を超えた場合\'その日を終了して、翌日に繰り越す\' </string>
 	
 	<string name="categoryEditHeaderTargetOff">目標時間の設定なし</string>
 	<string name="categoryEditHeaderUnpaid">未支払い</string>
-	<string name="categoryEditHeaderFixedAmtWorkUnit">ユニット単位の決まった時間</string>
+	<string name="categoryEditHeaderFixedAmtWorkUnit">ユニット単位の定まった時間</string>
 	<string name="categoryEditHeaderFixedAmtDay">日単位の決まった時間</string>
 	<string name="categoryEditSortRenumber">ソートの番号を再設定</string>
 	<string name="commonColumnVisibility">表示/非表示する項目</string>
@@ -491,11 +491,13 @@
     <string name="prefsMonthlyTargetTime">月次目標時間</string>
     <string name="prefsTimeZoneLock">タイムゾーンのロック</string>
     <string name="calSyncActiveOnCheckin">チェックインのシンクロナイズ</string>
-    <string name="commonAppRequired">アプリがありません。</string>
-    <string name="commonUpdateCurrentTask">現在のワークユニットのタスクを更新する</string>
+    <string name="commonAppRequired">アプリがありません</string>
+    <string name="commonUpdateCurrentTask">現在の作業ユニットのタスクを更新する</string>
     <string name="commonResetSettings">デフォルト設定に戻す</string>
     <string name="commonFlip">フリップ</string>
-    
+<string name="homescreenHintNoStamps">スタンプがありません。”日”を選択し、”左矢印”をクリックすれば過去の日にちにエントリーを追加出来ます。</string>    
+
+
     <!-- 3.16 -->
     <string name="commonCustomer">クライアント</string>
     <string name="prefsCustomerFilter">フィルター（クライアント）</string>
@@ -520,7 +522,7 @@
     <string name="prefsThemeDark">ダーク</string>
     <string name="commonBasicSettings">基本設定</string>
     <string name="autoBreakSkipWhenOff">設定した時間外ならスキップ</string>
-<string name="commonWorktimeOverview">ワークタイム</string>
+<string name="commonWorktimeOverview">作業時間</string>
 	<string name="commonViewNoun">表示</string>
 	<string name="commonShort">Short</string>
 	<string name="expPrefsIsoDateFormat">YYYY/MM/DD</string>
@@ -533,9 +535,9 @@
     <string name="alertNotificationSoundOnce">通知音 （1回）</string>
     <string name="alertNotificationSoundInsistent">通知音 （繰り返し）</string>
     <string name="alertNotificationVibra">バイブレーション</string>
-    <string name="worktimeExceededLabel">ワークタイムが&gt; x 時間超過したら、アラームを鳴らす</string>
-    <string name="worktimeExceededNotification">日ごとのワークタイム超過</string>
-    <string name="commonThreshold">Threshold</string>
+    <string name="worktimeExceededLabel">作業時間が&gt; x 時間超過したら、アラームを鳴らす</string>
+    <string name="worktimeExceededNotification">日ごとの作業時間超過</string>
+    <string name="commonThreshold">超過時間</string>
 	<string name="expTypeCustomersPerDay">日ごとのクライアント</string>
     <string name="customerNone">（クライアントなし）</string>
     <string name="cloudProviderDropbox">Dropbox</string>
@@ -551,7 +553,7 @@
     <string name="paidOt2Factor">ファクター</string>
     <string name="commonRateButton">レート</string>
     <string name="commonExtras">エキストラ</string>
-	<string name="edtoolsGeoLocation">Add geo location</string>
+	<string name="edtoolsGeoLocation">住所を追加する</string>
 	<string name="domainMonthviewSemiM"></string>
 	<string name="prefsFirstDayOfPeriodN">期間の初日{1} (1-31)</string>
 	<string name="prefsCurrentWeekOfRepPeriod">選択期間の現在の週</string>
@@ -565,9 +567,9 @@
 	<string name="commonRefreshMM">x分ごとに更新</string>
 	<string name="calSyncNightShift">夜勤のサポート</string>
 	<string name="commonDecimal">Decimal</string>
-	<string name="archiveLocation">アーカイブファイルはこちらに保存されています:\n\u2022 フォルダ: {1}\n\u2022 ファイル名: {2}\n注意：このファイルはアプリによってバックアップされておりません.</string>
+	<string name="archiveLocation">アーカイブファイルはこちらに保存されています:\n\u2022 フォルダ: {1}\n\u2022 ファイル名: {2}\n注意：このファイルはアプリによってバックアップされておりません。</string>
 	<string name="backupReminderTitle">バックアップのリマインダー</string>
-	<string name="backupReminderBody">定期的にバックアップを取っておいてください.</string>
+	<string name="backupReminderBody">定期的にバックアップを取っておいてください</string>
 	<string name="commonDoNotShowAgain">このメッセージは表示しないでください</string>
 	<string name="commonRetry">リトライ</string>
 	<string name="expPrefsGoogleDocsConversion">Google Docsドキュメントに変換する</string>
@@ -578,10 +580,10 @@
 	<string name="activityCheckOut">Time Recording/チェックアウト</string>
 	<string name="activityPunch">Time Recording/パンチ</string>
 	<string name="prefsDeltaWeekOnMain">\'差分\' をメイン画面に表示する</string>
-	<string name="workUnitDetailRep">ワークログ</string>
+	<string name="workUnitDetailRep">作業ログ</string>
 	<string name="commonIncremental">増加</string>
 	<string name="commonForceDeletion">強制消去</string>	
-	<string name="calSyncSingleBlock">一つのイベントとしてワークユニットをシンク</string>
+	<string name="calSyncSingleBlock">一つのイベントとして作業ユニットをシンク</string>
 	<string name="prefsShowButtonsLine3">Show «{1}» &amp; «{2}»</string>
-	<string name="prefsRepPeriodWeeks">週{1}</string> <!-- {1} は1-4の週番号です. ドロップダウンリスクから"2週" 又は "4週の"レポート期間設定をご参照ください -->
+	<string name="prefsRepPeriodWeeks">週{1}</string> <!-- {1} は1-4の週番号です。ドロップダウンリスクから"2週" 又は "4週の"レポート期間設定をご参照ください 。-->
 </resources>
