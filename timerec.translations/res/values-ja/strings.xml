@@ -20,7 +20,7 @@
     <string name="menuAddStandardEntry">ブレイク/ユニットの追加</string>
     <string name="menuMore">追加</string>
     <string name="commonDays">日</string>
-    <string name="commonEdit">編集</string>
+    <string name="commonEdit">編集する</string>
     <string name="commonError">エラー</string>
     <string name="commonYes">はい</string>
     <string name="commonNo">いいえ</string>
@@ -285,7 +285,7 @@
     <string name="errorCloudAccessFailed">アクセスフェイル</string>
 
     <string name="aboutPublicServices">Public App services</string> 
-    <string name="aboutPro">プロ</string>
+    <string name="aboutPro">Pro version</string>
 	<string name="aboutAvailableHere">«{1}» はこちらでお求めいただけます</string> 
 
     <string name="bckBackupTitle">バックアップ</string>
@@ -409,7 +409,7 @@
 	<string name="widgetPrefNotifBarHint">\u2192 プレースホルダー: $1=チェックインタイム, $2=合計, $3=タスク</string>
 	<string name="widgetPrefHintRefresh">\u2192 早めの更新に設定すると、バッテリーの使用が増えます！</string>
 	<string name="widgetPrefKeepRunning">裏で常に起動する</string>
-	<string name="widgetPrefHintKeepRunning">\u2192 ウェジットが定期的に更新されない場合はチェック</string>
+	<string name="widgetPrefHintKeepRunning">\u2192 ウィジェットが定期的に更新されない場合はチェック</string>
 
 	<!-- copy days -->
 	<string name="copyDaysTitle">日にちのコピー</string>
@@ -584,6 +584,6 @@
 	<string name="commonIncremental">増加</string>
 	<string name="commonForceDeletion">強制消去</string>	
 	<string name="calSyncSingleBlock">一つのイベントとして作業ユニットをシンク</string>
-	<string name="prefsShowButtonsLine3">Show «{1}» &amp; «{2}»</string>
+	<string name="prefsShowButtonsLine3">表示する «{1}» &amp; «{2}»</string>
 	<string name="prefsRepPeriodWeeks">週{1}</string> <!-- {1} は1-4の週番号です。ドロップダウンリスクから"2週" 又は "4週の"レポート期間設定をご参照ください 。-->
 </resources>
