@@ -362,7 +362,6 @@
     <string name="brprefsBackupAction">SDカードにアプリの設定のバックアップをとる</string>
     <string name="brprefsBackupFileExists">バックアップファイルは存在するが、上書きしますか？</string>
     
-    <!-- internal admin - alternatively use "データベースの再編" -->
 	<string name="admRebuildIndexes">インデックスの再作成</string>
 	
 	<string name="admDeleteOldLabel">古いデータの消去</string>
@@ -531,7 +530,7 @@
     <string name="commonBreakOver">ブレイクの終了</string>
     <string name="commonTargetReached">目標達成</string>
     <string name="timeReachedAlarmSettings">\'{1}\' アラーム設定</string>
-    <string name="timeReachedNotification">{1} at {2}</string> <!-- サンプル: "17:45に目標到達" -->
+    <string name="timeReachedNotification">{1} at {2}</string>
     <string name="alertNotificationSoundOnce">通知音 （1回）</string>
     <string name="alertNotificationSoundInsistent">通知音 （繰り返し）</string>
     <string name="alertNotificationVibra">バイブレーション</string>
@@ -585,5 +584,5 @@
 	<string name="commonForceDeletion">強制消去</string>	
 	<string name="calSyncSingleBlock">一つのイベントとして作業ユニットをシンク</string>
 	<string name="prefsShowButtonsLine3">表示する «{1}» &amp; «{2}»</string>
-	<string name="prefsRepPeriodWeeks">週{1}</string> <!-- {1} は1-4の週番号です。ドロップダウンリスクから"2週" 又は "4週の"レポート期間設定をご参照ください 。-->
+	<string name="prefsRepPeriodWeeks">週{1}</string>
 </resources>
