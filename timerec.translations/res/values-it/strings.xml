@@ -615,4 +615,7 @@
 	<string name="calSyncSingleBlock">Sync work units as one single event</string>
 	<string name="prefsRepPeriodWeeks">{2} {1}</string>
 	
+	<!-- 4.21 -->
+	<string name="bckArchiveDataOlderCustom">Archivio di dati &gt; {1}</string>
+		
 </resources>

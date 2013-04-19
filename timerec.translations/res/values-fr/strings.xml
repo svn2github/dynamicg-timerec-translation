@@ -586,4 +586,7 @@
 	<string name="prefsShowButtonsLine3">Montrer «{1}» &amp; «{2}»</string>
 	<string name="prefsRepPeriodWeeks">{2} {1}</string>
 	
+	<!-- 4.21 -->
+	<string name="bckArchiveDataOlderCustom">Archiver données &gt; {1}</string>
+		
 </resources>
