@@ -588,5 +588,6 @@
 	
 	<!-- 4.21 -->
 	<string name="bckArchiveDataOlderCustom">Archiver données &gt; {1}</string>
-		
+	<string name="expTypeClientMatrix">E7 Matrice Clients</string>
+			
 </resources>
