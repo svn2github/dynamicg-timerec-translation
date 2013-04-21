@@ -1,4 +1,5 @@
-<version>133</version>
+<version>133</version>       ## for devices<android 4
+<versionICS>133</versionICS> ## for ICS++
 <date>2013/04/14</date>
 
 # --currently deployed--
