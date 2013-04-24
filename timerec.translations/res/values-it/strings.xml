@@ -618,5 +618,8 @@
 	<!-- 4.21 -->
 	<string name="bckArchiveDataOlderCustom">Archivio di dati &gt; {1}</string>
 	<string name="expTypeClientMatrix">E7 Matrice Clienti</string>
-			
+	<!-- generic texts for i18n build -->
+	<string name="expTypeTaskMatrix">E5 {1}</string> <!-- for reports overview. {1} is text of 'repTaskMatrix' defined earlier -->
+	<string name="commonAppInfo">App Info</string>
+	
 </resources>
