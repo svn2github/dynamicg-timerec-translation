@@ -607,4 +607,8 @@
 	<string name="prefsShowButtonsLine3">«{1}» &amp; «{2}» anzeigen</string>
 	<string name="prefsRepPeriodWeeks">{2} {1}</string>
 	
+	<!-- 4.21 -->
+	<string name="bckArchiveDataOlderCustom">Daten &gt; {1} archivieren</string>
+	<string name="expTypeClientMatrix">E7 Kundenmatrix</string>
+			
 </resources>

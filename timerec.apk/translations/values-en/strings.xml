@@ -646,4 +646,8 @@
 	<string name="expTypeTaskMatrix">E5 {1}</string> <!-- for reports overview. {1} is text of 'repTaskMatrix' defined earlier -->
 	<string name="commonAppInfo">App Info</string>
 	
+	<!-- 4.21 -->
+	<string name="bckArchiveDataOlderCustom">Archive data &gt; {1}</string>
+	<string name="expTypeClientMatrix">E7 Client matrix</string>
+	
 </resources>
