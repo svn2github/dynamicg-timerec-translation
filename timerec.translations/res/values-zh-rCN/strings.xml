@@ -14,8 +14,8 @@
     <string name="homescreenCheckoutNow">结束打卡</string>
     <string name="homescreenAddBreak">添加间歇</string>
     <string name="homescreenHintNoStamps">目前没有记录。\n请点击\'日\'，然后点击左箭头，手动添加一个过去的记录。</string>
-    <string name="homescreenAddStamp">添加记录</string>
-    <string name="menuEditStampsShort">编辑记录</string>
+    <string name="homescreenAddStamp">添加时间戳</string>
+    <string name="menuEditStampsShort">编辑时间戳</string>
     <string name="menuPreferences">设置</string>
     <string name="menuAdmin">管理</string>
     <string name="menuAddStandardEntry">添加间歇/工作单元</string>
@@ -27,8 +27,8 @@
     <string name="commonNo">否</string>
     <string name="commonTitleCheckIn">打卡</string>
     <string name="commonTitleCheckOut">结束</string>
-    <string name="commonActionAddCheckIn">添加开始打卡记录</string>
-    <string name="commonActionAddCheckOut">添加结束打卡记录</string>
+    <string name="commonActionAddCheckIn">添加开始时间戳</string>
+    <string name="commonActionAddCheckOut">添加结束时间戳</string>
     <string name="commonSample">示例</string>
     <string name="commonDataExport">报告</string>
     <string name="commonReportsAndExport">报告&amp;导出数据</string>
@@ -37,14 +37,14 @@
     <string name="commonEditCategories">编辑任务</string>
     <string name="commonStop">止</string>
     <string name="commonType">类型</string>
-    <string name="commonIn">开始</string>
+    <string name="commonIn">打卡</string>
     <string name="commonOut">结束</string>
     <string name="commonDay">日</string>
     <string name="commonWeek">周</string>
     <string name="commonMonth">月</string>
     <string name="commonDelete">删除</string>
     <string name="commonHoursPerDay">日工作时长</string>
-    <string name="commonGrandTotal">Grand total</string>
+    <string name="commonGrandTotal">总合计</string>
     <string name="commonSettings">设置</string>
     <string name="commonDisabled">不设置</string>
     <string name="commonDefault">默认</string>
@@ -90,10 +90,10 @@
     
     <string name="editSetNewTime">设定新的时间</string>
     
-    <string name="confirmDeleteEntry">删除这个记录?</string>
+    <string name="confirmDeleteEntry">删除这个时间戳?</string>
     <string name="confirmDeleteDay">删除这一天的全部记录?</string>
     <string name="checkboxIncludeDayNotes">包括日记</string>
-    <string name="confirmUpdateAdjacent">同时更新临近的记录</string>
+    <string name="confirmUpdateAdjacent">同时更新临近的时间戳</string>
     
     <string name="prefsExportRecipient">默认接收邮箱</string>
     <string name="prefsExpCsvDataSeparator">分隔符</string>
@@ -124,23 +124,23 @@
 	<string name="prefsDomWidgetActionOpen">打开软件</string>
 	<string name="prefsDomWidgetActionPunch">计时</string>
 	<string name="prefsDomWidgetActionMixed">图标=计时,文字=打开软件</string>
-	<string name="prefsPunchNowRounding">Rounding on \'punch now\'</string>
-	<string name="prefsPunchNowRoundingOption">Rounding option</string>
-	<string name="prefsPunchNowRoundingSlot">Round to minutes</string>
-	<string name="prefsDomRoundStd">Round</string>
-	<string name="prefsDomRoundUp">Round up</string>
-	<string name="prefsDomRoundDown">Round down</string>
-	<string name="prefsDomRoundInUpOutDown">In=up, Out=down</string>
-	<string name="prefsDomRoundInDownOutUp">In=down, Out=up</string>
+	<string name="prefsPunchNowRounding">四舍五入</string>
+	<string name="prefsPunchNowRoundingOption">四舍五入设置</string>
+	<string name="prefsPunchNowRoundingSlot">四舍五入到...分钟</string>
+	<string name="prefsDomRoundStd">四舍五入</string>
+	<string name="prefsDomRoundUp">向上凑整</string>
+	<string name="prefsDomRoundDown">向下凑整</string>
+	<string name="prefsDomRoundInUpOutDown">开始打卡=向上凑整,结束打卡=向下凑整</string>
+	<string name="prefsDomRoundInDownOutUp">开始打卡=向下凑整,结束打卡=向上凑整</string>
 	<string name="prefsProOnlyFeature">\u2192仅限\"Pro版\"</string>
-	<string name="prefsPunchRoundTaskSwitch">Also apply on \'Switch task\'</string>
+	<string name="prefsPunchRoundTaskSwitch">应用于\'切换任务\'</string>
 	<string name="prefsCalendarSyncGroup">同步到Google calendar</string>
 	<string name="prefsHomescreenBtSmall">显示小按键以增加工作区空间</string>
 
 	<string name="calSyncCalendarName">日历名称</string>
 	<string name="calSyncHints2">\u2192仅单向同步</string>
 	<string name="calSyncWriteDelay">修改后X秒/分钟同步修改</string>
-	<string name="calSyncForStamps">将记录同步为\'事件\'</string>
+	<string name="calSyncForStamps">将时间戳同步为\'事件\'</string>
 	<string name="calSyncForDayNotes">同步日记为\'全天事件\'</string>
 	<string name="calSyncShowConfirmation">同步后显示确认选项</string>
 	<string name="calSyncEventTitleLabel">事件标题</string>
@@ -153,14 +153,14 @@
 	
     <string name="stdStampTitle">间歇&amp;工作单元</string>
     <string name="stdStampTypeBlockShort">工作单元</string>
-    <string name="stdStampTypeBlockLong">工作单元Work unit</string>
+    <string name="stdStampTypeBlockLong">工作单元</string>
     <string name="stdStampTypeBreakNow">开始休息</string>
     <string name="stdStampBreakForLastMI">之前的{1}分钟</string>
     <string name="stdStampBreakForNextMI">接下来的{1}分钟</string>
     <string name="stdStampsBreakNowItems">\'{1}\'的休息时间</string>
     
     <string name="autoBreakTitle">自动间歇</string>
-    <string name="autoBreakBookWhen">当</string>
+    <string name="autoBreakBookWhen">开始</string>
     <string name="autoBreakDomFirst">激活，一个自动间歇</string>
     <string name="autoBreakDomAll">激活，多个自动间歇</string>
     
@@ -174,7 +174,7 @@
     <string name="sendMailIntentTitle">发送邮件</string>
     <string name="exportMailTitle">Time Recording报告{3},{1}</string>
     <string name="exportMailBody">{title}\n创建于{2}</string>
-    <string name="exportColumnSeparatorHint">Hint: change the \'Column separator\' on the export settings if the data is imported as one single column</string>
+    <string name="exportColumnSeparatorHint">提示：如果导出的数据全在一列中，请修改导出设置中的\'分隔符\'</string>
 	<string name="repTaskMatrix">任务统计表</string>
 	<string name="expPrefsDataInclusion">数据显示于</string>
 	<string name="expPrefsAttachmentMimeType">附件\'MIME格式\'</string>
@@ -269,14 +269,14 @@
     <string name="hintNoStampsClickToAdd">今天没有记录。\n打开菜单或点击这里添加记录。</string> 
     <string name="hintZeroOutToDisable">\u2192 如不设置请输入\'00:00\</string>
     <string name="hintAmountPrecision">\u2192 输入\'$#.#\'或\'$#.##\'显示1位或2位小数。</string>
-    <string name="hintAmountRounding">\u2192 Note on rounding: subtotals and grand total are rounded independently, so they will not always match.</string>
+    <string name="hintAmountRounding">\u2192 注意：如果不同合计间不匹配，是因为它们分别进行四舍五入了。</string>
     <string name="hintRateOverride">\u2192若任务设置了时薪，则时薪以单独设置的为准。</string>
-	<string name="hintDbRecreateConfirmation">警告:空数据库。重建数据库？Warning: empty database. Recreate?</string>
+	<string name="hintDbRecreateConfirmation">警告:空数据库。重建数据库？</string>
 	<string name="hintCreatingBackup">创建备份...</string>
 	<string name="hintTooMuchEntries">记录过多</string>
     <string name="hintPleaseWait">请稍等...</string>
 
-    <string name="errorTimeslotNotFree">已存在\'{1}\'的记录</string>
+    <string name="errorTimeslotNotFree">已存在\'{1}\'的时间戳</string>
     <string name="errorCannotStartNewTask">{1}已打卡，无法开始新任务</string>
     <string name="errorSdCardAccess">SD卡读取错误</string>
     <string name="errorSdCardWrite">SD卡写入错误</string>
@@ -301,8 +301,8 @@
 	<string name="widgetAppTitle1">Time</string>
     <string name="widgetAppTitle2">Recording</string>
     
-    <string name="stdCommentTitle">模板</string>
-    <string name="stdCommentSelect">选择模板</string>
+    <string name="stdCommentTitle">日记模板</string>
+    <string name="stdCommentSelect">选择日记模板</string>
     <string name="stdCommentAppend">补充到现有内容后面</string>
     <string name="stdCommentDefaultEntry1">度假</string>
     <string name="stdCommentDefaultEntry2">休息</string>
@@ -335,8 +335,7 @@
 	<string name="dstorInitialRecovery">SD卡中发现备份文件。还原数据？</string>
 	<string name="dstorHintProvideBackup">SD卡中未发现备份文件。\n路径: {1}</string>
 	<string name="dstorIncludeSettings">包含设置？</string>
-	<string name="dstorMoveToSdcardWarn">警告:不推荐存储在SD卡。You might hit USB access &amp; \'read only\' issues, or (in rare cases) deleted data files.</string>
-	
+	<string name="dstorMoveToSdcardWarn">警告:不推荐存储在SD卡。使用USB连接到电脑是无法识别SD卡，可能造成数据丢失。</string>
 	<string name="dstorFree2ProImportConfirmation">从免费版导入数据和设置？</string>
 	<string name="dstorFree2ProLiveImport">从免费版导入</string>
 	
@@ -347,7 +346,7 @@
 	<string name="pdotCalculatePer">计算</string>
 	<string name="pdotShowDetails">在报告中显示详细记录</string>
 	<string name="pdotDomainFullRep">完整报告</string>
-	<string name="pdotRateHint">\u2192 Sample: set to \'8\' if normal rate is $16 and overtime pay is x1.5, since 24-16=8</string>
+	<string name="pdotRateHint">\u2192 示例：如果正常时薪为$16，加班为1.5倍时薪，那么应设置为\'8\'，因为24-16=8。</string>
 	<string name="pdotMainHint">\u2192 仅在\'月\'视图中显示. 需要设置\'日\' 或 \'周\' 目标时长.</string>
 	
 	<!-- diff sync marker B -->
@@ -373,7 +372,7 @@
 	<string name="pubsCheckoutDone">结束打卡</string>
 	<string name="pubsAlreadyCheckedIn">已开始打卡</string>
 	<string name="pubsAlreadyCheckedOut">已结束打卡</string>
-	<string name="pubsPriorCheckoutMissing">无上一个\'开始打卡记录\’</string>
+	<string name="pubsPriorCheckoutMissing">无上一个\'开始打卡\’记录</string>
 	
 	<string name="catExtExportDone">已导出，文件存储在:\n{1}</string>
 	<string name="catExtFileMissing">未发现需导入的文件。请使用\"导出\"创建模板。</string>
@@ -419,14 +418,14 @@
 	<string name="commonSwitchedTo">\u2192切换到{1}</string>
 	<string name="commonWorkDay">打卡日期</string>
 	<string name="commonMigrationWorking">正在迁移数据...</string>
-	<string name="commonStampValidDate">生效日期</string>
-	<string name="actualDateSelectionTitle">修改生效日期</string>
-	<string name="actualDateSelectionHint">\u2192Use second option only when working over midnight</string>
+	<string name="commonStampValidDate">有效日期</string>
+	<string name="actualDateSelectionTitle">修改有效日期</string>
+	<string name="actualDateSelectionHint">\u2192只有工作超过零点时才使用第二个设置。</string>
 	<string name="actualDateSwitchWorkdayLabel">\u2192点击切换到下一个工作日</string>
 
-	<string name="prefsWorkLateGroup">\'Working late\' options</string>
-	<string name="workLatePrefsHint">\u2192 Also see {1} on preferences page 4.</string>
-	<string name="prefsActualDateDisplay">在设置时间时显示生效日期</string>
+	<string name="prefsWorkLateGroup">\'夜间工作\'设置</string>
+	<string name="workLatePrefsHint">\u2192请查看\'设置\'第4页\'日期和时间\'的{1}</string>
+	<string name="prefsActualDateDisplay">在设置时间时显示有效日期</string>
 	<string name="prefsStopRunningWorkdayLabel">如果忘记取消打卡，请于以下时间结束计时:</string>
 	<string name="prefsStopRunningWorkdayHint">\u2192 如果你是轮班制,请不要修改设置</string>
 	 <string name="prefsActualDateBreakAlert">\u2192 This will break the Time Picker on some devices. Click here to check. Note you can also use \'Menu\' on that dialog.</string> 
@@ -439,7 +438,7 @@
 	<string name="edtoolsCap">英文输入时默认首字母大写</string>
 	<string name="edtoolsCapWords">单词</string>
 	<string name="edtoolsCapSentences">句子</string>
-	<string name="edtoolsAppend">添加模板</string>
+	<string name="edtoolsAppend">添加日记模板</string>
 	<string name="widgetSdCardHint">\u2192 如果软件安装在SD卡,桌面插件将无法运行!</string>
 	
 	<string name="prefsGroupMainScreenLabel">软件主屏幕</string>
@@ -480,7 +479,7 @@
 	<string name="categoryEditHeaderUnpaid">无薪</string>
 	<string name="categoryEditHeaderFixedAmtWorkUnit">设置工作\n单元薪资</string>
 	<string name="categoryEditHeaderFixedAmtDay">设置\n日薪</string>
-	<string name="categoryEditSortRenumber">Sort renumber</string>
+	<string name="categoryEditSortRenumber">重置排序</string>
 	<string name="commonColumnVisibility">显示/隐藏项目</string>
 	
     <string name="prefsMonthlyTargetTime">月目标时长</string>
@@ -564,19 +563,19 @@
 	<string name="edtoolsGeoLocation">添加地理位置</string>
     
 	<!-- 4.12 -->
-	<string name="domainMonthviewSemiM">每15天</string>
+	<string name="domainMonthviewSemiM">每半个月</string>
 	<string name="prefsFirstDayOfPeriodN">第一天为{1} (1-31)</string>
 	<string name="prefsCurrentWeekOfRepPeriod">目前属于报告周期中的</string>
 	<string name="prefsScrollSizeWeeks">在\'{1}\'视图中滚动的间隔</string>
-	<string name="hintAlsoSeePage">\u2192同时参考{2}→{1}</string>
-    <string name="dailyTargetReachedInLabel">还剩{1}</string>
+	<string name="hintAlsoSeePage">\u2192同时参考{2}{1}</string>
+    <string name="dailyTargetReachedInLabel">剩余时间：{1}</string>
 
 	<!-- 4.13 -->
     <string name="commonUndo">撤销</string> <!-- "Undo changes" on text editor -->
     <string name="prefsStayOnPreviousDay">如在以下时间之前打开软件，显示前一个工作日:</string>
-    <string name="prefsAutoBackup">每x天自动备份</string>
+    <string name="prefsAutoBackup">自动备份频率（天）</string>
     <string name="commonSdCard">SD卡</string>
-	<string name="commonRefreshMM">每x分钟刷新一次</string>
+	<string name="commonRefreshMM">刷新频率（分钟）</string>
 	<string name="calSyncNightShift">支持夜班</string>
 	<string name="commonDecimal">十进制</string>
 	<string name="archiveLocation">归档文件保存在:\n\u2022 文件夹: {1}\n\u2022 文件名: {2}\n注意:不是本软件的备份.</string>
@@ -603,5 +602,32 @@
 
 	<!-- 4.17 -->
 	<string name="commonIncremental">Incremental</string>
+<!-- 4.18 -->
+	
+	<string name="commonForceDeletion">强制删除</string>	
+	
+	
+	<!-- 4.19 -->
+	
+	<string name="calSyncSingleBlock">将工作单元同步为一个事件</string>
+	
+	<string name="prefsShowButtonsLine3">显示«{1}»和«{2}»</string>
+	
+	
+	<!-- 4.19.1 -->
+
+	<string name="prefsRepPeriodWeeks">第{1}周</string> <!-- {1} is week number 1-4. see dropdown list on "2 weeks" or "4 weeks" reporting period settings -->
+	
+	<string name="expTypeTaskMatrix">E5 {1}</string> <!-- for reports overview. {1} is text of 'repTaskMatrix' defined earlier -->
+	
+	<string name="commonAppInfo">应用信息</string>
+	
+	
+	<!-- 4.21 -->
+	
+	<string name="bckArchiveDataOlderCustom">归档数据&gt; {1}</string>
+	
+	<string name="expTypeClientMatrix">E7 客户统计</string>
+	
 	
 </resources>
