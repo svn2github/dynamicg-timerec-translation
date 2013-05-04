@@ -604,4 +604,7 @@
 	<string name="bckArchiveDataOlderCustom">Archivar &gt; {1}</string>
 	<string name="expTypeClientMatrix">E7 Matriz de clientes</string>
 		
+	<!-- 4.22 -->
+	<string name="commonTaskId">Tarea ID</string>
+	
 </resources>

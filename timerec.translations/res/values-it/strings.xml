@@ -622,4 +622,7 @@
 	<string name="expTypeTaskMatrix">E5 {1}</string> <!-- for reports overview. {1} is text of 'repTaskMatrix' defined earlier -->
 	<string name="commonAppInfo">App Info</string>
 	
+	<!-- 4.22 -->
+	<string name="commonTaskId">Lavoro ID</string>
+	
 </resources>

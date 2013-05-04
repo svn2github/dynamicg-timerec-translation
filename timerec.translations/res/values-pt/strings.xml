@@ -590,4 +590,7 @@
 	<string name="bckArchiveDataOlderCustom">Arquivo de dados &gt; {1}</string>
 	<string name="expTypeClientMatrix">E7 Matriz de clientes</string>
 		
+	<!-- 4.22 -->
+	<string name="commonTaskId">Tarefa ID</string>
+	
 </resources>

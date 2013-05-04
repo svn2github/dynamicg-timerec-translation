@@ -590,4 +590,7 @@
 	<string name="bckArchiveDataOlderCustom">Archiver données &gt; {1}</string>
 	<string name="expTypeClientMatrix">E7 Matrice Clients</string>
 			
+	<!-- 4.22 -->
+	<string name="commonTaskId">Tâche ID</string>
+	
 </resources>
