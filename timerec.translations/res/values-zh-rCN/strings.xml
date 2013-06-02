@@ -526,7 +526,7 @@
     <string name="commonBreakOver">休息结束</string>
     <string name="commonTargetReached">目标完成</string>
     <string name="timeReachedAlarmSettings">设置\'{1}\'提醒</string>
-    <string name="timeReachedNotification">{2}{1}</string> <!--示例:"目标将完成于17:45"-->
+    <string name="timeReachedNotification">{2}{1}</string>
     
     <string name="alertNotificationSoundOnce">铃声(响一声)</string>
     <string name="alertNotificationSoundInsistent">铃声(持续)</string>
