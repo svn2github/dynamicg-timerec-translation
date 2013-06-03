@@ -6,6 +6,7 @@
     <string name="languageFlag">0</string>
     <string name="googleSitesLanguage">en</string>
     <string name="i18nCompatibility">0</string>
+    <string name="unlockPro">0</string>
     
 	<!-- labels -->
     <string name="app_name">Time Recording</string>
@@ -649,5 +650,10 @@
 	<!-- 4.21 -->
 	<string name="bckArchiveDataOlderCustom">Archive data &gt; {1}</string>
 	<string name="expTypeClientMatrix">E7 Client matrix</string>
+	
+	<!-- 4.22 -->
+	<string name="commonTaskId">Task ID</string>
+	<string name="prefsAutoBreakDeductCurrent">Deduct from running total of current day</string>
+	<string name="commonSpecific">Specific</string>
 	
 </resources>
