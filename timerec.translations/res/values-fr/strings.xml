@@ -592,5 +592,6 @@
 			
 	<!-- 4.22 -->
 	<string name="commonTaskId">Tâche ID</string>
+	<string name="commonSpecific">Spécifique</string>
 	
 </resources>

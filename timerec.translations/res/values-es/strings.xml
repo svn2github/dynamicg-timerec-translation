@@ -606,5 +606,6 @@
 		
 	<!-- 4.22 -->
 	<string name="commonTaskId">Tarea ID</string>
-	
+	<string name="commonSpecific">Específico</string>
+		
 </resources>

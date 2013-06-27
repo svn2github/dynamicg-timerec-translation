@@ -8,6 +8,7 @@
     <string name="appUserLabel">DynamicG App User</string>
     <string name="googleSitesLanguage">en</string>
     <string name="languageFlag">0</string>
+    <string name="unlockPro">0</string>
     
     <string name="app_name">Registra Orari</string>
     <string name="app_name_pro">Registra Orari Pro</string>
@@ -614,7 +615,8 @@
 	<string name="commonForceDeletion">Force deletion</string>	
 	<string name="calSyncSingleBlock">Sync work units as one single event</string>
 	<string name="prefsRepPeriodWeeks">{2} {1}</string>
-	
+	<string name="prefsAutoBreakDeductCurrent">Deduct from running total of current day</string>
+		
 	<!-- 4.21 -->
 	<string name="bckArchiveDataOlderCustom">Archivio di dati &gt; {1}</string>
 	<string name="expTypeClientMatrix">E7 Matrice Clienti</string>
@@ -624,5 +626,6 @@
 	
 	<!-- 4.22 -->
 	<string name="commonTaskId">Lavoro ID</string>
-	
+	<string name="commonSpecific">Specifico</string>
+		
 </resources>
