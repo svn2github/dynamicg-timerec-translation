@@ -593,5 +593,6 @@
 	<!-- 4.22 -->
 	<string name="commonTaskId">Tâche ID</string>
 	<string name="commonSpecific">Spécifique</string>
+	<string name="prefsAutoBreakDeductCurrent">Appliquer à la journée en cours</string>
 	
 </resources>

@@ -615,7 +615,6 @@
 	<string name="commonForceDeletion">Force deletion</string>	
 	<string name="calSyncSingleBlock">Sync work units as one single event</string>
 	<string name="prefsRepPeriodWeeks">{2} {1}</string>
-	<string name="prefsAutoBreakDeductCurrent">Deduct from running total of current day</string>
 		
 	<!-- 4.21 -->
 	<string name="bckArchiveDataOlderCustom">Archivio di dati &gt; {1}</string>
@@ -627,5 +626,6 @@
 	<!-- 4.22 -->
 	<string name="commonTaskId">Lavoro ID</string>
 	<string name="commonSpecific">Specifico</string>
+	<string name="prefsAutoBreakDeductCurrent">Applicare al giorno corrente</string>
 		
 </resources>

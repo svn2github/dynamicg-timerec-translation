@@ -607,5 +607,6 @@
 	<!-- 4.22 -->
 	<string name="commonTaskId">Tarea ID</string>
 	<string name="commonSpecific">Específico</string>
-		
+	<string name="prefsAutoBreakDeductCurrent">Solicitar al día actual</string>
+	
 </resources>

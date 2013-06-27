@@ -593,5 +593,6 @@
 	<!-- 4.22 -->
 	<string name="commonTaskId">Tarefa ID</string>
 	<string name="commonSpecific">Específico</string>
+	<string name="prefsAutoBreakDeductCurrent">Aplicar para o dia atual</string>
 	
 </resources>
