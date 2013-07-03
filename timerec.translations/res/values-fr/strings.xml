@@ -595,4 +595,12 @@
 	<string name="commonSpecific">Spécifique</string>
 	<string name="prefsAutoBreakDeductCurrent">Appliquer à la journée en cours</string>
 	
+	<!-- 5.01 -->
+	<string name="widgetFree1x1">Gestion du temps 1x1</string>
+	<string name="widgetFree4x1">Gestion du temps 4x1</string>
+	<string name="widgetPro1x1">Gestion du temps Pro 1x1</string>
+	<string name="widgetPro4x1">Gestion du temps Pro 4x1</string>
+	<string name="expPreviewApp">Preview app</string>
+	<string name="commonShowActions">Show actions</string>
+			
 </resources>

@@ -627,5 +627,13 @@
 	<string name="commonTaskId">Lavoro ID</string>
 	<string name="commonSpecific">Specifico</string>
 	<string name="prefsAutoBreakDeductCurrent">Applicare al giorno corrente</string>
-		
+	
+	<!-- 5.01 -->
+	<string name="widgetFree1x1">Registra Orari 1x1</string>
+	<string name="widgetFree4x1">Registra Orari 4x1</string>
+	<string name="widgetPro1x1">Registra Orari Pro 1x1</string>
+	<string name="widgetPro4x1">Registra Orari Pro 4x1</string>
+	<string name="expPreviewApp">Preview app</string>
+	<string name="commonShowActions">Show actions</string>
+			
 </resources>

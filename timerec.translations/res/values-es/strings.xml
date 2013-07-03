@@ -608,5 +608,13 @@
 	<string name="commonTaskId">Tarea ID</string>
 	<string name="commonSpecific">Específico</string>
 	<string name="prefsAutoBreakDeductCurrent">Solicitar al día actual</string>
-	
+
+	<!-- 5.01 -->
+	<string name="widgetFree1x1">Hojas de Tiempos 1x1</string>
+	<string name="widgetFree4x1">Hojas de Tiempos 4x1</string>
+	<string name="widgetPro1x1">Hojas de Tiempos Pro 1x1</string>
+	<string name="widgetPro4x1">Hojas de Tiempos Pro 4x1</string>
+	<string name="expPreviewApp">Preview app</string>
+	<string name="commonShowActions">Show actions</string>
+		
 </resources>
