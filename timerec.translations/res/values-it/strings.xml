@@ -633,7 +633,7 @@
 	<string name="widgetFree4x1">Registra Orari 4x1</string>
 	<string name="widgetPro1x1">Registra Orari Pro 1x1</string>
 	<string name="widgetPro4x1">Registra Orari Pro 4x1</string>
-	<string name="expPreviewApp">Preview app</string>
+	<string name="expPreviewApp">\u226a{1}\\u226b App</string>
 	<string name="commonShowActions">Show actions</string>
 			
 </resources>
