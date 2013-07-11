@@ -394,12 +394,6 @@
 	<string name="commonWidget">桌面插件</string>
 	<string name="commonNotificatioBar">通知栏</string>
 	<string name="widgetAppTitleShort">TR</string>
-	<string name="widgetTitleFrame">Time Recording (界面1)</string>
-	<string name="widgetTitleGloss">Time Recording (界面2)</string>
-	<string name="widgetTitleSlider">Time Recording (界面3)</string>
-	<string name="widgetTitleFramePro">Time Recording Pro (界面1)</string>
-	<string name="widgetTitleGlossPro">Time Recording Pro (界面2)</string>
-	<string name="widgetTitleSliderPro">Time Recording Pro (界面3)</string>
 	<string name="widgetPrefNotifBarActive">打卡时在通知栏显示图标</string>
 	<string name="widgetPrefNotifBarText">通知栏文字</string>
 	<string name="widgetPrefNotifBarHint">\u2192记号:$1=打卡时间, $2=合计, $3=任务</string>
@@ -552,7 +546,6 @@
     <string name="commonOnlineHelp">在线帮助</string>
     <string name="prefsMainAutoScroll">自动滚动到底部</string>
     <string name="expPrefsSaveFilters">保存筛选条件</string>
-    <string name="commonSyncTitle">在标题栏同步显示修改</string>
     
     <!-- 4.10 -->
     <string name="paidOt2Factor">倍数</string>

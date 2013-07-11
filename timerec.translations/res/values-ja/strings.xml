@@ -397,12 +397,6 @@
 <string name="commonWidget">ウィジェット</string>
 <string name="commonNotificatioBar">表示バー</string>
 	<string name="widgetAppTitleShort">TR</string>
-	<string name="widgetTitleFrame">Time Recording (Frame)</string>
-	<string name="widgetTitleGloss">Time Recording (Gloss)</string>
-	<string name="widgetTitleSlider">Time Recording (Slider)</string>
-	<string name="widgetTitleFramePro">Time Recording Pro (Frame)</string>
-	<string name="widgetTitleGlossPro">Time Recording Pro (Gloss)</string>
-	<string name="widgetTitleSliderPro">Time Recording Pro (Slider)</string>
 	<string name="widgetPrefNotifBarActive">チェックイン時のステータスバー表示</string>
 	<string name="widgetPrefNotifBarText">表示テキスト</string>
 	<string name="widgetPrefNotifBarHint">\u2192 プレースホルダー: $1=チェックインタイム, $2=合計, $3=タスク</string>
@@ -548,7 +542,6 @@
     <string name="commonOnlineHelp">オンラインヘルプ</string>
     <string name="prefsMainAutoScroll">自動スクロール</string>
     <string name="expPrefsSaveFilters">フィルターの保存</string>
-    <string name="commonSyncTitle">タイトルのシンク</string>
     <string name="paidOt2Factor">ファクター</string>
     <string name="commonRateButton">レート</string>
     <string name="commonExtras">エキストラ</string>

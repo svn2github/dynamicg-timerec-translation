@@ -340,13 +340,6 @@
 	<!-- =================================================================== -->
     
 	<string name="widgetAppTitleShort">RO</string>
-	<string name="widgetTitleFrame">Registra Orari (Frame)</string>
-	<string name="widgetTitleGloss">Registra Orari (Gloss)</string>
-	<string name="widgetTitleSlider">Registra Orari (Slider)</string>
-	<string name="widgetTitleFramePro">Registra Orari Pro (Frame)</string>
-	<string name="widgetTitleGlossPro">Registra Orari Pro (Gloss)</string>
-	<string name="widgetTitleSliderPro">Registra Orari Pro (Slider)</string>
-	
 	
 	<!-- =================================================================== -->
 	<!-- CHANGES FOR V2.03 -->
@@ -583,7 +576,6 @@
     <string name="commonContinueTask">Continua lavoro</string>
     <string name="commonOnlineHelp">Aiuto online</string>
     <string name="expPrefsSaveFilters">Salva filtri</string>
-    <string name="commonSyncTitle">Sincronizza titolo</string>
 	<string name="edtoolsGeoLocation">Aggiungi Tag Gps</string>
 	<string name="commonRetry">Riprova</string> <!-- "Try again" -->
 	<string name="domainMonthviewSemiM">Quindicinale</string>

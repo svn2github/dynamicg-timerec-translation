@@ -402,12 +402,6 @@
 	<string name="commonNotificatioBar">Barra de notificação</string>
 		
 	<string name="widgetAppTitleShort">RH</string>
-	<string name="widgetTitleFrame">Registro de Horários (Quadro)</string>
-	<string name="widgetTitleGloss">Registro de Horários (Vidro)</string>
-	<string name="widgetTitleSlider">Registro de Horários (Deslizante)</string>
-	<string name="widgetTitleFramePro">Registro de Horários Pro (Quadro)</string>
-	<string name="widgetTitleGlossPro">Registro de Horários Pro (Vidro)</string>
-	<string name="widgetTitleSliderPro">Registro de Horários Pro (Deslizante)</string>
 	<string name="widgetPrefNotifBarActive">Notificação na Barra de Status quando checado</string>
 	<string name="widgetPrefNotifBarText">Texto de notificação</string>
 	<string name="widgetPrefNotifBarHint">\u2192 Espaço reservado: $1=tempo de check-in, $2=total, $3=tarefa</string>
@@ -568,7 +562,6 @@
     <string name="commonContinueTask">Continuar tarefa</string>
     <string name="commonOnlineHelp">Ajuda Online</string>
     <string name="expPrefsSaveFilters">Salvar os filtros</string>
-    <string name="commonSyncTitle">Sincronizar título</string>
 	<string name="edtoolsGeoLocation">Adicionar localização</string>
 	<string name="commonRetry">Tentar novament</string> <!-- "Try again" -->
 	<string name="domainMonthviewSemiM">Bimensal</string>

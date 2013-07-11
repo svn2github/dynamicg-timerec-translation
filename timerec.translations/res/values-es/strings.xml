@@ -341,13 +341,6 @@
 	<!-- =================================================================== -->
 	
 	<string name="widgetAppTitleShort">HT</string>
-	<string name="widgetTitleFrame">Hojas de Tiempos (Frame)</string>
-	<string name="widgetTitleGloss">Hojas de Tiempos (Gloss)</string>
-	<string name="widgetTitleSlider">Hojas de Tiempos (Slider)</string>
-	<string name="widgetTitleFramePro">Hojas de Tiempos Pro (Frame)</string>
-	<string name="widgetTitleGlossPro">Hojas de Tiempos Pro (Gloss)</string>
-	<string name="widgetTitleSliderPro">Hojas de Tiempos Pro (Slider)</string>
-	
 	
 	<!-- =================================================================== -->
 	<!-- CHANGES FOR V2.03 -->
@@ -582,7 +575,6 @@
     <string name="commonContinueTask">Continuar tarea</string>
     <string name="commonOnlineHelp">Ayuda online</string>
     <string name="expPrefsSaveFilters">Guardar los filtros</string>
-    <string name="commonSyncTitle">Sincronizar el título</string>
     <string name="commonRateButton">Evaluar</string> <!-- as in "please rate the app" -->
     <string name="paidOt2Factor">Factor</string>
 	<string name="edtoolsGeoLocation">Añadir localización</string>

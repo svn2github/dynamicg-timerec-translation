@@ -379,12 +379,6 @@
 	<string name="commonNotificatioBar">Barre de notification</string>
 		
 	<string name="widgetAppTitleShort">GT</string>
-	<string name="widgetTitleFrame">Gestion du temps (Frame)</string>
-	<string name="widgetTitleGloss">Gestion du temps (Gloss)</string>
-	<string name="widgetTitleSlider">Gestion du temps (Slider)</string>
-	<string name="widgetTitleFramePro">Gestion du temps Pro (Frame)</string>
-	<string name="widgetTitleGlossPro">Gestion du temps Pro (Gloss)</string>
-	<string name="widgetTitleSliderPro">Gestion du temps Pro (Slider)</string>
 	<string name="widgetPrefNotifBarActive">Notifier dans la barre de status</string>
 	<string name="widgetPrefNotifBarText">Texte notification</string>
 	<string name="widgetPrefNotifBarHint">\u2192 Espaces réservés: $1=HeureDébut, $2=total, $3=tâche</string>
@@ -567,7 +561,6 @@
     <string name="commonContinueTask">Continuer tâche</string>
     <string name="commonOnlineHelp">Aide en ligne</string>
     <string name="expPrefsSaveFilters">Sauver les filtres</string>
-    <string name="commonSyncTitle">Synchroniser titre</string>
     <string name="commonRateButton">Noter</string> <!-- as in "please rate the app" -->
     <string name="paidOt2Factor">Facteur</string>
 	<string name="edtoolsGeoLocation">Ajouter localisation</string>
