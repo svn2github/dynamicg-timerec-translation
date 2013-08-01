@@ -627,5 +627,9 @@
 	<string name="widgetPro4x1">Registra Orari Pro 4x1</string>
 	<string name="expPreviewApp">\u00ab{1}\u00bb App</string>
 	<string name="commonShowActions">Mostra azioni</string>
-			
+
+	<!-- 5.02 -->
+	<string name="commonGroupBy">Raggruppamento</string>
+	<string name="commonLineN">Linea {1}</string>
+
 </resources>

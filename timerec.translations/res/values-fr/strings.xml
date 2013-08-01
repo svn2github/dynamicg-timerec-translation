@@ -595,4 +595,8 @@
 	<string name="widgetPro4x1">Gestion du temps Pro 4x1</string>
 	<string name="commonShowActions">Montrez actions</string>
 			
+	<!-- 5.02 -->
+	<string name="commonGroupBy">Regroupement</string>
+	<string name="commonLineN">Ligne {1}</string>
+	
 </resources>

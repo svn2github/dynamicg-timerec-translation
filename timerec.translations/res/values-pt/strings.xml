@@ -594,5 +594,9 @@
 	<string name="widgetPro1x1">Registro de Horários Pro 1x1</string>
 	<string name="widgetPro4x1">Registro de Horários Pro 4x1</string>
 	<string name="commonShowActions">Mostrar ações</string>
-		
+
+	<!-- 5.02 -->
+	<string name="commonGroupBy">Agrupamento</string>
+	<string name="commonLineN">Linha {1}</string>
+	
 </resources>
