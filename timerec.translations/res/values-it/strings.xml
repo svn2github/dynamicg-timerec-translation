@@ -625,7 +625,7 @@
 	<string name="widgetFree4x1">Registra Orari 4x1</string>
 	<string name="widgetPro1x1">Registra Orari Pro 1x1</string>
 	<string name="widgetPro4x1">Registra Orari Pro 4x1</string>
-	<string name="expPreviewApp">\u00ab{1}\u00bb App</string>
+	<string name="expCustomDefaultApp">\u00ab{1}\u00bb App</string>
 	<string name="commonShowActions">Mostra azioni</string>
 
 	<!-- 5.02 -->
