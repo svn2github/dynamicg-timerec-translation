@@ -607,6 +607,7 @@
 	<string name="commonForceDeletion">Force deletion</string>	
 	<string name="calSyncSingleBlock">Sync work units as one single event</string>
 	<string name="prefsRepPeriodWeeks">{2} {1}</string>
+	<string name="commonExclude">Exclude \u00ab{1}\u00bb</string>
 		
 	<!-- 4.21 -->
 	<string name="bckArchiveDataOlderCustom">Archivio di dati &gt; {1}</string>
@@ -631,5 +632,10 @@
 	<!-- 5.02 -->
 	<string name="commonGroupBy">Raggruppamento</string>
 	<string name="commonLineN">Linea {1}</string>
+	<string name="expTypeWorktimeOverview">E8 {1}</string>
 
+	<!-- 5.02 en/de only -->
+	<string name="promoTitle"></string>
+	<string name="promoBody"></string>
+		
 </resources>
