@@ -1,0 +1,9 @@
+#
+# <VERSION:02>
+# Format: UNIQUE_ID | NAME | CUSTOMER | HOURLY_RATE | ACTIVE [0/1] | FIXED_AMOUNT_PER_UNIT | FIXED_AMOUNT_PER_DAY | UNPAID [0/1] | NO_TARGET_TIME [0/1]
+# All fields except NAME can be left empty on new entries.
+# Do not change IDs of tasks already in use!
+#
+1,AAA,Test,0.0,1,0.0,0.0,0,0
+2,BBB,Test,0.0,1,0.0,0.0,0,0
+3,CCC,,0.0,0,0.0,0.0,0,0
