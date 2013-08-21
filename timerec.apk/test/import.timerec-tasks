@@ -4,6 +4,20 @@
 # All fields except NAME can be left empty on new entries.
 # Do not change IDs of tasks already in use!
 #
-1,AAA,Test,0.0,1,0.0,0.0,0,0
-2,BBB,Test,0.0,1,0.0,0.0,0,0
-3,CCC,,0.0,0,0.0,0.0,0,0
+20,Day Off (30-07-01/12-12-31),Admin Tasks,0.0,1,0.0,0.0,0,0
+2,DGApps Bug Fixes,Local,0.0,1,0.0,0.0,0,0
+5,DGApps Planning,Local,20.0,1,0.0,0.0,0,0
+4,DGApps Admin,DGApps,-20.0,1,0.0,0.0,0,0
+1,DGApps New Features,DGApps,0.0,1,0.0,0.0,0,0
+3,DGApps Support,Local,0.0,1,0.0,0.0,0,0
+60,TargetOff,,0.0,1,0.0,0.0,0,1
+75,Inactive,,0.0,0,0.0,0.0,0,0
+76,T1,,0.0,1,0.0,0.0,0,0
+77,T2,,0.0,1,0.0,0.0,0,0
+78,T3,,0.0,1,0.0,0.0,0,0
+79,Taa,,0.0,1,0.0,0.0,0,0
+80,Tbb,,0.0,1,0.0,0.0,0,0
+81,Tcc,,0.0,1,0.0,0.0,0,0
+82,Tdd,,0.0,1,0.0,0.0,0,0
+83,Tzz_-_Test,,0.0,1,0.0,0.0,0,0
+84,Txx_-_Test,,0.0,1,0.0,0.0,0,0
