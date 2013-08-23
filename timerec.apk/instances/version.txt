@@ -1,7 +1,12 @@
-<version>133</version>       ## for devices<android 4
+<version>133</version>       ## for devices < android 4
 <versionICS>135</versionICS> ## for ICS++
 
 # --currently deployed--
-# version: 135 / 4.22
+# Android 4++ version: 204 / 5.02
+# svn revision: from tag
+# date: 2013/08/23
+#
+# legacy version: 135 / 4.22
 # svn revision: from tag
 # date: 2013/06/02
+#
