@@ -604,5 +604,6 @@
 	<string name="catEdExtra2Short">Extra2</string>
 	<string name="catEdExtra1Long">Tâche Extra 1</string>
 	<string name="catEdExtra2Long">Tâche Extra 2</string>
-	
+	<string name="calSyncForceSync">Synchroniser entrées existantes</string>
+
 </resources>

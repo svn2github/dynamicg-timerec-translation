@@ -617,5 +617,6 @@
 	<string name="catEdExtra2Short">Extra2</string>
 	<string name="catEdExtra1Long">Tarea Extra 1</string>
 	<string name="catEdExtra2Long">Tarea Extra 2</string>
-			
+	<string name="calSyncForceSync">Sincronizar las entradas existentes</string>
+
 </resources>

@@ -604,5 +604,6 @@
 	<string name="catEdExtra2Short">Extra2</string>
 	<string name="catEdExtra1Long">Tarefa Extra 1</string>
 	<string name="catEdExtra2Long">Tarefa Extra 2</string>
-	
+	<string name="calSyncForceSync">Sincronizar entradas existentes</string>
+
 </resources>
