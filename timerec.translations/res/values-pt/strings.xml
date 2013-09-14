@@ -599,4 +599,10 @@
 	<string name="commonGroupBy">Agrupamento</string>
 	<string name="commonLineN">Linha {1}</string>
 	
+	<!-- 5.03 -->
+	<string name="catEdExtra1Short">Extra1</string>
+	<string name="catEdExtra2Short">Extra2</string>
+	<string name="catEdExtra1Long">Tarefa Extra 1</string>
+	<string name="catEdExtra2Long">Tarefa Extra 2</string>
+	
 </resources>
