@@ -254,7 +254,6 @@
     <string name="categorySelectNextCategory">次のタスクの選択</string>
     <string name="categoryHasChildrenCannotDelete">タスク選択済みです、消去してください！\'inactive\' にセットしてください。</string>
     <string name="categoryFilter">フィルター （タスク）</string>
-    <string name="categoryEditLink">タスク編集</string>
     <string name="categoryEditorHintMenu">\u2192 その他の機能についてはメニューをご覧下さい</string>
     <string name="categorySampleEntry1">クライアント1 - オンサイト</string>
     <string name="categorySampleEntry2">クライアント1 - リモートサポート</string>

@@ -252,7 +252,6 @@
     <string name="categorySelectNextCategory">Select next task</string>
     <string name="categoryHasChildrenCannotDelete">Task already used, cannot delete! Please set to \'inactive\' instead.</string>
     <string name="categoryFilter">Task filter</string>
-    <string name="categoryEditLink">Edit tasks</string>
     <string name="categoryEditorHintMenu">\u2192 See menu for more functions</string>
     <string name="categorySampleEntry1">Client 1 - On-site</string>
     <string name="categorySampleEntry2">Client 1 - Remote support</string>

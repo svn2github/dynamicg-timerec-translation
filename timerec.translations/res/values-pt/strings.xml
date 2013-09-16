@@ -255,7 +255,6 @@
     <string name="categorySelectNextCategory">Selecionar próxima tarefa</string>
     <string name="categoryHasChildrenCannotDelete">Tarefa já usada, não pode ser deletada! Por favor defina para \'inativa\'.</string>
     <string name="categoryFilter">Filtro de tarefa</string>
-    <string name="categoryEditLink">Editar tarefas</string>
     <string name="categoryEditorHintMenu">\u2192 Veja menu para mais informações</string>
     <string name="categorySampleEntry1">Cliente 1 - On-site</string>
     <string name="categorySampleEntry2">Cliente 1 - Suporte remoto</string>

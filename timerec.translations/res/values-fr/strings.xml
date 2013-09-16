@@ -244,7 +244,6 @@
     <string name="categorySelectNextCategory">Sélectionner tâche suiv.</string>
     <string name="categoryHasChildrenCannotDelete">Tâche déjà utilisée, effacement impossible! Mettez en \'inactif\' à la place.</string>
     <string name="categoryFilter">Filtrer tâches</string>
-    <string name="categoryEditLink">Editer tâches</string>
     <string name="categoryEditorHintMenu">\u2192 Ouvrez le menu pour accéder aux fonctions</string>
     <string name="categorySampleEntry1">Client 1 - Projet A</string>
     <string name="categorySampleEntry2">Client 1 - Projet B</string>

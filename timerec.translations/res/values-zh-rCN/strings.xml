@@ -251,7 +251,6 @@
     <string name="categorySelectNextCategory">选择下一个任务</string>
     <string name="categoryHasChildrenCannotDelete">不能删除含有记录的任务！请先\'归档\'</string>
     <string name="categoryFilter">任务筛选</string>
-    <string name="categoryEditLink">编辑任务</string>
     <string name="categoryEditorHintMenu">\u2192点击菜单键查看更多功能</string>
     <string name="categorySampleEntry1">客户1-本地</string>
     <string name="categorySampleEntry2">客户1-远程协助</string>

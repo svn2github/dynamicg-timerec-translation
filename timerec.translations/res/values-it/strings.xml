@@ -209,7 +209,6 @@
     <string name="categorySelectNextCategory">Seleziona prossimo lavoro</string>
     <string name="categoryHasChildrenCannotDelete">Lavoro già utilizzato, non può essere eliminato! Per favore, impostalo invece come \'inattivo\'.</string>
     <string name="categoryFilter">Filtro lavoro</string>
-    <string name="categoryEditLink">Cambia lavori</string>
     <string name="categoryEditorHintMenu">\u2192 clicca su Menu per le funzioni</string>
     <string name="categorySampleEntry1">Cliente 1 - Progetto A</string>
     <string name="categorySampleEntry2">Cliente 1 - Progetto B</string>
