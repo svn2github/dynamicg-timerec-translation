@@ -69,7 +69,7 @@
     <string name="commonEnabledOption">\'{1}\' ativado</string>
     <string name="commonActive">Ativo</string>
     <string name="commonActionEdit">Editar \'{1}\'</string>
-	<string name="commonSeeOnlineHelp">\u2192 Veja ajuda online</string>
+	<string name="commonSeeOnlineHelp">\u24D8 Veja ajuda online</string>
 	<string name="commonData">Dados</string>
 	<string name="commonCheckedIn">Checked in</string>
 	<string name="commonFile">Arquivo</string>

@@ -62,7 +62,7 @@
     <string name="commonEnabledOption">\'{1}\'をアクティブにする</string>
     <string name="commonActive">アクティブにする</string>
     <string name="commonActionEdit">編集 «{1}»</string>
-<string name="commonSeeOnlineHelp">\u2192 オンラインヘルプを見る</string>
+<string name="commonSeeOnlineHelp">\u24D8 オンラインヘルプを見る</string>
 <string name="commonData">データ</string>
 <string name="commonFile">ファイル</string>
 <string name="commonOpenWith">を使用して開く</string>

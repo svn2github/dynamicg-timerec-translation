@@ -394,7 +394,7 @@
 	<string name="marketAppMissing">Se necesita otra aplicación. «Pulsar para descargar»</string>
 	<string name="marketPluginMissing">Se necesita otra aplicación. «Pulsar para descargar»</string>
 		
-	<string name="commonSeeOnlineHelp">\u2192 Ver ayuda online</string>
+	<string name="commonSeeOnlineHelp">\u24D8 Ver ayuda online</string>
 	<string name="expPrefsAmtWithCurrency">Mostrar moneda en cantidades</string>
 	
 	<string name="commonPreviouslyUsed">Anteriormente usado</string>

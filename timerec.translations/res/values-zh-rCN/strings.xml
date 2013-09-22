@@ -65,7 +65,7 @@
     <string name="commonEnabledOption">显示\'{1}\'</string>
     <string name="commonActive">激活</string>
     <string name="commonActionEdit">编辑 \'{1}\'</string>
-	<string name="commonSeeOnlineHelp">\u2192 查看在线帮助</string>
+	<string name="commonSeeOnlineHelp">\u24D8 查看在线帮助</string>
 	<string name="commonData">数据</string>
 	<string name="commonFile">文件</string>
 	<string name="commonOpenWith">用...打开</string>

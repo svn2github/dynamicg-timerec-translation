@@ -395,7 +395,7 @@
 	<string name="marketAppMissing">Applicazione aggiuntiva necessaria. «Clicca qui per il download»</string>
 	<string name="marketPluginMissing">Applicazione aggiuntiva necessaria. «Clicca qui per il download»</string>
 		
-	<string name="commonSeeOnlineHelp">\u2192 Vedi aiuto online</string>
+	<string name="commonSeeOnlineHelp">\u24D8 Vedi aiuto online</string>
 	<string name="expPrefsAmtWithCurrency">Mostra valuta sugli importi</string>
 
 	<string name="commonPreviouslyUsed">Utilizzati in precedenza</string>
