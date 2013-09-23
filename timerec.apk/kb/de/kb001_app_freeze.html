@@ -1,0 +1,61 @@
+<html>
+ <head>
+  <title>Zeiterfassung</title>
+  <style>
+	body {
+	text-align: left;
+	background-color:#fff;
+	color: #333;
+	font-family: arial;
+	}
+  </style>
+ </head>
+<body>
+
+<!-- path: file:///C:/workspace/androidTR/timerec.apk/kb/de/kb001_app_freeze.html -->
+
+<h2>Zeiterfassung</h2>
+
+<b>Die App zeigt einen leeren oder schwarzen Schirm oder friert regelmässig ein.</b>
+
+<ol>
+
+<li>
+Prüfe den internen Telefonspeicher und stell sicher dass noch freier Speicherplatz vorhanden ist. Siehe "Speicherplatz" in den Android System-Einstellungen.
+Deinstalliere bei Bedarf ungenutze Apps falls der Speicher voll ist.
+</li>
+
+<li>
+Falls auf der Gratis-Version: stell sicher dass die App *nicht* auf der SD-Karte installiert ist ("App2SD").
+</li>
+
+<li>
+Mache einen Backup innerhalb der App (Einstellungen Seite 1). Danach die App löschen und neu installieren.
+</li>
+<li>
+Alternativ zu (3) versuche die neuste Version der App manuell neu zu installieren. Benutze die APK Datei von  
+<a href="https://dynamicg-timerec.googlecode.com/svn/trunk/timerec.apk/appstore/timerecording">hier</a> (für Android 4++ Geräte)
+oder 
+<a href="https://dynamicg-timerec.googlecode.com/svn/trunk/timerec.apk/appstore/timerec-legacy">hier</a> (für ältere Geräte die noch auf Android 2 laufen)
+</li>
+
+<li>
+Falls (3) und (4) nichts nützen:
+<br>a. Die App schreibt tägliche Backups auf die SD Karte. Prüfe den Ordner <b>/sdcard/dynamicg/backup</b> bzw. <b>/sdcard/dynamicg/backup-pro</b>.
+um sicherzustellen dass dort aktuelle Dateien vorhanden sind (sortiere nach "Dateidatum").
+<br>b. Wenn (a) okay ist mache einen Deinstall der App, danach die App wieder über Google Play Store installieren.
+Beim ersten Start danach wird die App die Daten und EInstellungen wiederherstellen.
+</li>
+
+<li>
+Falls auf der Gratis-Version: Verwende den Knopf "Webung ausschalten" auf Einstellungen Seite 1 ganz unten
+ - wir hatten einige Fälle auf Android 2 Geräten wo das Laden der Werbung die gesamte App blockiert hat :-( 
+<br/>
+Falls "Werbung auschalten" das Problem löst dann überlege dir allenfalls auf die werbefreie Pro-Version zu wechseln. 
+</li>
+
+</ol>
+
+
+</body
+</html>
