@@ -1,0 +1,53 @@
+<html>
+ <head>
+  <title>Time Recording</title>
+  <style>
+	body {
+	text-align: left;
+	background-color:#fff;
+	color: #333;
+	font-family: arial;
+	}
+  </style>
+ </head>
+<body>
+
+<!-- path: file:///C:/workspace/androidTR/timerec.apk/kb/en/kb006_merge_backups.html -->
+
+<h2>Time Recording</h2>
+
+<b>Merge backup files, or merge "Archive" into live data</b>
+
+<br/><br/>
+
+While officially not supported there's a hidden feature to merge two or more backups into one "live" data set, or to move previously archived data back into the live data set:
+<br/><br/>
+
+1. Before proceeding do a fresh backup. Note this is very important - if subsequent steps fail you will need to roll back to this one.
+<br/><br/>
+
+2a. Go to "Preferences / Advanced / App Info" and click on the "Tweaks" text.
+<br/>
+
+2b. Click the "Copy all to archive" button.
+<br/>
+
+2c. If only restoring "Archive" into the live data set skip step 3 and continue with step 4.
+<br/>
+
+<br/>
+
+3. For each backup file you want to merge:
+<br/>• do a data restore of that backup on this device (typically: copy the "timerec.db.gz" file to the SD Card and use "Preferences / Restore / Restore backup")
+<br/>• repeat steps 2a and 2b
+<br/>Note: if the backup sets have overlapping entries (i.e. different entries on the same day), later "Copy all to archive" will overwrite previous entries 
+
+<br/>
+
+=&gt; After completion of step 3 the "Archive" contains all entries of all data backup sets. 
+<br/><br/>
+
+4. Open the "Tweaks" page from step 2a again and click "Replace Live-DB with Archive". 
+<br/>=&gt; All data is now copied back into the "live" database. Go to the "Month" view and validate. 
+<br/><br/>
+
