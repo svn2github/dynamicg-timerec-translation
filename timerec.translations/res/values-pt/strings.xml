@@ -605,4 +605,7 @@
 	<string name="catEdExtra2Long">Tarefa Extra 2</string>
 	<string name="calSyncForceSync">Sincronizar entradas existentes</string>
 
+	<!-- 5.04 -->
+	<string name="commonCategoryLabel">Título da tarefa</string>
+		
 </resources>

@@ -643,6 +643,7 @@
 	<string name="catEdExtra1Short">Extra1</string>
 	<string name="catEdExtra2Short">Extra2</string>
 	<string name="calSyncForceSync">Sincronizzare le voci esistenti</string>
+	<string name="commonCategoryLabel">Titolo dei lavori</string>
 	
 	<!-- 5.03 ##PENDING## -->
 	<string name="categoryEditHeaderTimeCumulationOff">No time\ncumulation</string>
