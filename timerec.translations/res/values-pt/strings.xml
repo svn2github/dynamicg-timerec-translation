@@ -114,7 +114,7 @@
 	<string name="prefsShortTab4">Data,Hora</string>
 	<string name="prefsShortTracking">Rastreamento</string>
 	<string name="prefsGroupInterface">Interface</string>
-	<string name="prefsWeekdayTargetTime">Sobrescrever tempo alvo por semana</string>
+	<string name="prefsWeekdayTargetTime">Sobrescrever tempo alvo por dias</string>
     <string name="prefsGroupFormatOptions">Opções de formatação</string>
     <string name="prefsGroupCalendar">Calendário</string>
     <string name="prefsWeeklyTargetTime">Tempo alvo semanal</string>
@@ -607,5 +607,6 @@
 
 	<!-- 5.04 -->
 	<string name="commonCategoryLabel">Título da tarefa</string>
+	<string name="prefsOverrideWeeklyTarget">Sobrescrever tempo alvo por semana</string>
 		
 </resources>

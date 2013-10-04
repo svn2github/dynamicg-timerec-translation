@@ -106,7 +106,7 @@
     <string name="prefsTimePickerIncrement">\'Selector horario\' incremento en minutos</string>
 	<string name="prefsShortTracking">Seguimiento</string>
 	<string name="prefsGroupInterface">Interface</string>
-	<string name="prefsWeekdayTargetTime">Sobreescribir tiempo por semana</string>
+	<string name="prefsWeekdayTargetTime">Sobreescribir tiempo por dias</string>
     <string name="prefsGroupFormatOptions">Opciones de formato</string>
     <string name="prefsGroupCalendar">Calendario</string>
     <string name="prefsWeeklyTargetTime">Objetivo de tiempo semanal</string>
@@ -620,5 +620,6 @@
 	
 	<!-- 5.04 -->
 	<string name="commonCategoryLabel">Título de la tarea</string>
+	<string name="prefsOverrideWeeklyTarget">Sobreescribir tiempo por semana</string>
 
 </resources>

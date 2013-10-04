@@ -113,7 +113,7 @@
 	<string name="prefsShortTab4">Date,Heure</string>
 	<string name="prefsShortTracking">Suivi</string>
 	<string name="prefsGroupInterface">Interface</string>
-	<string name="prefsWeekdayTargetTime">Substituer la durée de travail par semaine</string>
+	<string name="prefsWeekdayTargetTime">Substituer la durée de travail par jour</string>
     <string name="prefsGroupFormatOptions">Options de format</string>
     <string name="prefsGroupCalendar">Calendrier</string>
     <string name="prefsWeeklyTargetTime">Durée de travail par semaine</string>
@@ -607,4 +607,6 @@
 
 	<!-- 5.04 -->
 	<string name="commonCategoryLabel">Titre des tâches</string>
+	<string name="prefsOverrideWeeklyTarget">Substituer la durée de travail par semaine</string>
+	
 </resources>
