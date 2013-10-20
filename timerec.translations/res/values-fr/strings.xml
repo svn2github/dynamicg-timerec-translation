@@ -609,4 +609,8 @@
 	<string name="commonCategoryLabel">Titre des tâches</string>
 	<string name="prefsOverrideWeeklyTarget">Substituer la durée de travail par semaine</string>
 	
+	<!-- 5.05 -->
+	<string name="commonNineEightyHint"></string>
+	<string name="templateTextConcat">\'Append\' text concatenation</string>
+		
 </resources>

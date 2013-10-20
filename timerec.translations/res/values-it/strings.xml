@@ -651,4 +651,8 @@
 	<!-- 5.03 ##PENDING## -->
 	<string name="categoryEditHeaderTimeCumulationOff">No time\ncumulation</string>
 	
+	<!-- 5.05 -->
+	<string name="commonNineEightyHint"></string>
+	<string name="templateTextConcat">\'Append\' text concatenation</string>
+		
 </resources>

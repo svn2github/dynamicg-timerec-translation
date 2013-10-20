@@ -608,5 +608,9 @@
 	<!-- 5.04 -->
 	<string name="commonCategoryLabel">Título da tarefa</string>
 	<string name="prefsOverrideWeeklyTarget">Sobrescrever tempo alvo por semana</string>
-		
+
+	<!-- 5.05 -->
+	<string name="commonNineEightyHint"></string>
+	<string name="templateTextConcat">\'Append\' text concatenation</string>
+	
 </resources>

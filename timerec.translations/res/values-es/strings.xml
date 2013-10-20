@@ -622,4 +622,8 @@
 	<string name="commonCategoryLabel">Título de la tarea</string>
 	<string name="prefsOverrideWeeklyTarget">Sobreescribir tiempo por semana</string>
 
+	<!-- 5.05 -->
+	<string name="commonNineEightyHint"></string>
+	<string name="templateTextConcat">\'Append\' text concatenation</string>
+		
 </resources>
