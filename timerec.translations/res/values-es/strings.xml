@@ -624,6 +624,6 @@
 
 	<!-- 5.05 -->
 	<string name="commonNineEightyHint"></string>
-	<string name="templateTextConcat">\'Append\' text concatenation</string>
+	<string name="templateTextConcat">\'Añadir\' concatenación</string>
 		
 </resources>
