@@ -126,8 +126,6 @@
 	<string name="prefsDomRoundStd">Turno</string>
 	<string name="prefsDomRoundUp">Turno su</string>
 	<string name="prefsDomRoundDown">Turno giu</string>
-	<string name="prefsDomRoundInUpOutDown">Inizio=su, Fine=giu</string>
-	<string name="prefsDomRoundInDownOutUp">Inizio=giu, Fine=su</string>
 	<string name="prefsProOnlyFeature">\u2192 Questa è una funzione disponibile \"solo nella versione Pro\"</string>
 	
     <string name="stdStampTitle">Pause &amp; blocchi</string>

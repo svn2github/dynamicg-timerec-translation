@@ -134,8 +134,6 @@
 	<string name="prefsDomRoundStd">Arrondi</string>
 	<string name="prefsDomRoundUp">Arrondir au dessus</string>
 	<string name="prefsDomRoundDown">Arrondir en dessous</string>
-	<string name="prefsDomRoundInUpOutDown">In=Haut, Out=Bas</string>
-	<string name="prefsDomRoundInDownOutUp">In=Bas, Out=Haut</string>
 	<string name="prefsProOnlyFeature">\u2192 Option disponible seulement sur la \"Version Pro\"</string>
 	<string name="prefsPunchRoundTaskSwitch">Appliquer aussi au \'Basculement de tâche\'</string>
 	<string name="prefsCalendarSyncGroup">Synchro Google calendar</string>
