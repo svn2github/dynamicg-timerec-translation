@@ -103,7 +103,7 @@
     <string name="prefsFirstDayOfMonth">Primer día de mes (1-31)</string>
     <string name="prefsAmountCurrencyString">Presentación Cantidad/moneda</string>
     <string name="prefsDailyTargetTime">Objetivo de tiempo diario</string>
-    <string name="prefsTimePickerIncrement">\'Selector horario\' incremento en minutos</string>
+    <string name="prefsTimePickerIncrement">Incremento en minutos</string>
 	<string name="prefsShortTracking">Seguimiento</string>
 	<string name="prefsGroupInterface">Interface</string>
 	<string name="prefsWeekdayTargetTime">Sobreescribir tiempo por dias</string>
