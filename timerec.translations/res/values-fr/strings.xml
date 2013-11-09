@@ -109,7 +109,7 @@
     <string name="prefsFirstDayOfMonth">Premier jour du mois (1-31)</string>
     <string name="prefsAmountCurrencyString">Présentation Montant/Devise</string>
     <string name="prefsDailyTargetTime">Objectif durée jour</string>
-    <string name="prefsTimePickerIncrement">Valeur de l\'incrément dans \'Sélection heures-minutes\':</string>
+    <string name="prefsTimePickerIncrement">Incrémentation des minutes</string>
 	<string name="prefsShortTab4">Date,Heure</string>
 	<string name="prefsShortTracking">Suivi</string>
 	<string name="prefsGroupInterface">Interface</string>
