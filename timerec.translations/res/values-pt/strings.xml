@@ -612,5 +612,10 @@
 	<!-- 5.05 -->
 	<string name="commonNineEightyHint"></string>
 	<string name="templateTextConcat">\'Adicione\' concatenação</string>
-	
+
+	<!-- 5.06 -->
+    <string name="commonAlarmSettings">Configurações de alarme</string>
+    <string name="commonCopy">Copiar</string>
+    <string name="commonSortNoun">Ordenar</string>
+
 </resources>

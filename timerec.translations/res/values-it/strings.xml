@@ -654,5 +654,10 @@
 	<!-- 5.05 -->
 	<string name="commonNineEightyHint"></string>
 	<string name="templateTextConcat">\'Attacca\' concatenazione</string>
-		
+
+	<!-- 5.06 -->
+    <string name="commonAlarmSettings">Impostazioni di allarme</string>
+    <string name="commonCopy">Copiare</string>
+    <string name="commonSortNoun">Ordinamento</string>
+
 </resources>
