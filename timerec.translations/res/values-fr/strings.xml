@@ -614,7 +614,7 @@
 	<string name="templateTextConcat">\'Ajouter\' concaténation</string>
 	
 	<!-- 5.06 -->
-    <string name="commonAlarmSettings">Réglages d'alarme</string>
+    <string name="commonAlarmSettings">Réglages d\'alarme</string>
     <string name="commonCopy">Copier</string>
     <string name="commonSortNoun">Triage</string>
     
