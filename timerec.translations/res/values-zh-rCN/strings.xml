@@ -170,7 +170,6 @@
     <string name="dailyTargetOptOvertime">记为加班</string>
     <string name="dailyTargetReachedAtLabel">目标将完成于{1}</string>
     <string name="dailyTargetReachedAtPref">显示\'目标将完成于\'</string>
-    <string name="dailyTargetReachedAtHint">\u2192注意:这将会考虑\'自动间歇\'占用的时间</string>
     
     <string name="sendMailIntentTitle">发送邮件</string>
     <string name="exportMailTitle">Time Recording报告{3},{1}</string>

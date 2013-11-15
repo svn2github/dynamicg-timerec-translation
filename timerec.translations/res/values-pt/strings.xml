@@ -173,7 +173,6 @@
     <string name="dailyTargetOptOvertime">Livro de horas extras</string>
     <string name="dailyTargetReachedAtLabel">Limite alcançado em {1}</string>
     <string name="dailyTargetReachedAtPref">Exibir \'Limite alcançado em\'</string>
-    <string name="dailyTargetReachedAtHint">\u2192 Note que isso irá gerar \'Quebras Automáticas\' na sua conta</string>
     
     <string name="sendMailIntentTitle">Enviar email</string>
     <string name="exportMailTitle">Registro de Horários Exportação de Dados {3}, {1}</string>

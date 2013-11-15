@@ -414,7 +414,6 @@
 	
 	<string name="dailyTargetReachedAtLabel">Destino alcanzado a {1}</string>
 	<string name="dailyTargetReachedAtPref">Ver \'Destino alcanzado\'</string>
-	<string name="dailyTargetReachedAtHint">\u2192 Esto provocará \'Cortes automáticos\' dentro de la cuenta</string>
 	
 	<string name="domainDateDashYMD">(Año)-Mes-Día</string>
 	<string name="dstorMoveToSdcardWarn">Advertencia: Almacenar en la SD no es recomendable. Podrás tener errores \'lectura\' , o (en raros casos) pérdida de ficheros.</string>

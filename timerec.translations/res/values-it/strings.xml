@@ -415,7 +415,6 @@
 	
 	<string name="dailyTargetReachedAtLabel">Obiettivo raggiunto alle {1}</string>
 	<string name="dailyTargetReachedAtPref">Mostra \'Obiettivo raggiunto alle\'</string>
-	<string name="dailyTargetReachedAtHint">\u2192 Nota che questo inserirà \'Pause automatiche\' nell\'account</string>
 	
 	<string name="domainDateDashYMD">(Anno)-Mese-Giorno</string>
 	<string name="dstorMoveToSdcardWarn">Attenzione: la memorizzazione sulla scheda SD *non* è raccommandata. Potresti ricevere errori all\'acceso USB e problemi di \'sola lettura\' o (in casi rari) l\'eliminazione dei files di dati.</string>

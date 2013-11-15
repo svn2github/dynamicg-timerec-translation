@@ -402,7 +402,6 @@
 	
 	<string name="dailyTargetReachedAtLabel">Objectif atteint à {1}</string>
 	<string name="dailyTargetReachedAtPref">Afficher \'Objectif atteint à\'</string>
-	<string name="dailyTargetReachedAtHint">\u2192 Noter que cela prendra en compte les \'Pauses automatiques\'</string>
 	
 	<string name="domainDateDashYMD">(Année)-Mois-Jour</string>
 	<string name="dstorMoveToSdcardWarn">Attention: Le stockage sur carte SD n\'est *pas* recommandé. Vous pourriez rencontrer des pbs d\'accès USB en lecture seule, ou (dans de rares cas) l\'effacement des fichiers de données.</string>

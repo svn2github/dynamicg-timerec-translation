@@ -166,7 +166,6 @@
     <string name="dailyTargetOptOvertime">オーバータイムとしてつける</string>
     <string name="dailyTargetReachedAtLabel">達成目標 {1}</string>
     <string name="dailyTargetReachedAtPref">\'達成目標\'を見せる</string>
-    <string name="dailyTargetReachedAtHint">\u2192 注意：これは\'自動ブレイク\' を考慮する</string>
     <string name="sendMailIntentTitle">emailの送信</string>
     <string name="exportMailTitle">Time recording レポート</string>
     <string name="exportMailBody">{title}\ncreated on {2}</string>
