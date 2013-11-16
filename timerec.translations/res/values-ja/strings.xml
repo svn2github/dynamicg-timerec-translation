@@ -519,6 +519,7 @@
     <string name="prefsBackupAndRestore">バックアップと復元</string>
     <string name="commonBreakOver">ブレイクの終了</string>
     <string name="commonTargetReached">目標達成</string>
+    <string name="commonWeeklyTargetReached">目標達成</string>
     <string name="timeReachedAlarmSettings">\'{1}\' アラーム設定</string>
     <string name="timeReachedNotification">{1} at {2}</string>
     <string name="alertNotificationSoundOnce">通知音 （1回）</string>

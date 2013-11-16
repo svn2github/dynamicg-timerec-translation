@@ -517,6 +517,7 @@
     <!-- 4.05 -->
     <string name="commonBreakOver">休息结束</string>
     <string name="commonTargetReached">目标完成</string>
+    <string name="commonWeeklyTargetReached">目标完成</string>
     <string name="timeReachedAlarmSettings">设置\'{1}\'提醒</string>
     <string name="timeReachedNotification">{2}{1}</string>
     
