@@ -265,7 +265,6 @@
     <string name="errorCalSyncFailed">La Synchro avec Calendar a échoué</string>
     <string name="errorCloudAccessFailed">L\'accès {1} a échoué</string>
 
-    <string name="aboutPublicServices">Public App services</string> 
     <string name="aboutPro">Version Pro</string>
 	<string name="aboutAvailableHere">\'{1}\' disponible ici</string> 
 

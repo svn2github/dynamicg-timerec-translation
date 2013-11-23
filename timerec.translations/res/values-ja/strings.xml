@@ -280,7 +280,6 @@
     <string name="errorCalSyncFailed">カレンダーの同期のフェイル</string>
     <string name="errorCloudAccessFailed">アクセスフェイル</string>
 
-    <string name="aboutPublicServices">Public App services</string> 
     <string name="aboutPro">Pro version</string>
 	<string name="aboutAvailableHere">«{1}» はこちらでお求めいただけます</string> 
 

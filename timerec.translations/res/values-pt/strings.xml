@@ -284,7 +284,6 @@
     <string name="errorCalSyncFailed">Sincronização com a agenda falhou</string>
     <string name="errorCloudAccessFailed">Falha ao acessar o {1}</string>
 
-    <string name="aboutPublicServices">Serviços Públicos da App</string> 
     <string name="aboutPro">Pro</string>
 	<string name="aboutAvailableHere">\'{1}\' disponível aqui</string> 
 

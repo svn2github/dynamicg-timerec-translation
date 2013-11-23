@@ -228,7 +228,7 @@
     <string name="errorCannotStartNewTask">Già iniziato alle {1}, adesso non può essere iniziato un altro lavoro</string>
     <string name="errorSdCardAccess">Errore di accesso su Card SD</string>
 
-    <string name="aboutPublicServices">Servizi pubblici dell\'App</string> 
+    <string name="aboutPublicServices">API Services</string> 
     <string name="aboutPro">Versione Pro</string>
 	<string name="aboutAvailableHere">\'{1}\' disponibile qua</string> 
 

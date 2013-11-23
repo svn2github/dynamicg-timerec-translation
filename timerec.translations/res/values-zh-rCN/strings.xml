@@ -280,7 +280,6 @@
     <string name="errorCalSyncFailed">日历同步失败</string>
     <string name="errorCloudAccessFailed">{1}读取失败</string>
 
-    <string name="aboutPublicServices">Public App services</string> 
     <string name="aboutPro">Pro</string>
 	<string name="aboutAvailableHere">\'{1}\'请点击</string> 
 

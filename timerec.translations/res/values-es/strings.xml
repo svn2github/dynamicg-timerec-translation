@@ -229,7 +229,6 @@
     <string name="errorCannotStartNewTask">Ya se ha registrado {1}, no puede iniciar una nueva tarea aún</string>
     <string name="errorSdCardAccess">Error en tarjeta SD</string>
 
-    <string name="aboutPublicServices">Servicios de App Públicas</string>
     <string name="aboutPro">Pro</string>
 	<string name="aboutAvailableHere">\'{1}\' disponibles aquí</string> 
 
