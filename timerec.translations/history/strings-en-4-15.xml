@@ -573,7 +573,6 @@
     <!-- 4.11 -->
     <!-- removed "expPrefsShowAggregatedTasks" -->
     <!-- naming on "expPrefsShowCustomer" -->
-    <string name="commonExtras">Extras</string>
 
     <!-- remove alertNotificationAppVibra -->
     <!-- renaming: marketAppMissing, marketPluginMissing -->

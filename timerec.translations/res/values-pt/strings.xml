@@ -529,7 +529,6 @@
     <string name="cloudProviderDropbox">Dropbox</string>
     <string name="cloudProviderGoogleDrive">Google Drive</string>
     <string name="commonAuto">Auto</string> <!-- automatic -->
-    <string name="commonExtras">Extra</string>
     
     <!-- 4.15/TRANSLATED -->
     <string name="worktimeExceededLabel">Alarme se tempo de trabalho diário > x horas</string>

@@ -540,7 +540,6 @@
     <string name="expPrefsSaveFilters">フィルターの保存</string>
     <string name="paidOt2Factor">ファクター</string>
     <string name="commonRateButton">レート</string>
-    <string name="commonExtras">エキストラ</string>
 	<string name="edtoolsGeoLocation">住所を追加する</string>
 	<string name="domainMonthviewSemiM"></string>
 	<string name="prefsFirstDayOfPeriodN">期間の初日{1} (1-31)</string>

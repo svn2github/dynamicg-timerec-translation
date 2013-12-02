@@ -548,7 +548,6 @@
     <string name="commonRateButton">评分</string> <!-- "Please rate the app" -->
     
     <!-- 4.11 -->
-    <string name="commonExtras">其他</string>
 	<string name="edtoolsGeoLocation">添加地理位置</string>
     
 	<!-- 4.12 -->
