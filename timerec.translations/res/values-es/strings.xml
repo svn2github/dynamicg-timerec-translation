@@ -529,7 +529,7 @@
 	<string name="commonShort">Corta</string>
 	<string name="prefsReportingPeriod">Periodo de informar</string>
 	<string name="prefsBackupAndRestore">Copia seguridad &amp; restaurar</string> <!-- "Backup & restore" -->
-	<string name="commonBreakOver">Pausa terminada</string>
+	<string name="alarmLabelBreakNowOver">Pausa terminada</string>
 	<string name="alarmLabelDailyTarget">Destino alcanzado</string>
 	<string name="alarmLabelWeeklyTarget">Destino alcanzado</string>
 	<string name="timeReachedAlarmSettings">\'{1}\' configuración de la alarma</string>

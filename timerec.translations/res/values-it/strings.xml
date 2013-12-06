@@ -531,7 +531,7 @@
 	<string name="commonShort">Breve</string>
 	<string name="prefsReportingPeriod">Periodo di riepilogo</string>
 	<string name="prefsBackupAndRestore">Backup &amp; Ripristina</string> <!-- "Backup & restore" -->
-	<string name="commonBreakOver">Fine pausa</string>
+	<string name="alarmLabelBreakNowOver">Fine pausa</string>
 	<string name="alarmLabelDailyTarget">Obiettivo raggiunto</string>
 	<string name="alarmLabelWeeklyTarget">Obiettivo raggiunto</string>
 	<string name="timeReachedAlarmSettings">\'{1}\' impostazioni di allarme</string>

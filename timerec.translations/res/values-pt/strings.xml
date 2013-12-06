@@ -516,7 +516,7 @@
     <string name="autoBreakSkipWhenOff">Passar se fora da janela de tempo</string>
 	<string name="commonWorktimeOverview">Revisão do tempo de trabalho</string>
 	<string name="commonShort">Ordenar</string>
-    <string name="commonBreakOver">Romper</string>
+    <string name="alarmLabelBreakNowOver">Romper</string>
     <string name="alarmLabelDailyTarget">Alvo alcançado</string>
     <string name="alarmLabelWeeklyTarget">Alvo alcançado</string>
     <string name="timeReachedAlarmSettings">\'{1}\' configurações de alarme</string>

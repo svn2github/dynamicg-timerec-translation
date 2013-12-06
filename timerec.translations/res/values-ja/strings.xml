@@ -516,7 +516,7 @@
 	<string name="expPrefsIsoDateFormat">YYYY/MM/DD</string>
     <string name="prefsReportingPeriod">レポート期間</string>
     <string name="prefsBackupAndRestore">バックアップと復元</string>
-    <string name="commonBreakOver">ブレイクの終了</string>
+    <string name="alarmLabelBreakNowOver">ブレイクの終了</string>
     <string name="alarmLabelDailyTarget">目標達成</string>
     <string name="alarmLabelWeeklyTarget">目標達成</string>
     <string name="timeReachedAlarmSettings">\'{1}\' アラーム設定</string>

@@ -517,7 +517,7 @@
 	<string name="commonShort">Court</string>
 	<string name="prefsReportingPeriod">Période du rapport</string>
 	<string name="prefsBackupAndRestore">Sauvegarder &amp; restaurer</string> <!-- "Backup & restore" -->
-	<string name="commonBreakOver">Pause</string>
+	<string name="alarmLabelBreakNowOver">Pause</string>
 	<string name="alarmLabelDailyTarget">Objectif atteint</string>
 	<string name="alarmLabelWeeklyTarget">Objectif atteint</string>
 	<string name="timeReachedAlarmSettings">Paramétrage alarme \'{1}\'</string>
