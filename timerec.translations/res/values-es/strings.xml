@@ -530,8 +530,8 @@
 	<string name="prefsReportingPeriod">Periodo de informar</string>
 	<string name="prefsBackupAndRestore">Copia seguridad &amp; restaurar</string> <!-- "Backup & restore" -->
 	<string name="commonBreakOver">Pausa terminada</string>
-	<string name="commonTargetReached">Destino alcanzado</string>
-	<string name="commonWeeklyTargetReached">Destino alcanzado</string>
+	<string name="alarmLabelDailyTarget">Destino alcanzado</string>
+	<string name="alarmLabelWeeklyTarget">Destino alcanzado</string>
 	<string name="timeReachedAlarmSettings">\'{1}\' configuración de la alarma</string>
 	<string name="timeReachedNotification">{1} a las {2}</string> <!-- sample: "Break over at 17:45" -->
 	<string name="alertNotificationSoundOnce">Sonido Notificación (único)</string>

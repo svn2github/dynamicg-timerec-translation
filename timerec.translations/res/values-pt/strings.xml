@@ -517,8 +517,8 @@
 	<string name="commonWorktimeOverview">Revisão do tempo de trabalho</string>
 	<string name="commonShort">Ordenar</string>
     <string name="commonBreakOver">Romper</string>
-    <string name="commonTargetReached">Alvo alcançado</string>
-    <string name="commonWeeklyTargetReached">Alvo alcançado</string>
+    <string name="alarmLabelDailyTarget">Alvo alcançado</string>
+    <string name="alarmLabelWeeklyTarget">Alvo alcançado</string>
     <string name="timeReachedAlarmSettings">\'{1}\' configurações de alarme</string>
     <string name="timeReachedNotification">{1} às {2}</string> <!-- sample: "Target reached at 17:45" -->
     <string name="alertNotificationSoundOnce">Notificação sonora (1x)</string>

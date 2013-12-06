@@ -532,7 +532,7 @@
     
     <!-- 4.05 -->
     <string name="commonBreakOver">Break over</string>
-    <string name="commonTargetReached">Target reached</string>
+    <string name="alarmLabelDailyTarget">Target reached</string>
     <string name="timeReachedAlarmSettings">\'{1}\' alarm settings</string>
     <string name="timeReachedNotification">{1} at {2}</string> <!-- sample: "Target reached at 17:45" -->
     

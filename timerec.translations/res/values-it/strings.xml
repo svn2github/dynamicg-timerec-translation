@@ -532,8 +532,8 @@
 	<string name="prefsReportingPeriod">Periodo di riepilogo</string>
 	<string name="prefsBackupAndRestore">Backup &amp; Ripristina</string> <!-- "Backup & restore" -->
 	<string name="commonBreakOver">Fine pausa</string>
-	<string name="commonTargetReached">Obiettivo raggiunto</string>
-	<string name="commonWeeklyTargetReached">Obiettivo raggiunto</string>
+	<string name="alarmLabelDailyTarget">Obiettivo raggiunto</string>
+	<string name="alarmLabelWeeklyTarget">Obiettivo raggiunto</string>
 	<string name="timeReachedAlarmSettings">\'{1}\' impostazioni di allarme</string>
 	<string name="timeReachedNotification">{1} alle {2}</string> <!-- sample: "Break over at 17:45" -->
 	<string name="alertNotificationSoundOnce">Suono di notifica (una volta)</string>
