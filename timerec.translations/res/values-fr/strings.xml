@@ -532,7 +532,7 @@
     <string name="commonAuto">Auto</string> <!-- automatic -->
     
     <!-- 4.15/TRANSLATED -->
-    <string name="worktimeExceededLabel">Avertir si travail journalier &gt; x heures</string>
+    <string name="alarmNotificationDailyExceeded">Avertir si travail journalier &gt; x heures</string>
     <string name="worktimeExceededNotification">Le travail journalier excède {1}</string>
     <string name="commonThreshold">Seuil</string> <!-- same as "Limit" -->
     <string name="prefsMainAutoScroll">Se déplacer jusqu\'en bas</string>

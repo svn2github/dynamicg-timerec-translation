@@ -544,7 +544,7 @@
     <string name="commonAuto">Auto</string> <!-- automatic -->
 	
     <!-- 4.15/TRANSLATED -->
-    <string name="worktimeExceededLabel">Alarma si el trabajo diario es &gt; de x horas</string>
+    <string name="alarmNotificationDailyExceeded">Alarma si el trabajo diario es &gt; de x horas</string>
     <string name="worktimeExceededNotification">Trabajo diario excedido {1}</string>
     <string name="commonThreshold">Umbral</string> <!-- same as "Limit" -->
     <string name="prefsMainAutoScroll">Desplazamiento automático al final</string>
