@@ -531,8 +531,7 @@
     <string name="commonAuto">Auto</string> <!-- automatic -->
     
     <!-- 4.15/TRANSLATED -->
-    <string name="alarmNotificationDailyExceeded">Alarme se tempo de trabalho diário > x horas</string>
-    <string name="worktimeExceededNotification">Tempo de trabalho diário excedeu {1}</string>
+    <string name="alarmNotificationDailyExceeded">Tempo de trabalho diário excedeu {1}</string>
     <string name="commonThreshold">Limiar</string> <!-- same as "Limit" -->
     <string name="prefsMainAutoScroll">Auto rolar para parte inferior</string>
 	<string name="prefsScrollSizeWeeks">Rolando na tela \'{1}\'</string>

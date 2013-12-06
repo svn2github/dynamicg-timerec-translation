@@ -524,8 +524,7 @@
     <string name="alertNotificationSoundOnce">通知音 （1回）</string>
     <string name="alertNotificationSoundInsistent">通知音 （繰り返し）</string>
     <string name="alertNotificationVibra">バイブレーション</string>
-    <string name="alarmNotificationDailyExceeded">作業時間が&gt; x 時間超過したら、アラームを鳴らす</string>
-    <string name="worktimeExceededNotification">日ごとの作業時間超過</string>
+    <string name="alarmNotificationDailyExceeded">日ごとの作業時間超過</string>
     <string name="commonThreshold">超過時間</string>
 	<string name="expTypeCustomersPerDay">日ごとのクライアント</string>
     <string name="customerNone">（クライアントなし）</string>

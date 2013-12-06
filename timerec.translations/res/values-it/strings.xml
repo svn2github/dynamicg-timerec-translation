@@ -546,8 +546,7 @@
     <string name="commonAuto">Auto</string> <!-- automatic -->
     
     <!-- 4.15/TRANSLATED -->
-    <string name="alarmNotificationDailyExceeded">Allarme se il tempo giornaliero di lavoro &gt; x ore</string>
-    <string name="worktimeExceededNotification">Tempo di lavoro giornaliero superi {1}</string>
+    <string name="alarmNotificationDailyExceeded">Tempo di lavoro giornaliero superi {1}</string>
     <string name="commonThreshold">Soglia</string> <!-- same as "Limit" -->
     <string name="prefsMainAutoScroll">Auto scorrimento in fondo</string>
 	<string name="prefsScrollSizeWeeks">Scorrimento al \'{1}\' vista</string>

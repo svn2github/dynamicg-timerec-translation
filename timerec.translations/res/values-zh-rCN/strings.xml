@@ -523,8 +523,7 @@
     <string name="alertNotificationVibra">震动</string>
     
     <!-- 4.06 -->
-    <string name="alarmNotificationDailyExceeded">如果工作时间超过x小时,弹出提醒</string>
-    <string name="worktimeExceededNotification">日工作时长超过{1}</string>
+    <string name="alarmNotificationDailyExceeded">日工作时长超过{1}</string>
     <string name="commonThreshold">阈值</string>
     
 	<string name="expTypeCustomersPerDay">E6 客户</string>
