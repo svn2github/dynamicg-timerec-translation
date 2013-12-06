@@ -533,6 +533,7 @@
     
     <!-- 4.15/TRANSLATED -->
     <string name="alarmNotificationDailyExceeded">Le travail journalier excède {1}</string>
+    <string name="alarmNotificationWeeklyExceeded">Le travail excède {1}</string>
     <string name="commonThreshold">Seuil</string> <!-- same as "Limit" -->
     <string name="prefsMainAutoScroll">Se déplacer jusqu\'en bas</string>
 	<string name="prefsScrollSizeWeeks">Faire défiler sur la vue \'{1}\'</string>

@@ -545,6 +545,7 @@
 	
     <!-- 4.15/TRANSLATED -->
     <string name="alarmNotificationDailyExceeded">Trabajo diario excedido {1}</string>
+    <string name="alarmNotificationWeeklyExceeded">Trabajo excedido {1}</string>
     <string name="commonThreshold">Umbral</string> <!-- same as "Limit" -->
     <string name="prefsMainAutoScroll">Desplazamiento automático al final</string>
 	<string name="prefsScrollSizeWeeks">Desplazando en \'{1}\' vistas</string>

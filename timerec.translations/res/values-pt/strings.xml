@@ -532,6 +532,7 @@
     
     <!-- 4.15/TRANSLATED -->
     <string name="alarmNotificationDailyExceeded">Tempo de trabalho diário excedeu {1}</string>
+    <string name="alarmNotificationWeeklyExceeded">Tempo de trabalho excedeu {1}</string>
     <string name="commonThreshold">Limiar</string> <!-- same as "Limit" -->
     <string name="prefsMainAutoScroll">Auto rolar para parte inferior</string>
 	<string name="prefsScrollSizeWeeks">Rolando na tela \'{1}\'</string>
