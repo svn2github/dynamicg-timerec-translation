@@ -454,7 +454,6 @@
 	<string name="commonMonthlyDelta">差分 M</string>
 	<string name="prefsHideAdsLabel">\u2022 広告</string>
 	<string name="prefsHideAdsButton">広告を消す{1}まで</string>
-	<string name="prefsHideAdsHint">\u2192 こちらは何度でも実行いただけます</string>
 	<string name="admResetAllPrefs">全ての設定をリセットする</string>
 	<string name="calSyncCalendarType">カレンダーのタイプ</string>
 	<string name="calSyncCalendarTypeExclusive">TimeRec専用</string>

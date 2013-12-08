@@ -449,7 +449,6 @@
 	<string name="commonMonthlyDelta">月差额</string>
 	<string name="prefsHideAdsLabel">\u2022广告</string>
 	<string name="prefsHideAdsButton">{1}之前隐藏广告</string>
-	<string name="prefsHideAdsHint">\u2192到期后可更新,使用次数不限.</string>
 	<string name="admResetAllPrefs">恢复所有设置</string>
 	<string name="calSyncCalendarType">日历类型</string>
 	<string name="calSyncCalendarTypeExclusive">仅限本软件使用</string>

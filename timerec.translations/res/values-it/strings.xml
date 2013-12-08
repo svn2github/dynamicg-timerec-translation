@@ -468,7 +468,6 @@
 	<string name="commonMonthlyDelta">Delta M</string>
 	<string name="prefsHideAdsLabel">\u2022 Pubblicità</string>
 	<string name="prefsHideAdsButton">Nascondi banner fino {1}</string>
-	<string name="prefsHideAdsHint">\u2192 Nota che questo può essere riavviato dopo la scadenza, per un numero illimitato di volte.</string>
 	<string name="admResetAllPrefs">Resetta tutte le preferenze</string>
 	<string name="calSyncCalendarType">Tipo di calendario</string>
 	<string name="calSyncCalendarTypeExclusive">Esclusivo, solo per TimeRec</string>
