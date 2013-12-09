@@ -658,4 +658,22 @@
     <string name="commonCopy">Copiare</string>
     <string name="commonSortNoun">Ordinamento</string>
 
+    <!-- 
+    5.07 notification messages
+    these are ignored on i18n, we use the following instead: 
+    . alarmLabelBreakNowOver
+    . alarmLabelDailyTarget
+    . alarmLabelWeeklyTarget
+    also see com.dynamicg.timerecording.util.timeReached.DailyTargetReachedNotificationHandler.getNotificationText(StampDateTime) 
+    -->
+    <string name="alarmNotificationBreakNowOver"></string>
+	<string name="alarmNotificationDailyTarget"></string>
+	<string name="alarmNotificationWeeklyTarget"></string>
+    
+    <!-- 5.07 sound player -->
+    <string name="alertSoundCustomLabel">Custom sound</string>
+    <string name="alertSoundCustomRepeat">Repeat</string>
+    <string name="alertSoundCustomVolume">Volume</string>
+    <string name="alertSoundMaxHint">\u2192 Max playback is {1} seconds</string>
+    
 </resources>
