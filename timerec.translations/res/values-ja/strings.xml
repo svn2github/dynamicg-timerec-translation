@@ -147,9 +147,6 @@
 	<string name="marketPluginMissing">プラグインが必要。«ダウンロードはこちらから»</string>
 	<string name="calSyncInvalidCalendarTitle">カレンダー名が設定されていないか、無効です</string>
 	
-	<!-- WHERE: when you put in an invalid calendar account name in the "Calendar Sync Settings" on preferences page 1: -->
-	<string name="commonLookupHint">\u2192 ヒント: [\u2026] lookupを使用してください</string>
-	
     <string name="stdStampTitle">ブレイク &amp; 作業ユニット</string>
     <string name="stdStampTypeBlockShort">ユニット</string>
     <string name="stdStampTypeBlockLong">作業ユニット</string>

@@ -153,7 +153,6 @@
 	<string name="marketAppMissing">App adicional é requerida. «Clique aqui para download»</string>
 	<string name="marketPluginMissing">App adicional é requerida. «Clique aqui para download»</string>
 	<string name="calSyncInvalidCalendarTitle">Nome do calendário inexistente ou inválido</string>
-	<string name="commonLookupHint">\u2192 Dica: use [\u2026] para pesquisar</string>
 	
     <string name="stdStampTitle">Quebrar &amp; bloquear</string>
     <string name="stdStampTypeBlockShort">Bloquear</string>

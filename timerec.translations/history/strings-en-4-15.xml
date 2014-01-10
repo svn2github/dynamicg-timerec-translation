@@ -151,7 +151,6 @@
 	<string name="marketAppMissing">Additional App required. Click here for download</string>
 	<string name="marketPluginMissing">Plugin required. Click here for download</string>
 	<string name="calSyncInvalidCalendarTitle">Calendar name missing or invalid</string>
-	<string name="commonLookupHint">\u2192 Hint: use the [\u2026] lookup</string>
 	
     <string name="stdStampTitle">Breaks &amp; work units</string>
     <string name="stdStampTypeBlockShort">Unit</string>

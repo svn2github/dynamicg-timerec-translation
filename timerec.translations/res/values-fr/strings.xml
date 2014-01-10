@@ -485,7 +485,6 @@
 	
 	<string name="errorSdCardWrite">Erreur en ecriture sur la carte SD</string>
 	<string name="calSyncInvalidCalendarTitle">Nom de calendrier manquant ou invalide</string>
-	<string name="commonLookupHint">\u2192 Astuce: utiliser [\u2026] pour la recherche.</string>
 	<string name="commonResetSettings">Réinitialiser avec les paramètres par défaut</string>
 	<string name="commonFlip">Retourner</string>
 	
