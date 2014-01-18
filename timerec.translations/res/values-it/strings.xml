@@ -454,7 +454,6 @@
 	<string name="prefsGroupMainScreenRefreshHint">\u2192 Questo aumenterà il consumo della batteria!</string>
 	<string name="prefsKeepScreenOn">Tieni lo schermo attivo</string>
 	
-	<string name="expPrefsShowEmailOnHTML">Mostra indirizzo email sulle esportazioni in HTML</string>
 	
 	<string name="expSearchDayNotes">Filtro nelle note del giorno</string>
 	<string name="expSearchWorkUnitNotes">Filtro nelle note dell\'unità di lavoro</string>

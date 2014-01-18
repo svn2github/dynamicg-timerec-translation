@@ -433,7 +433,6 @@
 	<string name="prefsGroupMainScreenRefreshHint">\u2192 这会更耗电!</string>
 	<string name="prefsKeepScreenOn">保持屏幕常亮</string>
 	
-	<string name="expPrefsShowEmailOnHTML">在导出的网页(HTML)里显示邮件箱地址</string>
 	
 	<!-- v3.06 -->
 	<string name="expSearchDayNotes">日记筛选</string>

@@ -436,7 +436,6 @@
 	<string name="prefsGroupMainScreenRefreshHint">\u2192 この項目にチェックすると、電池の使用量が増加します</string>
 	<string name="prefsKeepScreenOn">画面をオンにする</string>
 	
-	<string name="expPrefsShowEmailOnHTML">HTMLのエクスポートをする場合、emailアドレスを見せる</string>
 	
 	<!-- v3.06 -->
 	<string name="expSearchDayNotes">デイノートのフィルター</string>
