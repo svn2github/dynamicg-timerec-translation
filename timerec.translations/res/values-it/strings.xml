@@ -63,6 +63,7 @@
     <string name="commonSortAZ">Ordinamento A-Z</string>
     <string name="commonEditShort">Modifica</string>
     <string name="commonCSV">CSV</string>
+    <string name="commonHTML">HTML</string>
     <string name="commonDetails">Dettagli</string>
 	<string name="commonDoneToast">{1} \u2192 FATTO</string>
     <string name="commonBreak">Pausa</string>
