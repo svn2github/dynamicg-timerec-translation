@@ -345,7 +345,6 @@
 	
 	<string name="admRebuildIndexes">Recréer les index</string>
 	<string name="admDeleteOldLabel">Effacer données anciennes</string>
-	<string name="admDeleteOldHint">Sélectionner la date jusqu\'à laquelle supprimer</string>
 	<string name="admDeleteOldBody">Supprimer toutes les données jusqu\'à {1} ?\nL\'opération ne peut pas être annulée.</string>
 	<string name="admDeleteAll">Effacer toutes les données</string>
 	

@@ -358,7 +358,6 @@
 	<!-- diff sync marker D -->	
 	<string name="admRebuildIndexes">Rebuild indexes</string>
 	<string name="admDeleteOldLabel">删除旧数据</string>
-	<string name="admDeleteOldHint">删除以下日期及以前的数据</string>
 	<string name="admDeleteOldBody">删除{1}及以前的数据?\n该操作不能撤销.</string>
 	<string name="admDeleteAll">删除所有数据</string>
 	

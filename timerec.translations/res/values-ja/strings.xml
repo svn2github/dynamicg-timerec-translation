@@ -357,7 +357,6 @@
 	<string name="admRebuildIndexes">インデックスの再作成</string>
 	
 	<string name="admDeleteOldLabel">古いデータの消去</string>
-	<string name="admDeleteOldHint">削除する日にちを選択する</string>
 	<string name="admDeleteOldBody">{1}までのデータを消去しますか?\n一度消去すると、元には戻せません。</string>
 	<string name="admDeleteAll">全データの消去</string>
 	

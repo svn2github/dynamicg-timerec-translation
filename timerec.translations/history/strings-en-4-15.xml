@@ -364,7 +364,6 @@
 	<!-- diff sync marker D -->	
 	<string name="admRebuildIndexes">Rebuild indexes</string>
 	<string name="admDeleteOldLabel">Delete old data</string>
-	<string name="admDeleteOldHint">Select date to delete unto</string>
 	<string name="admDeleteOldBody">Delete all data up to {1}?\nThis cannot be undone.</string>
 	<string name="admDeleteAll">Delete all data</string>
 	

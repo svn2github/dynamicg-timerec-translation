@@ -309,7 +309,6 @@
 	
 	<string name="admRebuildIndexes">Ricostruzione indici</string>
 	<string name="admDeleteOldLabel">Elimina vecchi dati</string>
-	<string name="admDeleteOldHint">Seleziona data per eliminare dati filtrati</string>
 	<string name="admDeleteOldBody">Elimina tutti i dati dal {1}?\nTale processo non può essere disfatto.</string>
 	<string name="admDeleteAll">Elimina tutti dati</string>
 	

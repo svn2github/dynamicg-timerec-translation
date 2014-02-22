@@ -308,7 +308,6 @@
 	
 	<string name="admRebuildIndexes">Reconstruir indices</string>
 	<string name="admDeleteOldLabel">Borrar datos antiguos</string>
-	<string name="admDeleteOldHint">Escoja fecha desde la cual borrar</string>
 	<string name="admDeleteOldBody">Borrar datos desde {1}?\nEsto no puede deshacerse</string>
 	<string name="admDeleteAll">Borrar todos los datos</string>
 	
