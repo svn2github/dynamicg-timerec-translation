@@ -371,7 +371,7 @@
 	<string name="proReminderMktButton">Google Play</string>
 
 	<string name="commonWidget">Widget</string>
-	<string name="commonNotificatioBar">Barre de notification</string>
+	<string name="commonNotificationBar">Barre de notification</string>
 		
 	<string name="widgetAppTitleShort">GT</string>
 	<string name="widgetPrefNotifBarActive">Notifier dans la barre de status</string>

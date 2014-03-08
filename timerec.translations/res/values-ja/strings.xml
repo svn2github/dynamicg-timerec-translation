@@ -386,7 +386,7 @@
 	<string name="proReminderMktButton">Google Play</string>
 
 <string name="commonWidget">ウィジェット</string>
-<string name="commonNotificatioBar">表示バー</string>
+<string name="commonNotificationBar">表示バー</string>
 	<string name="widgetAppTitleShort">TR</string>
 	<string name="widgetPrefNotifBarActive">チェックイン時のステータスバー表示</string>
 	<string name="widgetPrefNotifBarText">表示テキスト</string>

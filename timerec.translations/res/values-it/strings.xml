@@ -346,7 +346,7 @@
 	<string name="commonOpenWith">Apri con</string>
 
 	<string name="commonWidget">Widget</string>
-	<string name="commonNotificatioBar">Notifica sulla Barra</string>
+	<string name="commonNotificationBar">Notifica sulla Barra</string>
 	
 	<string name="widgetPrefNotifBarActive">Notifica su Barra di Stato quando iniziato</string>
 	<string name="widgetPrefNotifBarText">Testo della notifica</string>
