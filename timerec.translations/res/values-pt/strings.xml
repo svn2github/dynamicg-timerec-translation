@@ -150,7 +150,6 @@
 	<string name="calSyncEventTitleLabel">Título do evento</string>
 	<string name="calSyncEventTitleHint">\u2192 Tokens: $1=Tarefa, $2=Total, $3=Tempo de/para, $6=Cliente. Veja ajudar.</string>
 	<string name="calSyncCheckSettings">Clique aqui para checar as configurações de \'{1}\'.</string>
-	<string name="marketAppMissing">App adicional é requerida. «Clique aqui para download»</string>
 	<string name="marketPluginMissing">App adicional é requerida. «Clique aqui para download»</string>
 	<string name="calSyncInvalidCalendarTitle">Nome do calendário inexistente ou inválido</string>
 	

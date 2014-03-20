@@ -143,7 +143,6 @@
 	<string name="calSyncEventTitleLabel">イベントタイトル</string>
 	<string name="calSyncEventTitleHint">\u2192 印: $1=タスク, $2=合計, $3=時間 から/まで, $6=クライアント:ヘルプをご参照ください。</string>
 	<string name="calSyncCheckSettings"> «{1}» の設定を確認するにはここをクリックしてください.</string>
-	<string name="marketAppMissing">追加アプリが必要です。«ダウンロードはこちらから»</string>
 	<string name="marketPluginMissing">プラグインが必要。«ダウンロードはこちらから»</string>
 	<string name="calSyncInvalidCalendarTitle">カレンダー名が設定されていないか、無効です</string>
 	

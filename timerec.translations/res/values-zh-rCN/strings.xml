@@ -145,7 +145,6 @@
 	<string name="calSyncEventTitleLabel">事件标题</string>
 	<string name="calSyncEventTitleHint">\u2192记号: $1=任务, $2=合计, $3=时间起/止, $6=客户.查看在线帮助</string>
 	<string name="calSyncCheckSettings">点击检查\'{1}\'设置</string>
-	<string name="marketAppMissing">需要其它软件。点击进入下载。</string>
 	<string name="marketPluginMissing">需要插件。点击进入下载。</string>
 	<string name="calSyncInvalidCalendarTitle">日历名称缺失或无效</string>
 	

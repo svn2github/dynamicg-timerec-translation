@@ -387,7 +387,6 @@
 	<string name="calSyncEventTitleLabel">Título del evento</string>
 	<string name="calSyncCheckSettings">Pulsar para comprobar \'{1}\' configuración.</string>
 
-	<string name="marketAppMissing">Se necesita otra aplicación. «Pulsar para descargar»</string>
 	<string name="marketPluginMissing">Se necesita otra aplicación. «Pulsar para descargar»</string>
 		
 	<string name="commonSeeOnlineHelp">\u24D8 Ver ayuda online</string>
