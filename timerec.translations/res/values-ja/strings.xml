@@ -382,8 +382,6 @@
 	<string name="err25">エラー: バックアップは失敗しました</string>
 	<string name="errFaqHint">オンラインヘルプを参照するにはここをクリック: «ERROR {1}»</string>
 	
-	<string name="proReminderMktButton">Google Play</string>
-
 <string name="commonWidget">ウィジェット</string>
 <string name="commonNotificationBar">表示バー</string>
 	<string name="widgetAppTitleShort">TR</string>

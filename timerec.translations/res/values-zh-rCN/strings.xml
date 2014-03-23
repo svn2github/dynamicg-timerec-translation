@@ -381,8 +381,6 @@
 	<string name="err25">出错:备份失败。</string>
 	<string name="errFaqHint">点击查看在线帮助，\n查看\'Error{1}\'</string>
 	
-	<string name="proReminderMktButton">Google Play</string>
-
 	<string name="commonWidget">桌面插件</string>
 	<string name="commonNotificationBar">通知栏</string>
 	<string name="widgetAppTitleShort">TR</string>

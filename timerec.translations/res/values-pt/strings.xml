@@ -388,8 +388,6 @@
 	<string name="err25">Erro: Backup falhou</string>
 	<string name="errFaqHint">Clique aqui para ajuda online, procure «ERROR {1}»</string>
 	
-	<string name="proReminderMktButton">Google Play</string>
-
 	<string name="commonWidget">Widget</string>
 	<string name="commonNotificationBar">Barra de notificação</string>
 		
