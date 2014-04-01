@@ -445,7 +445,6 @@
 	<string name="widgetSdCardHint">\u2192 Los Widgets no funcionan si la app se ha instalado en la SD</string>
 	
 	<string name="prefsGroupMainScreenLabel">Refresco pantalla principal</string>
-	<string name="prefsGroupMainScreenRefreshHint">\u2192 Esto aumentará el consumo de batería!</string>
 	<string name="prefsKeepScreenOn">Mantener pantalla encendida</string>
 	
 	

@@ -433,7 +433,6 @@
 	<string name="widgetSdCardHint">\u2192 Les Widgets ne fonctionnent pas si l\'application est installée sur la carte SD !</string>
 	
 	<string name="prefsGroupMainScreenLabel">Rafraichissement écran principal</string>
-	<string name="prefsGroupMainScreenRefreshHint">\u2192 Cela augmentera la consommation de la batterie!</string>
 	<string name="prefsKeepScreenOn">Laisser l\'écran allumé</string>
 	
 	

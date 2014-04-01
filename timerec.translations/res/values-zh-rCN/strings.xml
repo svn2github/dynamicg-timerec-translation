@@ -426,7 +426,6 @@
 	<string name="widgetSdCardHint">\u2192 如果软件安装在SD卡,桌面插件将无法运行!</string>
 	
 	<string name="prefsGroupMainScreenLabel">软件主屏幕</string>
-	<string name="prefsGroupMainScreenRefreshHint">\u2192 这会更耗电!</string>
 	<string name="prefsKeepScreenOn">保持屏幕常亮</string>
 	
 	

@@ -429,7 +429,6 @@
 	<string name="widgetSdCardHint">\u2192 このアプリがSDカードに保存されている場合、ウィジェットを起動することはできません!</string>
 	
 	<string name="prefsGroupMainScreenLabel">メイン画面</string>
-	<string name="prefsGroupMainScreenRefreshHint">\u2192 この項目にチェックすると、電池の使用量が増加します</string>
 	<string name="prefsKeepScreenOn">画面をオンにする</string>
 	
 	

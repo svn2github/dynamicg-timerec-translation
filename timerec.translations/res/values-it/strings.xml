@@ -450,7 +450,6 @@
 	<string name="widgetSdCardHint">\u2192 I widgets non funzionano se l\'app è installata sulla scheda SD!</string>
 	
 	<string name="prefsGroupMainScreenLabel">Aggiorna schermata principale</string>
-	<string name="prefsGroupMainScreenRefreshHint">\u2192 Questo aumenterà il consumo della batteria!</string>
 	<string name="prefsKeepScreenOn">Tieni lo schermo attivo</string>
 	
 	
