@@ -156,7 +156,6 @@
 	<string name="expDomDaysShowAll">tutti</string>
 	<string name="expDomDaysShowSt">con timbrature</string>
 	<string name="expDomDaysShowStNt">con timbrature o note</string>
-	<string name="expPrefsDetailsReportActive">\'Dettagli\' del resonto abilitati</string>
 	<string name="expDomNotesFilterEqual">è uguale a</string>
 	<string name="expDomNotesFilterLike">contiene</string>
 	<string name="expPrefsShowTotalLine">Mostra \'Totale\'</string>

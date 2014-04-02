@@ -183,7 +183,6 @@
 	<string name="expDomDaysShowAll">全て</string>
 	<string name="expDomDaysShowSt">スタンプ付き</string>
 	<string name="expDomDaysShowStNt">スタンプ又はノート付き</string>
-	<string name="expPrefsDetailsReportActive">\'詳細\' レポート適用</string>
 	<string name="expDomNotesFilterEqual">一致する</string>
 	<string name="expDomNotesFilterLike">含む</string>
 	<string name="expDomNotesFilterNotLike">含まない</string>

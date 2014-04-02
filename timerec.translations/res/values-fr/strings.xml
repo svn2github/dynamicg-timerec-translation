@@ -181,7 +181,6 @@
 	<string name="expDomDaysShowAll">Tout</string>
 	<string name="expDomDaysShowSt">Avec enregistrements</string>
 	<string name="expDomDaysShowStNt">Avec enregistrements ou notes</string>
-	<string name="expPrefsDetailsReportActive">Activer le rapport \'Detaillé\'</string>
 	<string name="expDomNotesFilterEqual">égale</string>
 	<string name="expDomNotesFilterLike">contient</string>
 	<string name="expPrefsShowTotalLine">Afficher \'Total\'</string>

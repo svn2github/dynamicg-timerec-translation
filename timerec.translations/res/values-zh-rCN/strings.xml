@@ -182,7 +182,6 @@
 	<string name="expDomDaysShowAll">全部</string>
 	<string name="expDomDaysShowSt">有记录</string>
 	<string name="expDomDaysShowStNt">有记录或日记</string>
-	<string name="expPrefsDetailsReportActive">报告显示\'详细\'</string>
 	<string name="expDomNotesFilterEqual">符合</string>
 	<string name="expDomNotesFilterLike">含有</string>
 	<string name="expDomNotesFilterNotLike">不含有</string>

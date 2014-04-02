@@ -154,7 +154,6 @@
 	<string name="expDomDaysShowAll">todo</string>
 	<string name="expDomDaysShowSt">con registros</string>
 	<string name="expDomDaysShowStNt">con registros o notas</string>
-	<string name="expPrefsDetailsReportActive">Activar \'Detalles\' en listado</string>
 	<string name="expDomNotesFilterEqual">igual</string>
 	<string name="expDomNotesFilterLike">contiene</string>
 
