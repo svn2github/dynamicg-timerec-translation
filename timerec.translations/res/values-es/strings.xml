@@ -484,7 +484,6 @@
 	<string name="prefsTimeZoneLock">Bloquear zona horaria</string>
 	<string name="calSyncActiveOnCheckin">Sincronizar incluso con \'checkin\' activo</string>
 	
-	<string name="fileDeliveryGoogleDocs">Enviar a Google Docs</string>
 	<string name="commonAppRequired">App necesaria</string>
 	<string name="commonUpdateCurrentTask">actualizar tareas del la actual unidad de tiempo</string>
 	

@@ -206,7 +206,6 @@
 	<string name="fileDeliveryLabel">Entrega</string>
 	<string name="fileDeliveryEmail">Enviar como email</string>
 	<string name="fileDeliveryCloud">Upload para o {1}</string>
-	<string name="fileDeliveryGoogleDocs">Enviar para o Google Docs</string>
 	<string name="fileDeliveryRestoreFromCloud">Restaurar do {1}</string>
 	
     <string name="domainSepComma">Vírgula [,]</string>

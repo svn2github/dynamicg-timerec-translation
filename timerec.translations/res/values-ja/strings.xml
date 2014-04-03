@@ -203,7 +203,6 @@
 	<string name="fileDeliveryLabel">Delivery</string>
 	<string name="fileDeliveryEmail">Emailとして送信</string>
 	<string name="fileDeliveryCloud">アップロード（to） {1}</string>
-	<string name="fileDeliveryGoogleDocs">Google Docsへ送る</string>
 	<string name="fileDeliveryRestoreFromCloud">修復する（to） {1}</string>
 	
     <string name="domainSepComma">カンマ [,]</string>

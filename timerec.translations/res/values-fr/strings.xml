@@ -472,7 +472,6 @@
 	<string name="prefsTimeZoneLock">Verrouiller sur le fuseau horaire</string>
 	<string name="calSyncActiveOnCheckin">Synchro aussi active sur \'Démarrer\'</string>
 	
-	<string name="fileDeliveryGoogleDocs">Envoyer vers Google Docs</string>
 	<string name="commonAppRequired">App requise</string>
 	<string name="commonUpdateCurrentTask">Mettre à jour la tâche de l\'unité de travail courante</string>
 	
