@@ -56,7 +56,6 @@
     <string name="commonText">テキスト</string>
     <string name="commonSortAZ">並べ変え(A-Z)</string>
     <string name="commonEditShort">編集</string>
-    <string name="commonCSV">csvファイル</string>
     <string name="commonDetails">詳細</string>
     <string name="commonBreak">ブレイク</string>
     <string name="commonEnabledOption">\'{1}\'をアクティブにする</string>
