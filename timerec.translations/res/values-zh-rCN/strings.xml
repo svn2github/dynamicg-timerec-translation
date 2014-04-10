@@ -224,9 +224,10 @@
 	<string name="domainExpDataInclusionAttachment">附件</string>
 	<string name="domainExpDataInclusionPlainText">正文</string>
 	<string name="domainExpDataInclusionForViewer">标准视图</string>
-	<string name="domainExpFormatCSV">Excel (CSV)</string>
-	<string name="domainExpFormatHTML">网页(HTML)</string>
+	<string name="domainExpFormatCSV">CSV (Delimited Text)</string>
+	<string name="domainExpFormatHTML">HTML (Web Page)</string>
 	<string name="domainExpFormatXML">XML</string>
+	<string name="domainExpFormatXLS">XLS (Excel)</string>
 
     <string name="dayShortSun">星期日</string>
     <string name="dayShortMon">星期一</string>

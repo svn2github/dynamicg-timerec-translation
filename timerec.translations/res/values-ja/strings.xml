@@ -225,9 +225,10 @@
 	<string name="domainExpDataInclusionAttachment">添付ファイル</string>
 	<string name="domainExpDataInclusionPlainText">Plain body text</string>
 	<string name="domainExpDataInclusionForViewer">スタンダードビューヤ用</string>
-	<string name="domainExpFormatCSV">Excel (CSV)</string>
-	<string name="domainExpFormatHTML">ウェブページ (HTML)</string>
+	<string name="domainExpFormatCSV">CSV (Delimited Text)</string>
+	<string name="domainExpFormatHTML">HTML (Web Page)</string>
 	<string name="domainExpFormatXML">XML</string>
+	<string name="domainExpFormatXLS">XLS (Excel)</string>
 
     <string name="dayShortSun">日</string>
     <string name="dayShortMon">月</string>

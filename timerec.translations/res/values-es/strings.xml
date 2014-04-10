@@ -186,9 +186,10 @@
 	<string name="domainExpDataInclusionAttachment">Adjuntar fichero</string>
 	<string name="domainExpDataInclusionPlainText">Texto plano</string>
 	<string name="domainExpDataInclusionForViewer">Para visualizar estandard</string>
-	<string name="domainExpFormatCSV">Excel (CSV)</string>
-	<string name="domainExpFormatHTML">Página web (HTML)</string>
+	<string name="domainExpFormatCSV">CSV (Delimited Text)</string>
+	<string name="domainExpFormatHTML">HTML (Web Page)</string>
 	<string name="domainExpFormatXML">XML</string>
+	<string name="domainExpFormatXLS">XLS (Excel)</string>
 
     <string name="dayShortSun">Dom</string>
     <string name="dayShortMon">Lun</string>

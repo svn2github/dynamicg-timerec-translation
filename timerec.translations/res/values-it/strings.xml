@@ -185,9 +185,10 @@
 	<string name="domainExpDataInclusionAttachment">File allegato</string>
 	<string name="domainExpDataInclusionPlainText">Corpo del testo chiaro</string>
 	<string name="domainExpDataInclusionForViewer">Per lettore standard</string>
-	<string name="domainExpFormatCSV">Excel (CSV)</string>
-	<string name="domainExpFormatHTML">Pagina Web (HTML)</string>
+	<string name="domainExpFormatCSV">CSV (Delimited Text)</string>
+	<string name="domainExpFormatHTML">HTML (Web Page)</string>
 	<string name="domainExpFormatXML">XML</string>
+	<string name="domainExpFormatXLS">XLS (Excel)</string>
 
     <string name="dayShortSun">Dom</string>
     <string name="dayShortMon">Lun</string>

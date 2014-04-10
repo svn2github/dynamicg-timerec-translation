@@ -219,9 +219,10 @@
 	<string name="domainExpDataInclusionAttachment">Fichier attaché</string>
 	<string name="domainExpDataInclusionPlainText">Corps de texte brut</string>
 	<string name="domainExpDataInclusionForViewer">Pour visualiseur standard</string>
-	<string name="domainExpFormatCSV">Excel (CSV)</string>
-	<string name="domainExpFormatHTML">Page Web (HTML)</string>
+	<string name="domainExpFormatCSV">CSV (Delimited Text)</string>
+	<string name="domainExpFormatHTML">HTML (Web Page)</string>
 	<string name="domainExpFormatXML">XML</string>
+	<string name="domainExpFormatXLS">XLS (Excel)</string>
 
     <string name="dayShortSun">Dim</string>
     <string name="dayShortMon">Lun</string>
