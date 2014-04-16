@@ -366,7 +366,7 @@
 	<string name="fileDeliveryLabel">Enviado</string>
 	<string name="fileDeliveryEmail">Enviar como correo</string>
 	<string name="fileDeliveryCloud">Subir a {1}</string>
-	<string name="fileDeliveryRestoreFromCloud">Restaurar de {1}</string>
+	<string name="commonRestoreFrom">Restaurar de {1}</string>
 	
     <string name="stdStampTypeBreakNow">Pausa ahora</string>
     <string name="stdStampBreakForLastMI">Los últimos {1} minutos</string>

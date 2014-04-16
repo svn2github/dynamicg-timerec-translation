@@ -201,7 +201,7 @@
 	<string name="fileDeliveryLabel">发送</string>
 	<string name="fileDeliveryEmail">发送邮件</string>
 	<string name="fileDeliveryCloud">上传到{1}</string>
-	<string name="fileDeliveryRestoreFromCloud">从{1}恢复</string>
+	<string name="commonRestoreFrom">从{1}恢复</string>
 	
     <string name="domainSepComma">逗号[,]</string>
     <string name="domainSepSemicolon">分号 [;]</string>

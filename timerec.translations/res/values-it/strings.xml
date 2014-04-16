@@ -370,7 +370,7 @@
 	<string name="fileDeliveryLabel">Consegna</string>
 	<string name="fileDeliveryEmail">Invia come email</string>
 	<string name="fileDeliveryCloud">Carica su {1}</string>
-	<string name="fileDeliveryRestoreFromCloud">Ripristina da {1}</string>
+	<string name="commonRestoreFrom">Ripristina da {1}</string>
 	
     <string name="stdStampTypeBreakNow">Fai pausa adesso</string>
     <string name="stdStampBreakForLastMI">Per gli ultimi {1} minuti</string>

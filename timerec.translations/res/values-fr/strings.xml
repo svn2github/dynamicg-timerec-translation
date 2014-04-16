@@ -197,7 +197,7 @@
 	<string name="fileDeliveryLabel">Envoi</string>
 	<string name="fileDeliveryEmail">Envoyer par email</string>
 	<string name="fileDeliveryCloud">Envoyer vers {1}</string>
-	<string name="fileDeliveryRestoreFromCloud">Récupérer à partir de {1}</string>
+	<string name="commonRestoreFrom">Récupérer à partir de {1}</string>
 	
     <string name="domainSepComma">Comma [,]</string>
     <string name="domainSepSemicolon">Semicolon [;]</string>
