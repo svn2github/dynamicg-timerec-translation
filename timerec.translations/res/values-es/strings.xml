@@ -280,7 +280,6 @@
 	<string name="dstorIncludeSettings">Incluir configuración?</string>
 	
 	<string name="dstorFree2ProImportConfirmation">Importar datos y configuración de la versión gratuita?</string>
-	<string name="dstorFree2ProLiveImport">Importados de la versión gratuita</string>
 	
 	<!-- diff sync marker A -->
 	<string name="pdotMainTitle">Pago sobrepasado</string>

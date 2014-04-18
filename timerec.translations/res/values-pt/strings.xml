@@ -335,7 +335,6 @@
 	<string name="dstorMoveToSdcardWarn">Aviso: Armazenamento no SC Card *não é* recomendada. Você poderá enfrentar problemas em acessos de USB &amp; \'somente leitura\', ou (em casos raros) arquivos de dados deletados.</string>
 	
 	<string name="dstorFree2ProImportConfirmation">Importar dados e configurações da versão free?</string>
-	<string name="dstorFree2ProLiveImport">Importação da versão free (dados ativos)</string>
 	
 	<!-- diff sync marker A -->
 	<string name="pdotMainTitle">Pagar hora-extra</string>

@@ -327,7 +327,6 @@
 	<string name="dstorMoveToSdcardWarn">注意：SDカードへの保存は推薦されていません。エラーや、データが消去されることがあります。</string>
 	
 	<string name="dstorFree2ProImportConfirmation">Import data and settings from free version?</string>
-	<string name="dstorFree2ProLiveImport">無料バージョンよりインポートする</string>
 	
 	<!-- diff sync marker A -->
 	<string name="pdotMainTitle">超過時間の支払い</string>

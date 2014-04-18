@@ -329,7 +329,6 @@
 	<string name="dstorIncludeSettings">包含设置？</string>
 	<string name="dstorMoveToSdcardWarn">警告:不推荐存储在SD卡。使用USB连接到电脑是无法识别SD卡，可能造成数据丢失。</string>
 	<string name="dstorFree2ProImportConfirmation">从免费版导入数据和设置？</string>
-	<string name="dstorFree2ProLiveImport">从免费版导入</string>
 	
 	<!-- diff sync marker A -->
 	<string name="pdotMainTitle">加班薪资</string>

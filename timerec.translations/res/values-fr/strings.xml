@@ -316,7 +316,6 @@
 	<string name="dstorIncludeSettings">Inclure les paramètres ?</string>
 	
 	<string name="dstorFree2ProImportConfirmation">Importer les données et les paramètres de la version gratuite ?</string>
-	<string name="dstorFree2ProLiveImport">Import version gratuite (données vivantes)</string>
 	
 	<!-- diff sync marker A -->
 	<string name="pdotMainTitle">Heures supplémentaires</string>

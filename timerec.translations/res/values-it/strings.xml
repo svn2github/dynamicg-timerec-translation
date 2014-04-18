@@ -280,7 +280,6 @@
 	<string name="dstorIncludeSettings">Impostazioni incluse?</string>
 	
 	<string name="dstorFree2ProImportConfirmation">Importare i dati e le impostazioni dalla versione gratuita?</string>
-	<string name="dstorFree2ProLiveImport">Importazione dalla versione gratuita (dati live)</string>
 	
 	<!-- diff sync marker A -->
 	<string name="pdotMainTitle">Straordinari</string>
