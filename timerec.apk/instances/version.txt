@@ -1,6 +1,4 @@
 <versionICS>215</versionICS> # ICS++
 <version>133</version>       # devices<android 4
 
-# currently deployed
-# ICS version   : 217 V5.08, 2013/Feb/05
-# legacy version: 135 V4.22, 2013/Jun/02
+# currently deployed: 225 V5.10, 2014/Apr/18
