@@ -585,7 +585,6 @@
 	
 	<!-- 4.19 -->
 	
-	<string name="calSyncSingleBlock">将工作单元同步为一个事件</string>
 	
 	<string name="prefsShowButtonsLine3">显示«{1}»和«{2}»</string>
 	

@@ -592,7 +592,6 @@
     <string name="prefsDeltaWeekOnMain">Show \'Delta\' on main screen</string>
 	<string name="commonIncremental">Incremental</string>
 	<string name="commonForceDeletion">Force deletion</string>	
-	<string name="calSyncSingleBlock">Sync work units as one single event</string>
 	<string name="prefsRepPeriodWeeks">{2} {1}</string>
 	<string name="commonExclude">Exclude \u00ab{1}\u00bb</string>
 		

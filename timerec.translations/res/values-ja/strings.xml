@@ -556,7 +556,6 @@
 	<string name="workUnitDetailRep">作業ログ</string>
 	<string name="commonIncremental">増加</string>
 	<string name="commonForceDeletion">強制消去</string>	
-	<string name="calSyncSingleBlock">一つのイベントとして作業ユニットをシンク</string>
 	<string name="prefsShowButtonsLine3">表示する «{1}» &amp; «{2}»</string>
 	<string name="prefsRepPeriodWeeks">週{1}</string>
 </resources>
