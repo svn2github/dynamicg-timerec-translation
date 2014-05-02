@@ -386,8 +386,6 @@
 	<string name="widgetPrefNotifBarText">表示テキスト</string>
 	<string name="widgetPrefNotifBarHint">\u2192 プレースホルダー: $1=チェックインタイム, $2=合計, $3=タスク</string>
 	<string name="widgetPrefHintRefresh">\u2192 早めの更新に設定すると、バッテリーの使用が増えます！</string>
-	<string name="widgetPrefKeepRunning">裏で常に起動する</string>
-	<string name="widgetPrefHintKeepRunning">\u2192 ウィジェットが定期的に更新されない場合はチェック</string>
 
 	<!-- copy days -->
 	<string name="copyDaysTitle">日にちのコピー</string>

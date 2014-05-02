@@ -346,8 +346,6 @@
 	<string name="widgetPrefNotifBarText">Texto de notificación</string>
 	<string name="widgetPrefNotifBarHint">\u2192 Entradas: $1=Tiempo inicio, $2=total, $3=tarea</string>
 	<string name="widgetPrefHintRefresh">\u2192 Un refresco más rápido disminuye la batería</string>
-	<string name="widgetPrefKeepRunning">Mantener funcionando en fondo</string>
-	<string name="widgetPrefHintKeepRunning">\u2192 Pulsar si se para el refresco</string>
 	
 	<string name="prefsCalendarSyncGroup">Sincronizar con el calendario de Google</string>
 	<string name="prefsHomescreenBtSmall">Botones pequeños en la pantalla inicial</string>

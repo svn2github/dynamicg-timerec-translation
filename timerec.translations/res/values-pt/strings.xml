@@ -392,8 +392,6 @@
 	<string name="widgetPrefNotifBarText">Texto de notificação</string>
 	<string name="widgetPrefNotifBarHint">\u2192 Espaço reservado: $1=tempo de check-in, $2=total, $3=tarefa</string>
 	<string name="widgetPrefHintRefresh">\u2192 Constantes atualizações significam mais uso de bateria!</string>
-	<string name="widgetPrefKeepRunning">Manter rodando em background</string>
-	<string name="widgetPrefHintKeepRunning">\u2192 Assinale se o widget para de atualizar regularmente</string>
 
 	<!-- copy days -->
 	<string name="copyDaysTitle">Copiar dias</string>

@@ -385,8 +385,6 @@
 	<string name="widgetPrefNotifBarText">通知栏文字</string>
 	<string name="widgetPrefNotifBarHint">\u2192记号:$1=打卡时间, $2=合计, $3=任务</string>
 	<string name="widgetPrefHintRefresh">\u2192刷新频率越高越耗电！</string>
-	<string name="widgetPrefKeepRunning">保持后台运行</string>
-	<string name="widgetPrefHintKeepRunning">\u2192若桌面插件经常不更新时间，请勾选！</string>
 
 	<!-- copy days -->
 	<string name="copyDaysTitle">复制日记录</string>
