@@ -395,7 +395,6 @@
 	
 	<string name="domainDateDashYMD">(Année)-Mois-Jour</string>
 	<string name="dstorMoveToSdcardWarn">Attention: Le stockage sur carte SD n\'est *pas* recommandé. Vous pourriez rencontrer des pbs d\'accès USB en lecture seule, ou (dans de rares cas) l\'effacement des fichiers de données.</string>
-	<string name="calSyncEventTitleHint">\u2192 Utiliser du texte libre et/ou des espaces réservés:\n$1=task, $2=total, $3=time from/to, $4=amount, $5=running week total</string>
 	
 	<string name="copyDaysTitle">Copier des jours</string>
 	<string name="copyDaysSourceRange">Plage de dates à copier</string>

@@ -407,7 +407,6 @@
 	
 	<string name="domainDateDashYMD">(Año)-Mes-Día</string>
 	<string name="dstorMoveToSdcardWarn">Advertencia: Almacenar en la SD no es recomendable. Podrás tener errores \'lectura\' , o (en raros casos) pérdida de ficheros.</string>
-	<string name="calSyncEventTitleHint">\u2192 Utiliza los textos librios:\n$1=tarea $2=total, $3=tiempo desde/hasta, $4=cantidad, $5=total de la semana</string>
 	 
 	<string name="copyDaysTitle">Copiar días</string>
 	<string name="copyDaysSourceRange">Rango de fechas a copiar</string>
