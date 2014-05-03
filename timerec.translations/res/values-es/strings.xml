@@ -344,7 +344,6 @@
 	<string name="commonNotificationBar">Notificación</string>
 	<string name="widgetPrefNotifBarActive">Si activo, notificaciones en barra de estado</string>
 	<string name="widgetPrefNotifBarText">Texto de notificación</string>
-	<string name="widgetPrefNotifBarHint">\u2192 Entradas: $1=Tiempo inicio, $2=total, $3=tarea</string>
 	<string name="widgetPrefHintRefresh">\u2192 Un refresco más rápido disminuye la batería</string>
 	
 	<string name="prefsCalendarSyncGroup">Sincronizar con el calendario de Google</string>

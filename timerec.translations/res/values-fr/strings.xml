@@ -371,7 +371,6 @@
 	<string name="widgetAppTitleShort">GT</string>
 	<string name="widgetPrefNotifBarActive">Notifier dans la barre de status</string>
 	<string name="widgetPrefNotifBarText">Texte notification</string>
-	<string name="widgetPrefNotifBarHint">\u2192 Espaces réservés: $1=HeureDébut, $2=total, $3=tâche</string>
 	<string name="widgetPrefHintRefresh">\u2192 Des rafraichissments plus rapides entrainent une utilisation plus importante de la batterie!</string>
 
 	<string name="commonPreviouslyUsed">Utilisé auparavant</string>
