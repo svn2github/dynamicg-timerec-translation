@@ -1,0 +1,603 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+	<!-- internal - do not translate -->
+    <string name="appUserLabel">DynamicG App User</string>
+    <string name="languageFlag">0</string>
+    <string name="googleSitesLanguage">ru</string>
+    <string name="i18nCompatibility">0</string>
+    
+    
+	<!-- labels -->
+    <string name="app_name">Рекордер времени</string>
+    <string name="app_name_pro">Рекордер времени Pro</string>
+    <string name="homescreenCheckinNow">Начать</string>
+    <string name="homescreenCheckoutNow">Закончить</string>
+    <string name="homescreenAddBreak">Добавить паузу \u2026</string>
+    <string name="homescreenHintNoStamps">No stamps.\nOpen \'Day\' and use \'Left Arrow\' to add entries to past days.</string>
+    <string name="homescreenAddStamp">Добавить \u2026</string>
+    <string name="menuEditStampsShort">Изменить блоки</string>
+    <string name="menuPreferences">Установки</string>
+    <string name="menuAdmin">Администрация</string>
+    <string name="menuAddStandardEntry">Add break/unit \u2026</string>
+    <string name="menuMore">Дополнительно</string>
+    <string name="commonDays">Дни</string>
+    <string name="commonEdit">Редактировать</string>
+    <string name="commonError">Ошибка</string>
+    <string name="commonYes">Да</string>
+    <string name="commonNo">Нет</string>
+    <string name="commonTitleCheckIn">Начало</string>
+    <string name="commonTitleCheckOut">Завершение</string>
+    <string name="commonActionAddCheckIn">Добавить начало \u2026</string>
+    <string name="commonActionAddCheckOut">Добавить завершение \u2026</string>
+    <string name="commonSample">Sample</string>
+    <string name="commonDataExport">Отчеты</string>
+    <string name="commonReportsAndExport">Отчеты &amp; экспорт данных</string>
+    <string name="commonCategories">Категории</string>
+    <string name="commonHourlyRate">Hourly rate</string>
+    <string name="commonEditCategories">Edit tasks</string>
+    <string name="commonStop">Стоп</string>
+    <string name="commonType">Тип</string>
+    <string name="commonIn">От</string>
+    <string name="commonOut">До</string>
+    <string name="commonDay">День</string>
+    <string name="commonWeek">Неделя</string>
+    <string name="commonMonth">Месяц</string>
+    <string name="commonDelete">Удалить</string>
+    <string name="commonHoursPerDay">Часов в день</string>
+    <string name="commonGrandTotal">Grand total</string>
+    <string name="commonSettings">Установки</string>
+    <string name="commonDisabled">Деактивировано</string>
+    <string name="commonDefault">По умолчанию</string>
+    <string name="commonAdvanced">Расширеный</string>
+    <string name="commonOutput">Output</string>
+    <string name="commonFilter">Фильтрование</string>
+    <string name="commonTotal">Всего</string>
+    <string name="commonStart">Старт</string>
+    <string name="commonTask">Задание</string>
+    <string name="commonText">Текст</string>
+    <string name="commonSortAZ">Сортировать А-Я</string>
+    <string name="commonEditShort">Изменить</string>
+    <string name="commonCSV">CSV</string>
+    <string name="commonDetails">Детали</string>
+	<string name="commonDoneToast">{1} \u2192done</string>
+    <string name="commonBreak">Пауза</string>
+    <string name="commonEnabledOption">\'{1}\' enabled</string>
+    <string name="commonActive">Активный</string>
+    <string name="commonActionEdit">Редактировать \'{1}\'</string>
+	<string name="commonSeeOnlineHelp">\u2192 See online help</string>
+	<string name="commonData">Дата</string>
+	<string name="commonFile">Файл</string>
+	<string name="commonOpenWith">Открыть с помощью</string>
+	<string name="commonPreviouslyUsed">Previously used</string>
+	
+    <string name="buttonOk">ОК</string>
+    <string name="buttonCancel">Отменить</string>
+    <string name="buttonChange">Изменить</string>
+    <string name="buttonClose">Закрыть</string>
+    <string name="buttonSave">Сохранить</string>
+    <string name="buttonResetText">Очистить</string>
+    <string name="buttonSwitchTask">Переключи задание \u2026</string>
+
+    <string name="headerDate">Дата</string>
+    <string name="headerTotalDecimal">Всего (decimal)</string>
+    <string name="headerTime">Время</string>
+    <string name="headerCheckAction">Действие</string>
+    <string name="headerAmount">Количество</string>
+    <string name="headerAmountShort">Кол.</string>
+    <string name="headerNoteDay">Заметки</string>
+    <string name="headerNoteWorkUnit">Work unit notes</string>
+    <string name="headerDelta">Delta</string>
+    
+    <string name="editSetNewTime">Установи новое время</string>
+    
+    <string name="confirmDeleteEntry">Удалить блок?</string>
+    <string name="confirmDeleteDay">Удалить блоки этого дня?</string>
+    <string name="checkboxIncludeDayNotes">Включая заметки</string>
+    <string name="confirmUpdateAdjacent">Also update adjacent stamp?</string>
+    
+    <string name="prefsExportRecipient">Получатель Емайла по умолчанию</string>
+    <string name="prefsExpCsvDataSeparator">Разделитель колонок</string>
+    <string name="prefsTotalFormat">Show totals as</string>
+    <string name="prefsTimeFormat">Формат времени</string>
+    <string name="prefsDateFormat">Формат даты</string>
+    <string name="prefsFirstDayOfWeek">Первый день недели</string>
+    <string name="prefsFirstDayOfMonth">Первый день месяца (1-31)</string>
+    <string name="prefsAmountCurrencyString">Amount/currency presentation</string>
+    <string name="prefsDailyTargetTime">Ежедневное целевое время</string>
+    <string name="prefsTimePickerIncrement">\'Time picker\' minute increment</string>
+	<string name="prefsShortTab4">Дата,Время</string>
+	<string name="prefsShortTracking">Мониторинг</string>
+	<string name="prefsGroupInterface">Интерфейс</string>
+	<string name="prefsWeekdayTargetTime">Override target time per weekday</string>
+    <string name="prefsGroupFormatOptions">Опции формата</string>
+    <string name="prefsGroupCalendar">Календарь</string>
+    <string name="prefsWeeklyTargetTime">Еженедельное целевое время</string>
+    <string name="hintWeeklyTargetTime">\u2192 Sample input: \'38.75\'. Clear to disable.</string>
+	<string name="prefsDefaultCategory">Задание по умолчанию</string>
+	<string name="prefsKeepPrevCategory">Продолжай то же задание после паузы</string>
+	<string name="prefsExpDecimalSep">Decimal separator</string>
+	<string name="prefsCollapseCheckBtn">Соедини кнопки \'начать/закончить\'</string>
+	<string name="prefsHintRestartRequired">\u2192 Changes on on these settings require restart</string>
+	<string name="prefsHintPleaseRestart">\u2192 Пожалуйста перестартуйте апп</string>
+	<string name="prefsGridViewFont">Размер шрифта</string>
+	<string name="prefsWidgetClickAction">Действие при клике на виджет</string>
+	<string name="prefsDomWidgetActionOpen">Открыть апп</string>
+	<string name="prefsDomWidgetActionPunch">Punch time</string>
+	<string name="prefsDomWidgetActionMixed">Icons=punch, Text=open</string>
+	<string name="prefsPunchNowRounding">Rounding on \'punch now\'</string>
+	<string name="prefsPunchNowRoundingOption">Опции округления</string>
+	<string name="prefsPunchNowRoundingSlot">Округли до минуты</string>
+	<string name="prefsDomRoundStd">Round</string>
+	<string name="prefsDomRoundUp">Round up</string>
+	<string name="prefsDomRoundDown">Round down</string>
+	<string name="prefsDomRoundInUpOutDown">In=up, Out=down</string>
+	<string name="prefsDomRoundInDownOutUp">In=down, Out=up</string>
+	<string name="prefsProOnlyFeature">\u2192 This is a \"Pro version only\" feature</string>
+	<string name="prefsPunchRoundTaskSwitch">Also apply on \'Switch task\'</string>
+	<string name="prefsCalendarSyncGroup">Синхронизация с Google calendar </string>
+	<string name="prefsHomescreenBtSmall">Маленькие кнопки в главном окне</string>
+
+	<string name="calSyncCalendarName">Calendar name</string>
+	<string name="calSyncHints2">\u2192 Only one-way sync supported</string>
+	<string name="calSyncWriteDelay">Write delay (seconds/minutes) after changes</string>
+	<string name="calSyncForStamps">Sync stamps as \'events\'</string>
+	<string name="calSyncForDayNotes">Sync day notes as \'all day event\'</string>
+	<string name="calSyncShowConfirmation">Показать подтверждение после синхронизации</string>
+	<string name="calSyncEventTitleLabel">Название события</string>
+	<string name="calSyncEventTitleHint">\u2192 Tokens: $1=Task, $2=Total, $3=Time from/to, $6=Client. See help.</string>
+	<string name="calSyncCheckSettings">Click here to check \'{1}\' settings.</string>
+	<string name="marketAppMissing">Additional App required. Click here for download</string>
+	<string name="marketPluginMissing">Plugin required. Click here for download</string>
+	<string name="calSyncInvalidCalendarTitle">Calendar name missing or invalid</string>
+	<string name="commonLookupHint">\u2192 Hint: use the [\u2026] lookup</string>
+	
+    <string name="stdStampTitle">Breaks &amp; work units</string>
+    <string name="stdStampTypeBlockShort">Unit</string>
+    <string name="stdStampTypeBlockLong">Work unit</string>
+    <string name="stdStampTypeBreakNow">Break now</string>
+    <string name="stdStampBreakForLastMI">For last {1} minutes</string>
+    <string name="stdStampBreakForNextMI">For next {1} minutes</string>
+    <string name="stdStampsBreakNowItems">Entries for \'{1}\'</string>
+    
+    <string name="autoBreakTitle">Авотматические паузы</string>
+    <string name="autoBreakBookWhen">Когда</string>
+    <string name="autoBreakDomFirst">Active, single break</string>
+    <string name="autoBreakDomAll">Active, multiple breaks</string>
+    
+    <string name="dailyTargetOptionTitle">Опции целевого времени</string>
+    <string name="dailyTargetOptTurnOff">Отключить</string>
+    <string name="dailyTargetOptOvertime">Book as overtime</string>
+    <string name="dailyTargetReachedAtLabel">Цель будет достигнута в {1}</string>
+    <string name="dailyTargetReachedAtPref">Показывать \'Цель будет достигнута в\'</string>
+    <string name="dailyTargetReachedAtHint">\u2192 Note this will take \'Automatic breaks\' into account</string>
+    
+    <string name="sendMailIntentTitle">Послать емайл</string>
+    <string name="exportMailTitle">Time Recording Report {3}, {1}</string>
+    <string name="exportMailBody">{title}\ncreated on {2}</string>
+    <string name="exportColumnSeparatorHint">Hint: change the \'Column separator\' on the export settings if the data is imported as one single column</string>
+	<string name="repTaskMatrix">Матрица заданий</string>
+	<string name="expPrefsDataInclusion">Data inclusion</string>
+	<string name="expPrefsAttachmentMimeType">Attachment \'MIME type\'</string>
+	<string name="expPrefsTargetIntent">\'Send\' target intent</string>
+	<string name="expPrefsFileEncoding">Кодировка файла</string>
+	<string name="expPrefsHideAmounts">Hide amounts</string>
+	<string name="expPrefsAmtWithCurrency">Show currency on amounts</string>
+	<string name="expPrefsDaysToShow">Show these days</string>
+	<string name="expDomDaysShowAll">все</string>
+	<string name="expDomDaysShowSt">with stamps</string>
+	<string name="expDomDaysShowStNt">with stamps or notes</string>
+	<string name="expPrefsDetailsReportActive">\'Details\' report enabled</string>
+	<string name="expDomNotesFilterEqual">равно</string>
+	<string name="expDomNotesFilterLike">содержит</string>
+	<string name="expDomNotesFilterNotLike">не содержит</string>
+	<string name="expPrefsShowTotalLine">Show \'Total\' line</string>
+	<string name="expPrefsGroupBreakDate">Group break on \'Date\'</string>
+	<string name="expPrefsCharsetCommon">Common character sets</string>
+	<string name="expPrefsCharsetFullList">Полный список</string>
+	<string name="expPrefsTransposeMatrix">Транспонировать матрицу</string>
+	<string name="expPrefsFilenamePrefix">Префикс в названии файла</string>
+	<string name="expPrefsE4SkipSingleTaskTotal">Skip task total, keep grand total</string>
+	
+	<string name="expTypeOverviewDays">E1 Day overview</string>
+	<string name="expTypeOverviewWorkUnits">E2 Work unit overview</string>
+	<string name="expTypeOverviewDayAttendance">E3 Day attendance</string>
+	<string name="expTypeTasksPerDay">E4 Tasks per day</string>
+	<string name="expPreview">Preview</string>
+	
+	<string name="fileDeliveryLabel">Delivery</string>
+	<string name="fileDeliveryEmail">Послать емайлом</string>
+	<string name="fileDeliveryCloud">Загрузить на {1}</string>
+	<string name="fileDeliveryGoogleDocs">Послать в Google Docs</string>
+	<string name="fileDeliveryRestoreFromCloud">Восстановить из {1}</string>
+	
+    <string name="domainSepComma">Запятая [,]</string>
+    <string name="domainSepSemicolon">Точка с запятой [;]</string>
+    <string name="domainSepPipe">Pipe [|]</string>
+    <string name="domainSepTab">Закладка</string>
+    <string name="domainTotStandard">Standard [08:45]</string>
+    <string name="domainTotDecimal">Decimal [08.75]</string>
+    <string name="domainTime24">24 hours [13:45]</string>
+    <string name="domainTimeAMPM">AM/PM [01:45pm]</string>
+    <string name="domainTimeDecimal">24 hours decimal [13.75]</string>
+    <string name="domainDateDDpMM">День.Месяц</string>
+    <string name="domainDateDDsMM">День/Месяц</string>
+    <string name="domainDateMMpDD">Месяц.День</string>
+    <string name="domainDateMMsDD">Месяц/День</string>
+    <string name="domainDateDashYMD">(Год)-Месяц-День</string>
+    <string name="domainMonthview1M">1 Месяц</string>
+    <string name="domainMonthview2W">2 Недели</string>
+    <string name="domainMonthview4W">4 Недели</string>
+    <string name="domainMonthview1W">1 Неделя</string>
+	<string name="domainExpDataInclusionAttachment">File attachment</string>
+	<string name="domainExpDataInclusionPlainText">Plain body text</string>
+	<string name="domainExpDataInclusionForViewer">For standard viewer</string>
+	<string name="domainExpFormatCSV">Excel (CSV)</string>
+	<string name="domainExpFormatHTML">Web page (HTML)</string>
+	<string name="domainExpFormatXML">XML</string>
+
+    <string name="dayShortSun">Вс</string>
+    <string name="dayShortMon">Пн</string>
+    <string name="dayShortTue">Вт</string>
+    <string name="dayShortWed">Ср</string>
+    <string name="dayShortThu">Чт</string>
+    <string name="dayShortFri">Пт</string>
+    <string name="dayShortSat">Сб</string>
+    
+    <string name="categoryNone">(no task)</string>
+    <string name="categoryFilterAll">&lt;Всё&gt;</string>
+    <string name="categoryEditHeaderHourlyRate">Hourly\nrate</string>
+    <string name="categoryEditHeaderSort">Sort</string>
+    <string name="categorySelectNextCategory">Select next task</string>
+    <string name="categoryHasChildrenCannotDelete">Task already used, cannot delete! Please set to \'inactive\' instead.</string>
+    <string name="categoryFilter">Task filter</string>
+    <string name="categoryEditLink">Edit tasks</string>
+    <string name="categoryEditorHintMenu">\u2192 See menu for more functions</string>
+    <string name="categorySampleEntry1">Client 1 - On-site</string>
+    <string name="categorySampleEntry2">Client 1 - Remote support</string>
+    <string name="categorySampleEntry3">Training</string>
+
+    <string name="catExpImpTitle">Экспорт/Импорт</string>
+    <string name="catExpImpExport">Экспорт</string>
+    <string name="catExpImpImport">Импорт</string>
+    <string name="catExpImpToSD">Экспорт на SD-Card</string>
+    <string name="catExpImpToCloud">Экспорт в {1}</string>
+    <string name="catExpImpFromSD">Импорт с SD-Card</string>
+    <string name="catExpImpFromCloud">Импорт из {1}</string>
+    
+    <string name="hintClickToChange">Кликнуть, чтобы изменить</string>
+    <string name="hintClickIconToEdit">Клик, чтоб редактировать заметки</string>
+    <string name="hintNoStampsClickToAdd">No entries for this day.\nOpen Menu or click here to add.</string> 
+    <string name="hintZeroOutToDisable">\u2192 Set to \'00:00\' to disable</string>
+    <string name="hintAmountPrecision">\u2192 Use \'$#.#\' or \'$#.##\' for 1 or 2 decimal places.</string>
+    <string name="hintAmountRounding">\u2192 Note on rounding: subtotals and grand total are rounded independently, so they will not always match.</string>
+    <string name="hintRateOverride">\u2192 Rate can be overridden per task</string>
+	<string name="hintDbRecreateConfirmation">Warning: empty database. Recreate?</string>
+	<string name="hintCreatingBackup">Creating backup ...</string>
+	<string name="hintTooMuchEntries">Too much entries</string>
+    <string name="hintPleaseWait">Please wait ...</string>
+
+    <string name="errorTimeslotNotFree">Entry at \'{1}\' already exists</string>
+    <string name="errorCannotStartNewTask">Already checked in at {1}, cannot start new task</string>
+    <string name="errorSdCardAccess">SD Card access error</string>
+    <string name="errorSdCardWrite">SD Card write error</string>
+    <string name="errorCalSyncFailed">Calendar sync failed</string>
+    <string name="errorCloudAccessFailed">{1} access failed</string>
+
+    <string name="aboutPublicServices">Public App services</string> 
+    <string name="aboutPro">Pro</string>
+	<string name="aboutAvailableHere">\'{1}\' available here</string> 
+
+    <string name="bckBackupTitle">Backup</string>
+    <string name="bckRestoreTitle">Восстановить</string>
+    <string name="bckCreateBackup">Create backup</string>
+    <string name="bckArchiveTitle">Архив</string>
+    <string name="backupBody">To restore: copy attached file to SD Card (top level), open \'Preferences/Restore...\', click \'Restore backup\'</string>
+    <string name="bckSwitchToArchive">View archived data</string>
+    <string name="bckSwitchToLive">Switch back to live data</string>
+    <string name="bckArchiveDataOlderThan">Archive data &gt; {1} months</string>
+    <string name="bckArchiveHint">\u2192 Use \"archive\" to move old data and make the \'live database\' smaller and faster</string>
+	<string name="errorSdCardUnavailable">SD Card not available. Backup, restore &amp; export currently not possible.</string>
+	
+	<string name="widgetAppTitle1">Рекордер</string>
+    <string name="widgetAppTitle2">Времени</string>
+    
+    <string name="stdCommentTitle">Standard note</string>
+    <string name="stdCommentSelect">Pick standard note</string>
+    <string name="stdCommentAppend">Append to current text</string>
+    <string name="stdCommentDefaultEntry1">Vacation</string>
+    <string name="stdCommentDefaultEntry2">Compensation</string>
+    
+    <string name="noteMassTitle">Comment multiple days</string>
+    <string name="noteMassIfTextExists">If text already present</string>
+    <string name="noteMassOptAppend">Append</string>
+    <string name="noteMassOptReplace">Overwrite</string>
+    <string name="noteMassOptSkip">Игнорить</string>
+    <string name="noteMassOnlyTheseDays">Add to these days</string>
+    <string name="noteMassSkipEmptyDays">Skip days without stamps</string>
+    
+	<string name="dstorMainTitle">Data administration</string>
+	<string name="dstorDataStorage">Storage admin</string>
+	<string name="dstorTargetPhone">Телефон</string>
+	<string name="dstorTargetSdCard">SD-Card</string>
+	<string name="dstorCurrent">Data currently stored on {1}.</string>
+	<string name="dstorMoveTo">Move data to {1}</string>
+	<string name="dstorImport">Restore backup</string>
+	<string name="dstorImportDone">Import from {1} done, rows={2}.</string>
+	<string name="dstorSwitch">Use {1} (no data move)</string>
+	<string name="dstorSwitchDone">Data storage is now on {1}</string>
+	<string name="dstorConfirmMigration">Move data to phone storage? This will increase stability.</string>
+	<string name="dstorWarning">Caution: use with care. See FAQ.</string>
+	<string name="dstorRestoreLocalBck">Restore local backup</string>
+	<string name="dstorFileNotFound">File \'{1}\' not found.</string>
+	<string name="dstorCannotProcess">Cannot process.</string>
+	<string name="dstorPreferred">Storage on Phone is preferred.</string>
+	<string name="dstorSettingsBRTitle">App settings</string>
+	<string name="dstorInitialRecovery">Backup detected on SD Card. Restore data?</string>
+	<string name="dstorHintProvideBackup">No backup file found on SD Card.\nDirectory: {1}</string>
+	<string name="dstorIncludeSettings">Include settings?</string>
+	<string name="dstorMoveToSdcardWarn">Warning: Storage on SD Card is *not* recommended. You might hit USB access &amp; \'read only\' issues, or (in rare cases) deleted data files.</string>
+	
+	<string name="dstorFree2ProImportConfirmation">Import data and settings from free version?</string>
+	<string name="dstorFree2ProLiveImport">Import from free version</string>
+	
+	<!-- diff sync marker A -->
+	<string name="pdotMainTitle">Paid overtime</string>
+	<string name="pdotOvertimeRate">Hourly rate surcharge</string>
+	<string name="pdotBasedOn">Overtime hours based on</string>
+	<string name="pdotCalculatePer">Apply calculation to</string>
+	<string name="pdotShowDetails">Show details on report</string>
+	<string name="pdotDomainFullRep">Full report</string>
+	<string name="pdotRateHint">\u2192 Sample: set to \'8\' if normal rate is $16 and overtime pay is x1.5, since 24-16=8</string>
+	<string name="pdotMainHint">\u2192 Only shows on \'Month\' view. Needs \'Daily\' or \'Weekly\' target time enabled.</string>
+	
+	<!-- diff sync marker B -->
+	<string name="sdcardErrorReboot">\u2022 Please reboot your phone and try again.\n\u2022 If the problem persists please contact developer.</string>
+	<string name="sdcardErrorReadonly">SD Card is read only.</string>
+	<string name="sdcardErrorShared">SD Card blocked by USB access. Please disconnect phone from USB and try again.</string>
+
+	<!-- diff sync marker C -->
+    <string name="brprefsRestoreAction">Восстанови установки аппа</string>
+    <string name="brprefsFileSelection">Restore settings as of {1}</string>
+    <string name="brprefsBackupAction">Backup app settings to SD Card</string>
+    <string name="brprefsBackupFileExists">Backup file exists. Overwrite?</string>
+    
+	<!-- diff sync marker D -->	
+	<string name="admRebuildIndexes">Rebuild indexes</string>
+	<string name="admDeleteOldLabel">Delete old data</string>
+	<string name="admDeleteOldHint">Select date to delete unto</string>
+	<string name="admDeleteOldBody">Delete all data up to {1}?\nThis cannot be undone.</string>
+	<string name="admDeleteAll">Delete all data</string>
+	
+	<string name="pubsIssue">{1} issue</string>
+	<string name="pubsCheckinDone">Check-in done</string>
+	<string name="pubsCheckoutDone">Check-out done</string>
+	<string name="pubsAlreadyCheckedIn">Already checked in</string>
+	<string name="pubsAlreadyCheckedOut">Already checked out</string>
+	<string name="pubsPriorCheckoutMissing">Prior check-in missing</string>
+	
+	<string name="catExtExportDone">Export done, file is here:\n{1}</string>
+	<string name="catExtFileMissing">Import file not found. Use \"Export\" to create template.</string>
+	<string name="catExtImpConfirm1">\u2192 EXISTING {1} TASKS WILL BE DELETED!</string>
+	<string name="catExtImpConfirm2">\u2192 Make sure you don\'t change IDs of tasks already in use!</string>
+	<string name="commonCannotUndo">\u2192 This action cannot be undone, except with \'Restore\'</string>
+	<string name="catExtImpConfirm4">\u2022 File: {1}</string>
+	<string name="catExtImpConfirm5">\u2022 Number of tasks to import: {1}</string>
+	<string name="catExtNothingToImport">Nothing to import. Empty file?</string>
+	
+	<string name="err21">Error: Database readonly</string>	
+	<string name="err22">Error: SD Card is full</string>
+	<string name="err25">Error: Backup failed</string>
+	<string name="errFaqHint">Click here for online help,\nsee \'Error {1}\'</string>
+	
+	<string name="proReminderMktButton">Google Play</string>
+
+	<string name="commonWidget">Widget</string>
+	<string name="commonNotificatioBar">Notification bar</string>
+	<string name="widgetAppTitleShort">TR</string>
+	<string name="widgetTitleFrame">Рекордер времени (Frame)</string>
+	<string name="widgetTitleGloss">Рекордер времени (Gloss)</string>
+	<string name="widgetTitleSlider">Рекордер времени (Slider)</string>
+	<string name="widgetTitleFramePro">Рекордер времени Про (Frame)</string>
+	<string name="widgetTitleGlossPro">Рекордер времени Про (Gloss)</string>
+	<string name="widgetTitleSliderPro">Рекордер времени Про (Slider)</string>
+	<string name="widgetPrefNotifBarActive">Status bar notification when checked in</string>
+	<string name="widgetPrefNotifBarText">Notification text</string>
+	<string name="widgetPrefNotifBarHint">\u2192 Placeholders: $1=check-in time, $2=total, $3=task</string>
+	<string name="widgetPrefHintRefresh">\u2192 Faster refresh means more battery usage!</string>
+	<string name="widgetPrefKeepRunning">Keep running in background</string>
+	<string name="widgetPrefHintKeepRunning">\u2192 Tick if the widget regularly stops refreshing</string>
+
+	<!-- copy days -->
+	<string name="copyDaysTitle">Copy days</string>
+	<string name="copyDaysSourceRange">Date range to copy</string>
+	<string name="copyDaysToLabel">Copy to</string>
+	<string name="copyDaysToStart">Start at this day</string>
+	<string name="copyDaysOverwrite">Overwrite if data present</string>
+	<string name="copyDaysDone">\u2192 Copied {1} days</string>
+
+	<!-- v3.01 -->
+	<string name="commonSwitchedTo">\u2192 Switched to {1}</string>
+	<string name="commonWorkDay">Рабочий день</string>
+	<string name="commonMigrationWorking">Data migration running ...</string>
+	<string name="commonStampValidDate">Validity date</string>
+	<string name="actualDateSelectionTitle">Change validity date</string>
+	<string name="actualDateSelectionHint">\u2192 Use second option only when working over midnight</string>
+	<string name="actualDateSwitchWorkdayLabel">\u2192 Click here to switch to next work day.</string>
+
+	<string name="prefsWorkLateGroup">\'Working late\' options</string>
+	<string name="workLatePrefsHint">\u2192 Also see {1} on preferences page 4.</string>
+	<string name="prefsActualDateDisplay">Show validity date in Time Picker</string>
+	<string name="prefsStopRunningWorkdayLabel">If I forget to check out, running counter stops at this time:</string>
+	<string name="prefsStopRunningWorkdayHint">\u2192 Do *not* change if you work rotating shift</string>
+	<string name="prefsActualDateShowAlways">Always</string>
+	<string name="prefsActualDateShowCrossMn">If over midnight</string>
+	
+	<!-- v3.02 -->
+	<string name="commonNone">None</string>
+	<string name="edtoolsCap">Default capitalization</string>
+	<string name="edtoolsCapWords">Слова</string>
+	<string name="edtoolsCapSentences">Sentences</string>
+	<string name="edtoolsAppend">Add standard note</string>
+	<string name="widgetSdCardHint">\u2192 Widgets do not work if the app is installed on the SD Card!</string>
+	
+	<string name="prefsGroupMainScreenLabel">Основное окно</string>
+	<string name="prefsGroupMainScreenRefreshHint">\u2192 Это увеличит потребление батарейки!</string>
+	<string name="prefsKeepScreenOn">Не выключать экран</string>
+	
+	<string name="expPrefsShowEmailOnHTML">Show email address on HTML exports</string>
+	
+	<!-- v3.06 -->
+	<string name="expSearchDayNotes">Day notes filter</string>
+	<string name="expSearchWorkUnitNotes">Work unit notes filter</string>
+	<string name="expPrefsAutoCloseWindow">Close dialog after export</string>
+	<string name="taskerPluginSelectAction">Select action which shall be triggered:</string>
+	<string name="commonTaskSelectionOpen">Open task selection</string>
+	<string name="commonStartNewTask">Start new task</string>
+	<string name="commonNewTaskStarted">New task started</string>
+	<string name="taskerPreselectedCategory">Extra setting: use following task for selected action:</string>
+	<string name="commonWeeklyDelta">Delta W</string>
+	<string name="commonMonthlyDelta">Delta M</string>
+	<string name="prefsHideAdsLabel">\u2022 Advertisement</string>
+	<string name="prefsHideAdsButton">Hide ads until {1}</string>
+	<string name="prefsHideAdsHint">\u2192 Note this can be renewed after expiration, unlimited times.</string>
+	<string name="admResetAllPrefs">Reset all preferences</string>
+	<string name="calSyncCalendarType">Calendar type</string>
+	<string name="calSyncCalendarTypeExclusive">Exclusive, for TimeRec only</string>
+	<string name="calSyncCalendarTypeShared">Shared, has other entries</string>
+	
+	<string name="helpInfo">Info</string>
+    <string name="helpFAQ">FAQ</string>
+	<string name="helpWhatsNew">What\'s new</string>
+	<string name="prefsMinimumBreak">Minimum break time</string>
+	<string name="prefsShowIsoWeekNr">Show ISO week number</string>
+	
+	<string name="confirmDayRollOver">Close day and roll over?</string>
+	<string name="prefDayRollOver">\'Close day &amp; roll over\' when working over midnight</string>
+	
+	<string name="categoryEditHeaderTargetOff">No target\ntime</string>
+	<string name="categoryEditHeaderUnpaid">Unpaid</string>
+	<string name="categoryEditHeaderFixedAmtWorkUnit">Fixed amount\nper unit</string>
+	<string name="categoryEditHeaderFixedAmtDay">Fixed amount\nper day</string>
+	<string name="categoryEditSortRenumber">Sort renumber</string>
+	<string name="commonColumnVisibility">Show/hide columns</string>
+	
+    <string name="prefsMonthlyTargetTime">Monthly target time</string>
+    <string name="prefsTimeZoneLock">Lock to timezone</string>
+    <string name="calSyncActiveOnCheckin">Sync also active on \'check in\'</string>
+	
+    <string name="commonAppRequired">Mising App</string>
+    <string name="commonUpdateCurrentTask">Update task of current work unit</string>
+    <string name="commonResetSettings">Reset settings to default</string>
+    <string name="commonFlip">Flip</string>
+    
+    <!-- 3.16 -->
+    <string name="commonCustomer">Клиент</string>
+    <string name="prefsCustomerFilter">Client filter</string>
+    <string name="expPrefsShowCustomer">Show client</string>
+    <string name="commonDeleteEntry">Delete entry</string>
+    <string name="commonDeleteLine">Delete line</string>
+    
+    <string name="taskerPluginCondition">Condition</string>
+	<string name="commonCheckedIn">Checked in</string>
+	<string name="commonCheckedOut">Checked out</string>
+	
+    <!-- 4.0x -->
+    <string name="commonAddLine">Add line</string>
+    <string name="commonDeleteAllLines">Delete all lines</string>
+    <string name="commonNewTask">New task</string>
+
+    <!-- 4.04 -->
+    <string name="prefsTheme">Theme (Android 4)</string>
+    <string name="prefsThemeLight">Light</string>
+    <string name="prefsThemeDark">Dark</string>
+    <string name="commonBasicSettings">Basic settings</string>
+    <string name="autoBreakSkipWhenOff">Skip if outside time window</string>
+    
+	<string name="commonWorktimeOverview">Worktime overview</string>
+	<string name="commonViewNoun">View</string>
+	<string name="commonShort">Short</string>
+	<string name="expPrefsIsoDateFormat">YYYY/MM/DD</string>
+	
+    <string name="prefsReportingPeriod">Reporting period</string>
+    <string name="prefsBackupAndRestore">Backup &amp; restore</string>
+    
+    <!-- 4.05 -->
+    <string name="commonBreakOver">Break over</string>
+    <string name="commonTargetReached">Target reached</string>
+    <string name="timeReachedAlarmSettings">\'{1}\' alarm settings</string>
+    <string name="timeReachedNotification">{1} at {2}</string> <!-- sample: "Target reached at 17:45" -->
+    
+    <string name="alertNotificationSoundOnce">Notification sound (once)</string>
+    <string name="alertNotificationSoundInsistent">Notification sound (insistent)</string>
+    <string name="alertNotificationVibra">Vibrate</string>
+    
+    <!-- 4.06 -->
+    <string name="worktimeExceededLabel">Alarm if daily worktime &gt; x hours</string>
+    <string name="worktimeExceededNotification">Daily worktime exceeds {1}</string>
+    <string name="commonThreshold">Threshold</string>
+    
+	<string name="expTypeCustomersPerDay">E6 Clients per day</string>
+    <string name="customerNone">(no client)</string>
+    
+    <!-- 4.07 -->
+    <string name="cloudProviderDropbox">Dropbox</string>
+    <string name="cloudProviderGoogleDrive">Google Drive</string>
+	<string name="commonOverview">Overview</string>
+    
+    <!-- 4.09 -->
+    <string name="commonAuto">Auto</string> <!-- "Automatic" -->
+    <string name="commonSwitchView">Switch view</string>
+    <string name="commonContinueTask">Continue task</string>
+    <string name="commonOnlineHelp">Online help</string>
+    <string name="prefsMainAutoScroll">Auto scroll to bottom</string>
+    <string name="expPrefsSaveFilters">Save filters</string>
+    <string name="commonSyncTitle">Synchronize title</string>
+    
+    <!-- 4.10 -->
+    <string name="paidOt2Factor">Фактор</string>
+    <string name="commonRateButton">Оценить</string> <!-- "Please rate the app" -->
+    
+    <!-- 4.11 -->
+    <string name="commonExtras">Extras</string>
+	<string name="edtoolsGeoLocation">Add geo location</string>
+    
+	<!-- 4.12 -->
+	<string name="domainMonthviewSemiM">Semimonthly</string>
+	<string name="prefsFirstDayOfPeriodN">First day of period {1} (1-31)</string>
+	<string name="prefsCurrentWeekOfRepPeriod">Current week of your reporting period</string>
+	<string name="prefsScrollSizeWeeks">Scrolling on \'{1}\' view</string>
+	<string name="hintAlsoSeePage">\u2192 Also see {1} on page {2}</string>
+    <string name="dailyTargetReachedInLabel">{1} to go</string>
+
+	<!-- 4.13 -->
+    <string name="commonUndo">Undo</string> <!-- "Undo changes" on text editor -->
+    <string name="prefsStayOnPreviousDay">Show previous day if opened before</string>
+    <string name="prefsAutoBackup">Auto backup every x days</string>
+    <string name="commonSdCard">SD Card</string>
+	<string name="commonRefreshMM">Refresh every x minutes</string>
+	<string name="calSyncNightShift">Support night shifts</string>
+	<string name="commonDecimal">Decimal</string>
+	<string name="archiveLocation">Archive file is stored here:\n\u2022 Folder: {1}\n\u2022 Name: {2}\nNote this file is not backed up by the app.</string>
+	<string name="backupReminderTitle">Backup reminder</string>
+	<string name="backupReminderBody">Please remember to back up your data regularly.</string>
+	<string name="commonDoNotShowAgain">Don\'t show this message again</string>
+	
+	<!-- 4.14 -->
+	<string name="commonRetry">Retry</string>
+	<string name="expPrefsGoogleDocsConversion">Convert to Google Docs document</string>
+	
+	<!-- 4.15 -->
+	<string name="commonBackupShort">Backup</string>
+	<string name="commonLater">Позже</string>
+	
+	<!-- 4.16 -->
+	<string name="commonID">ID</string>		
+	<string name="activityCheckIn">Time Recording/Check in</string>
+	<string name="activityCheckOut">Time Recording/Check out</string>
+	<string name="activityPunch">Time Recording/Punch</string>
+	
+	<string name="prefsDeltaWeekOnMain">Show \'Delta\' on main screen</string>
+	<string name="workUnitDetailRep">Work log</string>
+	
+</resources>
