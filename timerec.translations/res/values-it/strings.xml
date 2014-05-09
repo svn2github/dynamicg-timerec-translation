@@ -581,7 +581,6 @@
 	<string name="commonIncremental">Incremental</string>
 	<string name="commonForceDeletion">Force deletion</string>	
 	<string name="prefsRepPeriodWeeks">{2} {1}</string>
-	<string name="commonExclude">Exclude \u00ab{1}\u00bb</string>
 		
 	<!-- 4.21 -->
 	<string name="bckArchiveDataOlderCustom">Archivio di dati &gt; {1}</string>
@@ -604,17 +603,18 @@
 	<string name="widgetPro4x2">Registra Orari Pro 4x2</string>
 	<string name="expCustomDefaultApp">\u00ab{1}\u00bb App</string>
 	<string name="commonShowActions">Mostra azioni</string>
+	
+	<string name="commonExclude">Exclude \u00ab{1}\u00bb</string> <!-- PENDING -->
 
 	<!-- 5.02 -->
 	<string name="commonGroupBy">Raggruppamento</string>
 	<string name="commonLineN">Linea {1}</string>
 	<string name="expTypeWorktimeOverview">E8 {1}</string>
-
-	<!-- 5.02 en/de only -->
-	<string name="promoTitle"></string>
-	<string name="promoBody"></string>
+	<string name="promoTitle"></string> <!-- en/de only -->
+	<string name="promoBody"></string> <!-- en/de only -->
 
 	<!-- 5.03 -->
+	<string name="categoryEditHeaderTimeCumulationOff">No time\ncumulation</string> <!-- PENDING ("do not totalize time on this task") -->
 	<string name="catEdExtra1Long">Lavoro Extra 1</string>
 	<string name="catEdExtra2Long">Lavoro Extra 2</string>
 	<string name="catEdExtra1Short">Extra1</string>
@@ -625,8 +625,6 @@
 	<string name="commonCategoryLabel">Titolo dei lavori</string>
 	<string name="prefsOverrideWeeklyTarget">Ignora obiettivo orario per settimana</string>
 	
-	<!-- 5.03 ##PENDING## -->
-	<string name="categoryEditHeaderTimeCumulationOff">No time\ncumulation</string>
 	
 	<!-- 5.05 -->
 	<string name="commonNineEightyHint"></string>

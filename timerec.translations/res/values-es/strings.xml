@@ -585,11 +585,16 @@
 	<string name="widgetPro4x2">Hojas de Tiempos Pro 4x2</string>
 	<string name="commonShowActions">Mostrar acciones</string>
 
+	<string name="commonExclude">Exclude \u00ab{1}\u00bb</string> <!-- PENDING -->
+	
 	<!-- 5.02 -->
 	<string name="commonGroupBy">Agrupamiento</string>
 	<string name="commonLineN">Línea {1}</string>
-	
+	<string name="promoTitle"></string> <!-- en/de only -->
+	<string name="promoBody"></string> <!-- en/de only -->
+		
 	<!-- 5.03 -->
+	<string name="categoryEditHeaderTimeCumulationOff">No time\ncumulation</string> <!-- PENDING ("do not totalize time on this task") -->
 	<string name="catEdExtra1Short">Extra1</string>
 	<string name="catEdExtra2Short">Extra2</string>
 	<string name="catEdExtra1Long">Tarea Extra 1</string>

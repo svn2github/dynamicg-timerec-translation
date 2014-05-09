@@ -571,12 +571,17 @@
 	<string name="widgetPro4x1">Gestion du temps Pro 4x1</string>
 	<string name="widgetPro4x2">Gestion du temps Pro 4x2</string>
 	<string name="commonShowActions">Montrez actions</string>
-			
+
+	<string name="commonExclude">Exclude \u00ab{1}\u00bb</string> <!-- PENDING -->
+	
 	<!-- 5.02 -->
 	<string name="commonGroupBy">Regroupement</string>
 	<string name="commonLineN">Ligne {1}</string>
-	
+	<string name="promoTitle"></string> <!-- en/de only -->
+	<string name="promoBody"></string> <!-- en/de only -->
+		
 	<!-- 5.03 -->
+	<string name="categoryEditHeaderTimeCumulationOff">No time\ncumulation</string> <!-- PENDING ("do not totalize time on this task") -->
 	<string name="catEdExtra1Short">Extra1</string>
 	<string name="catEdExtra2Short">Extra2</string>
 	<string name="catEdExtra1Long">Tâche Extra 1</string>

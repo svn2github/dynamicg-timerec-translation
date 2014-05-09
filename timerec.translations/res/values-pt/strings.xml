@@ -571,11 +571,16 @@
 	<string name="widgetPro4x2">Registro de Horários Pro 4x2</string>
 	<string name="commonShowActions">Mostrar ações</string>
 
+	<string name="commonExclude">Exclude \u00ab{1}\u00bb</string> <!-- PENDING -->
+	
 	<!-- 5.02 -->
 	<string name="commonGroupBy">Agrupamento</string>
 	<string name="commonLineN">Linha {1}</string>
-	
+	<string name="promoTitle"></string> <!-- en/de only -->
+	<string name="promoBody"></string> <!-- en/de only -->
+		
 	<!-- 5.03 -->
+	<string name="categoryEditHeaderTimeCumulationOff">No time\ncumulation</string> <!-- PENDING ("do not totalize time on this task") -->
 	<string name="catEdExtra1Short">Extra1</string>
 	<string name="catEdExtra2Short">Extra2</string>
 	<string name="catEdExtra1Long">Tarefa Extra 1</string>
