@@ -75,19 +75,22 @@ When you are done with all texts, send your version of the "strings.xml" file to
 <br>
 <b>Handling of special characters</b>
 
-<pre>
-- &lt;!-- ...text... --&gt; is a comment. ignore these, do not translate
-- \n is a newline. "a\nb" will show as "a[newLine]b"
-- single and double quotes have to be escaped with backslash: \' or \"
-- {1} and {2} are placeholders. "Edit \'{1}\'" may become "Edit 'Tasks'"
+<code>
+<br/>• &lt;!-- ...text... --&gt; is a comment. ignore these, do not translate
+<br/>• \n is a newline. "a\nb" will show as "a[newLine]b"
+<br/>• single and double quotes have to be escaped with backslash: \' or \"
+<br/>• {1} and {2} are placeholders. "Edit \'{1}\'" may become "Edit 'Tasks'"
+<br/>
 
-- \u.... are utf characters:
-\u2026 = ellipsis [...]
-\u2192 = right arrow [-&gt;]
-\u2022 = bullet
+<br/>• \u.... are utf characters:
+<br/>\u2026 = ellipsis [...]
+<br/>\u2192 = right arrow [-&gt;]
+<br/>\u2022 = bullet
+<br/>
 
-- other special characters
-&amp;amp; = ampersand [&amp;] 
-&amp;lt; = less than [&lt;]
-&amp;gt; = greater than [&gt;]
-</pre>
+<br/>• other special characters
+<br/>&amp;amp; = ampersand [&amp;] 
+<br/>&amp;lt; = less than [&lt;]
+<br/>&amp;gt; = greater than [&gt;]
+
+</code>
