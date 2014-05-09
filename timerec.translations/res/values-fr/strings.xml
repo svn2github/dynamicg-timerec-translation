@@ -182,6 +182,7 @@
 	<string name="expDomDaysShowStNt">Avec enregistrements ou notes</string>
 	<string name="expDomNotesFilterEqual">égale</string>
 	<string name="expDomNotesFilterLike">contient</string>
+	<string name="expDomNotesFilterNotLike">ne contient pas</string>
 	<string name="expPrefsShowTotalLine">Afficher \'Total\'</string>
 	<string name="expPrefsGroupBreakDate">Regrouper les pauses par \'Date\'</string>
 	<string name="expPrefsCharsetCommon">Jeux de caractères communs</string>

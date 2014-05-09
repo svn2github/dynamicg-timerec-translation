@@ -156,6 +156,7 @@
 	<string name="expDomDaysShowStNt">con timbrature o note</string>
 	<string name="expDomNotesFilterEqual">è uguale a</string>
 	<string name="expDomNotesFilterLike">contiene</string>
+	<string name="expDomNotesFilterNotLike">non contiene</string>
 	<string name="expPrefsShowTotalLine">Mostra \'Totale\'</string>
 	<string name="expPrefsGroupBreakDate">Gruppo di pause il \'Data\'</string>
 
@@ -573,9 +574,6 @@
 	<string name="activityCheckIn">Time Recording/Check in</string>
 	<string name="activityCheckOut">Time Recording/Check out</string>
 	<string name="activityPunch">Time Recording/Punch</string>
-	
-	<!-- PENDING/DISABLED -->
-	<string name="expDomNotesFilterNotLike">doesn\'t contain</string>
 	
 	<!-- 4.16 -->
 	<string name="workUnitDetailRep">Rapporto di lavoro</string>

@@ -155,6 +155,7 @@
 	<string name="expDomDaysShowStNt">con registros o notas</string>
 	<string name="expDomNotesFilterEqual">igual</string>
 	<string name="expDomNotesFilterLike">contiene</string>
+	<string name="expDomNotesFilterNotLike">no contiene</string>
 
 	<string name="expPrefsShowTotalLine">Mostrar \'Total\'</string>
 	<string name="expPrefsGroupBreakDate">Agrupar pausas por \'Fechas\'</string>
