@@ -577,10 +577,10 @@
 
 	<!-- 4.17 -->
 	<!-- applies to "Automatic breaks" on settings page 2. the meaning is something like "Does the full break apply (when ticked off) or should the break length increase parallel to the work duration (when ticked on) -->
-	<string name="commonIncremental">Incremental</string>
+	<string name="commonIncremental">Incremental</string> <!-- PENDING -->
 	
 	<!-- 4.18 -->
-	<string name="commonForceDeletion">Force deletion</string>	
+	<string name="commonForceDeletion">Force deletion</string> <!-- PENDING -->
 	
 	<!-- 4.19 -->
 	<string name="prefsRepPeriodWeeks">{2} {1}</string>
@@ -689,8 +689,8 @@
     <string name="repBlock2Total">Block 2 Total</string>
     <string name="repBlock3Time">Block 3</string>
     <string name="repBlock3Total">Block 3 Total</string>
-    <string name="commonValue1">Value1</string>
-    <string name="commonValue2">Value2</string>
+    <string name="commonValue1">Valore1</string>
+    <string name="commonValue2">Valore2</string>
     <string name="prefsStampValuesHint">\u2192 Use these to track additional numeric items like tips or mileage</string>
     <string name="commonLabel">Label</string>
     <string name="commonDefaultValue">Default value</string>
