@@ -548,9 +548,8 @@
 
 	<!-- 4.16 -->
 	<string name="workUnitDetailRep">Relatório trabalhar</string>
-	
-	<!-- 4.16+ -->
 	<string name="prefsShowButtonsLine3">Exibir «{1}» &amp; «{2}»</string>
+	<string name="prefsDeltaWeekOnMain">Show \'Delta\' on main screen</string> <!-- PENDING -->
 
 	<!-- 4.17 -->
 	<!-- applies to "Automatic breaks" on settings page 2. the meaning is something like "Does the full break apply (when ticked off) or should the break length increase parallel to the work duration (when ticked on) -->
