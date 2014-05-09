@@ -662,8 +662,6 @@
     <string name="repBlock2Total">Block 2 Total</string>
     <string name="repBlock3Time">Block 3</string>
     <string name="repBlock3Total">Block 3 Total</string>
-    <string name="commonValue1">Valuer1</string>
-    <string name="commonValue2">Valuer2</string>
     <string name="prefsStampValuesHint">\u2192 Use these to track additional numeric items like tips or mileage</string>
     <string name="commonLabel">Label</string>
     <string name="commonDefaultValue">Default value</string>
@@ -686,4 +684,8 @@
 	<string name="commonWorkUnit">Work unit</string>
 	<string name="commonBatchUpdate">Mass update</string>
 
+    <!-- please verify -->
+    <string name="commonValue1">Valeur1</string>
+    <string name="commonValue2">Valeur2</string>
+		
 </resources>
