@@ -564,7 +564,8 @@
     <string name="commonRateButton">Vota</string> <!-- "Please rate the app" -->
     <string name="paidOt2Factor">Coefficiente</string> <!-- for multiplication (amount * time) -->
     
-	<!-- PENDING/4.16 - this is only temporary for the i18n build -->
+	<!-- 4.16 / Global stuff and NFC Activities. Do not translate -->
+    <string name="commonID">ID</string>
 	<string name="activityCheckIn">Time Recording/Check in</string>
 	<string name="activityCheckOut">Time Recording/Check out</string>
 	<string name="activityPunch">Time Recording/Punch</string>
@@ -572,7 +573,6 @@
 	<!-- 4.16 -->
 	<string name="workUnitDetailRep">Rapporto di lavoro</string>
 	<string name="prefsShowButtonsLine3">Mostra «{1}» &amp; «{2}»</string>
-    <string name="commonID">ID</string>
     <string name="prefsDeltaWeekOnMain">Show \'Delta\' on main screen</string> <!-- PENDING -->
 
 	<!-- 4.17 -->
