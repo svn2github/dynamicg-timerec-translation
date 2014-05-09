@@ -554,10 +554,13 @@
 	<string name="prefsShowButtonsLine3">Montrer «{1}» &amp; «{2}»</string>
 	<string name="prefsRepPeriodWeeks">{2} {1}</string>
 	
-	<!-- 4.21 -->
+	<!-- 4.19 -->
 	<string name="bckArchiveDataOlderCustom">Archiver données &gt; {1}</string>
+	<string name="commonAppInfo">App Info</string> <!-- PENDING -->
+
+	<!-- 4.21 -->
 	<string name="expTypeClientMatrix">E7 Matrice Clients</string>
-			
+		
 	<!-- 4.22 -->
 	<string name="commonTaskId">Tâche ID</string>
 	<string name="commonSpecific">Spécifique</string>

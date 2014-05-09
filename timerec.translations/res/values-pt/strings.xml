@@ -553,10 +553,13 @@
 	<string name="prefsShowButtonsLine3">Exibir «{1}» &amp; «{2}»</string>
 	<string name="prefsRepPeriodWeeks">{2} {1}</string>
 	
-	<!-- 4.21 -->
+	<!-- 4.19 -->
 	<string name="bckArchiveDataOlderCustom">Arquivo de dados &gt; {1}</string>
+	<string name="commonAppInfo">App Info</string> <!-- PENDING -->
+
+	<!-- 4.21 -->
 	<string name="expTypeClientMatrix">E7 Matriz de clientes</string>
-		
+
 	<!-- 4.22 -->
 	<string name="commonTaskId">Tarefa ID</string>
 	<string name="commonSpecific">Específico</string>

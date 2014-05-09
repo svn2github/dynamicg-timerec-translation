@@ -582,12 +582,14 @@
 	<string name="commonForceDeletion">Force deletion</string>	
 	<string name="prefsRepPeriodWeeks">{2} {1}</string>
 		
-	<!-- 4.21 -->
+	<!-- 4.19 -->
 	<string name="bckArchiveDataOlderCustom">Archivio di dati &gt; {1}</string>
-	<string name="expTypeClientMatrix">E7 Matrice Clienti</string>
 	<!-- generic texts for i18n build -->
 	<string name="expTypeTaskMatrix">E5 {1}</string> <!-- for reports overview. {1} is text of 'repTaskMatrix' defined earlier -->
-	<string name="commonAppInfo">App Info</string>
+	<string name="commonAppInfo">App Info</string> <!-- PENDING -->
+	
+	<!-- 4.21 -->
+	<string name="expTypeClientMatrix">E7 Matrice Clienti</string>
 	
 	<!-- 4.22 -->
 	<string name="commonTaskId">Lavoro ID</string>
