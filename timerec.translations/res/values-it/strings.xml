@@ -685,7 +685,7 @@
     <string name="hintStampDefaultValue">\u2192 This is applied when adding work units</string>
     <string name="expPrefsFooter">Footer</string>
     <string name="prefsGroupInputFields">Input fields</string>
-    <string name="prefsGroupUserInterface">Interface</string>
+    <string name="prefsGroupUserInterface">Interfaccia</string> <!-- VERIFY -->
     <string name="expPrefsPreviewFormat">Preview format</string>
     <string name="expPrefsHeaderFooterHint">\u2192 Header/footer tokens: $d1, $d2</string>
     <string name="hintExpPrefsAdvanced">\u2192 These are developer options, don\'t change unless you know what you are doing</string>
@@ -693,7 +693,7 @@
     <!-- 5.11 -->
 	<string name="commonMoveBreak">Move break</string>
 	<string name="commonSummarize">Summarize</string>
-	<string name="commonToken">Placeholder</string>
+	<string name="commonToken">Segnaposto</string> <!-- VERIFY -->
 	<string name="commonWorkUnit">Work unit</string>
 	<string name="commonBatchUpdate">Mass update</string>
     

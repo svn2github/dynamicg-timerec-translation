@@ -666,7 +666,7 @@
     <!-- 5.11 -->
 	<string name="commonMoveBreak">Move break</string>
 	<string name="commonSummarize">Summarize</string>
-	<string name="commonToken">Placeholder</string>
+	<string name="commonToken">Espace réservé</string> <!-- VERIFY -->
 	<string name="commonWorkUnit">Work unit</string>
 	<string name="commonBatchUpdate">Mass update</string>
 
