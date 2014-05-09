@@ -1,0 +1,92 @@
+<html>
+ <head>
+  <title>Time Recording - Translations</title>
+  <style>
+	body {
+	text-align: left;
+	background-color:#fff;
+	color: #333;
+	font-family: arial;
+	}
+  </style>
+ </head>
+<body>
+<h2>Time Recording - Translations</h2>
+
+<!--
+https://dynamicg-timerec.googlecode.com/svn/trunk/timerec.apk/translations/readme.html
+-->
+
+<br>
+<b>Preparation</b>
+<ul>
+<li>Contact developer <a href="mailto:dynamicg.android@gmail.com">dynamicg.android@gmail.com</a> so that we know which language you're doing the translation for.</li>
+</ul>
+
+<br>
+<br>
+<b>Setup</b>
+<ol>
+<li>
+Get the latest "strings.xml" file from here: <a href="../res/">Resources Folder</a>.
+<br/>When starting from scratch, use the english (<a href="..\res\values-en">values-en</a>)
+or german (<a href="..\res\values-de">values-de</a>) strings.xml file as template.
+<br/> When fixing/enhancing existing translations, use the according strings.xml file - the folder name pattern is "values-[languageCode]", e.g. values-es for spanish, values-pt for portuguese. 
+</li>
+
+<li>
+Copy the matching strings.xml file to the top level of your SD Card. 
+Use the "internal SD Card" if you have more than one (e.g. Samsung devices).
+</li>
+
+<li>
+Open the app and go to &lt;&lt;Menu / Preferences / Advanced&gt;&gt;. Click on "Translation Kit" and press "OK". Close the app.
+</li>
+
+</ol>
+
+<br>
+<br>
+<b>Translation</b>
+<ul>
+
+<li>
+Edit the "strings.xml" file. Whenever you close/reopen the app, the "strings.xml" file gets reloaded, all changes are reflected immediately.
+</li>
+
+<li>
+Note you can edit the file directly from your PC: 
+attach the phone via USB, open the File Explorer, go to &lt;&lt;Your Device&gt;&gt; / Internal Storage and edit the "strings.xml" file with Wordpad or any other text editor.
+</li>
+
+<li>
+When you are done with all texts, send your version of the "strings.xml" file to me so we can integrate it into the app 
+(zip the file so we don't lose the file encoding when sending through email)
+</li>
+</ul>
+
+<br>
+<br>
+<b>Rollback</b>
+<br/>Go to &lt;&lt;Menu / Preferences / Advanced&gt;&gt;. Tap "Translation Kit" to disable it.
+
+<br>
+<br>
+<br>
+<b>Handling of special characters</b>
+
+<pre>
+- \n is a newline. "a\nb" will show as "a[newLine]b"
+- single and double quotes have to be escaped with backslash: \' or \"
+- {1} and {2} are placeholders. "Edit \'{1}\'" may become "Edit 'Tasks'"
+
+- \u.... are utf characters:
+\u2026 = ellipsis [...]
+\u2192 = right arrow [-&gt;]
+\u2022 = bullet
+
+- other special characters
+&amp;amp; = ampersand [&amp;] 
+&amp;gt; = greater than [&gt;]
+&amp;lt; = less than [&lt;]
+</pre>
