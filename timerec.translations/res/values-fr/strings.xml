@@ -673,9 +673,6 @@
     <!-- 5.11 -->
 	<string name="commonMoveBreak">Move break</string>
 	<string name="commonSummarize">Summarize</string>
-	<string name="calSyncGranularityWorkUnit">1 event per work unit</string>
-	<string name="calSyncGranularityBlock">1 event per block</string>
-	<string name="calSyncGranularityDay">1 event per day</string>
 	<string name="calSyncEventBody">Event description</string>
 	<string name="commonToken">Placeholder</string>
 	<string name="commonWorkUnit">Work unit</string>
@@ -685,5 +682,8 @@
     <string name="commonValue1">Valeur1</string>
     <string name="commonValue2">Valeur2</string>
     <string name="commonForceDeletion">Forcer la suppression</string>
-		
+	<string name="calSyncGranularityWorkUnit">1 événement par unité de travail</string>
+	<string name="calSyncGranularityBlock">1 événement par bloc</string>
+	<string name="calSyncGranularityDay">1 événement par jour</string>
+    		
 </resources>
