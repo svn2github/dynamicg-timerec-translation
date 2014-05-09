@@ -666,7 +666,6 @@
     <!-- 5.11 -->
 	<string name="commonMoveBreak">Move break</string>
 	<string name="commonSummarize">Summarize</string>
-	<string name="calSyncEventBody">Event description</string>
 	<string name="commonToken">Placeholder</string>
 	<string name="commonWorkUnit">Work unit</string>
 	<string name="commonBatchUpdate">Mass update</string>
@@ -678,6 +677,7 @@
 	<string name="calSyncGranularityWorkUnit">1 événement par unité de travail</string>
 	<string name="calSyncGranularityBlock">1 événement par bloc</string>
 	<string name="calSyncGranularityDay">1 événement par jour</string>
+	<string name="calSyncEventBody">Description événement</string>
 	
 	<!-- WILL BE REMOVED SEPTEMBER 2014 -->
     <string name="bckArchiveTitle">Archiver</string>
