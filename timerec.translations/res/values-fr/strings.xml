@@ -552,7 +552,7 @@
 	
 	<!-- 4.19 -->
 	<string name="prefsRepPeriodWeeks">{2} {1}</string>
-	<string name="commonAppInfo">App Info</string> <!-- PENDING -->
+	<string name="commonAppInfo">App Infos</string>
 
 	<!-- 4.21 -->
 	<string name="expTypeClientMatrix">E7 Matrice Clients</string>
