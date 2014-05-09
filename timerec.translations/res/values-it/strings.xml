@@ -579,9 +579,6 @@
 	<!-- applies to "Automatic breaks" on settings page 2. the meaning is something like "Does the full break apply (when ticked off) or should the break length increase parallel to the work duration (when ticked on) -->
 	<string name="commonIncremental">Incremental</string> <!-- PENDING -->
 	
-	<!-- 4.18 -->
-	<string name="commonForceDeletion">Force deletion</string> <!-- PENDING -->
-	
 	<!-- 4.19 -->
 	<string name="prefsRepPeriodWeeks">{2} {1}</string>
 	<string name="bckArchiveDataOlderCustom">Archivio di dati &gt; {1}</string>
@@ -664,7 +661,7 @@
     <string name="expPrefsHeaderN">Heading line {1}</string>
     <string name="expPrefsReportReminder">Report reminder</string>
     <string name="commonReportSettings"></string> <!-- PENDING: Report settings -->
-    <string name="commonAverageShort"></string> <!-- PENDING, MAX 8 CHARS: Avergage -->
+    <string name="commonAverageShort"></string> <!-- PENDING, MAX 8 CHARS: Average -->
     <string name="commonAverageLong">Average</string>
     <string name="commonNumUnits"># Units</string>
 
@@ -714,5 +711,6 @@
 	<!-- please verify -->
     <string name="commonValue1">Valore1</string>
     <string name="commonValue2">Valore2</string>
+    <string name="commonForceDeletion">Forza l\'eliminazione</string>
 	
 </resources>
