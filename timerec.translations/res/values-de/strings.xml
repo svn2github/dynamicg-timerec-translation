@@ -5,7 +5,6 @@
     <string name="app_name">Zeiterfassung</string>
     <string name="app_name_pro">Zeiterfassung Pro</string>
     <string name="googleSitesLanguage">de</string>
-    <string name="i18nCompatibility">0</string>
     
     <string name="homescreenCheckinNow">Jetzt einstempeln</string>
     <string name="homescreenCheckoutNow">Jetzt ausstempeln</string>
