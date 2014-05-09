@@ -234,12 +234,7 @@
     <string name="bckBackupTitle">Backup</string>
     <string name="bckRestoreTitle">Ripristina</string>
     <string name="bckCreateBackup">Crea backup</string>
-    <string name="bckArchiveTitle">Archivio</string>
     <string name="backupBody">Per ripristinare: copia il file Zip allegato sulla Card SD (livello top), apri \'Preferenze/Ripristina...\', clicca \'Ripristina backup\'</string>
-    <string name="bckSwitchToArchive">Vedi dati archiviati</string>
-    <string name="bckSwitchToLive">Torna su Dati live</string>
-    <string name="bckArchiveDataOlderThan">Archivio di dati &gt; {1} mesi</string>
-    <string name="bckArchiveHint">\u2192 Usa \"Archivio\" per spostare i vecchi dati e creare un \'database live\' più piccolo e più veloce</string>
 	<string name="errorSdCardUnavailable">Card SD non disponibile. Backup/ripristino/esporta attualmente non possibili!</string>
 	
 	<string name="widgetAppTitle1">Registra</string>
@@ -539,7 +534,6 @@
 	<string name="commonRefreshMM">Aggiorna ogni x minuti</string>
 	<string name="calSyncNightShift">Supporta turni notturni</string>
 	<string name="commonDecimal">Decimali</string>
-	<string name="archiveLocation">Il file d\'archivio è memorizzato qui:\n\u2022 Cartella: {1}\n\u2022 Nome: {2}\nNota che questo file non è salvato dall\'app.</string>
 	<string name="backupReminderTitle">Promemoria di backup</string>
 	<string name="backupReminderBody">Ricorda di salvare i tuoi dati regolarmente.</string>
 	<string name="commonDoNotShowAgain">Non mostrare ancora questo messaggio</string>
@@ -581,7 +575,6 @@
 	
 	<!-- 4.19 -->
 	<string name="prefsRepPeriodWeeks">{2} {1}</string>
-	<string name="bckArchiveDataOlderCustom">Archivio di dati &gt; {1}</string>
 	<string name="expTypeTaskMatrix">E5 {1}</string>
 	<string name="commonAppInfo">App Info</string> <!-- PENDING -->
 	
@@ -712,5 +705,14 @@
 	<string name="calSyncGranularityWorkUnit">1 evento per unità di lavoro</string>
 	<string name="calSyncGranularityBlock">1 evento per blocco</string>
 	<string name="calSyncGranularityDay">1 evento per giorno</string>
-    	
+	
+	<!-- WILL BE REMOVED SEPTEMBER 2014 -->
+    <string name="bckArchiveTitle">Archivio</string>
+    <string name="bckSwitchToArchive">Vedi dati archiviati</string>
+    <string name="bckSwitchToLive">Torna su Dati live</string>
+    <string name="bckArchiveDataOlderThan">Archivio di dati &gt; {1} mesi</string>
+    <string name="bckArchiveHint">\u2192 Usa \"Archivio\" per spostare i vecchi dati e creare un \'database live\' più piccolo e più veloce</string>
+	<string name="archiveLocation">Il file d\'archivio è memorizzato qui:\n\u2022 Cartella: {1}\n\u2022 Nome: {2}\nNota che questo file non è salvato dall\'app.</string>
+	<string name="bckArchiveDataOlderCustom">Archivio di dati &gt; {1}</string>
+		
 </resources>

@@ -269,12 +269,7 @@
     <string name="bckBackupTitle">Sauvegarder</string>
     <string name="bckRestoreTitle">Restaurer</string>
     <string name="bckCreateBackup">Créer sauvegarde</string>
-    <string name="bckArchiveTitle">Archiver</string>
     <string name="backupBody">Pour restaurer: copiez le fichier attaché sur la carte SD (racine), ouvrez \'Preferences/Restaurer...\', cliquez \'Restaurer sauvegarde\'</string>
-    <string name="bckSwitchToArchive">Voir données archivées</string>
-    <string name="bckSwitchToLive">Retour aux données vivantes</string>
-    <string name="bckArchiveDataOlderThan">Archiver données &gt; {1} mois</string>
-    <string name="bckArchiveHint">\u2192 Utilisez \"Archiver\" pour déplacer les données anciennes et ainsi optimiser la \'base vivante\'</string>
 	<string name="errorSdCardUnavailable">Carte SD Card non disponible. Sauvegarde/restauration/export actuellement impossible!</string>
 	
 	<string name="widgetAppTitle1">Gestion</string>
@@ -522,7 +517,6 @@
     <string name="prefsStayOnPreviousDay">Montrer le jour précédent si ouvert avant</string>
 	<string name="commonRefreshMM">Rafraichir toutes les x minutes</string>
 	<string name="commonDecimal">Décimal</string>
-	<string name="archiveLocation">Le fichier Archive est stocké ici:\n\u2022 Répertoire: {1}\n\u2022 Nom: {2}\nNotez que ce fichier n\'est pas sauvegardé par l\'application.</string>
 	<string name="backupReminderTitle">Rappel Sauvegarde</string>
 	<string name="backupReminderBody">Pensez à sauvegarder regulièrement vos données.</string>
 	<string name="commonDoNotShowAgain">Ne plus afficher ce message</string>
@@ -558,7 +552,6 @@
 	
 	<!-- 4.19 -->
 	<string name="prefsRepPeriodWeeks">{2} {1}</string>
-	<string name="bckArchiveDataOlderCustom">Archiver données &gt; {1}</string>
 	<string name="commonAppInfo">App Info</string> <!-- PENDING -->
 
 	<!-- 4.21 -->
@@ -685,5 +678,14 @@
 	<string name="calSyncGranularityWorkUnit">1 événement par unité de travail</string>
 	<string name="calSyncGranularityBlock">1 événement par bloc</string>
 	<string name="calSyncGranularityDay">1 événement par jour</string>
-    		
+	
+	<!-- WILL BE REMOVED SEPTEMBER 2014 -->
+    <string name="bckArchiveTitle">Archiver</string>
+    <string name="bckSwitchToArchive">Voir données archivées</string>
+    <string name="bckSwitchToLive">Retour aux données vivantes</string>
+    <string name="bckArchiveDataOlderThan">Archiver données &gt; {1} mois</string>
+    <string name="bckArchiveHint">\u2192 Utilisez \"Archiver\" pour déplacer les données anciennes et ainsi optimiser la \'base vivante\'</string>
+	<string name="archiveLocation">Le fichier Archive est stocké ici:\n\u2022 Répertoire: {1}\n\u2022 Nom: {2}\nNotez que ce fichier n\'est pas sauvegardé par l\'application.</string>
+	<string name="bckArchiveDataOlderCustom">Archiver données &gt; {1}</string>
+			
 </resources>
