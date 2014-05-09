@@ -615,4 +615,9 @@
     <string name="commonCopy">Copiar</string>
     <string name="commonSortNoun">Ordenar</string>
 
+    <!-- 5.07 alarm settings -->
+    <string name="alarmNotificationBreakNowOver"></string> <!-- #PENDING# Break over at {1} -->
+	<string name="alarmNotificationDailyTarget"></string> <!-- #PENDING# Daily target reached at {1} -->
+	<string name="alarmNotificationWeeklyTarget"></string> <!-- #PENDING# Weekly target reached at {1} -->
+    
 </resources>

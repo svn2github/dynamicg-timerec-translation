@@ -519,9 +519,6 @@
 	<string name="commonShort">Breve</string>
 	<string name="prefsReportingPeriod">Periodo di riepilogo</string>
 	<string name="prefsBackupAndRestore">Backup &amp; Ripristina</string> <!-- "Backup & restore" -->
-	<string name="alarmLabelBreakNowOver">Fine pausa</string>
-	<string name="alarmLabelDailyTarget">Obiettivo raggiunto</string>
-	<string name="alarmLabelWeeklyTarget">Obiettivo raggiunto</string>
 	<string name="timeReachedAlarmSettings">\'{1}\' impostazioni di allarme</string>
 	<string name="timeReachedNotification">{1} alle {2}</string> <!-- sample: "Break over at 17:45" -->
 	<string name="alertNotificationSoundOnce">Suono di notifica (una volta)</string>
@@ -534,8 +531,6 @@
     <string name="commonAuto">Auto</string> <!-- automatic -->
     
     <!-- 4.15/TRANSLATED -->
-    <string name="alarmNotificationDailyExceeded">Tempo di lavoro giornaliero superi {1}</string>
-    <string name="alarmNotificationWeeklyExceeded">Tempo di lavoro superi {1}</string>
     <string name="commonThreshold">Soglia</string> <!-- same as "Limit" -->
     <string name="prefsMainAutoScroll">Auto scorrimento in fondo</string>
 	<string name="prefsScrollSizeWeeks">Scorrimento al \'{1}\' vista</string>
@@ -643,19 +638,17 @@
     <string name="commonCopy">Copiare</string>
     <string name="commonSortNoun">Ordinamento</string>
 
-    <!-- 
-    5.07 notification messages
-    these are ignored on i18n, we use the following instead: 
-    . alarmLabelBreakNowOver
-    . alarmLabelDailyTarget
-    . alarmLabelWeeklyTarget
-    also see com.dynamicg.timerecording.util.timeReached.DailyTargetReachedNotificationHandler.getNotificationText(StampDateTime) 
-    -->
-    <string name="alarmNotificationBreakNowOver"></string>
-	<string name="alarmNotificationDailyTarget"></string>
-	<string name="alarmNotificationWeeklyTarget"></string>
+    <!-- 5.07 alarm settings -->
+    <string name="alarmNotificationBreakNowOver"></string> <!-- #PENDING# Break over at {1} -->
+	<string name="alarmNotificationDailyTarget"></string> <!-- #PENDING# Daily target reached at {1} -->
+	<string name="alarmNotificationWeeklyTarget"></string> <!-- #PENDING# Weekly target reached at {1} -->
+
+	<string name="alarmLabelBreakNowOver">Fine pausa</string> <!-- #PENDING# \'Break now\' over -->
+	<string name="alarmLabelDailyTarget">Obiettivo raggiunto</string> <!-- #PENDING# Daily target reached -->
+	<string name="alarmLabelWeeklyTarget">Obiettivo raggiunto</string> <!-- #PENDING# Weekly target reached -->
+    <string name="alarmNotificationDailyExceeded">Tempo di lavoro giornaliero superi {1}</string> <!-- #PENDING# Daily worktime exceeds {1} -->
+    <string name="alarmNotificationWeeklyExceeded">Tempo di lavoro superi {1}</string> <!-- #PENDING# Weekly worktime exceeds {1} -->
     
-    <!-- 5.07 sound player -->
     <string name="alertSoundCustomLabel">Custom sound</string>
     <string name="alertSoundCustomRepeat">Repeat</string>
     <string name="alertSoundCustomVolume">Volume</string>
@@ -698,5 +691,16 @@
     <string name="expPrefsPreviewFormat">Preview format</string>
     <string name="expPrefsHeaderFooterHint">\u2192 Header/footer tokens: $d1, $d2</string>
     <string name="hintExpPrefsAdvanced">\u2192 These are developer options, don\'t change unless you know what you are doing</string>
+    
+    <!-- 5.11 -->
+	<string name="commonMoveBreak">Move break</string>
+	<string name="commonSummarize">Summarize</string>
+	<string name="calSyncGranularityWorkUnit">1 event per work unit</string>
+	<string name="calSyncGranularityBlock">1 event per block</string>
+	<string name="calSyncGranularityDay">1 event per day</string>
+	<string name="calSyncEventBody">Event description</string>
+	<string name="commonToken">Placeholder</string>
+	<string name="commonWorkUnit">Work unit</string>
+	<string name="commonBatchUpdate">Mass update</string>
     
 </resources>

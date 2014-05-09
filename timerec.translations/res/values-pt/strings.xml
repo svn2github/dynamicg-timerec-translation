@@ -597,15 +597,15 @@
     <string name="commonSortNoun">Ordenar</string>
 
     <!-- 5.07 alarm settings -->
+    <string name="alarmNotificationBreakNowOver"></string> <!-- #PENDING# Break over at {1} -->
+	<string name="alarmNotificationDailyTarget"></string> <!-- #PENDING# Daily target reached at {1} -->
+	<string name="alarmNotificationWeeklyTarget"></string> <!-- #PENDING# Weekly target reached at {1} -->
+	
     <string name="alarmLabelBreakNowOver">Romper</string> <!-- PENDING: \'Break now\' over -->
     <string name="alarmLabelDailyTarget">Alvo alcançado</string> <!-- PENDING: Daily target reached -->
     <string name="alarmLabelWeeklyTarget">Alvo alcançado</string> <!-- PENDING: Weekly target reached -->
     <string name="alarmNotificationDailyExceeded">Tempo de trabalho diário excedeu {1}</string>
     <string name="alarmNotificationWeeklyExceeded">Tempo de trabalho excedeu {1}</string> <!-- PENDING: Weekly worktime exceeds {1} -->
-    
-    <string name="alarmNotificationDailyTarget">Daily target reached at {1}</string>
-    <string name="alarmNotificationWeeklyTarget">Weekly target reached at {1}</string>
-    <string name="alarmNotificationBreakNowOver">Break over at {1}</string>
     
     <string name="alertSoundCustomLabel">Custom sound</string>
     <string name="alertSoundCustomRepeat">Repeat</string>
