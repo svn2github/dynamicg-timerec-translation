@@ -615,8 +615,8 @@
     <string name="commonPickFile">Select file</string>
     <string name="expPrefsHeaderN">Heading line {1}</string>
     <string name="expPrefsReportReminder">Report reminder</string>
-    <string name="commonReportSettings">Report settings</string>
-    <string name="commonAverageShort">Average</string>
+    <string name="commonReportSettings"></string> <!-- PENDING: Report settings -->
+    <string name="commonAverageShort"></string> <!-- PENDING, MAX 8 CHARS: Avergage -->
     <string name="commonAverageLong">Average</string>
     <string name="commonNumUnits"># Units</string>
 
