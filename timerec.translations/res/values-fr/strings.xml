@@ -657,18 +657,18 @@
     <string name="commonDefaultValue">Valeur par défaut</string> <!-- VERIFY "Default value" -->
     <string name="hintStampDefaultValue">\u2192 This is applied when adding work units</string> <!-- PENDING -->
     <string name="expPrefsFooter">Bas de page</string> <!-- VERIFY "Footer" -->
-    <string name="prefsGroupInputFields">Input fields</string> <!-- PENDING -->
+    <string name="prefsGroupInputFields">Champs de saisie</string> <!-- VERIFY "Input fields" -->
     <string name="prefsGroupUserInterface">Interface</string>
     <string name="expPrefsPreviewFormat">Format prévisualisation</string> <!-- VERIFY: "Preview format" -->
     <string name="expPrefsHeaderFooterHint">\u2192 Header/footer tokens: $d1, $d2</string>
     <string name="hintExpPrefsAdvanced">\u2192 These are developer options, don\'t change unless you know what you are doing</string>
     
     <!-- 5.11 -->
-	<string name="commonMoveBreak">Move break</string> <!-- PENDING -->
-	<string name="commonSummarize">Summarize</string> <!-- PENDING -->
+	<string name="commonMoveBreak">Déplacer pause</string> <!-- VERIFY "Move break" -->
+	<string name="commonSummarize">Totalisation</string> <!-- VERIFY "Summarize" -->
 	<string name="commonToken">Espace réservé</string> <!-- VERIFY "Placeholder"-->
 	<string name="commonWorkUnit">Unité de travail</string> <!-- VERIFY "Work unit" -->
-	<string name="commonBatchUpdate">Mass update</string> <!-- PENDING -->
+	<string name="commonBatchUpdate">Mise à jour de masse</string> <!-- VERIFY "Mass update" -->
 
     <!-- please verify -->
     <string name="commonValue1">Valeur1</string>
