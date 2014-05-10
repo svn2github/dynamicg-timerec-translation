@@ -612,10 +612,10 @@
 	<string name="alarmNotificationWeeklyTarget"></string> <!-- #PENDING# Weekly target reached at {1} -->
 	
 	<string name="alarmLabelBreakNowOver">Pause</string> <!-- #PENDING# \'Break now\' over -->
-	<string name="alarmLabelDailyTarget">Objectif atteint</string> <!-- #PENDING# Daily target reached -->
-	<string name="alarmLabelWeeklyTarget">Objectif atteint</string> <!-- #PENDING# Weekly target reached -->
-    <string name="alarmNotificationDailyExceeded">Le travail journalier excède {1}</string> <!-- #PENDING# Daily worktime exceeds {1} -->
-    <string name="alarmNotificationWeeklyExceeded">Le travail excède {1}</string> <!-- #PENDING# Weekly worktime exceeds {1} -->
+	<string name="alarmLabelDailyTarget">Objectif journalier atteint</string> <!-- VERIFY: Daily target reached -->
+	<string name="alarmLabelWeeklyTarget">Objectif hebdomadaire atteint</string> <!-- VERIFY: Weekly target reached -->
+    <string name="alarmNotificationDailyExceeded">Le travail journalier excède {1}</string> <!-- VERIFY: Daily worktime exceeds {1} -->
+    <string name="alarmNotificationWeeklyExceeded">Le travail hebdomadaire excède {1}</string> <!-- VERIFY: Weekly worktime exceeds {1} -->
 	
     <string name="alertSoundCustomLabel">Custom sound</string>
     <string name="alertSoundCustomRepeat">Repeat</string>
