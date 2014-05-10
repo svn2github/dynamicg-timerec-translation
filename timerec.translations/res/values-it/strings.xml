@@ -680,7 +680,7 @@
     <string name="repBlock3Time">Blocco 3</string>
     <string name="repBlock3Total">Blocco 3 Totale</string>
     <string name="prefsStampValuesHint"></string> <!-- PENDING: \u2192 Use these to track additional numeric items like tips or mileage -->
-    <string name="commonLabel">Label</string>
+    <string name="commonLabel">Titolo</string>
     <string name="commonDefaultValue">Default value</string>
     <string name="hintStampDefaultValue">\u2192 This is applied when adding work units</string>
     <string name="expPrefsFooter">Footer</string>
