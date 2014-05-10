@@ -544,11 +544,11 @@
 	<!-- 4.16 -->
 	<string name="workUnitDetailRep">Rapport de travail</string>
 	<string name="prefsShowButtonsLine3">Montrer «{1}» &amp; «{2}»</string>
-	<string name="prefsDeltaWeekOnMain">Show \'Delta\' on main screen</string> <!-- PENDING -->
+	<string name="prefsDeltaWeekOnMain">Montrer \'Delta\' sur l\'écran d\'accueil</string> <!-- VERIFY: Show \'Delta\' on main screen -->
 	
 	<!-- 4.17 -->
 	<!-- applies to "Automatic breaks" on settings page 2. the meaning is something like "Does the full break apply (when ticked off) or should the break length increase parallel to the work duration (when ticked on) -->
-	<string name="commonIncremental">Incremental</string> <!-- PENDING -->
+	<string name="commonIncremental">Incrémental</string>
 	
 	<!-- 4.19 -->
 	<string name="prefsRepPeriodWeeks">{2} {1}</string>

@@ -571,7 +571,7 @@
 
 	<!-- 4.17 -->
 	<!-- applies to "Automatic breaks" on settings page 2. the meaning is something like "Does the full break apply (when ticked off) or should the break length increase parallel to the work duration (when ticked on) -->
-	<string name="commonIncremental">Incremental</string> <!-- PENDING -->
+	<string name="commonIncremental">Incrementale</string>
 	
 	<!-- 4.19 -->
 	<string name="prefsRepPeriodWeeks">{2} {1}</string>
