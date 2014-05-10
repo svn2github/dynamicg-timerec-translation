@@ -636,7 +636,7 @@
     <string name="expPrefsHeaderN">Heading line {1}</string>
     <string name="expPrefsReportReminder">Report reminder</string>
     <string name="commonReportSettings"></string> <!-- PENDING: Report settings -->
-    <string name="commonAverageShort"></string> <!-- PENDING, MAX 8 CHARS: Average -->
+    <string name="commonAverageShort">\u00D8</string>
     <string name="commonAverageLong">Average</string>
     <string name="commonNumUnits"># Units</string>
 

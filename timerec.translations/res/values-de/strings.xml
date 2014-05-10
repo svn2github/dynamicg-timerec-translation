@@ -641,7 +641,7 @@
     <string name="expPrefsHeaderN">Titelzeile {1}</string>
     <string name="expPrefsReportReminder">Berichte-Erinnerung</string>
 	<string name="commonReportSettings">Berichte-Einstellungen</string>
-	<string name="commonAverageShort">\u00D8</string> <!-- "O/", "Durchschnitt" is too long -->
+	<string name="commonAverageShort">\u00D8</string>
 	<string name="commonAverageLong">Durchschnitt</string>
 	<string name="commonNumUnits"># Einheiten</string>
 

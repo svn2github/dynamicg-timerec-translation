@@ -677,7 +677,7 @@
     <string name="expPrefsHeaderN">Heading line {1}</string>
     <string name="expPrefsReportReminder">Report reminder</string>
     <string name="commonReportSettings">Report settings</string>
-    <string name="commonAverageShort">Average</string>
+    <string name="commonAverageShort">\u00D8</string>
     <string name="commonAverageLong">Average</string>
     <string name="commonNumUnits"># Units</string>
 

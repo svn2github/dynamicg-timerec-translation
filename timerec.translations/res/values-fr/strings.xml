@@ -627,7 +627,7 @@
     <string name="expPrefsHeaderN">Titre ligne {1}</string> <!-- VERIFY "Heading line {1 or 2}" -->
     <string name="expPrefsReportReminder">Report Reminder</string>
     <string name="commonReportSettings">Paramètres des rapports</string> <!-- VERIFY "Report settings" -->
-    <string name="commonAverageShort">Moyenne</string> <!-- VERIFY "Average" short max 8) -->
+    <string name="commonAverageShort">\u00D8</string>
     <string name="commonAverageLong">Moyenne</string> <!-- VERIFY "Average" -->
     <string name="commonNumUnits"># Unités</string>
 
