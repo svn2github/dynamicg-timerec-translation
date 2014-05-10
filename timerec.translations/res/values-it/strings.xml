@@ -34,8 +34,8 @@
     <string name="commonActionAddCheckIn">Aggiungi inizio</string>
     <string name="commonActionAddCheckOut">Aggiungi termine</string>
     <string name="commonSample">Esempio</string>
-    <string name="commonDataExport">Esporta dati</string>
-    <string name="commonReportsAndExport">Esporta dati</string>
+    <string name="commonDataExport">Rapporti</string>
+    <string name="commonReportsAndExport">Rapporti</string>
     <string name="commonCategories">Lavori</string>
     <string name="commonHourlyRate">Tariffa oraria</string>
     <string name="commonEditCategories">Modifica lavori</string>
@@ -508,7 +508,7 @@
 	<string name="prefsThemeDark">Scuro</string>
 	<string name="commonBasicSettings">Impostazioni di base</string>
 	<string name="autoBreakSkipWhenOff">Salta se fuori dalla finestra del tempo</string>
-	<string name="commonWorktimeOverview">Quadro generale dell\'orario di lavoro</string>
+	<string name="commonWorktimeOverview">Panoramica</string>
 	<string name="commonViewNoun">Vista</string> <!-- "View" -->
 	<string name="commonShort">Breve</string>
 	<string name="prefsReportingPeriod">Periodo di riepilogo</string>

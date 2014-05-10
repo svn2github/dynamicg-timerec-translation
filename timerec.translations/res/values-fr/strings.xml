@@ -34,8 +34,8 @@
     <string name="commonActionAddCheckIn">Ajouter Début</string>
     <string name="commonActionAddCheckOut">Ajouter Fin</string>
     <string name="commonSample">Exemple</string>
-    <string name="commonDataExport">Export des données</string>
-    <string name="commonReportsAndExport">Export des données</string>
+    <string name="commonDataExport">Rapports</string>
+    <string name="commonReportsAndExport">Rapports</string>
     <string name="commonCategories">Tâches</string>
     <string name="commonHourlyRate">Taux horaire</string>
     <string name="commonEditCategories">Editer tâches</string>
