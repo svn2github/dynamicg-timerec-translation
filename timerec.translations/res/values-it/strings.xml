@@ -673,13 +673,13 @@
     <string name="pleaseRateBody"></string>
     
     <!-- 5.10 -->
-    <string name="repBlock1Time">Block 1</string>
-    <string name="repBlock1Total">Block 1 Total</string>
-    <string name="repBlock2Time">Block 2</string>
-    <string name="repBlock2Total">Block 2 Total</string>
-    <string name="repBlock3Time">Block 3</string>
-    <string name="repBlock3Total">Block 3 Total</string>
-    <string name="prefsStampValuesHint">\u2192 Use these to track additional numeric items like tips or mileage</string>
+    <string name="repBlock1Time">Blocco 1</string>
+    <string name="repBlock1Total">Blocco 1 Totale</string>
+    <string name="repBlock2Time">Blocco 2</string>
+    <string name="repBlock2Total">Blocco 2 Totale</string>
+    <string name="repBlock3Time">Blocco 3</string>
+    <string name="repBlock3Total">Blocco 3 Totale</string>
+    <string name="prefsStampValuesHint"></string> <!-- PENDING: \u2192 Use these to track additional numeric items like tips or mileage -->
     <string name="commonLabel">Label</string>
     <string name="commonDefaultValue">Default value</string>
     <string name="hintStampDefaultValue">\u2192 This is applied when adding work units</string>

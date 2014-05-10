@@ -633,9 +633,9 @@
 
     <!-- 5.09 -->
     <string name="deleteUnusedTasks">Effacer tâches inutilisés</string> <!-- VERIFY "Delete unused tasks" -->
-    <string name="commonActiveOnDays">Active on these days</string>
-    <string name="prefsFlatHomeButtons">Flat home buttons</string>
-    <string name="widgetLargeStatusConfig">4x1 &amp; 4x2 Widget status line</string>
+    <string name="commonActiveOnDays">Active sur ces jours</string> <!-- VERIFY "Active on these days" -->
+    <string name="prefsFlatHomeButtons">Flat home buttons</string> <!-- alternatively: "Flat style" -->
+    <string name="widgetLargeStatusConfig">4x1 &amp; 4x2 Widget info</string>
     
     <!--
     PENDING, OPTIONAL - HIDDEN IN GUI IF NOT AVAILABLE
@@ -652,7 +652,7 @@
     <string name="repBlock2Total">Bloc 2 Total</string>
     <string name="repBlock3Time">Bloc 3</string>
     <string name="repBlock3Total">Bloc 3 Total</string>
-    <string name="prefsStampValuesHint">\u2192 Use these to track additional numeric items like tips or mileage</string>
+    <string name="prefsStampValuesHint"></string> <!-- PENDING: \u2192 Use these to track additional numeric items like tips or mileage -->
     <string name="commonLabel">Label</string>
     <string name="commonDefaultValue">Default value</string>
     <string name="hintStampDefaultValue">\u2192 This is applied when adding work units</string>
