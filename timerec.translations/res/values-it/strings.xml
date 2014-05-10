@@ -685,14 +685,14 @@
     <string name="expPrefsFooter">Footer</string> <!-- PENDING: "Footer line" -->
     <string name="prefsGroupInputFields">Campi di input</string> <!-- VERIFY: Input fields -->
     <string name="prefsGroupUserInterface">Interfaccia</string> <!-- VERIFY: Interface -->
-    <string name="expPrefsPreviewFormat">Preview format</string>
-    <string name="expPrefsHeaderFooterHint">\u2192 Header/footer tokens: $d1, $d2</string>
+    <string name="expPrefsPreviewFormat">Formato anteprima</string> <!-- VERIFY: Preview format -->
+    <string name="expPrefsHeaderFooterHint">\u2192 Metacarattere: $d1, $d2</string> <!-- VERIFY: \u2192 Placeholders: $d1, $d2 -->
     <string name="hintExpPrefsAdvanced">\u2192 These are developer options, don\'t change unless you know what you are doing</string>
     
     <!-- 5.11 -->
 	<string name="commonMoveBreak">Spostare pausa</string> <!-- VERIFY: Move break -->
 	<string name="commonSummarize">Addizione</string> <!-- VERIFY: Summarize -->
-	<string name="commonToken">Segnaposto</string> <!-- VERIFY: Placeholder -->
+	<string name="commonToken">Metacarattere</string> <!-- VERIFY: Placeholder -->
 	<string name="commonWorkUnit">Unità di lavoro</string> <!-- VERIFY: Work unit -->
 	<string name="commonBatchUpdate">Aggiornamento di massa</string> <!-- VERIFY: Mass update -->
     
