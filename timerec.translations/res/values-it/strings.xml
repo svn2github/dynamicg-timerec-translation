@@ -596,7 +596,7 @@
 	<string name="expCustomDefaultApp">\u00ab{1}\u00bb App</string>
 	<string name="commonShowActions">Mostra azioni</string>
 	
-	<string name="commonExclude">Exclude \u00ab{1}\u00bb</string> <!-- PENDING -->
+	<string name="commonExclude">Escludere \u00ab{1}\u00bb</string> <!-- VERIFY ("Exclude") -->
 
 	<!-- 5.02 -->
 	<string name="commonGroupBy">Raggruppamento</string>
@@ -612,7 +612,7 @@
 	<string name="promoBody"></string>
 
 	<!-- 5.03 -->
-	<string name="categoryEditHeaderTimeCumulationOff">No time\ncumulation</string> <!-- PENDING ("do not totalize time on this task") -->
+	<string name="categoryEditHeaderTimeCumulationOff">Senza\nsommatoria</string> <!-- PENDING ("No time cumulation" i.e. "do not totalize time on this task") -->
 	<string name="catEdExtra1Long">Lavoro Extra 1</string>
 	<string name="catEdExtra2Long">Lavoro Extra 2</string>
 	<string name="catEdExtra1Short">Extra1</string>
