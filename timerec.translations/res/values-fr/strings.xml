@@ -586,7 +586,7 @@
 	<string name="promoBody"></string>
 			
 	<!-- 5.03 -->
-	<string name="categoryEditHeaderTimeCumulationOff">Sans\naccumulation</string> <!-- PENDING ("No time cumulation" i.e. "do not totalize time on this task") -->
+	<string name="categoryEditHeaderTimeCumulationOff">Sans\naccumulation</string> <!-- VERIFY ("No time cumulation" i.e. "do not totalize time on this task") -->
 	<string name="catEdExtra1Short">Extra1</string>
 	<string name="catEdExtra2Short">Extra2</string>
 	<string name="catEdExtra1Long">Tâche Extra 1</string>
