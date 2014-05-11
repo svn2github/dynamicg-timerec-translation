@@ -21,17 +21,6 @@ public class TimeRecDataGetter {
 		this.output = output;
 	}
 
-	private static String getMatchingTimeRecPackage(Context context, String... packages) {
-		for (String pkg:packages) {
-			try {
-				if (context.getPackageManager().getPackageInfo(pkg, PackageManager.GET_ACTIVITIES)!=null) {
-					return pkg;
-				}
-			} catch (NameNotFoundException e) {}
-		}
-		return null;
-	}
-
 	public void getData() {
 		Intent intent = new Intent("com.dynamicg.timerecording.GET_INFO");
 		intent.setPackage(getMatchingTimeRecPackage(context, "com.dynamicg.timerecording.pro", "com.dynamicg.timerecording"));
@@ -46,6 +35,17 @@ public class TimeRecDataGetter {
 			}
 		};
 		context.sendOrderedBroadcast(intent, null, resultReceiver, null, Activity.RESULT_OK, null, null);
+	}
+
+	private static String getMatchingTimeRecPackage(Context context, String... packages) {
+		for (String pkg:packages) {
+			try {
+				if (context.getPackageManager().getPackageInfo(pkg, PackageManager.GET_ACTIVITIES)!=null) {
+					return pkg;
+				}
+			} catch (NameNotFoundException e) {}
+		}
+		return null;
 	}
 
 	private void getFields(Bundle bundle) {
