@@ -21,6 +21,9 @@ public class TimeRecDataGetter {
 		this.output = output;
 	}
 
+	/**
+	 * main call. 'Bundle result' in the 'BroadcastReceiver resultReceiver' will receive TimeRec status data
+	 */
 	public void getData() {
 		Intent intent = new Intent("com.dynamicg.timerecording.GET_INFO");
 		intent.setPackage(getMatchingTimeRecPackage(context, "com.dynamicg.timerecording.pro", "com.dynamicg.timerecording"));
