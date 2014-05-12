@@ -609,7 +609,7 @@
 	<string name="promoBody"></string>
 			
 	<!-- 5.03 -->
-	<string name="categoryEditHeaderTimeCumulationOff">No time\ncumulation</string> <!-- PENDING ("do not totalize time on this task") -->
+	<string name="categoryEditHeaderTimeCumulationOff">Sin\nacumulación</string> <!-- VERYIFY: No time\ncumulation ("do not totalize time on this task") -->
 	<string name="catEdExtra1Short">Extra1</string>
 	<string name="catEdExtra2Short">Extra2</string>
 	<string name="catEdExtra1Long">Tarea Extra 1</string>
@@ -646,19 +646,19 @@
     <string name="alertSoundMaxHint">\u2192 Max playback is {1} seconds</string>
     
     <!-- 5.08 -->
-    <string name="commonPickFile">Select file</string>
-    <string name="expPrefsHeaderN">Heading line {1}</string>
+    <string name="commonPickFile">Seleccionar fichero</string> <!-- VERIFY: Select file -->
+    <string name="expPrefsHeaderN">Título línea {1}</string> <!-- VERIFY: Heading line {1} -->
     <string name="expPrefsReportReminder">Report reminder</string>
     <string name="commonReportSettings"></string> <!-- PENDING: Report settings -->
     <string name="commonAverageShort">\u00D8</string>
-    <string name="commonAverageLong">Average</string>
-    <string name="commonNumUnits"># Units</string>
+    <string name="commonAverageLong">Media</string> <!-- VERIFY: Average -->
+    <string name="commonNumUnits"># Unidades</string> <!-- VERIFY: # Units -->
 
     <!-- 5.09 -->
-    <string name="deleteUnusedTasks">Delete unused tasks</string>
+    <string name="deleteUnusedTasks">Tareas no utilizadas</string> <!-- VERIFY: Delete unused tasks -->
     <string name="commonActiveOnDays">Active on these days</string>
     <string name="prefsFlatHomeButtons">Flat home buttons</string>
-    <string name="widgetLargeStatusConfig">4x1 &amp; 4x2 Widget status line</string>
+    <string name="widgetLargeStatusConfig">4x1 &amp; 4x2 Widget información</string> <!-- 4x1 &amp; 4x2 Widget status line -->
     
     <!--
     PENDING, OPTIONAL - HIDDEN IN GUI IF NOT AVAILABLE
@@ -669,34 +669,34 @@
     <string name="pleaseRateBody"></string>
     
     <!-- 5.10 -->
-    <string name="repBlock1Time">Block 1</string>
-    <string name="repBlock1Total">Block 1 Total</string>
-    <string name="repBlock2Time">Block 2</string>
-    <string name="repBlock2Total">Block 2 Total</string>
-    <string name="repBlock3Time">Block 3</string>
-    <string name="repBlock3Total">Block 3 Total</string>
-    <string name="commonValue1">Value1</string>
-    <string name="commonValue2">Value2</string>
-    <string name="prefsStampValuesHint">\u2192 Use these to track additional numeric items like tips or mileage</string>
-    <string name="commonLabel">Label</string>
-    <string name="commonDefaultValue">Default value</string>
+    <string name="repBlock1Time">Bloque 1</string> <!-- VERIFY:  -->
+    <string name="repBlock1Total">Bloque 1 Total</string> <!-- VERIFY:  -->
+    <string name="repBlock2Time">Bloque 2</string> <!-- VERIFY:  -->
+    <string name="repBlock2Total">Bloque 2 Total</string> <!-- VERIFY:  -->
+    <string name="repBlock3Time">Bloque 3</string> <!-- VERIFY:  -->
+    <string name="repBlock3Total">Bloque 3 Total</string> <!-- VERIFY:  -->
+    <string name="commonValue1">Valor1</string>
+    <string name="commonValue2">Valor2</string>
+    <string name="prefsStampValuesHint"></string> <!-- PENDING: \u2192 Use these to track additional numeric items like tips or mileage -->
+    <string name="commonLabel">Título</string> <!-- VERIFY: Label -->
+    <string name="commonDefaultValue">Valor por defecto</string> <!-- VERIFY: Default value -->
     <string name="hintStampDefaultValue">\u2192 This is applied when adding work units</string>
-    <string name="expPrefsFooter">Footer</string>
-    <string name="prefsGroupInputFields">Input fields</string>
-    <string name="prefsGroupUserInterface">Interface</string>
-    <string name="expPrefsPreviewFormat">Preview format</string>
-    <string name="expPrefsHeaderFooterHint">\u2192 Header/footer tokens: $d1, $d2</string>
+    <string name="expPrefsFooter">Pie de página</string> <!-- VERIFY: Footer -->
+    <string name="prefsGroupInputFields">Campos de entrada</string> <!-- VERIFY: Input fields -->
+    <string name="prefsGroupUserInterface">Interfaz</string> <!-- VERIFY: Interface -->
+    <string name="expPrefsPreviewFormat">Formato de avance</string> <!-- VERIFY: Preview format -->
+    <string name="expPrefsHeaderFooterHint">\u2192 Espaciadores: $d1, $d2</string> <!-- VERIFY: \u2192 Placeholders: $d1, $d2 -->
     <string name="hintExpPrefsAdvanced">\u2192 These are developer options, don\'t change unless you know what you are doing</string>
     
     <!-- 5.11 -->
-	<string name="commonMoveBreak">Move break</string>
-	<string name="commonSummarize">Summarize</string>
-	<string name="calSyncGranularityWorkUnit">1 event per work unit</string>
-	<string name="calSyncGranularityBlock">1 event per block</string>
-	<string name="calSyncGranularityDay">1 event per day</string>
-	<string name="calSyncEventBody">Event description</string>
-	<string name="commonToken">Placeholder</string>
-	<string name="commonWorkUnit">Work unit</string>
-	<string name="commonBatchUpdate">Mass update</string>
+	<string name="commonMoveBreak">Mover pausa</string> <!-- VERIFY: Move break -->
+	<string name="commonSummarize">Adición</string> <!-- VERIFY: Summarize -->
+	<string name="calSyncGranularityWorkUnit">1 evento por unidad de trabajo</string> <!-- VERIFY: 1 event per work unit -->
+	<string name="calSyncGranularityBlock">1 evento por bloque</string> <!-- VERIFY: 1 event per block -->
+	<string name="calSyncGranularityDay">1 evento por día</string> <!-- VERIFY: 1 event per day -->
+	<string name="calSyncEventBody">Descripción del evento</string> <!-- VERIFY: Event description -->
+	<string name="commonToken">Espaciador</string> <!-- VERIFY: Placeholder -->
+	<string name="commonWorkUnit">Unidad de trabajo</string> <!-- VERIFY: Work unit -->
+	<string name="commonBatchUpdate">Actualización en masa</string> <!-- VERIFY: Mass update -->
 
 </resources>
