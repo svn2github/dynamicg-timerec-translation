@@ -655,7 +655,7 @@
     <string name="commonNumUnits"># Unidades</string> <!-- VERIFY: # Units -->
 
     <!-- 5.09 -->
-    <string name="deleteUnusedTasks">Tareas no utilizadas</string> <!-- VERIFY: Delete unused tasks -->
+    <string name="deleteUnusedTasks">Tareas no utilizadas</string> <!-- VERIFY: "Unused tasks" or "Delete unused tasks" -->
     <string name="commonActiveOnDays">Active on these days</string>
     <string name="prefsFlatHomeButtons">Flat home buttons</string>
     <string name="widgetLargeStatusConfig">4x1 &amp; 4x2 Widget información</string> <!-- 4x1 &amp; 4x2 Widget status line -->
