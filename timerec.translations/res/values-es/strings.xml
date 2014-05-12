@@ -570,7 +570,7 @@
 	<string name="commonIncremental">Incremental</string> <!-- PENDING -->
 	
 	<!-- 4.18 -->
-	<string name="commonForceDeletion">Force deletion</string> <!-- PENDING -->	
+	<string name="commonForceDeletion">Forzar borrado</string> <!-- VERYIFY: Force deletion -->	
 
 	<!-- 4.19 -->
 	<string name="prefsRepPeriodWeeks">{2} {1}</string>
@@ -684,8 +684,8 @@
     <string name="expPrefsFooter">Pie de página</string> <!-- VERIFY: Footer -->
     <string name="prefsGroupInputFields">Campos de entrada</string> <!-- VERIFY: Input fields -->
     <string name="prefsGroupUserInterface">Interfaz</string> <!-- VERIFY: Interface -->
-    <string name="expPrefsPreviewFormat">Formato de avance</string> <!-- VERIFY: Preview format -->
-    <string name="expPrefsHeaderFooterHint">\u2192 Espaciadores: $d1, $d2</string> <!-- VERIFY: \u2192 Placeholders: $d1, $d2 -->
+    <string name="expPrefsPreviewFormat">Formato de vista previa</string> <!-- VERIFY: Preview format -->
+    <string name="expPrefsHeaderFooterHint">\u2192 Marcadores de posición: $d1, $d2</string> <!-- VERIFY: \u2192 Placeholders: $d1, $d2 -->
     <string name="hintExpPrefsAdvanced">\u2192 These are developer options, don\'t change unless you know what you are doing</string>
     
     <!-- 5.11 -->
@@ -695,7 +695,7 @@
 	<string name="calSyncGranularityBlock">1 evento por bloque</string> <!-- VERIFY: 1 event per block -->
 	<string name="calSyncGranularityDay">1 evento por día</string> <!-- VERIFY: 1 event per day -->
 	<string name="calSyncEventBody">Descripción del evento</string> <!-- VERIFY: Event description -->
-	<string name="commonToken">Espaciador</string> <!-- VERIFY: Placeholder -->
+	<string name="commonToken">Marcadores de posición</string> <!-- VERIFY: Placeholder -->
 	<string name="commonWorkUnit">Unidad de trabajo</string> <!-- VERIFY: Work unit -->
 	<string name="commonBatchUpdate">Actualización en masa</string> <!-- VERIFY: Mass update -->
 
