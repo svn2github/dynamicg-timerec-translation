@@ -595,7 +595,7 @@
 	<string name="promoBody"></string>
 			
 	<!-- 5.03 -->
-	<string name="categoryEditHeaderTimeCumulationOff">No time\ncumulation</string> <!-- PENDING ("do not totalize time on this task") -->
+	<string name="categoryEditHeaderTimeCumulationOff">Sem\nacumulação</string> <!-- VERIFY: No time\ncumulation ("do not totalize time on this task") -->
 	<string name="catEdExtra1Short">Extra1</string>
 	<string name="catEdExtra2Short">Extra2</string>
 	<string name="catEdExtra1Long">Tarefa Extra 1</string>
@@ -641,10 +641,10 @@
     <string name="commonNumUnits"># Unidades</string> <!-- VERIFY: # Units -->
 
     <!-- 5.09 -->
-    <string name="deleteUnusedTasks">Delete unused tasks</string>
+    <string name="deleteUnusedTasks">Tarefas não utilizadas</string> <!-- VERIFY: Delete unused tasks -->
     <string name="commonActiveOnDays">Active on these days</string>
     <string name="prefsFlatHomeButtons">Flat home buttons</string>
-    <string name="widgetLargeStatusConfig">4x1 &amp; 4x2 Widget status line</string>
+    <string name="widgetLargeStatusConfig">4x1 &amp; 4x2 Widget informação</string>
     
     <!--
     PENDING, OPTIONAL - HIDDEN IN GUI IF NOT AVAILABLE
