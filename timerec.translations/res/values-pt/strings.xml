@@ -668,7 +668,7 @@
     <string name="commonDefaultValue">Valor padrão</string> <!-- VERIFY: Default value -->
     <string name="hintStampDefaultValue">\u2192 This is applied when adding work units</string>
     <string name="expPrefsFooter">Rodapé</string> <!-- VERIFY: Footer -->
-    <string name="prefsGroupInputFields">Input fields</string>
+    <string name="prefsGroupInputFields">Campos de entrada</string> <!-- VERIFY: Input fields -->
     <string name="prefsGroupUserInterface">Interface</string>
     <string name="expPrefsPreviewFormat">Preview format</string>
     <string name="expPrefsHeaderFooterHint">\u2192 Caráter de substituição: $d1, $d2</string> <!-- VERIFY: \u2192 Header/footer tokens: $d1, $d2 -->
