@@ -683,6 +683,6 @@
 	<string name="calSyncEventBody">Descrição do evento</string> <!-- VERIFY: Event description -->
 	<string name="commonToken">Caráter de substituição</string> <!-- VERIFY: Placeholder -->
 	<string name="commonWorkUnit">Unidade de trabalho</string> <!-- VERIFY: Work unit -->
-	<string name="commonBatchUpdate">Mass update</string>
+	<string name="commonBatchUpdate">Atualização em massa</string> <!-- VERIFY: Mass update -->
 	
 </resources>
