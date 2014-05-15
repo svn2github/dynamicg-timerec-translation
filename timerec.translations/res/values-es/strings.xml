@@ -594,7 +594,7 @@
 	<string name="widgetPro4x2">Hojas de Tiempos Pro 4x2</string>
 	<string name="commonShowActions">Mostrar acciones</string>
 
-	<string name="commonExclude">Exclude \u00ab{1}\u00bb</string> <!-- PENDING -->
+	<string name="commonExclude">Excluir \u00ab{1}\u00bb</string> <!-- VERYIFY: Exclude \u00ab{1}\u00bb-->
 	
 	<!-- 5.02 -->
 	<string name="commonGroupBy">Agrupamiento</string>

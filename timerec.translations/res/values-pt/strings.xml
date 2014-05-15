@@ -580,7 +580,7 @@
 	<string name="widgetPro4x2">Registro de Horários Pro 4x2</string>
 	<string name="commonShowActions">Mostrar ações</string>
 
-	<string name="commonExclude">Exclude \u00ab{1}\u00bb</string> <!-- PENDING -->
+	<string name="commonExclude">Excluir \u00ab{1}\u00bb</string> <!-- VERIFY: Exclude \u00ab{1}\u00bb -->
 	
 	<!-- 5.02 -->
 	<string name="commonGroupBy">Agrupamento</string>
@@ -632,7 +632,7 @@
     <string name="alertSoundMaxHint">\u2192 Max playback is {1} seconds</string>
     
     <!-- 5.08 -->
-    <string name="commonPickFile">Select file</string>
+    <string name="commonPickFile">Selecionar arquivo</string> <!-- VERIFY: Select file -->
     <string name="expPrefsHeaderN">Cabeçalho {1}</string> <!-- VERIFY: Heading line {1} -->
     <string name="expPrefsReportReminder">Report Reminder</string>
     <string name="commonReportSettings"></string> <!-- PENDING: Report settings -->
