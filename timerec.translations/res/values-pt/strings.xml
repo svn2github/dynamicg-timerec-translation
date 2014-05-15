@@ -670,7 +670,7 @@
     <string name="expPrefsFooter">Rodapé</string> <!-- VERIFY: Footer -->
     <string name="prefsGroupInputFields">Campos de entrada</string> <!-- VERIFY: Input fields -->
     <string name="prefsGroupUserInterface">Interface</string>
-    <string name="expPrefsPreviewFormat">Preview format</string>
+    <string name="expPrefsPreviewFormat">Formato de visualização</string> <!-- Preview format -->
     <string name="expPrefsHeaderFooterHint">\u2192 Caráter de substituição: $d1, $d2</string> <!-- VERIFY: \u2192 Header/footer tokens: $d1, $d2 -->
     <string name="hintExpPrefsAdvanced">\u2192 These are developer options, don\'t change unless you know what you are doing</string>
     
