@@ -633,12 +633,12 @@
     
     <!-- 5.08 -->
     <string name="commonPickFile">Select file</string>
-    <string name="expPrefsHeaderN">Heading line {1}</string>
-    <string name="expPrefsReportReminder">Report reminder</string>
+    <string name="expPrefsHeaderN">Cabeçalho {1}</string> <!-- VERIFY: Heading line {1} -->
+    <string name="expPrefsReportReminder">Report Reminder</string>
     <string name="commonReportSettings"></string> <!-- PENDING: Report settings -->
     <string name="commonAverageShort">\u00D8</string>
-    <string name="commonAverageLong">Average</string>
-    <string name="commonNumUnits"># Units</string>
+    <string name="commonAverageLong">Média</string> <!-- VERIFY: Average -->
+    <string name="commonNumUnits"># Unidades</string> <!-- VERIFY: # Units -->
 
     <!-- 5.09 -->
     <string name="deleteUnusedTasks">Delete unused tasks</string>
@@ -667,7 +667,7 @@
     <string name="commonLabel">Título</string> <!-- VERIFY: Label -->
     <string name="commonDefaultValue">Valor padrão</string> <!-- VERIFY: Default value -->
     <string name="hintStampDefaultValue">\u2192 This is applied when adding work units</string>
-    <string name="expPrefsFooter">Footer</string>
+    <string name="expPrefsFooter">Rodapé</string> <!-- VERIFY: Footer -->
     <string name="prefsGroupInputFields">Input fields</string>
     <string name="prefsGroupUserInterface">Interface</string>
     <string name="expPrefsPreviewFormat">Preview format</string>
