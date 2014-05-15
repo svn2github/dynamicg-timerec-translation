@@ -679,7 +679,7 @@
 	<string name="commonSummarize">Totalizar</string> <!-- VERIFY: Summarize -->
 	<string name="calSyncGranularityWorkUnit">1 evento por unidade</string> <!-- VERIFY: 1 event per work unit -->
 	<string name="calSyncGranularityBlock">1 event per bloco</string> <!-- VERIFY: 1 event per block -->
-	<string name="calSyncGranularityDay">1 1 evento por dia</string> <!-- VERIFY: 1 event per day -->
+	<string name="calSyncGranularityDay">1 evento por dia</string> <!-- VERIFY: 1 event per day -->
 	<string name="calSyncEventBody">Descrição do evento</string> <!-- VERIFY: Event description -->
 	<string name="commonToken">Caráter de substituição</string> <!-- VERIFY: Placeholder -->
 	<string name="commonWorkUnit">Unidade de trabalho</string> <!-- VERIFY: Work unit -->
