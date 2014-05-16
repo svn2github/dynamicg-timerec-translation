@@ -134,7 +134,7 @@
 	<string name="prefsDomRoundStd">Arredondar</string>
 	<string name="prefsDomRoundUp">Arredondar para cima</string>
 	<string name="prefsDomRoundDown">Arredondar para baixo</string>
-	<string name="prefsProOnlyFeature">\u2192 Esta funcionalidade está disponível \" apenas na versão Pro\"</string>
+	<string name="prefsProOnlyFeature">\u2192 Esta funcionalidade está disponível apenas na versão \"Pro\"</string>
 	<string name="prefsPunchRoundTaskSwitch">Também aplicar para \'Trocar tarefa\'</string>
 	<string name="prefsCalendarSyncGroup">Sincronizar com agenda Google</string>
 	<string name="prefsHomescreenBtSmall">Botões pequenos na tela inicial</string>
@@ -549,7 +549,7 @@
 	<!-- 4.16 -->
 	<string name="workUnitDetailRep">Relatório trabalhar</string>
 	<string name="prefsShowButtonsLine3">Exibir «{1}» &amp; «{2}»</string>
-	<string name="prefsDeltaWeekOnMain">Show \'Delta\' on main screen</string> <!-- PENDING -->
+	<string name="prefsDeltaWeekOnMain">Exibir \'Delta\' na tela inicial</string> <!-- VERYIFY: Show \'Delta\' on main screen -->
 
 	<!-- 4.17 -->
 	<!-- applies to "Automatic breaks" on settings page 2. the meaning is something like "Does the full break apply (when ticked off) or should the break length increase parallel to the work duration (when ticked on) -->
