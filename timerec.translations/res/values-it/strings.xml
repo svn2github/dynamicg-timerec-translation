@@ -84,7 +84,7 @@
     <string name="headerAmountShort">Imp.</string>
     <string name="headerNoteDay">Note del giorno</string>
     <string name="headerNoteWorkUnit">Note su singolo lavoro</string>
-    <string name="headerDelta">Triangolo</string>
+    <string name="headerDelta">Delta</string>
     
     <string name="editSetNewTime">Imposta nuovo orario</string>
     
