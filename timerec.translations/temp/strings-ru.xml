@@ -3,7 +3,6 @@
 
 	<!-- internal - do not translate -->
     <string name="appUserLabel">DynamicG App User</string>
-    <string name="languageFlag">0</string>
     <string name="googleSitesLanguage">ru</string>
     <string name="i18nCompatibility">0</string>
     
