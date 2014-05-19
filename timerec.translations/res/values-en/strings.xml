@@ -611,7 +611,6 @@
 	
 	<!-- 4.22 -->
 	<string name="commonTaskId">Task ID</string>
-	<string name="prefsAutoBreakDeductCurrent">Deduct from running total of current day</string>
 	<string name="commonSpecific">Specific</string>
 	
 	<!-- 5.01 -->

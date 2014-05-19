@@ -568,7 +568,6 @@
 	<!-- 4.22 -->
 	<string name="commonTaskId">Tarefa ID</string>
 	<string name="commonSpecific">Específico</string>
-	<string name="prefsAutoBreakDeductCurrent">Aplicar para o dia atual</string>
 	
 	<!-- 5.01 -->
 	<string name="widgetFree1x1">Registro de Horários 1x1</string>

@@ -581,7 +581,6 @@
 			
 	<!-- 4.22 -->
 	<string name="commonTaskId">Task-ID</string>
-	<string name="prefsAutoBreakDeductCurrent">Auf laufendes Total des aktuellen Tages anwenden</string>
 	<string name="commonSpecific">Spezifisch</string>
 	
 	<!-- 5.01 -->
