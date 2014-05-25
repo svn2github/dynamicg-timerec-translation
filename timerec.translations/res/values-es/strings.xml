@@ -607,7 +607,7 @@
 	<string name="promoBody"></string>
 			
 	<!-- 5.03 -->
-	<string name="categoryEditHeaderTimeCumulationOff">Sin\nacumulación</string> <!-- VERYIFY: No time\ncumulation ("do not totalize time on this task") -->
+	<string name="categoryEditHeaderTimeCumulationOff">Sin\nacumulación</string> <!-- VERYIFY: No time\nsummation ("do not totalize time on this task") -->
 	<string name="catEdExtra1Short">Extra1</string>
 	<string name="catEdExtra2Short">Extra2</string>
 	<string name="catEdExtra1Long">Tarea Extra 1</string>
