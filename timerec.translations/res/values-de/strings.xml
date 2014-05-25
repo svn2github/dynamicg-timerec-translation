@@ -640,7 +640,7 @@
     <string name="expPrefsHeaderN">Titelzeile {1}</string>
     <string name="expPrefsReportReminder">Berichte-Erinnerung</string>
 	<string name="commonReportSettings">Berichte-Einstellungen</string>
-	<string name="commonAverageShort">\u00D8</string>
+	<string name="commonAverageShort">\u00D8</string> <!-- "O/", "Durchschnitt" is too long -->
 	<string name="commonAverageLong">Durchschnitt</string>
 	<string name="commonNumUnits"># Einheiten</string>
 
@@ -670,9 +670,9 @@
     <string name="prefsGroupInputFields">Eingabefelder</string>
 	<string name="prefsGroupUserInterface">Oberfläche</string>
 	<string name="expPrefsPreviewFormat">Vorschau-Format</string>
-	<string name="expPrefsHeaderFooterHint">\u2192 Kopf-/Fusszeilen-Platzhalter: $d1, $d2</string>
+	<string name="expPrefsHeaderFooterHint">\u2192 Platzhalter: $d1, $d2</string>
 	<string name="hintExpPrefsAdvanced">\u2192 Dies sind Entwickleroptionen, nur ändern falls du weisst was du tust</string>
-	    
+
     <!-- 5.11 -->
 	<string name="commonMoveBreak">Pause schieben</string>
 	<string name="commonSummarize">Aufsummieren</string>
@@ -684,4 +684,11 @@
 	<string name="commonWorkUnit">Arbeitseinheit</string>
 	<string name="commonBatchUpdate">Massenänderung</string>
 
+    <!-- 5.12 -->
+    <string name="autoBreakExact">Exakte Zeit</string>
+    <string name="autoBreakOffset">Einstempeln plus &lt;Zeit&gt;</string>
+    <string name="paidOt2SameDay">Normalzeit</string>
+    <string name="paidOt2NextDay">Zeit nach Mitternacht</string>
+    <string name="categoryEditHeaderTimeAccumulationPct">Zeit-\nverrechnung %</string>
+    
 </resources>

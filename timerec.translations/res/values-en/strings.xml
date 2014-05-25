@@ -655,6 +655,7 @@
     <string name="commonSortNoun">Sort</string>
 
     <!-- 5.07 alarm settings -->
+    <string name="pending507">0</string> <!-- ignore -->
     <string name="alarmLabelDailyTarget">Daily target reached</string>
     <string name="alarmLabelWeeklyTarget">Weekly target reached</string>
     <string name="alarmLabelBreakNowOver">\'Break now\' over</string>
@@ -705,7 +706,7 @@
     <string name="prefsGroupInputFields">Input fields</string>
     <string name="prefsGroupUserInterface">Interface</string>
     <string name="expPrefsPreviewFormat">Preview format</string>
-    <string name="expPrefsHeaderFooterHint">\u2192 Header/footer tokens: $d1, $d2</string>
+    <string name="expPrefsHeaderFooterHint">\u2192 Placeholders: $d1, $d2</string>
     <string name="hintExpPrefsAdvanced">\u2192 These are developer options, don\'t change unless you know what you are doing</string>
     
     <!-- 5.11 -->
@@ -719,6 +720,13 @@
 	<string name="commonWorkUnit">Work unit</string>
 	<string name="commonBatchUpdate">Mass update</string>
 
+    <!-- 5.12 -->
+    <string name="autoBreakExact">Exact time</string>
+    <string name="autoBreakOffset">Check-In plus &lt;time&gt;</string>
+    <string name="paidOt2SameDay">Regular time</string>
+    <string name="paidOt2NextDay">Time past midnight</string>
+    <string name="categoryEditHeaderTimeAccumulationPct">Time\naccumulation %</string>
+	
 	<!-- DO NOT TRANSLATE - WILL BE REMOVED SEPTEMBER 2014 -->
     <string name="bckArchiveTitle">Archive</string>
     <string name="bckSwitchToArchive">View archived data</string>
