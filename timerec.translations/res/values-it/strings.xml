@@ -695,7 +695,7 @@
 	<string name="commonWorkUnit">Unità di lavoro</string> <!-- VERIFY: Work unit -->
 	<string name="commonBatchUpdate">Aggiornamento di massa</string> <!-- VERIFY: Mass update -->
     
-	<!-- please verify -->
+	<!-- 5.11 / VERIFY -->
     <string name="commonValue1">Valore1</string>
     <string name="commonValue2">Valore2</string>
     <string name="commonForceDeletion">Forza l\'eliminazione</string>
