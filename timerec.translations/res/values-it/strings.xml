@@ -2,6 +2,15 @@
 <resources xmlns:android="http://schemas.android.com/apk/res/android">
 
     <!-- IT -->
+		
+	<!-- WILL BE REMOVED SEPTEMBER 2014 -->
+    <string name="bckArchiveTitle">Archivio</string>
+    <string name="bckSwitchToArchive">Vedi dati archiviati</string>
+    <string name="bckSwitchToLive">Torna su Dati live</string>
+    <string name="bckArchiveDataOlderThan">Archivio di dati &gt; {1} mesi</string>
+    <string name="bckArchiveHint">\u2192 Usa \"Archivio\" per spostare i vecchi dati e creare un \'database live\' più piccolo e più veloce</string>
+	<string name="archiveLocation">Il file d\'archivio è memorizzato qui:\n\u2022 Cartella: {1}\n\u2022 Nome: {2}\nNota che questo file non è salvato dall\'app.</string>
+	<string name="bckArchiveDataOlderCustom">Archivio di dati &gt; {1}</string>
 	
 	<!-- internal -->
     <string name="appUserLabel">DynamicG App User</string>
@@ -710,14 +719,5 @@
     <string name="paidOt2SameDay">Ora normale</string> <!-- PENDING: Regular time -->
     <string name="paidOt2NextDay">Dopo la mezzanotte</string> <!-- PENDING: Time past midnight -->
     <string name="categoryEditHeaderTimeAccumulationPct">Sommatoria\ntempo %</string> <!-- PENDING: Time\naccumulation % -->
-		
-	<!-- WILL BE REMOVED SEPTEMBER 2014 -->
-    <string name="bckArchiveTitle">Archivio</string>
-    <string name="bckSwitchToArchive">Vedi dati archiviati</string>
-    <string name="bckSwitchToLive">Torna su Dati live</string>
-    <string name="bckArchiveDataOlderThan">Archivio di dati &gt; {1} mesi</string>
-    <string name="bckArchiveHint">\u2192 Usa \"Archivio\" per spostare i vecchi dati e creare un \'database live\' più piccolo e più veloce</string>
-	<string name="archiveLocation">Il file d\'archivio è memorizzato qui:\n\u2022 Cartella: {1}\n\u2022 Nome: {2}\nNota che questo file non è salvato dall\'app.</string>
-	<string name="bckArchiveDataOlderCustom">Archivio di dati &gt; {1}</string>
 		
 </resources>

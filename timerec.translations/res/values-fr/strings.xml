@@ -3,6 +3,15 @@
 
     <!-- FR -->
 	
+	<!-- WILL BE REMOVED SEPTEMBER 2014 -->
+    <string name="bckArchiveTitle">Archiver</string>
+    <string name="bckSwitchToArchive">Voir données archivées</string>
+    <string name="bckSwitchToLive">Retour aux données vivantes</string>
+    <string name="bckArchiveDataOlderThan">Archiver données &gt; {1} mois</string>
+    <string name="bckArchiveHint">\u2192 Utilisez \"Archiver\" pour déplacer les données anciennes et ainsi optimiser la \'base vivante\'</string>
+	<string name="archiveLocation">Le fichier Archive est stocké ici:\n\u2022 Répertoire: {1}\n\u2022 Nom: {2}\nNotez que ce fichier n\'est pas sauvegardé par l\'application.</string>
+	<string name="bckArchiveDataOlderCustom">Archiver données &gt; {1}</string>
+			
 	<!-- internal -->
     <string name="appUserLabel">DynamicG App User</string>
     <string name="googleSitesLanguage">en</string>
@@ -685,13 +694,4 @@
     <string name="paidOt2NextDay">Après minuit</string> <!-- PENDING: Time past midnight -->
     <string name="categoryEditHeaderTimeAccumulationPct">Accumulation\ntemps %</string> <!-- VERIFY: Time\naccumulation % -->
 	
-	<!-- WILL BE REMOVED SEPTEMBER 2014 -->
-    <string name="bckArchiveTitle">Archiver</string>
-    <string name="bckSwitchToArchive">Voir données archivées</string>
-    <string name="bckSwitchToLive">Retour aux données vivantes</string>
-    <string name="bckArchiveDataOlderThan">Archiver données &gt; {1} mois</string>
-    <string name="bckArchiveHint">\u2192 Utilisez \"Archiver\" pour déplacer les données anciennes et ainsi optimiser la \'base vivante\'</string>
-	<string name="archiveLocation">Le fichier Archive est stocké ici:\n\u2022 Répertoire: {1}\n\u2022 Nom: {2}\nNotez que ce fichier n\'est pas sauvegardé par l\'application.</string>
-	<string name="bckArchiveDataOlderCustom">Archiver données &gt; {1}</string>
-			
 </resources>
