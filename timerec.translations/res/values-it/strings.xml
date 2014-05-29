@@ -707,8 +707,8 @@
     <!-- 5.12 -->
     <string name="autoBreakExact">Ora esatta</string> <!-- PENDING: Exact time -->
     <string name="autoBreakOffset">\'Inizio\' + &lt;ora&gt;</string> <!-- PENDING: Check-In plus &lt;time&gt; -->
-    <string name="paidOt2SameDay">Regular time</string> <!-- PENDING: Regular time -->
-    <string name="paidOt2NextDay">Time past midnight</string> <!-- PENDING: Time past midnight -->
+    <string name="paidOt2SameDay">Ora normale</string> <!-- PENDING: Regular time -->
+    <string name="paidOt2NextDay">Dopo la mezzanotte</string> <!-- PENDING: Time past midnight -->
     <string name="categoryEditHeaderTimeAccumulationPct">Sommatoria\ntempo %</string> <!-- PENDING: Time\naccumulation % -->
 		
 	<!-- WILL BE REMOVED SEPTEMBER 2014 -->

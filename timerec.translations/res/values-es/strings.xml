@@ -701,8 +701,8 @@
     <!-- 5.12 -->
     <string name="autoBreakExact">Tiempo exacto</string> <!-- PENDING: Exact time -->
     <string name="autoBreakOffset">\'Iniciar\' + &lt;tiempo&gt;</string> <!-- PENDING: Check-In plus &lt;time&gt; -->
-    <string name="paidOt2SameDay">Regular time</string> <!-- PENDING: Regular time -->
-    <string name="paidOt2NextDay">Time past midnight</string> <!-- PENDING: Time past midnight -->
+    <string name="paidOt2SameDay">Tiempo normal</string> <!-- PENDING: Regular time -->
+    <string name="paidOt2NextDay">Después de la medianoche</string> <!-- PENDING: Time past midnight -->
     <string name="categoryEditHeaderTimeAccumulationPct">Acumulación\ntiempo %</string> <!-- PENDING: Time\naccumulation % -->
 
 </resources>
