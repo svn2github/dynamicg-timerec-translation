@@ -687,7 +687,6 @@
     <!-- 5.12 -->
     <string name="autoBreakExact">Hora exata</string> <!-- PENDING: Exact time -->
     <string name="autoBreakOffset">Check-In + &lt;hora&gt;</string> <!-- PENDING: Check-In plus &lt;time&gt; -->
-    <!-- for i18n: <string name="autoBreakOffset">\'{1}\' plus &lt;time&gt;</string> -->
     <string name="paidOt2SameDay">Hora normal</string> <!-- PENDING: Regular time -->
     <string name="paidOt2NextDay">Depois da meia-noite</string> <!-- PENDING: Time past midnight -->
     <string name="categoryEditHeaderTimeAccumulationPct">Acumulação\ntempo %</string> <!-- PENDING: Time\naccumulation % -->
