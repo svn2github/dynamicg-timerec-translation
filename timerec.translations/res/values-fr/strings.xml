@@ -584,7 +584,7 @@
 	<string name="promoBody"></string>
 			
 	<!-- 5.03 -->
-	<string name="categoryEditHeaderTimeCumulationOff">Sans\naccumulation</string> <!-- VERIFY No time\nsummation (i.e. "do not totalize time on this task") -->
+	<string name="categoryEditHeaderTimeCumulationOff">Sans\ntotalisation</string> <!-- VERIFY No time\nsummation (i.e. "do not totalize time on this task") -->
 	<string name="catEdExtra1Short">Extra1</string>
 	<string name="catEdExtra2Short">Extra2</string>
 	<string name="catEdExtra1Long">Tâche Extra 1</string>
@@ -677,6 +677,13 @@
 	<string name="calSyncGranularityBlock">1 événement par bloc</string>
 	<string name="calSyncGranularityDay">1 événement par jour</string>
 	<string name="calSyncEventBody">Description événement</string>
+	
+    <!-- 5.12 -->
+    <string name="autoBreakExact">Temps exact</string> <!-- VERIFY: Exact time -->
+    <string name="autoBreakOffset">Démarrage plus &lt;temps&gt;</string> <!-- VERIFY: Check-In plus &lt;time&gt; -->
+    <string name="paidOt2SameDay">Normale</string> <!-- PENDING: Regular time -->
+    <string name="paidOt2NextDay">Après minuit</string> <!-- PENDING: Time past midnight -->
+    <string name="categoryEditHeaderTimeAccumulationPct">Accumulation\ntemps %</string> <!-- VERIFY: Time\naccumulation % -->
 	
 	<!-- WILL BE REMOVED SEPTEMBER 2014 -->
     <string name="bckArchiveTitle">Archiver</string>
