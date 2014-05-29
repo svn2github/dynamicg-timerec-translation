@@ -679,7 +679,7 @@
 	<string name="calSyncEventBody">Description événement</string>
 	
     <!-- 5.12 -->
-    <string name="autoBreakExact">Temps exact</string> <!-- VERIFY: Exact time -->
+    <string name="autoBreakExact">Heure exact</string> <!-- VERIFY: Exact time -->
     <string name="autoBreakOffset">Démarrage plus &lt;temps&gt;</string> <!-- VERIFY: Check-In plus &lt;time&gt; -->
     <string name="paidOt2SameDay">Normale</string> <!-- PENDING: Regular time -->
     <string name="paidOt2NextDay">Après minuit</string> <!-- PENDING: Time past midnight -->

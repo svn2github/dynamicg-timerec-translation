@@ -593,7 +593,7 @@
 	<string name="promoBody"></string>
 			
 	<!-- 5.03 -->
-	<string name="categoryEditHeaderTimeCumulationOff">Sem\nacumulação</string> <!-- VERIFY: No time\nsummation ("do not totalize time on this task") -->
+	<string name="categoryEditHeaderTimeCumulationOff">Sem\ntotalização</string> <!-- VERIFY: No time\nsummation ("do not totalize time on this task") -->
 	<string name="catEdExtra1Short">Extra1</string>
 	<string name="catEdExtra2Short">Extra2</string>
 	<string name="catEdExtra1Long">Tarefa Extra 1</string>
@@ -683,5 +683,13 @@
 	<string name="commonToken">Caráter de substituição</string> <!-- VERIFY: Placeholder -->
 	<string name="commonWorkUnit">Unidade de trabalho</string> <!-- VERIFY: Work unit -->
 	<string name="commonBatchUpdate">Atualização em massa</string> <!-- VERIFY: Mass update -->
+	
+    <!-- 5.12 -->
+    <string name="autoBreakExact">Hora exata</string> <!-- PENDING: Exact time -->
+    <string name="autoBreakOffset">Check-In + &lt;hora&gt;</string> <!-- PENDING: Check-In plus &lt;time&gt; -->
+    <!-- for i18n: <string name="autoBreakOffset">\'{1}\' plus &lt;time&gt;</string> -->
+    <string name="paidOt2SameDay">Regular time</string> <!-- PENDING: Regular time -->
+    <string name="paidOt2NextDay">Time past midnight</string> <!-- PENDING: Time past midnight -->
+    <string name="categoryEditHeaderTimeAccumulationPct">Acumulação\ntempo %</string> <!-- PENDING: Time\naccumulation % -->
 	
 </resources>
