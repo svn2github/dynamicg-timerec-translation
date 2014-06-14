@@ -642,7 +642,6 @@
     <!-- 5.09 -->
     <string name="deleteUnusedTasks">Effacer tâches inutilisés</string> <!-- VERIFY "Delete unused tasks" -->
     <string name="commonActiveOnDays">Active sur ces jours</string> <!-- VERIFY "Active on these days" -->
-    <string name="prefsFlatHomeButtons">Flat home buttons</string> <!-- alternatively: "Flat style" -->
     <string name="widgetLargeStatusConfig">4x1 &amp; 4x2 Widget info</string>
     
     <!--

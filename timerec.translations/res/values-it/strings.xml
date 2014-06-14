@@ -668,7 +668,6 @@
     <!-- 5.09 -->
     <string name="deleteUnusedTasks">Eliminare lavori inutilizzati</string> <!-- VERIFY: Delete unused tasks -->
     <string name="commonActiveOnDays">Active on these days</string> <!-- PENDING -->
-    <string name="prefsFlatHomeButtons">Flat home buttons</string> <!-- PENDING -->
     <string name="widgetLargeStatusConfig">4x1 &amp; 4x2 Widget informazioni</string>
     
     <!--
