@@ -690,4 +690,8 @@
     <string name="paidOt2NextDay">Depois da meia-noite</string> <!-- PENDING: Time past midnight -->
     <string name="categoryEditHeaderTimeAccumulationPct">Acumulação\ntempo %</string> <!-- PENDING: Time\naccumulation % -->
 	
+    <!-- 5.13 -->
+    <string name="salesTaxLabel">Sales tax</string> <!-- PENDING -->
+    <string name="commonValue">Value</string> <!-- PENDING -->
+
 </resources>
