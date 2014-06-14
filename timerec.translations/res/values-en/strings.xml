@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:android="http://schemas.android.com/apk/res/android">
 
+	<!-- DO NOT TRANSLATE - WILL BE REMOVED SEPTEMBER 2014 -->
+    <string name="bckArchiveTitle">Archive</string>
+    <string name="bckSwitchToArchive">View archived data</string>
+    <string name="bckSwitchToLive">Switch back to live data</string>
+    <string name="bckArchiveDataOlderThan">Archive data &gt; {1} months</string>
+    <string name="bckArchiveHint">\u2192 Use \"archive\" to move old data and make the \'live database\' smaller and faster</string>
+	<string name="archiveLocation">Archive file is stored here:\n\u2022 Folder: {1}\n\u2022 Name: {2}\nNote this file is not backed up by the app.</string>
+	<string name="bckArchiveDataOlderCustom">Archive data &lt; {1}</string>
+	
 	<!-- internal - do not translate -->
     <string name="appUserLabel">DynamicG App User</string>
     <string name="googleSitesLanguage">en</string>
@@ -348,7 +357,7 @@
 	
 	<string name="pdotMainHint">\u2192 Only shows on \'Month\' view. Needs \'Daily\' or \'Weekly\' target time enabled.</string>
 	
-	<string name="sdcardErrorReboot">\u2022 Please reboot your phone and try again.\n\u2022 If the problem persists please contact developer.</string>
+	<string name="sdcardErrorReboot">\u2022 Please reboot your phone and try again.</string>
 	<string name="sdcardErrorReadonly">SD Card is read only.</string>
 	<string name="sdcardErrorShared">SD Card blocked by USB access. Please disconnect phone from USB and try again.</string>
 
@@ -725,14 +734,9 @@
     <string name="paidOt2SameDay">Regular time</string>
     <string name="paidOt2NextDay">Time past midnight</string>
     <string name="categoryEditHeaderTimeAccumulationPct">Time\naccumulation %</string>
-	
-	<!-- DO NOT TRANSLATE - WILL BE REMOVED SEPTEMBER 2014 -->
-    <string name="bckArchiveTitle">Archive</string>
-    <string name="bckSwitchToArchive">View archived data</string>
-    <string name="bckSwitchToLive">Switch back to live data</string>
-    <string name="bckArchiveDataOlderThan">Archive data &gt; {1} months</string>
-    <string name="bckArchiveHint">\u2192 Use \"archive\" to move old data and make the \'live database\' smaller and faster</string>
-	<string name="archiveLocation">Archive file is stored here:\n\u2022 Folder: {1}\n\u2022 Name: {2}\nNote this file is not backed up by the app.</string>
-	<string name="bckArchiveDataOlderCustom">Archive data &lt; {1}</string>
-	
+
+    <!-- 5.13 -->
+    <string name="salesTaxLabel">Sales tax</string>
+    <string name="commonValue">Value</string>
+
 </resources>

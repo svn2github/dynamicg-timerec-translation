@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:android="http://schemas.android.com/apk/res/android">
 
+    <!-- WILL BE REMOVED SEPTEMBER 2014 -->
+    <string name="bckArchiveTitle">Archiv</string>
+    <string name="bckSwitchToArchive">Zu Archiv wechseln</string>
+    <string name="bckSwitchToLive">Archiv schliessen, zurück zu aktuellen Daten</string>
+    <string name="bckArchiveDataOlderThan">Daten &gt; {1} Monate archivieren</string>
+    <string name="bckArchiveHint">\u2192 Benutze \"Archivieren\" um alte Daten zu verschieben und die \'Live Datenbank\' kleiner und schneller zu machen</string>
+	<string name="archiveLocation">Archiv-Datei ist hier gespeichert:\n\u2022 Ordner: {1}\n\u2022 Name: {2}\nAchtung: dieses File ist nicht Teil des Backups</string>
+	<string name="bckArchiveDataOlderCustom">Daten &lt; {1} archivieren</string>
+	
 	<!-- labels -->
     <string name="app_name">Zeiterfassung</string>
     <string name="app_name_pro">Zeiterfassung Pro</string>
@@ -280,12 +289,7 @@
     <string name="bckBackupTitle">Datensicherung</string>
     <string name="bckRestoreTitle">Wiederherstellen</string>
     <string name="bckCreateBackup">Backup erstellen</string>
-    <string name="bckArchiveTitle">Archiv</string>
     <string name="backupBody">Für Wiederherstellung angehängte Datei zuoberst auf SD-Karte kopieren. Danach \'Einstellungen/Wiederherstellen\', \'Backup einspielen\'.</string>
-    <string name="bckSwitchToArchive">Zu Archiv wechseln</string>
-    <string name="bckSwitchToLive">Archiv schliessen, zurück zu aktuellen Daten</string>
-    <string name="bckArchiveDataOlderThan">Daten &gt; {1} Monate archivieren</string>
-    <string name="bckArchiveHint">\u2192 Benutze \"Archivieren\" um alte Daten zu verschieben und die \'Live Datenbank\' kleiner und schneller zu machen</string>
 	<string name="errorSdCardUnavailable">SD-Karte nicht verfügbar. Backup, Restore &amp; Export aktuell nicht möglich.</string>
 	
 	<string name="widgetAppTitle1">Zeit-</string>
@@ -340,7 +344,7 @@
 	<string name="pdotMainHint">\u2192 Wird nur auf \'Monat\' Sicht angezeigt. Benötigt Sollzeit pro Tag oder Woche.</string>
 	
 	<!-- diff sync marker B -->
-	<string name="sdcardErrorReboot">\u2022 Bitte Telefon neu starten und nochmals versuchen.\n\u2022 Falls das Problem fortbesteht, bitte Entwickler kontaktieren.</string>
+	<string name="sdcardErrorReboot">\u2022 Bitte Telefon neu starten und nochmals versuchen.</string>
 	<string name="sdcardErrorReadonly">SD-Karte ist schreibgeschützt.</string>
 	<string name="sdcardErrorShared">SD-Karte blockiert durch USB-Zugriff. Bitte USB-Session beenden und nochmals versuchen.</string>
 
@@ -545,7 +549,6 @@
 	<string name="commonRefreshMM">Aktualisierung alle x Minuten</string>
 	<string name="calSyncNightShift">Nachtschichten unterstützen</string>
 	<string name="commonDecimal">Dezimal</string>
-	<string name="archiveLocation">Archiv-Datei ist hier gespeichert:\n\u2022 Ordner: {1}\n\u2022 Name: {2}\nAchtung: dieses File ist nicht Teil des Backups</string>
 	<string name="backupReminderTitle">Backup-Erinnerung</string>
 	<string name="backupReminderBody">Bitte daran denken regelmässig Backups zu machen.</string>
 	<string name="commonDoNotShowAgain">Diese Meldung nicht mehr anzeigen</string>
@@ -576,7 +579,6 @@
 	<string name="prefsRepPeriodWeeks">{2} {1}</string>
 	
 	<!-- 4.21 -->
-	<string name="bckArchiveDataOlderCustom">Daten &lt; {1} archivieren</string>
 	<string name="expTypeClientMatrix">E7 Kundenmatrix</string>
 			
 	<!-- 4.22 -->
@@ -689,5 +691,9 @@
     <string name="paidOt2SameDay">Normalzeit</string>
     <string name="paidOt2NextDay">Zeit nach Mitternacht</string>
     <string name="categoryEditHeaderTimeAccumulationPct">Zeit-\nverrechnung %</string>
+
+    <!-- 5.13 -->
+    <string name="salesTaxLabel">MwSt</string>
+    <string name="commonValue">Wert</string>
     
 </resources>
