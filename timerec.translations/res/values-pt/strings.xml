@@ -63,7 +63,7 @@
     <string name="commonDetails">Detalhes</string>
 	<string name="commonDoneToast">{1} \u2192feito</string>
     <string name="commonBreak">Intervalo</string>
-    <string name="commonEnabledOption"> Ativar \'{1}s\'</string>
+    <string name="commonEnabledOption">Ativar \'{1}\'</string>
     <string name="commonActive">Ativo</string>
     <string name="commonActionEdit">Editar \'{1}\'</string>
 	<string name="commonSeeOnlineHelp">\u24D8 Veja ajuda online</string>
