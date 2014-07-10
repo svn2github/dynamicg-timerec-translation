@@ -1,15 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:android="http://schemas.android.com/apk/res/android">
 
-	<!-- DO NOT TRANSLATE - WILL BE REMOVED SEPTEMBER 2014 -->
-    <string name="bckArchiveTitle">Archive</string>
-    <string name="bckSwitchToArchive">View archived data</string>
-    <string name="bckSwitchToLive">Switch back to live data</string>
-    <string name="bckArchiveDataOlderThan">Archive data &gt; {1} months</string>
-    <string name="bckArchiveHint">\u2192 Use \"archive\" to move old data and make the \'live database\' smaller and faster</string>
-	<string name="archiveLocation">Archive file is stored here:\n\u2022 Folder: {1}\n\u2022 Name: {2}\nNote this file is not backed up by the app.</string>
-	<string name="bckArchiveDataOlderCustom">Archive data &lt; {1}</string>
-	
 	<!-- internal - do not translate -->
     <string name="appUserLabel">DynamicG App User</string>
     <string name="googleSitesLanguage">en</string>
