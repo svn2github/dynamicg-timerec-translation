@@ -6,10 +6,10 @@
 	<!-- WILL BE REMOVED SEPTEMBER 2014 -->
     <string name="bckArchiveTitle">Archivio</string>
     <string name="bckSwitchToArchive">Vedi dati archiviati</string>
-    <string name="bckSwitchToLive">Torna su Dati live</string>
+    <string name="bckSwitchToLive">Torna su dati attuali</string>
     <string name="bckArchiveDataOlderThan">Archivio di dati &gt; {1} mesi</string>
     <string name="bckArchiveHint">\u2192 Usa \"Archivio\" per spostare i vecchi dati e creare un \'database live\' più piccolo e più veloce</string>
-	<string name="archiveLocation">Il file d\'archivio è memorizzato qui:\n\u2022 Cartella: {1}\n\u2022 Nome: {2}\nNota che questo file non è salvato dall\'app.</string>
+	<string name="archiveLocation">Il file d\'archivio è memorizzato qui:\n\u2022 Cartella: {1}\n\u2022 Nome: {2}\nNota che questo file non viene salvato dall\'app.</string>
 	<string name="bckArchiveDataOlderCustom">Archivio di dati &gt; {1}</string>
 	
 	<!-- internal -->
@@ -220,7 +220,7 @@
     <string name="categorySampleEntry3">Formazione</string>
 
     <string name="hintClickToChange">Clicca per cambiare</string>
-    <string name="hintClickIconToEdit">Clicca sull\'icona per modificare note</string>
+    <string name="hintClickIconToEdit">Clicca sull\'icona per modificare le note</string>
     <string name="hintNoStampsClickToAdd">Nessuna annotazione per questo giorno.\nApri il Menu o clicca qui per aggiungere.</string> 
     <string name="hintZeroOutToDisable">\u2192 Imposta a \'00:00\' per disabilitare</string>
     <string name="hintAmountPrecision">\u2192 Usa \'$#.#\' o \'$#.##\' per 1 o 2 posizioni decimali.</string>
@@ -233,7 +233,7 @@
 
     <string name="errorTimeslotNotFree">Voce al \'{1}\' già esistente</string>
     <string name="errorCannotStartNewTask">Già iniziato alle {1}, adesso non può essere iniziato un altro lavoro</string>
-    <string name="errorSdCardAccess">Errore di accesso su Card SD</string>
+    <string name="errorSdCardAccess">Errore di accesso su scheda SD</string>
 
     <string name="aboutPublicServices">API Services</string> 
     <string name="aboutPro">Versione Pro</string>
@@ -242,8 +242,8 @@
     <string name="bckBackupTitle">Backup</string>
     <string name="bckRestoreTitle">Ripristina</string>
     <string name="bckCreateBackup">Crea backup</string>
-    <string name="backupBody">Per ripristinare: copia il file Zip allegato sulla Card SD (livello top), apri \'Preferenze/Ripristina...\', clicca \'Ripristina backup\'</string>
-	<string name="errorSdCardUnavailable">Card SD non disponibile. Backup/ripristino/esporta attualmente non possibili!</string>
+    <string name="backupBody">Per ripristinare: copia il file Zip allegato sulla scheda SD (livello top), apri \'Preferenze/Ripristina...\', clicca \'Ripristina backup\'</string>
+	<string name="errorSdCardUnavailable">Scheda SD non disponibile. Funzioni di backup/ripristino/esportazione attualmente non disponibili!</string>
 	
 	<string name="widgetAppTitle1">Registra</string>
     <string name="widgetAppTitle2">Orari</string>
@@ -264,7 +264,7 @@
 	<string name="dstorMainTitle">Gestione dati</string>
 	<string name="dstorDataStorage">Memoria da usare (Admin)</string>
 	<string name="dstorTargetPhone">Telefono</string>
-	<string name="dstorTargetSdCard">CardSD</string>
+	<string name="dstorTargetSdCard">Scheda SD</string>
 	<string name="dstorCurrent">Dati attualmente salvati su {1}.</string>
 	<string name="dstorMoveTo">Sposta i dati su {1}</string>
 	<string name="dstorImport">Ripristina backup</string>
@@ -278,7 +278,7 @@
 	<string name="dstorCannotProcess">Azione non possibile.</string>
 	<string name="dstorPreferred">E\' preferibile salvare su Telefono.</string>
 	<string name="dstorSettingsBRTitle">Impostazioni App</string>
-	<string name="dstorInitialRecovery">Trovato backup su Card SD. Ripristinare i dati?</string>
+	<string name="dstorInitialRecovery">Trovato backup su scheda SD. Ripristinare i dati?</string>
 	<string name="dstorHintProvideBackup">Backup non trovato. Fornire questo file:</string>
 	<string name="dstorIncludeSettings">Impostazioni incluse?</string>
 	
@@ -296,13 +296,13 @@
 	
 	<!-- diff sync marker B -->
 	<string name="sdcardErrorReboot">\u2022 Per favore, riavvia il tuo dispositivo e prova ancora.\n\u2022 Se il problema persiste, per favore, contatta lo sviluppatore.</string>
-	<string name="sdcardErrorReadonly">La Card SD è in sola lettura.</string>
-	<string name="sdcardErrorShared">La Card SD è bloccata da un accesso USB. Per favore, disconnetti il dispositivo dalla porta USB e prova ancora.</string>
+	<string name="sdcardErrorReadonly">La scheda SD è in sola lettura.</string>
+	<string name="sdcardErrorShared">La scheda SD è bloccata da un accesso USB. Per favore, disconnetti il dispositivo dalla porta USB e prova ancora.</string>
 
 	<!-- diff sync marker C -->
     <string name="brprefsRestoreAction">Ripristina impostazioni app</string>
     <string name="brprefsFileSelection">Ripristina impostazioni come {1}</string>
-    <string name="brprefsBackupAction">Backup impostazioni app su Card SD</string>
+    <string name="brprefsBackupAction">Backup impostazioni app su scheda SD</string>
     <string name="brprefsBackupFileExists">File Backup esiste già. Vuoi sovrascrivere?</string>
     
 	<!-- diff sync marker D -->	
@@ -328,8 +328,8 @@
 	<string name="catExtImpConfirm5">\u2022 Numero di lavori da importare: {1}</string>
 	<string name="catExtNothingToImport">Niente da importare. Il file è vuoto?</string>
 	
-	<string name="err21">Errore: Database di sola lettura</string>	
-	<string name="err22">Errore: la Card SD è piena</string>
+	<string name="err21">Errore: il Database è di sola lettura</string>	
+	<string name="err22">Errore: la scheda SD è piena</string>
 	<string name="errFaqHint">Vedi le FAQ, parola chiave «ERROR {1}» per cercare la soluzione.</string>
 	
 	<string name="commonPlayStore">Play Store</string>
@@ -532,7 +532,7 @@
     <string name="commonAuto">Auto</string> <!-- automatic -->
     
     <!-- 4.15/TRANSLATED -->
-    <string name="commonThreshold">Soglia</string> <!-- same as "Limit" -->
+    <string name="commonThreshold">Soglia</string>
     <string name="prefsMainAutoScroll">Auto scorrimento in fondo</string>
 	<string name="prefsScrollSizeWeeks">Scorrimento al \'{1}\' vista</string>
 	<string name="hintAlsoSeePage">\u2192 Vedi anche {1} su pagina {2}</string>
@@ -578,7 +578,7 @@
 
 	<!-- 4.17 -->
 	<!-- applies to "Automatic breaks" on settings page 2. the meaning is something like "Does the full break apply (when ticked off) or should the break length increase parallel to the work duration (when ticked on) -->
-	<string name="commonIncremental">Incrementale</string>
+	<string name="commonIncremental">Incrementa</string>
 	
 	<!-- 4.19 -->
 	<string name="prefsRepPeriodWeeks">{2} {1}</string>
@@ -611,8 +611,8 @@
 	
     <!--
     PENDING, OPTIONAL - HIDDEN IN GUI IF NOT AVAILABLE
-	<string name="promoTitle">Support {1}</string>
-	<string name="promoBody">If you use this app regularly please consider buying the Pro version.\nThis makes sure the app is properly maintained and gets new features added in the future.\n\nThank you!</string>
+	<string name="promoTitle">Supporto {1}</string>
+	<string name="promoBody">Se utilizzi questa app regolarmente, considera, per favore, di acquistare la versione Pro.\nQuesto permette all'app di essere correttamente mantenuta e di essere aggiornata ad intervalli regolari. Inoltre ti da il diritto di utilizzare nuove funzioni che verranno implementate in futuro.\n\nGrazie!</string>
 	-->
 	<string name="promoTitle"></string>
 	<string name="promoBody"></string>
@@ -641,15 +641,15 @@
 
     <!-- 5.07 alarm settings -->
     <string name="pending507">1</string> <!-- ignore -->
-    <string name="alarmNotificationBreakNowOver"></string> <!-- #PENDING# Break over at {1} -->
-	<string name="alarmNotificationDailyTarget"></string> <!-- #PENDING# Daily target reached at {1} -->
-	<string name="alarmNotificationWeeklyTarget"></string> <!-- #PENDING# Weekly target reached at {1} -->
+    <string name="alarmNotificationBreakNowOver">Pausa supera le {1}</string> <!-- #PENDING# Break over at {1} -->
+	<string name="alarmNotificationDailyTarget">Obiettivo giornaliero raggiunto a {1}</string> <!-- #PENDING# Daily target reached at {1} -->
+	<string name="alarmNotificationWeeklyTarget">Obiettivo settimanale raggiunto a {1}</string> <!-- #PENDING# Weekly target reached at {1} -->
 
 	<string name="alarmLabelBreakNowOver">Fine pausa</string> <!-- #PENDING# \'Break now\' over -->
-	<string name="alarmLabelDailyTarget">Obiettivo raggiunto</string> <!-- #PENDING# Daily target reached -->
-	<string name="alarmLabelWeeklyTarget">Obiettivo raggiunto</string> <!-- #PENDING# Weekly target reached -->
-    <string name="alarmNotificationDailyExceeded">Tempo di lavoro giornaliero superi {1}</string> <!-- #PENDING# Daily worktime exceeds {1} -->
-    <string name="alarmNotificationWeeklyExceeded">Tempo di lavoro superi {1}</string> <!-- #PENDING# Weekly worktime exceeds {1} -->
+	<string name="alarmLabelDailyTarget">Obiettivo giornaliero raggiunto</string> <!-- #PENDING# Daily target reached -->
+	<string name="alarmLabelWeeklyTarget">Obiettivo settimanale raggiunto</string> <!-- #PENDING# Weekly target reached -->
+    <string name="alarmNotificationDailyExceeded">Tempo di lavoro giornaliero supera di {1}</string> <!-- #PENDING# Daily worktime exceeds {1} -->
+    <string name="alarmNotificationWeeklyExceeded">Tempo di lavoro supera di {1}</string> <!-- #PENDING# Weekly worktime exceeds {1} -->
     
     <string name="alertSoundCustomLabel">Custom sound</string>
     <string name="alertSoundCustomRepeat">Repeat</string>
@@ -657,7 +657,7 @@
     <string name="alertSoundMaxHint">\u2192 Max playback is {1} seconds</string>
     
     <!-- 5.08 -->
-    <string name="commonPickFile">Selezionare il file</string> <!-- VERIFY: Select file -->
+    <string name="commonPickFile">Seleziona il file</string> <!-- VERIFY: Select file -->
     <string name="expPrefsHeaderN">Titolo linea {1}</string>  <!-- VERIFY: Heading line {1 or 2} -->
     <string name="expPrefsReportReminder">Report Reminder</string>
     <string name="commonReportSettings">Impostazioni rapporto</string> <!-- PENDING: Report settings -->
@@ -666,14 +666,14 @@
     <string name="commonNumUnits"># unità</string>
 
     <!-- 5.09 -->
-    <string name="deleteUnusedTasks">Eliminare lavori inutilizzati</string> <!-- VERIFY: Delete unused tasks -->
-    <string name="commonActiveOnDays">Active on these days</string> <!-- PENDING -->
+    <string name="deleteUnusedTasks">Elimina lavori inutilizzati</string> <!-- VERIFY: Delete unused tasks -->
+    <string name="commonActiveOnDays">Attivo su questi giorni</string> <!-- PENDING -->
     <string name="widgetLargeStatusConfig">4x1 &amp; 4x2 Widget informazioni</string>
     
     <!--
     PENDING, OPTIONAL - HIDDEN IN GUI IF NOT AVAILABLE
-    <string name="pleaseRateTitle">Please rate the app</string>
-    <string name="pleaseRateBody">Do you like Time Recording?\nIf so please rate the app in Play Store, this really helps us keeping a good spot there and attracting new users.\nMany thanks!</string>
+    <string name="pleaseRateTitle">Dai un voto all'App</string>
+    <string name="pleaseRateBody">Ti piace Registra Orari (Time Recording)?\nIn caso affermativo dedica un po' di tempo per votare e recensire l'app nel Play Store di Google. Questo ci aiuta ad attrarre nuovi utenti ed a capire dove dobbiamo migliorare.\nMille Grazie!</string>
     -->
     <string name="pleaseRateTitle"></string>
     <string name="pleaseRateBody"></string>
@@ -685,7 +685,7 @@
     <string name="repBlock2Total">Blocco 2 Totale</string>
     <string name="repBlock3Time">Blocco 3</string>
     <string name="repBlock3Total">Blocco 3 Totale</string>
-    <string name="prefsStampValuesHint"></string> <!-- PENDING: \u2192 Use these to track additional numeric items like tips or mileage -->
+    <string name="prefsStampValuesHint"></string> <!-- PENDING: \u2192 Use these to track additional numeric items like tips or mileage -->                                                    <!-- I don't understand what this line means ML -->
     <string name="commonLabel">Titolo</string>
     <string name="commonDefaultValue">Valore di default</string> <!-- VERIFY: Default value -->
     <string name="hintStampDefaultValue">\u2192 This is applied when adding work units</string>
@@ -720,7 +720,9 @@
     <string name="categoryEditHeaderTimeAccumulationPct">Sommatoria\ntempo %</string> <!-- PENDING: Time\naccumulation % -->
 		
     <!-- 5.13 -->
-    <string name="salesTaxLabel">Sales tax</string> <!-- PENDING -->
-    <string name="commonValue">Value</string> <!-- PENDING -->
+    <string name="salesTaxLabel">Tasse sulla vendita</string>
+    <string name="commonValue">Valore</string>
+    
+    <!-- TAG michael lepori / 15.07.2014 -->
     
 </resources>
