@@ -691,7 +691,7 @@
     <string name="categoryEditHeaderTimeAccumulationPct">Acumulação\ntempo %</string> <!-- PENDING: Time\naccumulation % -->
 	
     <!-- 5.13 -->
-    <string name="salesTaxLabel">Sales tax</string> <!-- PENDING -->
-    <string name="commonValue">Value</string> <!-- PENDING -->
+    <string name="salesTaxLabel">Imposto sobre vendas</string> <!-- VERIFY: Sales tax -->
+    <string name="commonValue">Valor</string>
 	
 </resources>
