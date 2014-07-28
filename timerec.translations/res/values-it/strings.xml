@@ -640,7 +640,7 @@
     <string name="commonSortNoun">Ordinamento</string>
 
     <!-- 5.07 alarm settings -->
-    <string name="pending507">1</string> <!-- ignore -->
+    <string name="pending507">0</string> <!-- ignore -->
     <string name="alarmNotificationBreakNowOver">Pausa supera le {1}</string> <!-- #PENDING# Break over at {1} -->
 	<string name="alarmNotificationDailyTarget">Obiettivo giornaliero raggiunto a {1}</string> <!-- #PENDING# Daily target reached at {1} -->
 	<string name="alarmNotificationWeeklyTarget">Obiettivo settimanale raggiunto a {1}</string> <!-- #PENDING# Weekly target reached at {1} -->
