@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:android="http://schemas.android.com/apk/res/android">
 
+    <!-- WILL BE REMOVED SEPTEMBER 2014 -->
+    <string name="bckArchiveTitle">Archiv</string>
+    <string name="bckSwitchToArchive">Zu Archiv wechseln</string>
+    <string name="bckSwitchToLive">Archiv schliessen, zurück zu aktuellen Daten</string>
+    <string name="bckArchiveDataOlderThan">Daten &gt; {1} Monate archivieren</string>
+    <string name="bckArchiveHint">\u2192 Benutze \"Archivieren\" um alte Daten zu verschieben und die \'Live Datenbank\' kleiner und schneller zu machen</string>
+	<string name="archiveLocation">Archiv-Datei ist hier gespeichert:\n\u2022 Ordner: {1}\n\u2022 Name: {2}\nAchtung: dieses File ist nicht Teil des Backups</string>
+	<string name="bckArchiveDataOlderCustom">Daten &lt; {1} archivieren</string>
+	
 	<!-- labels -->
     <string name="app_name">Zeiterfassung</string>
     <string name="app_name_pro">Zeiterfassung Pro</string>
@@ -28,8 +37,9 @@
     <string name="commonActionAddCheckIn">Einstempeln</string>
     <string name="commonActionAddCheckOut">Ausstempeln</string>
     <string name="commonSample">Beispiel</string>
-    <string name="commonDataExport">Berichte</string>
-    <string name="commonReportsAndExport">Berichte &amp; Datenexport</string>
+    <string name="commonDataExport">Berichte</string> <!-- TODO ## remove with 5.14 -->
+    <string name="commonReportsAndExport">Berichte</string> <!-- TODO ## remove with 5.14 -->
+    <string name="commonReports">Berichte</string>
     <string name="commonCategories">Tasks</string>
     <string name="commonHourlyRate">Stundensatz</string>
     <string name="commonEditCategories">Tasks editieren</string>

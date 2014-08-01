@@ -42,8 +42,9 @@
     <string name="commonActionAddCheckIn">Ajouter Début</string>
     <string name="commonActionAddCheckOut">Ajouter Fin</string>
     <string name="commonSample">Exemple</string>
-    <string name="commonDataExport">Rapports</string>
-    <string name="commonReportsAndExport">Rapports</string>
+    <string name="commonDataExport">Rapports</string> <!-- TODO .. remove with 5.14 -->
+    <string name="commonReportsAndExport">Rapports</string> <!-- TODO .. remove with 5.14 -->
+    <string name="commonReports">Rapports</string>
     <string name="commonCategories">Tâches</string>
     <string name="commonHourlyRate">Taux horaire</string>
     <string name="commonEditCategories">Editer tâches</string>

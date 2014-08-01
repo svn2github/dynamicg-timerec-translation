@@ -27,8 +27,9 @@
     <string name="commonActionAddCheckIn">チェックイン追加</string>
     <string name="commonActionAddCheckOut">チェックアウト追加</string>
     <string name="commonSample">サンプル</string>
-    <string name="commonDataExport">データエクスポート</string>
-    <string name="commonReportsAndExport">レポート・データの出力</string>
+    <string name="commonDataExport">データエクスポート</string> <!-- TODO .. remove with 5.14 -->
+    <string name="commonReportsAndExport">レポート・データの出力</string> <!-- TODO .. remove with 5.14 -->
+    <string name="commonReports">レポート・データの出力</string>
     <string name="commonCategories">タスク</string>
     <string name="commonHourlyRate">時給</string>
     <string name="commonEditCategories">タスクの編集</string>

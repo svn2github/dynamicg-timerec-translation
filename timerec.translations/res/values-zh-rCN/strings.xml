@@ -29,8 +29,9 @@
     <string name="commonActionAddCheckIn">添加开始时间戳</string>
     <string name="commonActionAddCheckOut">添加结束时间戳</string>
     <string name="commonSample">示例</string>
-    <string name="commonDataExport">报告</string>
-    <string name="commonReportsAndExport">报告&amp;导出数据</string>
+    <string name="commonDataExport">报告</string> <!-- TODO .. remove with 5.14 -->
+    <string name="commonReportsAndExport">报告&amp;导出数据</string> <!-- TODO .. remove with 5.14 -->
+    <string name="commonReports">报告&amp;导出数据</string>
     <string name="commonCategories">任务</string>
     <string name="commonHourlyRate">时薪</string>
     <string name="commonEditCategories">编辑任务</string>
