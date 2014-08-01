@@ -3,11 +3,6 @@
 
     <!-- IT -->
 	
-	<!-- internal -->
-    <string name="appUserLabel">DynamicG App User</string>
-    <string name="googleSitesLanguage">en</string>
-    <string name="unlockPro">0</string>
-    
     <string name="app_name">Registra Orari</string>
     <string name="app_name_pro">Registra Orari Pro</string>
     

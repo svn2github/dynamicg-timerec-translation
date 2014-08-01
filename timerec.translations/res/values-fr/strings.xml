@@ -3,11 +3,6 @@
 
     <!-- FR -->
 	
-	<!-- internal -->
-    <string name="appUserLabel">DynamicG App User</string>
-    <string name="googleSitesLanguage">en</string>
-
-	<!-- labels -->
     <string name="app_name">Gestion du temps</string>
     <string name="app_name_pro">Gestion du temps Pro</string>
     

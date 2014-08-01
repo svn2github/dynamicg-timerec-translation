@@ -2,10 +2,6 @@
 <resources xmlns:android="http://schemas.android.com/apk/res/android">
 
     <!-- ES -->
-    
-	<!-- internal -->
-    <string name="appUserLabel">DynamicG App User</string>
-    <string name="googleSitesLanguage">en</string>
 
     <string name="app_name">Hojas de Tiempos</string>
     <string name="app_name_pro">Hojas de Tiempos Pro</string>

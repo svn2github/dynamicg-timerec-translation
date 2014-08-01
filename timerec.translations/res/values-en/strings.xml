@@ -1,12 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:android="http://schemas.android.com/apk/res/android">
 
-	<!-- internal - do not translate -->
-    <string name="appUserLabel">DynamicG App User</string>
-    <string name="googleSitesLanguage">en</string>
-    <string name="unlockPro">0</string>
-    
-	<!-- labels -->
     <string name="app_name">Time Recording</string>
     <string name="app_name_pro">Time Recording Pro</string>
     <string name="homescreenCheckinNow">Check in now</string>

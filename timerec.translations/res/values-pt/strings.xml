@@ -2,12 +2,7 @@
 <resources xmlns:android="http://schemas.android.com/apk/res/android">
 
 	<!-- PT -->
-	
-	<!-- internal -->
-    <string name="appUserLabel">DynamicG App User</string>
-    <string name="googleSitesLanguage">en</string>
 
-	<!-- labels -->
     <string name="app_name">Registro de Horários</string>
     <string name="app_name_pro">Registro de Horários Pro</string>
     
