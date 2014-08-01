@@ -280,12 +280,7 @@
     <string name="bckBackupTitle">备份</string>
     <string name="bckRestoreTitle">恢复</string>
     <string name="bckCreateBackup">创建备份</string>
-    <string name="bckArchiveTitle">归档</string>
     <string name="backupBody">恢复:将备份文件复制到SD卡根目录后，进入软件\'设置-恢复\'，点击\'恢复备份\'</string>
-    <string name="bckSwitchToArchive">查看归档数据</string>
-    <string name="bckSwitchToLive">恢复为活动数据</string>
-    <string name="bckArchiveDataOlderThan">将{1}月以前的数据归档</string>
-    <string name="bckArchiveHint">\u2192使用\'归档\'移出旧数据，可减少\'活动数据\'，提高软件运行速度。</string>
 	<string name="errorSdCardUnavailable">未发现SD卡。无法进行数据备份、恢复或者导出。</string>
 	
 	<string name="widgetAppTitle1">Time</string>
@@ -549,7 +544,6 @@
 	<string name="commonRefreshMM">刷新频率（分钟）</string>
 	<string name="calSyncNightShift">支持夜班</string>
 	<string name="commonDecimal">十进制</string>
-	<string name="archiveLocation">归档文件保存在:\n\u2022 文件夹: {1}\n\u2022 文件名: {2}\n注意:不是本软件的备份.</string>
 	<string name="backupReminderTitle">备份提醒</string>
 	<string name="backupReminderBody">请记得定期备份数据.</string>
 	<string name="commonDoNotShowAgain">不再显示</string>
@@ -594,8 +588,6 @@
 	
 	
 	<!-- 4.21 -->
-	
-	<string name="bckArchiveDataOlderCustom">归档数据&gt; {1}</string>
 	
 	<string name="expTypeClientMatrix">E7 客户统计</string>
 	

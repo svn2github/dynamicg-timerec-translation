@@ -284,12 +284,7 @@
     <string name="bckBackupTitle">Backup</string>
     <string name="bckRestoreTitle">Restaurar</string>
     <string name="bckCreateBackup">Criar backup</string>
-    <string name="bckArchiveTitle">Arquivar</string>
     <string name="backupBody">Para restaurar: copie o arquivo em anexo para o SD Card (nível superior), abra \'Preferências/Restaurar...\', clique \'Restaurar de Backup\'</string>
-    <string name="bckSwitchToArchive">Ver dados arquivados</string>
-    <string name="bckSwitchToLive">Voltar para dados ativos</string>
-    <string name="bckArchiveDataOlderThan">Arquivo de dados &gt; {1} meses</string>
-    <string name="bckArchiveHint">\u2192 Use \"arquivar\" para mover dados antigos e criar uma \'base ativa\' menor e mais rápida</string>
     <string name="prefsAutoBackup">Backup a cada x dias</string>
     
 	<string name="errorSdCardUnavailable">SD Card não disponível. Backup, restauração &amp; exportação no momento não são possíveis.</string>
@@ -521,7 +516,6 @@
 	<string name="commonRefreshMM">Atualizar a cada x minutos</string>
 	<string name="calSyncNightShift">Suportar mudanças noturnas</string>
 	<string name="commonDecimal">Decimal</string>
-	<string name="archiveLocation">Arquivo está armazenado aqui:\n\u2022 Pasta: {1}\n\u2022 Nome: {2}\nNote que este arquivo não é um backup da app.</string>
 	<string name="backupReminderTitle">Lembrete de backup</string>
 	<string name="backupReminderBody">Por favor lembre-se de realizar backup regularmente.</string>
 	<string name="commonDoNotShowAgain">Não exibir esta mensagem novamente</string>
@@ -560,7 +554,6 @@
 	
 	<!-- 4.19 -->
 	<string name="prefsRepPeriodWeeks">{2} {1}</string>
-	<string name="bckArchiveDataOlderCustom">Arquivo de dados &gt; {1}</string>
 	<string name="commonAppInfo">App Info</string>
 
 	<!-- 4.21 -->

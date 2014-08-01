@@ -234,12 +234,7 @@
     <string name="bckBackupTitle">Copia seguridad</string>
     <string name="bckRestoreTitle">Restaurar</string>
     <string name="bckCreateBackup">Crear copia de seguridad</string>
-    <string name="bckArchiveTitle">Archivo</string>
     <string name="backupBody">Para restaurar: copiar fichero zip a la tarjeta SD, abrir \'Preferencias/Restaurar...\', y pulsar \'Restaurar\'</string>
-    <string name="bckSwitchToArchive">Ver datos archivados</string>
-    <string name="bckSwitchToLive">Cambiar a datos actuales</string>
-    <string name="bckArchiveDataOlderThan">Archivar &gt; {1} meses</string>
-    <string name="bckArchiveHint">\u2192 Usar \"archivo\" para mover los datos antiguos y hacer los \'datos actuales\' más pequeños y rápido</string>
 	<string name="errorSdCardUnavailable">Tarjeta SD no disponible. Copiar de seguridad/restaurar/exportar no es posible</string>
 	
 	<string name="widgetAppTitle1">Hojas de</string>
@@ -535,7 +530,6 @@
 	<string name="commonRefreshMM">Refescar cada x minutos</string>
 	<string name="calSyncNightShift">Soportar turnos nocturnos</string>
 	<string name="commonDecimal">Decimal</string>
-	<string name="archiveLocation">El fichero se ha almacenado aquí:\n\u2022 Carpeta: {1}\n\u2022 Nombre: {2}\nEste fichero no es una copia de seguridad de la aplicación.</string>
 	<string name="backupReminderTitle">Recordatorio de respaldo</string>
 	<string name="backupReminderBody">Por favor, recuerda hacer una copia de seguridad regularmente.</string>
 	<string name="commonDoNotShowAgain">No mostrar más este mensaje</string>
@@ -574,7 +568,6 @@
 
 	<!-- 4.19 -->
 	<string name="prefsRepPeriodWeeks">{2} {1}</string>
-	<string name="bckArchiveDataOlderCustom">Archivar &gt; {1}</string>
 	<string name="commonAppInfo">App Info</string> <!-- PENDING -->
 	
 	<!-- 4.21 -->

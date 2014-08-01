@@ -278,12 +278,7 @@
     <string name="bckBackupTitle">バックアップ</string>
     <string name="bckRestoreTitle">修復</string>
     <string name="bckCreateBackup">バックアップ作成</string>
-    <string name="bckArchiveTitle">アーカイブ作成</string>
     <string name="backupBody">To restore: copy attached file to SD Card (top level), open \'Preferences/Restore\', click \'Restore backup\'</string>
-    <string name="bckSwitchToArchive">アーカイブされたデータの参照</string>
-    <string name="bckSwitchToLive">ライブデータへ戻す</string>
-    <string name="bckArchiveDataOlderThan">データのアーカイブ&gt; {1} ヶ月</string>
-    <string name="bckArchiveHint">\u2192 ライブデータベースの容量をより小さくそして速くするため、古いデータをアーカイブへ移行してください</string>
 	<string name="errorSdCardUnavailable">SD Cardが見つかりません。バックアップ、修復、&amp; エクスポートは現在できません。</string>
 	
 	<string name="widgetAppTitle1">Time</string>
@@ -535,7 +530,6 @@
 	<string name="commonRefreshMM">x分ごとに更新</string>
 	<string name="calSyncNightShift">夜勤のサポート</string>
 	<string name="commonDecimal">Decimal</string>
-	<string name="archiveLocation">アーカイブファイルはこちらに保存されています:\n\u2022 フォルダ: {1}\n\u2022 ファイル名: {2}\n注意：このファイルはアプリによってバックアップされておりません。</string>
 	<string name="backupReminderTitle">バックアップのリマインダー</string>
 	<string name="backupReminderBody">定期的にバックアップを取っておいてください</string>
 	<string name="commonDoNotShowAgain">このメッセージは表示しないでください</string>
