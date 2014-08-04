@@ -497,7 +497,7 @@
 	<string name="expPrefsIsoDateFormat">AAAA/MM/GG</string>
     
     <!-- 4.04/4.05 -->
-	<string name="prefsTheme">Tema (Android 4)</string>
+	<string name="prefsTheme">Tema</string>
 	<string name="prefsThemeLight">Chiaro</string>
 	<string name="prefsThemeDark">Scuro</string>
 	<string name="commonBasicSettings">Impostazioni di base</string>

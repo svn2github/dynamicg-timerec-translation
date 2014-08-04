@@ -477,7 +477,7 @@
     <string name="commonNewTask">新たなタスク</string>
 
     <!-- 4.04 -->
-    <string name="prefsTheme">テーマ (Android 4)</string>
+    <string name="prefsTheme">テーマ</string>
     <string name="prefsThemeLight">ライト</string>
     <string name="prefsThemeDark">ダーク</string>
     <string name="commonBasicSettings">基本設定</string>

@@ -478,7 +478,7 @@
     <string name="commonNewTask">Neuer Task</string>
     
     <!-- 4.04 -->
-    <string name="prefsTheme">Thema (Android 4)</string>
+    <string name="prefsTheme">Thema</string>
     <string name="prefsThemeLight">Hell</string>
     <string name="prefsThemeDark">Dunkel</string>
     <string name="commonBasicSettings">Grundeinstellungen</string>

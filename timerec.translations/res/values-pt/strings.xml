@@ -483,7 +483,7 @@
     
     <!-- 4.0x (3) -->
 	<string name="commonDeleteAllLines">Excluir todas as linhas</string>
-    <string name="prefsTheme">Tema (Android 4)</string>
+    <string name="prefsTheme">Tema</string>
     <string name="prefsThemeLight">Claro</string>
     <string name="prefsThemeDark">Escuro</string>
     <string name="commonBasicSettings">Configurações básicas</string>
