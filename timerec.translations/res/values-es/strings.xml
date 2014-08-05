@@ -107,7 +107,6 @@
 	<string name="prefsDefaultCategory">Tareas por defecto</string>
 	<string name="prefsExpDecimalSep">Separador Decimal</string>
 	<string name="prefsCollapseCheckBtn">Fusionar botones \'Iniciar/Finalizar\'</string>
-	<string name="prefsHintRestartRequired">\u2192 Cambios en esta configuración requiere un reinicio</string>
 	<string name="prefsGridViewFont">Tamaña de letras</string>
 	<string name="prefsWidgetClickAction">Acción al pulsar Widget</string>
 	<string name="prefsDomWidgetActionOpen">Abrir aplicación</string>
@@ -287,12 +286,6 @@
 	<string name="sdcardErrorReadonly">La SD está en sólo lectura</string>
 	<string name="sdcardErrorShared">La SD está bloqueda por acceso via USB. Desconecte el USB y pruebe otra vez</string>
 
-	<!-- diff sync marker C -->
-    <string name="brprefsRestoreAction">Restaurar configuración de la App</string>
-    <string name="brprefsFileSelection">Restaurar configuración como {1}</string>
-    <string name="brprefsBackupAction">Copia de seguridad de la App desde SD</string>
-    <string name="brprefsBackupFileExists">Copia de seguridad existente. Sobreescribir?</string>
-    
 	<!-- diff sync marker D -->	
 	
 	<string name="admRebuildIndexes">Reconstruir indices</string>

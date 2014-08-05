@@ -110,7 +110,6 @@
 	<string name="prefsKeepPrevCategory">Keep selected task after break</string>
 	<string name="prefsExpDecimalSep">Decimal separator</string>
 	<string name="prefsCollapseCheckBtn">Merge \'check in/check out\' buttons</string>
-	<string name="prefsHintRestartRequired">\u2192 Changes on on these settings require restart</string>
 	<string name="prefsHintPleaseRestart">\u2192 Please restart the app</string>
 	<string name="prefsGridViewFont">Font size</string>
 	<string name="prefsWidgetClickAction">Widget click action</string>
@@ -347,11 +346,6 @@
 	<string name="sdcardErrorReadonly">SD Card is read only.</string>
 	<string name="sdcardErrorShared">SD Card blocked by USB access. Please disconnect phone from USB and try again.</string>
 
-    <string name="brprefsRestoreAction">Restore app settings</string>
-    <string name="brprefsFileSelection">Restore settings as of {1}</string>
-    <string name="brprefsBackupAction">Backup app settings to SD Card</string>
-    <string name="brprefsBackupFileExists">Backup file exists. Overwrite?</string>
-    
     <!-- internal admin - alternatively use "Reorganise database" -->
 	<string name="admRebuildIndexes">Rebuild indexes</string>
 	

@@ -112,7 +112,6 @@
 	<string name="prefsKeepPrevCategory">继续休息前的任务</string>
 	<string name="prefsExpDecimalSep">十进制分隔符</string>
 	<string name="prefsCollapseCheckBtn">合并\'开始打卡/结束打卡\'键 </string>
-	<string name="prefsHintRestartRequired">\u2192这些设置修改后需要重启软件</string>
 	<string name="prefsHintPleaseRestart">\u2192请重启本软件</string>
 	<string name="prefsGridViewFont">字体大小</string>
 	<string name="prefsWidgetClickAction">点击桌面插件的操作</string>
@@ -334,12 +333,6 @@
 	<string name="sdcardErrorReadonly">SD卡为只读.</string>
 	<string name="sdcardErrorShared">已连接USB,请先断开手机的USB连线再试一次.</string>
 
-	<!-- diff sync marker C -->
-    <string name="brprefsRestoreAction">重置软件设置</string>
-    <string name="brprefsFileSelection">恢复{1}的设置</string>
-    <string name="brprefsBackupAction">备份软件设置到SD卡</string>
-    <string name="brprefsBackupFileExists">发现备份文件.覆盖?</string>
-    
 	<!-- diff sync marker D -->	
 	<string name="admRebuildIndexes">Rebuild indexes</string>
 	<string name="admDeleteOldLabel">删除旧数据</string>

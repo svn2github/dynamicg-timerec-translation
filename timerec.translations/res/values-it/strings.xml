@@ -107,7 +107,6 @@
 	<string name="prefsDefaultCategory">Lavoro di default</string>
 	<string name="prefsExpDecimalSep">Separatore decimali</string>
 	<string name="prefsCollapseCheckBtn">Unisci i pulsanti \'inizia/termina\'</string>
-	<string name="prefsHintRestartRequired">\u2192 Le modifiche su queste impostazioni necessitano di riavvio</string>
 	<string name="prefsGridViewFont">Dimensione carattere</string>
 	<string name="prefsWidgetClickAction">Azione al click sul widget</string>
 	<string name="prefsDomWidgetActionOpen">Apri app</string>
@@ -286,12 +285,6 @@
 	<string name="sdcardErrorReadonly">La scheda SD è in sola lettura.</string>
 	<string name="sdcardErrorShared">La scheda SD è bloccata da un accesso USB. Per favore, disconnetti il dispositivo dalla porta USB e prova ancora.</string>
 
-	<!-- diff sync marker C -->
-    <string name="brprefsRestoreAction">Ripristina impostazioni app</string>
-    <string name="brprefsFileSelection">Ripristina impostazioni come {1}</string>
-    <string name="brprefsBackupAction">Backup impostazioni app su scheda SD</string>
-    <string name="brprefsBackupFileExists">File Backup esiste già. Vuoi sovrascrivere?</string>
-    
 	<!-- diff sync marker D -->	
 	
 	<string name="admRebuildIndexes">Ricostruzione indici</string>

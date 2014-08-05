@@ -104,7 +104,6 @@
 	<string name="prefsKeepPrevCategory">ブレイク後も選択されたタスクを保持</string>
 	<string name="prefsExpDecimalSep">小数点表記</string>
 	<string name="prefsCollapseCheckBtn"> \'チェックイン/チェックアウト\' ボタンの統合</string>
-	<string name="prefsHintRestartRequired">\u2192 設定の効力を適用するには、アプリを再起動してください</string>
 	<string name="prefsHintPleaseRestart">\u2192 アプリを再起動してください</string>
 	<string name="prefsGridViewFont">フォントサイズ</string>
 	<string name="prefsWidgetClickAction">ウィジェットクリックアクション</string>
@@ -333,11 +332,6 @@
 	<string name="sdcardErrorReadonly">SDカードは読み取り専用です</string>
 	<string name="sdcardErrorShared">SDカードはUSBにアクセスされているためブロックされています。USB接続を解除して、再度お試しください。</string>
 
-    <string name="brprefsRestoreAction">アプリの設定の復元</string>
-    <string name="brprefsFileSelection">アプリの設定を {1}時点に復元</string>
-    <string name="brprefsBackupAction">SDカードにアプリの設定のバックアップをとる</string>
-    <string name="brprefsBackupFileExists">バックアップファイルは存在するが、上書きしますか？</string>
-    
 	<string name="admRebuildIndexes">インデックスの再作成</string>
 	
 	<string name="admDeleteOldLabel">古いデータの消去</string>

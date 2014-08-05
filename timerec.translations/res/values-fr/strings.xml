@@ -114,7 +114,6 @@
 	<string name="prefsKeepPrevCategory">Revenir à la tâche sélectionnée avant la pause</string>
 	<string name="prefsExpDecimalSep">Séparateur décimal</string>
 	<string name="prefsCollapseCheckBtn">Fusionner les boutons \'Démarrer/Terminer\'</string>
-	<string name="prefsHintRestartRequired">\u2192 Changer ces paramètres nécessite un redémarage</string>
 	<string name="prefsHintPleaseRestart">\u2192 Merci de redémarrer l\'application</string>
 	<string name="prefsGridViewFont">Taille de la police</string>
 	<string name="prefsWidgetClickAction">Action sur le clic du widget</string>
@@ -322,12 +321,6 @@
 	<string name="sdcardErrorReadonly">La carte SD est en lecture seule.</string>
 	<string name="sdcardErrorShared">La carte SD est bloquée par un accès USB. Déconnectez le téléphone et essayez à nouveau.</string>
 
-	<!-- diff sync marker C -->
-    <string name="brprefsRestoreAction">Restaurer paramètres appli</string>
-    <string name="brprefsFileSelection">Restaurer paramètres depuis {1}</string>
-    <string name="brprefsBackupAction">Sauver paramètres appli vers la carte SD</string>
-    <string name="brprefsBackupFileExists">Fichier de sauvegarde existant. Ecraser ?</string>
-    
 	<!-- diff sync marker D -->	
 	
 	<string name="admRebuildIndexes">Recréer les index</string>

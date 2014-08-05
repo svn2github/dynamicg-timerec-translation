@@ -115,7 +115,6 @@
 	<string name="prefsKeepPrevCategory">Gewählten Task behalten nach Pause</string>
 	<string name="prefsExpDecimalSep">Dezimal-Separator</string>
 	<string name="prefsCollapseCheckBtn">\'Ein-/Ausstempeln\' Knöpfe zusammenfassen</string>
-	<string name="prefsHintRestartRequired">\u2192 Änderungen an diesen Einstellungen benötigen Restart</string>
 	<string name="prefsHintPleaseRestart">\u2192 Bitte App neu starten</string>
 	<string name="prefsGridViewFont">Fontgrösse</string>
 	<string name="prefsWidgetClickAction">Widget Klick-Aktion</string>
@@ -339,12 +338,6 @@
 	<string name="sdcardErrorReadonly">SD-Karte ist schreibgeschützt.</string>
 	<string name="sdcardErrorShared">SD-Karte blockiert durch USB-Zugriff. Bitte USB-Session beenden und nochmals versuchen.</string>
 
-	<!-- diff sync marker C -->
-    <string name="brprefsRestoreAction">App-Einstellungen importieren</string>
-    <string name="brprefsFileSelection">Einstellungen vom {1} wiederherstellen</string>
-    <string name="brprefsBackupAction">Backup der Einstellungen auf SD-Karte schreiben</string>
-    <string name="brprefsBackupFileExists">Backup-File existiert. Überschreiben?</string>
-    
 	<!-- diff sync marker D -->	
 	<string name="admRebuildIndexes">Indizes erneuern</string>
 	<string name="admDeleteOldLabel">Alte Daten löschen</string>
