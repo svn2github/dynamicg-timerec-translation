@@ -705,4 +705,7 @@
     
     <!-- TAG michael lepori / 15.07.2014 -->
     
+    <!-- 5.14 -->
+    <string name="appRestartRequired">Riavvio richiesto \u2026</string>
+    
 </resources>

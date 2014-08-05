@@ -676,4 +676,7 @@
     <string name="salesTaxLabel">Imposto sobre vendas</string> <!-- VERIFY: Sales tax -->
     <string name="commonValue">Valor</string>
 	
+    <!-- 5.14 -->
+    <string name="appRestartRequired">É necessário reiniciar \u2026</string>
+    
 </resources>
