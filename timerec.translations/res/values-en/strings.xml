@@ -127,7 +127,7 @@
 	<string name="prefsCalendarSyncGroup">Google calendar sync</string>
 	
 	<!-- when you tick that and restart the app, the buttons should be smaller than before, i.e. more space is available for the "body" -->
-	<string name="prefsHomescreenBtSmall">Small buttons on homescreen</string>
+	<string name="prefsHomescreenBtSmall">Small buttons</string>
 	
 	<string name="calSyncCalendarName">Calendar name</string>
 	<string name="calSyncHints2">\u2192 Only one-way sync supported</string>
@@ -719,4 +719,8 @@
     <string name="salesTaxLabel">Sales tax</string>
     <string name="commonValue">Value</string>
 
+    <!-- 5.14 -->
+    <string name="appRestartRequired">App restart required</string>
+    <string name="prefsMainScreenStrongOutline">Strong button outline</string>
+    
 </resources>

@@ -114,7 +114,7 @@
 	<string name="prefsDefaultCategory">Standard-Task</string>
 	<string name="prefsKeepPrevCategory">Gewählten Task behalten nach Pause</string>
 	<string name="prefsExpDecimalSep">Dezimal-Separator</string>
-	<string name="prefsCollapseCheckBtn">\'Ein-/Ausstempeln\' Knöpfe zusammenfassen</string>
+	<string name="prefsCollapseCheckBtn">\'Ein-/Ausstempeln\' Schaltflächen zusammenfassen</string>
 	<string name="prefsHintPleaseRestart">\u2192 Bitte App neu starten</string>
 	<string name="prefsGridViewFont">Fontgrösse</string>
 	<string name="prefsWidgetClickAction">Widget Klick-Aktion</string>
@@ -130,7 +130,7 @@
 	<string name="prefsProOnlyFeature">\u2192 Nur in der Pro-Version aktiv</string>
 	<string name="prefsPunchRoundTaskSwitch">Auch bei «Task wechseln» anwenden</string>
 	<string name="prefsCalendarSyncGroup">Google Kalender Sync</string>
-	<string name="prefsHomescreenBtSmall">Kleine Buttons auf Homescreen</string>
+	<string name="prefsHomescreenBtSmall">Kleine Schaltflächen</string>
 
 	<string name="calSyncCalendarName">Kalender-Name</string>
 	<string name="calSyncHints2">\u2192 Nur Einweg-Sync unterstützt</string>
@@ -679,5 +679,9 @@
     <!-- 5.13 -->
     <string name="salesTaxLabel">MwSt</string>
     <string name="commonValue">Wert</string>
+    
+    <!-- 5.14 -->
+    <string name="appRestartRequired">App-Neustart nötig</string>
+    <string name="prefsMainScreenStrongOutline">Kräftiger Schaltfläche-Rahmen</string>
     
 </resources>

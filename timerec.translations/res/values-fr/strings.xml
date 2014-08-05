@@ -679,5 +679,6 @@
     
     <!-- 5.14 -->
     <string name="appRestartRequired">Redémarrage requis \u2026</string>
+    <string name="prefsMainScreenStrongOutline"></string> <!--  PENDING: "Buttons with strong border", or "Strong button outline" -->
     
 </resources>
