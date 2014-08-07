@@ -678,5 +678,6 @@
     <!-- 5.14 -->
     <string name="appRestartRequired">É necessário reiniciar \u2026</string>
     <string name="prefsMainScreenStrongOutline">Botões com quadro forte</string> <!--  PENDING: "Buttons with strong border", or "Strong button outline" -->
+    <string name="commonResetSort">Redefinir a classificação</string>
     
 </resources>
