@@ -333,7 +333,6 @@
 	<string name="prefsCalendarSyncGroup">Sincronizar con el calendario de Google</string>
 	<string name="prefsHomescreenBtSmall">Botones pequeños en la pantalla inicial</string>
 	<string name="prefsShortTab4">Fecha,Hora</string>
-	<string name="prefsHintPleaseRestart">\u2192 Por favor, reinicie la aplicación</string>
 	<string name="prefsPunchRoundTaskSwitch">También se aplicará en \'Cambio de tarea\'</string>
 	<string name="prefsKeepPrevCategory">Mantener la tarea después de pausa</string>
 	

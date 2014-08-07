@@ -115,7 +115,6 @@
 	<string name="prefsKeepPrevCategory">Gewählten Task behalten nach Pause</string>
 	<string name="prefsExpDecimalSep">Dezimal-Separator</string>
 	<string name="prefsCollapseCheckBtn">\'Ein-/Ausstempeln\' Schaltflächen zusammenfassen</string>
-	<string name="prefsHintPleaseRestart">\u2192 Bitte App neu starten</string>
 	<string name="prefsGridViewFont">Fontgrösse</string>
 	<string name="prefsWidgetClickAction">Widget Klick-Aktion</string>
 	<string name="prefsDomWidgetActionOpen">App öffnen</string>
@@ -442,7 +441,7 @@
 	<string name="categoryEditHeaderFixedAmtWorkUnit">Fixpreis\npro Einheit</string>
 	<string name="categoryEditHeaderFixedAmtDay">Fixpreis\npro Tag</string>
 	<string name="categoryEditSortRenumber">Sort renummerieren</string>
-	<string name="commonColumnVisibility">Spalten ...</string>
+	<string name="commonColumnVisibility">Spalten</string>
 
     <string name="prefsMonthlyTargetTime">Sollzeit pro Monat</string>
     <string name="prefsTimeZoneLock">Zeitzonen-Fixierung</string>
@@ -683,5 +682,6 @@
     <!-- 5.14 -->
     <string name="appRestartRequired">App-Neustart nötig</string>
     <string name="prefsMainScreenStrongOutline">Kräftiger Schaltfläche-Rahmen</string>
+    <string name="commonResetSort">Sortierung zurücksetzen</string>
     
 </resources>

@@ -112,7 +112,6 @@
 	<string name="prefsKeepPrevCategory">继续休息前的任务</string>
 	<string name="prefsExpDecimalSep">十进制分隔符</string>
 	<string name="prefsCollapseCheckBtn">合并\'开始打卡/结束打卡\'键 </string>
-	<string name="prefsHintPleaseRestart">\u2192请重启本软件</string>
 	<string name="prefsGridViewFont">字体大小</string>
 	<string name="prefsWidgetClickAction">点击桌面插件的操作</string>
 	<string name="prefsDomWidgetActionOpen">打开软件</string>

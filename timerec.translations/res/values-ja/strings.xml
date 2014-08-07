@@ -104,7 +104,6 @@
 	<string name="prefsKeepPrevCategory">ブレイク後も選択されたタスクを保持</string>
 	<string name="prefsExpDecimalSep">小数点表記</string>
 	<string name="prefsCollapseCheckBtn"> \'チェックイン/チェックアウト\' ボタンの統合</string>
-	<string name="prefsHintPleaseRestart">\u2192 アプリを再起動してください</string>
 	<string name="prefsGridViewFont">フォントサイズ</string>
 	<string name="prefsWidgetClickAction">ウィジェットクリックアクション</string>
 	<string name="prefsDomWidgetActionOpen">アプリを開く</string>

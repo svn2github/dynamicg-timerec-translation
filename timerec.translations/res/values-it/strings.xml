@@ -335,7 +335,6 @@
 	<string name="prefsCalendarSyncGroup">Sincronizza col calendario Google</string>
 	<string name="prefsHomescreenBtSmall">Piccoli pulsanti nella Home</string>
 	<string name="prefsShortTab4">Data,Orario</string>
-	<string name="prefsHintPleaseRestart">\u2192 Riavvia, per favore, l\'applicazione</string>
 	<string name="prefsPunchRoundTaskSwitch">Applica anche a \'Cambia lavoro\'</string>
 	<string name="prefsKeepPrevCategory">Mantieni selezionato il lavoro dopo la pausa</string>
 	

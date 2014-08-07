@@ -114,7 +114,6 @@
 	<string name="prefsKeepPrevCategory">Revenir à la tâche sélectionnée avant la pause</string>
 	<string name="prefsExpDecimalSep">Séparateur décimal</string>
 	<string name="prefsCollapseCheckBtn">Fusionner les boutons \'Démarrer/Terminer\'</string>
-	<string name="prefsHintPleaseRestart">\u2192 Merci de redémarrer l\'application</string>
 	<string name="prefsGridViewFont">Taille de la police</string>
 	<string name="prefsWidgetClickAction">Action sur le clic du widget</string>
 	<string name="prefsDomWidgetActionOpen">Ouvrir appli</string>

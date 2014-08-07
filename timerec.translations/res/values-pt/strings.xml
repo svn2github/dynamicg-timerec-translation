@@ -116,7 +116,6 @@
 	<string name="prefsKeepPrevCategory">Continuar tarefa anterior após intervalo</string>
 	<string name="prefsExpDecimalSep">Separador decimal</string>
 	<string name="prefsCollapseCheckBtn">Combinar botões \'check in/check out\'</string>
-	<string name="prefsHintPleaseRestart">\u2192 Por favor reinicie a aplicação</string>
 	<string name="prefsGridViewFont">Tamanho da fonte na exibição de dados</string>
 	<string name="prefsWidgetClickAction">Ação do toque no widget</string>
 	<string name="prefsDomWidgetActionOpen">Abrir aplicação</string>

@@ -110,7 +110,6 @@
 	<string name="prefsKeepPrevCategory">Keep selected task after break</string>
 	<string name="prefsExpDecimalSep">Decimal separator</string>
 	<string name="prefsCollapseCheckBtn">Merge \'check in/check out\' buttons</string>
-	<string name="prefsHintPleaseRestart">\u2192 Please restart the app</string>
 	<string name="prefsGridViewFont">Font size</string>
 	<string name="prefsWidgetClickAction">Widget click action</string>
 	<string name="prefsDomWidgetActionOpen">Open app</string>
@@ -456,7 +455,7 @@
 	<string name="categoryEditHeaderFixedAmtWorkUnit">Fixed amount\nper unit</string>
 	<string name="categoryEditHeaderFixedAmtDay">Fixed amount\nper day</string>
 	<string name="categoryEditSortRenumber">Sort renumber</string>
-	<string name="commonColumnVisibility">Show/hide columns</string>
+	<string name="commonColumnVisibility">Columns</string>
 	
     <string name="prefsMonthlyTargetTime">Monthly target time</string>
     <string name="prefsTimeZoneLock">Lock to timezone</string>
@@ -722,5 +721,6 @@
     <!-- 5.14 -->
     <string name="appRestartRequired">App restart required</string>
     <string name="prefsMainScreenStrongOutline">Strong button outline</string>
+    <string name="commonResetSort">Reset sort</string>
     
 </resources>
