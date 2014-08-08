@@ -28,8 +28,6 @@
     <string name="commonActionAddCheckIn">Adicionar check-in</string>
     <string name="commonActionAddCheckOut">Adicionar check-out</string>
     <string name="commonSample">Exemplo</string>
-    <string name="commonDataExport">Exportar dados</string> <!-- TODO .. remove with 5.14 -->
-    <string name="commonReportsAndExport">Exportar Relatórios</string> <!-- TODO .. remove with 5.14 -->
     <string name="commonReports">Relatórios</string>
     <string name="commonCategories">Tarefa</string>
     <string name="commonHourlyRate">Valor por Hora</string>

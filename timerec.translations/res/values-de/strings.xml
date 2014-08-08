@@ -27,8 +27,6 @@
     <string name="commonActionAddCheckIn">Einstempeln</string>
     <string name="commonActionAddCheckOut">Ausstempeln</string>
     <string name="commonSample">Beispiel</string>
-    <string name="commonDataExport">Berichte</string> <!-- TODO .. remove with 5.14 -->
-    <string name="commonReportsAndExport">Berichte</string> <!-- TODO .. remove with 5.14 -->
     <string name="commonReports">Berichte</string>
     <string name="commonCategories">Tasks</string>
     <string name="commonHourlyRate">Stundensatz</string>

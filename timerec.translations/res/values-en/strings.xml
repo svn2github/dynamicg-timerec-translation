@@ -23,8 +23,6 @@
     <string name="commonActionAddCheckIn">Add check-in</string>
     <string name="commonActionAddCheckOut">Add check-out</string>
     <string name="commonSample">Sample</string>
-    <string name="commonDataExport">Reports</string> <!-- TODO .. remove with 5.14 -->
-    <string name="commonReportsAndExport">Reports</string> <!-- TODO .. remove with 5.14 -->
     <string name="commonReports">Reports</string>
     <string name="commonCategories">Tasks</string>
     <string name="commonHourlyRate">Hourly rate</string>
@@ -721,6 +719,6 @@
     <!-- 5.14 -->
     <string name="appRestartRequired">App restart required</string>
     <string name="prefsMainScreenStrongOutline">Strong button outline</string>
-    <string name="commonResetSort">Reset sort</string>
+    <string name="commonResetSort">Reset sorting</string>
     
 </resources>
