@@ -622,7 +622,6 @@
     <string name="commonPickFile">Datei wählen</string>
     <string name="expPrefsHeaderN">Titelzeile {1}</string>
     <string name="expPrefsReportReminder">Berichte-Erinnerung</string>
-	<string name="commonReportSettings">Berichte-Einstellungen</string>
 	<string name="commonAverageShort">\u00D8</string> <!-- "O/", "Durchschnitt" is too long -->
 	<string name="commonAverageLong">Durchschnitt</string>
 	<string name="commonNumUnits"># Einheiten</string>
@@ -681,5 +680,9 @@
     <string name="appRestartRequired">App-Neustart nötig</string>
     <string name="prefsMainScreenStrongOutline">Kräftiger Schaltfläche-Rahmen</string>
     <string name="commonResetSort">Sortierung zurücksetzen</string>
+    
+    <!-- 5.15 -->
+    <string name="workUnitNotesBatchUpdate">Notiz für mehrere Arbeitseinheiten</string>
+    <string name="commonUpdateDone">Ausgeführt, {1} Einträge geändert</string>
     
 </resources>

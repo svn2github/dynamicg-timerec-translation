@@ -661,7 +661,6 @@
     <string name="commonPickFile">Select file</string>
     <string name="expPrefsHeaderN">Heading line {1}</string>
     <string name="expPrefsReportReminder">Report reminder</string>
-    <string name="commonReportSettings">Report settings</string>
     <string name="commonAverageShort">\u00D8</string>
     <string name="commonAverageLong">Average</string>
     <string name="commonNumUnits"># Units</string>
@@ -720,5 +719,9 @@
     <string name="appRestartRequired">App restart required</string>
     <string name="prefsMainScreenStrongOutline">Strong button outline</string>
     <string name="commonResetSort">Reset sorting</string>
+    
+    <!-- 5.15 -->
+    <string name="workUnitNotesBatchUpdate">Comment multiple work units</string>
+    <string name="commonUpdateDone">Done, {1} entries updated</string>
     
 </resources>

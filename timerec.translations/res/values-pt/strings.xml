@@ -613,7 +613,6 @@
     <string name="commonPickFile">Selecionar arquivo</string> <!-- VERIFY: Select file -->
     <string name="expPrefsHeaderN">Cabeçalho {1}</string> <!-- VERIFY: Heading line {1} -->
     <string name="expPrefsReportReminder">Report Reminder</string>
-    <string name="commonReportSettings"></string> <!-- PENDING: Report settings -->
     <string name="commonAverageShort">\u00D8</string>
     <string name="commonAverageLong">Média</string> <!-- VERIFY: Average -->
     <string name="commonNumUnits"># Unidades</string> <!-- VERIFY: # Units -->
