@@ -38,6 +38,8 @@ public class TimeRecDataGetter {
 	private static final String WORK_UNIT_COMMENT = "WORK_UNIT_COMMENT";
 	private static final String TASK_EXTRA1 = "TASK_EXTRA1";
 	private static final String TASK_EXTRA2 = "TASK_EXTRA2";
+	private static final String TARGET_DAILY_ENABLED = "TARGET_DAILY_ENABLED";
+	private static final String TARGET_WEEKLY_ENABLED = "TARGET_WEEKLY_ENABLED";
 
 	private Context context;
 	private TextView output;
@@ -111,6 +113,8 @@ public class TimeRecDataGetter {
 		print("Check-in time", bundle.getString(CHECK_IN_TIME));
 		print("Check-out time", bundle.getString(CHECK_OUT_TIME));
 		print("Work unit notes", bundle.getString(WORK_UNIT_COMMENT));
+		print("Daily target enabled", bundle.getBoolean(TARGET_DAILY_ENABLED));
+		print("Weekly target enabled", bundle.getBoolean(TARGET_WEEKLY_ENABLED));
 	}
 
 	private static void debugBundle(Bundle bundle) {
