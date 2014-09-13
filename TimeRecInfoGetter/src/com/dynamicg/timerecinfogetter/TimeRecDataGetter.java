@@ -13,6 +13,32 @@ import android.widget.TextView;
 
 public class TimeRecDataGetter {
 
+	private static final String TIME_TOTAL_SECS = "TIME_TOTAL_SECS";
+	private static final String TIME_TOTAL_FORMATTED = "TIME_TOTAL_FORMATTED";
+	private static final String AMOUNT_TOTAL = "AMOUNT_TOTAL";
+	private static final String AMOUNT_TOTAL_FORMATTED = "AMOUNT_TOTAL_FORMATTED";
+	private static final String VALUE1_TOTAL = "VALUE1_TOTAL"; //double
+	private static final String VALUE2_TOTAL = "VALUE2_TOTAL"; //double
+	private static final String DAY_COMMENT = "DAY_COMMENT";
+	private static final String DELTA_DAY_SECS = "DELTA_DAY_SECS";
+	private static final String DELTA_DAY_FORMATTED = "DELTA_DAY_FORMATTED";
+	private static final String DELTA_WEEK_SECS = "DELTA_WEEK_SECS";
+	private static final String DELTA_WEEK_FORMATTED = "DELTA_WEEK_FORMATTED";
+	private static final String DAY_TARGET_REACHED = "DAY_TARGET_REACHED";
+	private static final String DAY_MAX_TIME_THRESHOLD = "DAY_MAX_TIME_THRESHOLD";
+	private static final String WEEK_TARGET_REACHED = "WEEK_TARGET_REACHED";
+	private static final String WEEK_MAX_TIME_THRESHOLD = "WEEK_MAX_TIME_THRESHOLD";
+	private static final String CHECKED_IN = "CHECKED_IN"; // boolean
+	private static final String NUM_WORK_UNITS = "NUM_WORK_UNITS";
+	private static final String TASK_ID = "TASK_ID";
+	private static final String TASK = "TASK";
+	private static final String CUSTOMER = "CUSTOMER";
+	private static final String CHECK_IN_TIME = "CHECK_IN_TIME";
+	private static final String CHECK_OUT_TIME = "CHECK_OUT_TIME";
+	private static final String WORK_UNIT_COMMENT = "WORK_UNIT_COMMENT";
+	private static final String TASK_EXTRA1 = "TASK_EXTRA1";
+	private static final String TASK_EXTRA2 = "TASK_EXTRA2";
+
 	private Context context;
 	private TextView output;
 
@@ -60,29 +86,31 @@ public class TimeRecDataGetter {
 		 * DATETIME: yyyy-mm-dd hh24:mi:ss
 		 * TIME_TOTAL: hh24:mi
 		 */
-		print("Daily work time (seconds)", bundle.getLong("TIME_TOTAL_SECS"));
-		print("Daily work time (formatted)", bundle.getString("TIME_TOTAL_FORMATTED"));
-		print("Amount (double)", bundle.getDouble("AMOUNT_TOTAL"));
-		print("Amount (formatted)", bundle.getString("AMOUNT_TOTAL_FORMATTED"));
-		print("Generic Stamp Value 1", bundle.getDouble("VALUE1_TOTAL"));
-		print("Generic Stamp Value 2", bundle.getDouble("VALUE2_TOTAL"));
-		print("Day notes", bundle.getString("DAY_COMMENT"));
-		print("Daily delta (+/- seconds)", bundle.getLong("DELTA_DAY_SECS"));
-		print("Daily delta (formatted)", bundle.getString("DELTA_DAY_FORMATTED"));
-		print("Weekly delta (+/- seconds)", bundle.getLong("DELTA_WEEK_SECS"));
-		print("Weekly delta (formatted)", bundle.getString("DELTA_WEEK_FORMATTED"));
-		print("Alarm time 'Daily target reached'", bundle.getString("DAY_TARGET_REACHED"));
-		print("Alarm time 'Daily worktime exeeded'", bundle.getString("DAY_MAX_TIME_THRESHOLD"));
-		print("Alarm time 'Weekly target reached'", bundle.getString("WEEK_TARGET_REACHED"));
-		print("Alarm time 'Weekly worktime exeeded'", bundle.getString("WEEK_MAX_TIME_THRESHOLD"));
-		print("Checked-in flag", bundle.getBoolean("CHECKED_IN"));
-		print("Number of work units", bundle.getInt("NUM_WORK_UNITS"));
-		print("Task ID", bundle.getInt("TASK_ID"));
-		print("Task", bundle.getString("TASK"));
-		print("Customer", bundle.getString("CUSTOMER"));
-		print("Check-in time", bundle.getString("CHECK_IN_TIME"));
-		print("Check-out time", bundle.getString("CHECK_OUT_TIME"));
-		print("Work unit notes", bundle.getString("WORK_UNIT_COMMENT"));
+		print("Daily work time (seconds)", bundle.getLong(TIME_TOTAL_SECS));
+		print("Daily work time (formatted)", bundle.getString(TIME_TOTAL_FORMATTED));
+		print("Amount (double)", bundle.getDouble(AMOUNT_TOTAL));
+		print("Amount (formatted)", bundle.getString(AMOUNT_TOTAL_FORMATTED));
+		print("Generic Stamp Value 1", bundle.getDouble(VALUE1_TOTAL));
+		print("Generic Stamp Value 2", bundle.getDouble(VALUE2_TOTAL));
+		print("Day notes", bundle.getString(DAY_COMMENT));
+		print("Daily delta (+/- seconds)", bundle.getLong(DELTA_DAY_SECS));
+		print("Daily delta (formatted)", bundle.getString(DELTA_DAY_FORMATTED));
+		print("Weekly delta (+/- seconds)", bundle.getLong(DELTA_WEEK_SECS));
+		print("Weekly delta (formatted)", bundle.getString(DELTA_WEEK_FORMATTED));
+		print("Alarm time 'Daily target reached'", bundle.getString(DAY_TARGET_REACHED));
+		print("Alarm time 'Daily worktime exeeded'", bundle.getString(DAY_MAX_TIME_THRESHOLD));
+		print("Alarm time 'Weekly target reached'", bundle.getString(WEEK_TARGET_REACHED));
+		print("Alarm time 'Weekly worktime exeeded'", bundle.getString(WEEK_MAX_TIME_THRESHOLD));
+		print("Checked-in flag", bundle.getBoolean(CHECKED_IN));
+		print("Number of work units", bundle.getInt(NUM_WORK_UNITS));
+		print("Task ID", bundle.getInt(TASK_ID));
+		print("Task Name", bundle.getString(TASK));
+		print("Customer", bundle.getString(CUSTOMER));
+		print("Task Extra1", bundle.getString(TASK_EXTRA1));
+		print("Task Extra2", bundle.getString(TASK_EXTRA2));
+		print("Check-in time", bundle.getString(CHECK_IN_TIME));
+		print("Check-out time", bundle.getString(CHECK_OUT_TIME));
+		print("Work unit notes", bundle.getString(WORK_UNIT_COMMENT));
 	}
 
 	private static void debugBundle(Bundle bundle) {
