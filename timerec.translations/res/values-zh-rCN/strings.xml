@@ -519,7 +519,6 @@
 	<string name="prefsCurrentWeekOfRepPeriod">目前属于报告周期中的</string>
 	<string name="prefsScrollSizeWeeks">在\'{1}\'视图中滚动的间隔</string>
 	<string name="hintAlsoSeePage">\u2192同时参考{2}{1}</string>
-    <string name="dailyTargetReachedInLabel">剩余时间：{1}</string>
 
 	<!-- 4.13 -->
     <string name="commonUndo">撤销</string> <!-- "Undo changes" on text editor -->

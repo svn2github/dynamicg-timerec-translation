@@ -507,7 +507,6 @@
 	<string name="prefsCurrentWeekOfRepPeriod">選択期間の現在の週</string>
 	<string name="prefsScrollSizeWeeks">Scrolling on «{1}» view</string>
 	<string name="hintAlsoSeePage">\u2192 Also see {1} on page {2}</string>
-    <string name="dailyTargetReachedInLabel">{1} to go</string>
     <string name="commonUndo">やり直し</string>
     <string name="prefsStayOnPreviousDay">開いていた場合、前日を開示</string>
     <string name="prefsAutoBackup">自動バックアップ （x日毎）</string>

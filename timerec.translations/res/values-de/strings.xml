@@ -519,7 +519,6 @@
 	<string name="prefsCurrentWeekOfRepPeriod">Aktuelle Woche des Rapportierungs-Zeitraums</string>
 	<string name="prefsScrollSizeWeeks">Blättern auf «{1}» Sicht</string>
 	<string name="hintAlsoSeePage">\u2192 Siehe auch {1} auf Seite {2}</string>
-    <string name="dailyTargetReachedInLabel">Sollzeit erreicht in {1}</string>
 
 	<!-- 4.13 -->
     <string name="commonUndo">Rücksetzen</string>

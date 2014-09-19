@@ -495,7 +495,6 @@
     <string name="prefsMainAutoScroll">Auto rolar para parte inferior</string>
 	<string name="prefsScrollSizeWeeks">Rolando na tela \'{1}\'</string>
 	<string name="hintAlsoSeePage">\u2192 Veja também {1} na página {2}</string>
-    <string name="dailyTargetReachedInLabel">{1} para ir</string>
     <string name="prefsStayOnPreviousDay">Exibir dia anterior se aberto antes</string>
 	<string name="commonRefreshMM">Atualizar a cada x minutos</string>
 	<string name="calSyncNightShift">Suportar mudanças noturnas</string>

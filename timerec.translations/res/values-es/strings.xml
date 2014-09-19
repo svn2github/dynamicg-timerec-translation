@@ -510,7 +510,6 @@
     <string name="prefsMainAutoScroll">Desplazamiento automático al final</string>
 	<string name="prefsScrollSizeWeeks">Desplazando en \'{1}\' vistas</string>
 	<string name="hintAlsoSeePage">\u2192 Ver también {1} en página {2}</string>
-    <string name="dailyTargetReachedInLabel">{1} para llegar</string>
     <string name="prefsStayOnPreviousDay">Ver día anterior si se abre antes</string>
 	<string name="commonRefreshMM">Refescar cada x minutos</string>
 	<string name="calSyncNightShift">Soportar turnos nocturnos</string>

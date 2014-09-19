@@ -512,7 +512,6 @@
     <string name="prefsMainAutoScroll">Auto scorrimento in fondo</string>
 	<string name="prefsScrollSizeWeeks">Scorrimento al \'{1}\' vista</string>
 	<string name="hintAlsoSeePage">\u2192 Vedi anche {1} su pagina {2}</string>
-    <string name="dailyTargetReachedInLabel">{1} vai</string>
     <string name="prefsStayOnPreviousDay">Mostra giorno precedente se aperto prima</string>
 	<string name="commonRefreshMM">Aggiorna ogni x minuti</string>
 	<string name="calSyncNightShift">Supporta turni notturni</string>
