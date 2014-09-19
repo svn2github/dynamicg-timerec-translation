@@ -369,7 +369,6 @@
 	<string name="widgetAppTitleShort">RH</string>
 	<string name="widgetPrefNotifBarActive">Notificação na Barra de Status</string>
 	<string name="widgetPrefNotifBarText">Texto de notificação</string>
-	<string name="widgetPrefHintRefresh">\u2192 Constantes atualizações significam mais uso de bateria!</string>
 
 	<!-- copy days -->
 	<string name="copyDaysTitle">Copiar dias</string>

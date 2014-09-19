@@ -380,7 +380,6 @@
 	<string name="widgetAppTitleShort">TR</string>
 	<string name="widgetPrefNotifBarActive">Status bar notification when checked in</string>
 	<string name="widgetPrefNotifBarText">Notification text</string>
-	<string name="widgetPrefHintRefresh">\u2192 Faster refresh means more battery usage!</string>
 
 	<!-- copy days -->
 	<string name="copyDaysTitle">Copy days</string>

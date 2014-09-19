@@ -369,7 +369,6 @@
 	<string name="widgetAppTitleShort">ZE</string>
 	<string name="widgetPrefNotifBarActive">Notifizierung in Statusleiste wenn eingestempelt</string>
 	<string name="widgetPrefNotifBarText">Notifizierungs-Text</string>
-	<string name="widgetPrefHintRefresh">\u2192 Schnellere Aktualisierung bedeutet mehr Batterieverbrauch!</string>
 
 	<!-- copy days -->
 	<string name="copyDaysTitle">Tage kopieren</string>

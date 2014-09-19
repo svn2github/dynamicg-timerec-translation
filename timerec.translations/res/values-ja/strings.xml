@@ -363,7 +363,6 @@
 	<string name="widgetAppTitleShort">TR</string>
 	<string name="widgetPrefNotifBarActive">チェックイン時のステータスバー表示</string>
 	<string name="widgetPrefNotifBarText">表示テキスト</string>
-	<string name="widgetPrefHintRefresh">\u2192 早めの更新に設定すると、バッテリーの使用が増えます！</string>
 
 	<!-- copy days -->
 	<string name="copyDaysTitle">日にちのコピー</string>

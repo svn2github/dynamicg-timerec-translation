@@ -328,7 +328,6 @@
 	
 	<string name="widgetPrefNotifBarActive">Notifica su Barra di Stato quando iniziato</string>
 	<string name="widgetPrefNotifBarText">Testo della notifica</string>
-	<string name="widgetPrefHintRefresh">\u2192 Aggiornamenti più frequenti significa maggiore consumo della batteria!</string>
 	
 	<string name="prefsCalendarSyncGroup">Sincronizza col calendario Google</string>
 	<string name="prefsHomescreenBtSmall">Piccoli pulsanti nella Home</string>
