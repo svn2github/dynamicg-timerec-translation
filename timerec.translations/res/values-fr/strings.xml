@@ -609,8 +609,7 @@
     <string name="commonPickFile">Sélectionner le fichier</string>
     <string name="expPrefsHeaderN">Titre ligne {1}</string> <!-- VERIFY "Heading line {1 or 2}" -->
     <string name="expPrefsReportReminder">Report Reminder</string>
-    <string name="commonAverageShort">\u00D8</string>
-    <string name="commonAverageLong">Moyenne</string> <!-- VERIFY "Average" -->
+    <string name="commonAverage">Moyenne</string> <!-- VERIFY "Average" -->
     <string name="commonNumUnits"># Unités</string>
 
     <!-- 5.09 -->

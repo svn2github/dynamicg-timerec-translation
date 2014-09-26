@@ -659,8 +659,7 @@
     <string name="commonPickFile">Select file</string>
     <string name="expPrefsHeaderN">Heading line {1}</string>
     <string name="expPrefsReportReminder">Report reminder</string>
-    <string name="commonAverageShort">\u00D8</string>
-    <string name="commonAverageLong">Average</string>
+    <string name="commonAverage">Average</string>
     <string name="commonNumUnits"># Units</string>
 
     <!-- 5.09 -->
