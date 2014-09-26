@@ -367,7 +367,7 @@
 	<string name="commonNotificationBar">Notificação</string>
 		
 	<string name="widgetAppTitleShort">RH</string>
-	<string name="widgetPrefNotifBarActive">Notificação na Barra de Status</string>
+	<string name="commonNotificationOnCheckIn">Notificação se checado</string>
 	<string name="widgetPrefNotifBarText">Texto de notificação</string>
 
 	<!-- copy days -->
