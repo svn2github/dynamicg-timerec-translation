@@ -326,7 +326,7 @@
 	<string name="commonWidget">Widget</string>
 	<string name="commonNotificationBar">Notifica sulla Barra</string>
 	
-	<string name="widgetPrefNotifBarActive">Notifica su Barra di Stato quando iniziato</string>
+	<string name="commonNotificationOnCheckIn">Notifica quando iniziato</string>
 	<string name="widgetPrefNotifBarText">Testo della notifica</string>
 	
 	<string name="prefsCalendarSyncGroup">Sincronizza col calendario Google</string>

@@ -349,7 +349,7 @@
 	<string name="commonNotificationBar">Barre de notification</string>
 		
 	<string name="widgetAppTitleShort">GT</string>
-	<string name="widgetPrefNotifBarActive">Notifier dans la barre de status</string>
+	<string name="commonNotificationOnCheckIn">Notifier si démarré</string>
 	<string name="widgetPrefNotifBarText">Texte notification</string>
 
 	<string name="commonPreviouslyUsed">Utilisé auparavant</string>
