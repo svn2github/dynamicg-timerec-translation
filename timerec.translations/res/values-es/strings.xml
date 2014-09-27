@@ -689,4 +689,14 @@
     <string name="prefsMainScreenStrongOutline">Botones con cuadro fuerte</string> <!--  PENDING: "Buttons with strong border", or "Strong button outline" -->
     <string name="commonResetSort">Restablecer la clasificación</string>
     
+    <!-- 5.15 -->
+    <string name="androidWear">Android Wear</string>
+    <string name="commonWorkUnits">Unidades de trabajo</string>
+    <string name="commonTotalW">Total S</string> <!-- "Total of week", short -->
+    <string name="workUnitNotesBatchUpdate"></string> <!-- TODO: Work unit notes batch update -->
+    <string name="commonUpdateDone">{1} filas actualizado</string>
+    <string name="exportDataTaggingTitle"></string> <!-- PENDING: Mark exported data -->
+    <string name="exportDataTaggingComment">[Exported $d $t]</string>
+    <string name="commonCurrentUnitTotal"></string> <!-- PENDING: Current work unit total -->
+    
 </resources>
