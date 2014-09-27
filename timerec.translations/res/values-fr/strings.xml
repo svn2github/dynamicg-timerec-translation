@@ -681,8 +681,8 @@
     <string name="commonTotalW">Total S</string> <!-- "Total of week", short -->
     <string name="workUnitNotesBatchUpdate">Notes des unités de travail: mise à jour de masse</string>
     <string name="commonUpdateDone">{1} lignes mise à jour</string>
-    <string name="exportDataTaggingTitle"></string> <!-- PENDING: Mark exported data -->
-    <string name="exportDataTaggingComment">[Exported $d $t]</string>
+    <string name="exportDataTaggingTitle">Marquer les données exportées</string>
+    <string name="exportDataTaggingComment">[Exportée $d $t]</string>
     <string name="commonCurrentUnitTotal"></string> <!-- PENDING: Current work unit total -->
     
 </resources>
