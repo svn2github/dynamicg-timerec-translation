@@ -82,7 +82,7 @@
     <string name="headerAmount">Quantidade</string>
     <string name="headerAmountShort">Qtd</string>
     <string name="headerNoteDay">Dia</string>
-    <string name="headerNoteWorkUnit">Nota da Tarefa</string>
+    <string name="headerNoteWorkUnit">Nota da tarefa</string>
     <string name="headerDelta">Saldo</string>
     
     <string name="editSetNewTime">Definir hora</string>
@@ -289,7 +289,7 @@
     <string name="stdCommentDefaultEntry1">Férias</string>
     <string name="stdCommentDefaultEntry2">Compensação</string>
     
-    <string name="noteMassTitle">Comente múltiplos dias</string>
+    <string name="noteMassTitle">Notas diárias: atualização em massa</string>
     <string name="noteMassIfTextExists">Se o texto já estiver presente</string>
     <string name="noteMassOptAppend">Acrescentar</string>
     <string name="noteMassOptReplace">Sobreescrever</string>
@@ -409,7 +409,7 @@
 	
 	<!-- v3.06 -->
 	<string name="expSearchDayNotes">Filtro de notas diárias</string>
-	<string name="expSearchWorkUnitNotes">Filtro de unidade de trabalho</string>
+	<string name="expSearchWorkUnitNotes">Filtro de notas da tarefas</string>
 	<string name="expPrefsAutoCloseWindow">Fechar caixa de diálogo depois de exportar</string>
 	<string name="taskerPluginSelectAction">Selecione a ação que deve ser disparada:</string>
 	<string name="commonTaskSelectionOpen">Abra seleção de tarefa</string>
@@ -678,7 +678,7 @@
     <string name="androidWear">Android Wear</string>
     <string name="commonWorkUnits">Unidades de trabalho</string>
     <string name="commonTotalW">Total S</string> <!-- "Total of week", short -->
-    <string name="workUnitNotesBatchUpdate"></string> <!-- TODO: Work unit notes batch update -->
+    <string name="workUnitNotesBatchUpdate">Notas da tarefas: atualização em massa</string> <!-- TODO: Work unit notes batch update -->
     <string name="commonUpdateDone">{1} linhas atualizadas</string>
     <string name="exportDataTaggingTitle"></string> <!-- PENDING: Mark exported data -->
     <string name="exportDataTaggingComment">[Exported $d $t]</string>
