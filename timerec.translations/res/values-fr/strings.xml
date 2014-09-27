@@ -272,7 +272,7 @@
     <string name="stdCommentDefaultEntry1">Vacances</string>
     <string name="stdCommentDefaultEntry2">Compensation</string>
     
-    <string name="noteMassTitle">Notes journalières - mise à jour de masse</string>
+    <string name="noteMassTitle">Notes journalières: mise à jour de masse</string>
     <string name="noteMassIfTextExists">Si texte déjà présent</string>
     <string name="noteMassOptAppend">Ajouter</string>
     <string name="noteMassOptReplace">Ecraser</string>
@@ -679,7 +679,7 @@
     <string name="androidWear">Android Wear</string>
     <string name="commonWorkUnits">Unités de travail</string>
     <string name="commonTotalW">Total S</string> <!-- "Total of week", short -->
-    <string name="workUnitNotesBatchUpdate">Notes des unités de travail - mise à jour de masse</string>
+    <string name="workUnitNotesBatchUpdate">Notes des unités de travail: mise à jour de masse</string>
     <string name="commonUpdateDone">{1} lignes mise à jour</string>
     <string name="exportDataTaggingTitle"></string> <!-- PENDING: Mark exported data -->
     <string name="exportDataTaggingComment">[Exported $d $t]</string>

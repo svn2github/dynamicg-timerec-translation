@@ -237,7 +237,7 @@
     <string name="stdCommentDefaultEntry1">Ferie</string>
     <string name="stdCommentDefaultEntry2">Recupero</string>
     
-    <string name="noteMassTitle">Note del giorno - aggiornamento di massa</string>
+    <string name="noteMassTitle">Note del giorno: aggiornamento di massa</string>
     <string name="noteMassIfTextExists">Se è già presente del testo</string>
     <string name="noteMassOptAppend">Aggiungi</string>
     <string name="noteMassOptReplace">Sovrascrivi</string>
@@ -707,7 +707,7 @@
     <string name="androidWear">Android Wear</string>
     <string name="commonWorkUnits">Unità di lavoro</string>
     <string name="commonTotalW">Totale S</string> <!-- "Total of week", short -->
-    <string name="workUnitNotesBatchUpdate">Note dell\'unità di lavoro - aggiornamento di massa</string>
+    <string name="workUnitNotesBatchUpdate">Note dell\'unità di lavoro: aggiornamento di massa</string>
     <string name="commonUpdateDone">{1} righe aggiornate</string>
     <string name="exportDataTaggingTitle"></string> <!-- PENDING: Mark exported data -->
     <string name="exportDataTaggingComment">[Exported $d $t]</string>
