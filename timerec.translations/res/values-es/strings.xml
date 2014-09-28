@@ -693,7 +693,7 @@
     <string name="androidWear">Android Wear</string>
     <string name="commonWorkUnits">Unidades de trabajo</string>
     <string name="commonTotalW">Total S</string> <!-- "Total of week", short -->
-    <string name="workUnitNotesBatchUpdate">Notas de bloques de trabajo: actualización en masa</string> <!-- TODO: Work unit notes batch update -->
+    <string name="workUnitNotesBatchUpdate">Notas de bloques de trabajo: actualización en masa</string>
     <string name="commonUpdateDone">{1} filas actualizado</string>
     <string name="exportDataTaggingTitle"></string> <!-- PENDING: Mark exported data -->
     <string name="exportDataTaggingComment">[Exported $d $t]</string>
