@@ -416,7 +416,6 @@
 	<string name="edtoolsCapWords">Palabras</string>
 	<string name="edtoolsCapSentences">Frases</string>
 	<string name="edtoolsAppend">Añadir nota estandard</string>
-	<string name="widgetSdCardHint">\u2192 Los Widgets no funcionan si la app se ha instalado en la SD</string>
 	
 	<string name="prefsGroupMainScreenLabel">Refresco pantalla principal</string>
 	<string name="prefsKeepScreenOn">Mantener pantalla encendida</string>

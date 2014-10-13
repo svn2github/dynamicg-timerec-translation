@@ -401,7 +401,6 @@
 	<string name="edtoolsCapWords">Wörter</string>
 	<string name="edtoolsCapSentences">Sätze</string>
 	<string name="edtoolsAppend">Standardnotiz anhängen</string>
-	<string name="widgetSdCardHint">\u2192 Widgets funktionieren nicht wenn die App auf der SD-Karte installiert ist!</string>
 	
 	<string name="prefsGroupMainScreenLabel">Hauptschirm</string>
 	<string name="prefsKeepScreenOn">Bildschirm immer an</string>

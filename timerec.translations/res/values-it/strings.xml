@@ -419,7 +419,6 @@
 	<string name="edtoolsCapWords">Parole</string>
 	<string name="edtoolsCapSentences">Frasi</string>
 	<string name="edtoolsAppend">Aggiungi in fondo alla nota standard</string>
-	<string name="widgetSdCardHint">\u2192 I widgets non funzionano se l\'app è installata sulla scheda SD!</string>
 	
 	<string name="prefsGroupMainScreenLabel">Aggiorna schermata principale</string>
 	<string name="prefsKeepScreenOn">Tieni lo schermo attivo</string>

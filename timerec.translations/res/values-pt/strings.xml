@@ -401,7 +401,6 @@
 	<string name="edtoolsCapWords">Palavras</string>
 	<string name="edtoolsCapSentences">Sentenças</string>
 	<string name="edtoolsAppend">Adicionar nota padrão</string>
-	<string name="widgetSdCardHint">\u2192 Widgets se o App foi instalado no SD Card!</string>
 	
 	<string name="prefsGroupMainScreenLabel">Atualizar tela principal</string>
 	<string name="prefsKeepScreenOn">Mantenha a tela ligada</string>

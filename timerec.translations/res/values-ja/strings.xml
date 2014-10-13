@@ -398,7 +398,6 @@
 	<string name="edtoolsCapWords">文字</string>
 	<string name="edtoolsCapSentences">文書</string>
 	<string name="edtoolsAppend">標準ノートの追加</string>
-	<string name="widgetSdCardHint">\u2192 このアプリがSDカードに保存されている場合、ウィジェットを起動することはできません!</string>
 	
 	<string name="prefsGroupMainScreenLabel">メイン画面</string>
 	<string name="prefsKeepScreenOn">画面をオンにする</string>

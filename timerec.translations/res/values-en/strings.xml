@@ -415,7 +415,6 @@
 	<string name="edtoolsCapWords">Words</string>
 	<string name="edtoolsCapSentences">Sentences</string>
 	<string name="edtoolsAppend">Append template text</string>
-	<string name="widgetSdCardHint">\u2192 Widgets do not work if the app is installed on the SD Card!</string>
 	
 	<string name="prefsGroupMainScreenLabel">Main screen</string>
 	<string name="prefsKeepScreenOn">Keep screen on</string>

@@ -403,7 +403,6 @@
 	<string name="edtoolsCapWords">Mots</string>
 	<string name="edtoolsCapSentences">Phrases</string>
 	<string name="edtoolsAppend">Ajouter note standard</string>
-	<string name="widgetSdCardHint">\u2192 Les Widgets ne fonctionnent pas si l\'application est installée sur la carte SD !</string>
 	
 	<string name="prefsGroupMainScreenLabel">Rafraichissement écran principal</string>
 	<string name="prefsKeepScreenOn">Laisser l\'écran allumé</string>
