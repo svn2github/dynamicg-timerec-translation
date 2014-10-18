@@ -712,4 +712,8 @@
     <string name="exportDataTaggingComment">[Esportati $d $t]</string>
     <string name="commonCurrentUnitTotal"></string> <!-- PENDING: Current work unit total -->
     
+    <!-- 5.16 -->
+    <string name="deltaDayWTD"></string> <!-- PENDING: "Delta/Day (week to date)" -->
+    <string name="commonDirectory">Directory</string>
+    
 </resources>
