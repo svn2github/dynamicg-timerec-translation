@@ -701,5 +701,9 @@
     <!-- 5.16 -->
     <string name="deltaDayWTD"></string> <!-- PENDING: "Delta/Day (week to date)" -->
     <string name="commonDirectory">Directory</string>
+
+    <!-- 5.17 -->
+    <string name="prefsBookForwardEnabled"></string> <!-- Book night shifts to next day -->
+    <string name="prefsBookForwardSwitchTime"></string> <!-- Switch workday if opened after -->
     
 </resources>
