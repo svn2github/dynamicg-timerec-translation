@@ -294,7 +294,7 @@
     <string name="stdCommentDefaultEntry1">Vacation</string>
     <string name="stdCommentDefaultEntry2">Compensation</string>
     
-    <string name="noteMassTitle">Comment multiple days</string>
+    <string name="noteMassTitle">Day notes batch update</string>
     <string name="noteMassIfTextExists">If text already present</string>
     <string name="noteMassOptAppend">Append</string>
     <string name="noteMassOptReplace">Overwrite</string>
@@ -378,7 +378,6 @@
 	<string name="commonWidget">Widget</string>
 	<string name="commonNotificationBar">Notification bar</string>
 	<string name="widgetAppTitleShort">TR</string>
-	<string name="widgetPrefNotifBarActive">Status bar notification when checked in</string>
 	<string name="widgetPrefNotifBarText">Notification text</string>
 
 	<!-- copy days -->
@@ -414,7 +413,7 @@
 	<string name="edtoolsCap">Default capitalization</string>
 	<string name="edtoolsCapWords">Words</string>
 	<string name="edtoolsCapSentences">Sentences</string>
-	<string name="edtoolsAppend">Append template text</string>
+	<string name="edtoolsAppend">Template text</string>
 	
 	<string name="prefsGroupMainScreenLabel">Main screen</string>
 	<string name="prefsKeepScreenOn">Keep screen on</string>
@@ -527,7 +526,7 @@
     <string name="commonRateButton">Rate</string> <!-- "Please rate the app" -->
     
     <!-- 4.11 -->
-	<string name="edtoolsGeoLocation">Add geo location</string>
+	<string name="edtoolsGeoLocation">Geo location</string>
     
 	<!-- 4.12 -->
 	<string name="domainMonthviewSemiM">Semimonthly</string>
@@ -664,7 +663,7 @@
     <!-- 5.09 -->
     <string name="deleteUnusedTasks">Delete unused tasks</string>
     <string name="commonActiveOnDays">Active on these days</string>
-    <string name="widgetLargeStatusConfig">4x1 &amp; 4x2 Widget status line</string>
+    <string name="widgetLargeStatusConfig">4x1 &amp; 4x2 Widget text</string>
     
     <string name="pleaseRateTitle">Please rate the app</string>
     <string name="pleaseRateBody">Do you like Time Recording?\nIf so please rate the app in Play Store, this really helps us keeping a good spot there and attracting new users.\nMany thanks!</string>
@@ -698,7 +697,7 @@
 	<string name="calSyncEventBody">Event description</string>
 	<string name="commonToken">Placeholder</string>
 	<string name="commonWorkUnit">Work unit</string>
-	<string name="commonBatchUpdate">Mass update</string>
+	<string name="commonBatchUpdate">Batch update</string>
 
     <!-- 5.12 -->
     <string name="autoBreakExact">Exact time</string>
@@ -717,7 +716,24 @@
     <string name="commonResetSort">Reset sorting</string>
     
     <!-- 5.15 -->
-    <string name="workUnitNotesBatchUpdate">Comment multiple work units</string>
+    <string name="workUnitNotesBatchUpdate">Work unit notes batch update</string>
     <string name="commonUpdateDone">Done, {1} entries updated</string>
+    <string name="exportDataTaggingTitle">Mark exported data</string>
+    <string name="exportDataTaggingComment">[Exported $d $t]</string>
+    <string name="commonTotalW">Total W</string>
+    <string name="commonCurrentUnitTotal">Current work unit total</string>
+    <string name="androidWear">Android Wear</string>
+    <string name="commonNotificationOnCheckIn">Notification when checked in</string>
+    <string name="commonWorkUnits">Work units</string>
+    
+    <!-- 5.16 -->
+    <string name="deltaDayWTD">Delta/Day (week to date)</string>
+    <string name="commonDirectory">Directory</string>
+    
+    <!-- 5.17 -->
+    <string name="prefsBookForwardEnabled">Book night shifts to next day</string>
+    <string name="prefsBookForwardSwitchTime">Switch workday if opened after</string>
+    <string name="commonMoveEntries">Move entries</string>
+    <string name="commonMinutes">Minutes</string>
     
 </resources>

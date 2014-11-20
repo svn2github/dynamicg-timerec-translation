@@ -282,13 +282,13 @@
 	<string name="widgetAppTitle1">Zeit-</string>
     <string name="widgetAppTitle2">erfassung</string>
     
-    <string name="stdCommentTitle">Standardnotiz</string>
-    <string name="stdCommentSelect">Standardnotiz wählen</string>
+    <string name="stdCommentTitle">Textvorlage</string>
+    <string name="stdCommentSelect">Textvorlage wählen</string>
     <string name="stdCommentAppend">An aktuellen Text anhängen</string>
     <string name="stdCommentDefaultEntry1">Urlaub</string>
     <string name="stdCommentDefaultEntry2">Kompensation</string>
     
-    <string name="noteMassTitle">Notiz für mehrere Tage</string>
+    <string name="noteMassTitle">Tagesnotiz Massenänderung</string>
     <string name="noteMassIfTextExists">Falls Text schon vorhanden</string>
     <string name="noteMassOptAppend">Anhängen</string>
     <string name="noteMassOptReplace">Überschreiben</string>
@@ -325,8 +325,8 @@
 	<string name="pdotOvertimeRate">Stundensatz-Zuschlag</string>
 	<string name="pdotBasedOn">Überzeit basiert auf</string>
 	<string name="pdotCalculatePer">Berechnung anwenden für</string>
-	<string name="pdotShowDetails">Details auf Report anzeigen</string>
-	<string name="pdotDomainFullRep">Ganzer Report</string>
+	<string name="pdotShowDetails">Details auf Rapport anzeigen</string>
+	<string name="pdotDomainFullRep">Ganzer Rapport</string>
 	<string name="pdotRateHint">\u2192 Bsp: Setze auf \'8\' wenn normaler Satz €16 und Überzeit-Faktor x1.5 ist (24-16=8)</string>
 	<string name="pdotMainHint">\u2192 Wird nur auf \'Monat\' Sicht angezeigt. Benötigt Sollzeit pro Tag oder Woche.</string>
 	
@@ -367,7 +367,6 @@
 	<!-- "commonWidget" -->
 	<string name="commonNotificationBar">Statusleiste</string>
 	<string name="widgetAppTitleShort">ZE</string>
-	<string name="widgetPrefNotifBarActive">Notifizierung in Statusleiste wenn eingestempelt</string>
 	<string name="widgetPrefNotifBarText">Notifizierungs-Text</string>
 
 	<!-- copy days -->
@@ -400,7 +399,7 @@
 	<string name="edtoolsCap">Großschreibungs-Vorgabe</string>
 	<string name="edtoolsCapWords">Wörter</string>
 	<string name="edtoolsCapSentences">Sätze</string>
-	<string name="edtoolsAppend">Standardnotiz anhängen</string>
+	<string name="edtoolsAppend">Textvorlage</string>
 	
 	<string name="prefsGroupMainScreenLabel">Hauptschirm</string>
 	<string name="prefsKeepScreenOn">Bildschirm immer an</string>
@@ -510,7 +509,7 @@
     <!-- 4.10 -->
     <string name="paidOt2Factor">Faktor</string>
     <string name="commonRateButton">Bewerten</string>
-	<string name="edtoolsGeoLocation">Geo-Standort anhängen</string>
+	<string name="edtoolsGeoLocation">Geo-Standort</string>
     
 	<!-- 4.12 -->
 	<string name="domainMonthviewSemiM">Halbmonatlich</string>
@@ -625,7 +624,7 @@
 	<!-- 5.09 -->
     <string name="deleteUnusedTasks">Unbenutzte Tasks löschen</string>
     <string name="commonActiveOnDays">An diesen Tagen aktiv</string>
-    <string name="widgetLargeStatusConfig">4x1 &amp; 4x2 Widget Statuszeile</string>
+    <string name="widgetLargeStatusConfig">4x1 &amp; 4x2 Widget Text</string>
 
     <string name="pleaseRateTitle">Bitte App bewerten</string>
     <string name="pleaseRateBody">Findest du Zeiterfassung nützlich?\nFalls ja dann trag bitte im Play Store eine Bewertung ein, für uns ist das eine grosse Hilfe um dort eine gute Platzierung zu behalten und neue Benutzer zu gewinnen.\nVielen Dank!</string>
@@ -678,7 +677,22 @@
     <string name="commonResetSort">Sortierung zurücksetzen</string>
     
     <!-- 5.15 -->
-    <string name="workUnitNotesBatchUpdate">Notiz für mehrere Arbeitseinheiten</string>
+    <string name="workUnitNotesBatchUpdate">Arbeitsnotiz Massenänderung</string>
     <string name="commonUpdateDone">Ausgeführt, {1} Einträge geändert</string>
+    <string name="exportDataTaggingTitle">Exportierte Daten markieren</string>
+    <string name="commonTotalW">Total W</string>
+    <string name="commonCurrentUnitTotal">Total aktuelle Arbeitseinheit</string>
+    <string name="commonNotificationOnCheckIn">Notifizierung wenn eingestempelt</string>
+    <string name="commonWorkUnits">Arbeitseinheiten</string>
+
+    <!-- 5.16 -->
+    <string name="deltaDayWTD">Delta/Tag (ganze Woche)</string>
+    <string name="commonDirectory">Verzeichnis</string>
     
+    <!-- 5.17 -->
+    <string name="prefsBookForwardEnabled">Nachtschicht auf nächsten Tag buchen</string>
+    <string name="prefsBookForwardSwitchTime">Arbeitstag wechseln falls geöffnet nach</string>
+    <string name="commonMoveEntries">Einträge verschieben</string>
+    <string name="commonMinutes">Minuten</string>
+
 </resources>
