@@ -693,5 +693,6 @@
     <string name="prefsBookForwardSwitchTime"></string> <!-- Switch workday if opened after -->
     <string name="commonMoveEntries">Déplacer les entrées</string> <!-- Move entries -->
     <string name="commonMinutes">Minutes</string>
+    <string name="nfcAutomation">NFC Automation</string>
     
 </resources>
