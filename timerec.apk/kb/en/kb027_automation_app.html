@@ -11,7 +11,7 @@
 <br><b>NFC Automation</b>
 <br>
 <br>Starting with version 5.17, Time Recording supports NFC based punching without 3rd party apps. Getting started is easy, obviously this requires an Android device with NFC read/write support:
-<br>1. Grab a bunch of NFC Tags.
+<br>1. Grab a bunch of NFC Tags (NDEF compatible, e.g. NTAG203)
 <br>2. Install the <a href="https://play.google.com/store/apps/details?id=com.dynamicg.timerec.automation">DG NFC Automation</a> app.
 <br>3. Use the built-in "Write" function to define the NFC command and write it to the tags.
 <br>4. Deploy the tags. Each scan will trigger the according Time Recording action.
@@ -51,21 +51,21 @@ This also works cross-device, since the task and client name are stored on the N
 
 <br/>
 <br/>
-<br><b>Technical details - NDEF Specification</b>
-<br/>
-<br>NFC content written by the app is a NDEF Mime record
+<br><b>NDEF Specification</b>
+<br>NDEF Mime record:
 <br>• Mimetype = application/timerec
-<br>• Data = UTF-8 encoded 'text to bytes' data having these tokens:
+<br>• Data = UTF-8 encoded 'text to bytes'
+<br>• Text tokens:
 <code>
-<br>{a:punch|smartPunch|in|out|switch}
-<br>{t:taskname[[clientname]]} /*clear text task and client name, with "auto creation if not found" */
-<br>{o:mm|-mm} /*offset in minutes regardless of action*/
-<br>{o-i:mm|-mm} /*offset in minutes when performing a CHECK IN*/
-<br>{o-o:mm|-mm} /*offset in minutes when performing a CHECK OUT*/
-<br>{o-s:mm|-mm} /*offset in minutes when performing a SWITCH TASK*/
-<br>{pkg:pro|free|1..20} /*target app*/
+<br>{a:p|sp|i|o|s} /* action: p=punch, sp=smart punch, i=in, o=out, s=switch task */
+<br>{t:taskname[[clientname]]} /* clear text task and client name, with auto creation */
+<br>{o:mm|-mm} /* offset in minutes, regardless of action*/
+<br>{oi:mm|-mm} /* offset in minutes on CHECK IN */
+<br>{oo:mm|-mm} /* offset in minutes on CHECK OUT */
+<br>{os:mm|-mm} /* offset in minutes on SWITCH TASK */
+<br>{pkg:pro|free|1..20} /* target app */
 </code>
-<br>• Sample: {a:punch}{t:MyTask[[MyClient]]}{o:3}
+<br>• Data sample: {a:punch}{t:MyTask[[MyClient]]}{oi:-5}{oo:2}
 
 <br/>
 <br/>

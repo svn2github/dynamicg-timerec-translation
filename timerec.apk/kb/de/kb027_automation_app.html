@@ -6,12 +6,70 @@
  </head>
 <body>
 
-<h2>Zeiterfassung - NFC Automation</h2>
+<h2>Zeiterfassung: NFC Automation</h2>
+
+<br><b>NFC Automation</b>
+<br>
+<br>Ab Version 5.17 unterstützt Zeiterfassung Ein- und Ausstempeln über NFC-Tags. Das Aufsetzen ist ganz einfach (benötigt aber aus offensichtlichen Gründen ein Android-Gerät mit NFC Lese- und Schreibunterstützung):
+<br>1. Besorge dir einige beschreibbare NFC-Tags (NDEF kompatibel, z.B. NTAG203)
+<br>2. Installiere die <a href="https://play.google.com/store/apps/details?id=com.dynamicg.timerec.automation">DG NFC Automation</a> Zusatz-App.
+<br>3. Benutze die "Schreiben" Funktion dieser App um das NFC Kommando zu definieren und auf den NFC-Tag zu schreiben.
+<br>4. Fertig. Jeder Scan des NFC-Tags führt nun die entsprechende Aktion aus.
+<br>
+<br>Beachte dass diese "DG NFC Automation" App auch für das spätere Scannen und Auslesen benötigt wird, das heisst die App muss zusammen mit Zeiterfassung installiert bleiben.
+<br>Ebenfalls wichtig ist der Punkt "Automatische Erzeugung von Tasks" weiter unten - damit können z.B. teamübergreifend dieselben Task- und Kundennamen benutzt werden.
+<br>
+
+<br><b><a name="commands">Felder auf der "NFC-Tag schreiben" Maske</a></b>
+<br>
+<br/>Aktion:
+<br>• Stempeln: Abhängig vom aktuellen Status Durchführung eines Einstempeln oder Ausstempeln. Beim Einstempen wird der definierte Task gesetzt.
+<br>• Einstempeln, Ausstempeln: Die entsprechende Aktion.
+<br>• Task wechseln: Wechsel auf den definierten Task, oder (falls noch nicht eingestempelt) ein Einstempeln mit dem definierten Task.
+Dieses Kommando erzeugt immer eine neue Arbeitseinheit mit dem definierten Task (auch wenn du bereits mit demselben Task eingestempelt bist).
+<br>• Konditionales Stempeln ("Smart Punch"):
+<br>- Falls nicht eingestempelt: "Einstempeln" mit dem definierten Task
+<br>- Falls mit einem anderen Task eingestempelt: "Task wechseln" auf den definierten Task
+<br>- Falls bereits mit dem definierten Task eingestempelt: "Ausstempeln"
+<br>=&gt; Falls du unsicher bist welche Aktion du am besten verwenden sollst: setze "Stempeln" und teste damit einige Tage lang. 
+<br>
+<br>Taskname, Kundenname:
+<br>Dasselbe Feld wie auf dem entsprechenden "Task editieren" Schirm in der Zeiterfassung. Benutze den "Liste" Knopf um bestehende Einträge aus Zeiterfassung zu übernehmen.
+<br>Beachte dass beim Stempeln über NFC-Automation <font color="red"><b>Automatische Taskerzeugung</b></font> aktiv ist:
+<br>Wenn ein NFC-Tag gescannt wird dann prüft Zeiterfassung ob der definierte Task existiert. Falls nicht vorhanden so wird ein neuer Task in Zeiterfassung angelegt.
+Weil Task- und Kundenname auf dem NFC-Tag gespeichert sind, funktioniert dies auch auf einem neuen bzw. anderen Geräten: Wenn z.B. Benutzer A einen NFC-Tag beschreibt 
+und Benutzer B diesen scannt, so wird in der Zeiterfassung von Benutzer B bei Bedarf ein neuer Task mit dem gegebene Task angelegt.
+<br> 
+<br>Abstand in Minuten:
+<br>Optional: verschiebe den Stempelzeitpunkt um X Minuten. Negative Werte sind möglich. Beispiel:
+<br>'-3' bei "Ein": Führt ein "Einstempeln vor drei Minuten" durch.
+<br>'5' bei "Aus": Führt ein "Ausstempeln in fünf Minuten" durch.
+<br>
+<br>Ziel-App:
+<br>• "Standard" leitet das Kommando des NFC-Tag Scans an diejenige Zeiterfassung App welche installiert ist. "Pro" hat jeweils Vorrang falls sowohl "Pro" als auch "Free" installiert sind.
+<br>• Benutze die anderen Optionen nur wenn du explizit eine bestimmte Zeiterfassung Version ansprechen möchtest.
+<br>• Beachte dass hierbei auch die <a href="https://dynamicg-timerec.googlecode.com/svn/trunk/timerec.apk/instances/readme-en.html">Multi-Instanzen</a> unterstützt sind.
+ 
+<br/>
+<br/>
+<br><b>NDEF Specification</b>
+<br>NDEF Mime record:
+<br>• Mimetype = application/timerec
+<br>• Data = UTF-8 encoded 'text to bytes'
+<br>• Text tokens:
+<code>
+<br>{a:p|sp|i|o|s} /* action: p=punch, sp=smart punch, i=in, o=out, s=switch task */
+<br>{t:taskname[[clientname]]} /* clear text task and client name, with auto creation */
+<br>{o:mm|-mm} /* offset in minutes, regardless of action*/
+<br>{oi:mm|-mm} /* offset in minutes on CHECK IN */
+<br>{oo:mm|-mm} /* offset in minutes on CHECK OUT */
+<br>{os:mm|-mm} /* offset in minutes on SWITCH TASK */
+<br>{pkg:pro|free|1..20} /* target app */
+</code>
+<br>• Data sample: {a:punch}{t:MyTask[[MyClient]]}{oi:-5}{oo:2}
 
 <br/>
-Pendent. <a href="../en/kb027_automation_app.html">Siehe englische Hilfeseite</a>
 <br/>
-
 
 </body>
 </html>
