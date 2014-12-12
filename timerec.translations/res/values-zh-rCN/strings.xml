@@ -266,9 +266,6 @@
     <string name="errorCalSyncFailed">日历同步失败</string>
     <string name="errorCloudAccessFailed">{1}读取失败</string>
 
-    <string name="aboutPro">Pro</string>
-	<string name="aboutAvailableHere">\'{1}\'请点击</string> 
-
     <string name="bckBackupTitle">备份</string>
     <string name="bckRestoreTitle">恢复</string>
     <string name="bckCreateBackup">创建备份</string>
@@ -411,8 +408,6 @@
 	<string name="taskerPreselectedCategory">附加设置:对以下任务进行已选择的操作</string>
 	<string name="commonWeeklyDelta">周差额</string>
 	<string name="commonMonthlyDelta">月差额</string>
-	<string name="prefsHideAdsLabel">\u2022广告</string>
-	<string name="prefsHideAdsButton">{1}之前隐藏广告</string>
 	<string name="admResetAllPrefs">恢复所有设置</string>
 	<string name="calSyncCalendarType">日历类型</string>
 	<string name="calSyncCalendarTypeExclusive">仅限本软件使用</string>

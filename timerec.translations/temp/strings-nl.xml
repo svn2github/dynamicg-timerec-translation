@@ -284,8 +284,6 @@
     <string name="errorCloudAccessFailed">{1} toegang is mislukt</string>
 
     <string name="aboutPublicServices">App-Services</string> 
-    <!-- "aboutPro" -->
-	<string name="aboutAvailableHere">\'{1}\' hier verkrijgbaar</string> 
 
     <string name="bckBackupTitle">Back-up</string>
     <string name="bckRestoreTitle">Herstellen</string>
@@ -457,9 +455,6 @@
 	<string name="taskerPreselectedCategory">Extra instelling: met behulp van de volgende taak Actie:</string>
 	<!--  "commonWeeklyDelta" -->
 	<!--  "commonMonthlyDelta" -->
-	<string name="prefsHideAdsLabel">\u2022 advertentie</string>
-	<string name="prefsHideAdsButton">geen advertentie tot {1}</string>
-	<string name="prefsHideAdsHint">\u2192 Vernieuwing bij het verstrijke lijkt op elkeh et Meest.</string>
 	<string name="admResetAllPrefs">Alle instellingen terugzetten</string>
 	<string name="calSyncCalendarType">Kalender-Typ</string>
 	<string name="calSyncCalendarTypeExclusive">Exclusief,alleen voor</string>

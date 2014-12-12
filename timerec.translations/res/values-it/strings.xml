@@ -220,8 +220,6 @@
     <string name="errorSdCardAccess">Errore di accesso su scheda SD</string>
 
     <string name="aboutPublicServices">API Services</string> 
-    <string name="aboutPro">Versione Pro</string>
-	<string name="aboutAvailableHere">\'{1}\' disponibile qua</string> 
 
     <string name="bckBackupTitle">Backup</string>
     <string name="bckRestoreTitle">Ripristina</string>
@@ -433,8 +431,7 @@
 	<string name="taskerPreselectedCategory">Impostazioni extra: usa i seguenti lavori per le azioni selezionate:</string>
 	<string name="commonWeeklyDelta">Delta S</string>
 	<string name="commonMonthlyDelta">Delta M</string>
-	<string name="prefsHideAdsLabel">\u2022 Pubblicità</string>
-	<string name="prefsHideAdsButton">Nascondi banner fino {1}</string>
+	<string name="prefsHideAdvertisement">Nascondi la pubblicità</string>
 	<string name="admResetAllPrefs">Resetta tutte le preferenze</string>
 	<string name="calSyncCalendarType">Tipo di calendario</string>
 	<string name="calSyncCalendarTypeExclusive">Esclusivo, solo per TimeRec</string>

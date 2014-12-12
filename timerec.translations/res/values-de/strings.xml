@@ -270,8 +270,6 @@
     <string name="errorCloudAccessFailed">{1} Zugriff gescheitert</string>
 
     <!-- "aboutPublicServices" --> 
-    <!-- "aboutPro" -->
-	<string name="aboutAvailableHere">«{1}» hier verfügbar</string> 
 
     <string name="bckBackupTitle">Datensicherung</string>
     <string name="bckRestoreTitle">Wiederherstellen</string>
@@ -415,8 +413,6 @@
 	<string name="taskerPreselectedCategory">Zusatz-Einstellung: für die Aktion folgenden Task verwenden:</string>
 	<!--  "commonWeeklyDelta" -->
 	<!--  "commonMonthlyDelta" -->
-	<string name="prefsHideAdsLabel">\u2022 Werbung</string>
-	<string name="prefsHideAdsButton">Keine Werbung bis {1}</string>
 	<string name="admResetAllPrefs">Alle Einstellungen zurücksetzen</string>
 	<string name="calSyncCalendarType">Kalender-Typ</string>
 	<string name="calSyncCalendarTypeExclusive">Exklusiv, nur für ZE</string>
@@ -694,5 +690,9 @@
     <string name="prefsBookForwardSwitchTime">Arbeitstag wechseln falls geöffnet nach</string>
     <string name="commonMoveEntries">Einträge verschieben</string>
     <string name="commonMinutes">Minuten</string>
+    <string name="nfcAutomation">NFC Automation</string>
 
+    <!-- 5.18 -->
+    <string name="prefsHideAdvertisement">Werbung aus</string>
+    
 </resources>

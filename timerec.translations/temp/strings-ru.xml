@@ -284,8 +284,6 @@
     <string name="errorCloudAccessFailed">{1} access failed</string>
 
     <string name="aboutPublicServices">Public App services</string> 
-    <string name="aboutPro">Pro</string>
-	<string name="aboutAvailableHere">\'{1}\' available here</string> 
 
     <string name="bckBackupTitle">Backup</string>
     <string name="bckRestoreTitle">Восстановить</string>
@@ -457,9 +455,6 @@
 	<string name="taskerPreselectedCategory">Extra setting: use following task for selected action:</string>
 	<string name="commonWeeklyDelta">Delta W</string>
 	<string name="commonMonthlyDelta">Delta M</string>
-	<string name="prefsHideAdsLabel">\u2022 Advertisement</string>
-	<string name="prefsHideAdsButton">Hide ads until {1}</string>
-	<string name="prefsHideAdsHint">\u2192 Note this can be renewed after expiration, unlimited times.</string>
 	<string name="admResetAllPrefs">Reset all preferences</string>
 	<string name="calSyncCalendarType">Calendar type</string>
 	<string name="calSyncCalendarTypeExclusive">Exclusive, for TimeRec only</string>

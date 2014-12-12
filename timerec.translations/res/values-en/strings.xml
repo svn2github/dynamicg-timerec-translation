@@ -276,8 +276,6 @@
     <string name="errorCloudAccessFailed">{1} access failed</string>
 
     <string name="aboutPublicServices">API Services</string> 
-    <string name="aboutPro">Pro</string>
-	<string name="aboutAvailableHere">«{1}» available here</string> 
 
     <string name="bckBackupTitle">Backup</string>
     <string name="bckRestoreTitle">Restore</string>
@@ -429,8 +427,6 @@
 	<string name="taskerPreselectedCategory">Extra setting: use following task for selected action:</string>
 	<string name="commonWeeklyDelta">Delta W</string>
 	<string name="commonMonthlyDelta">Delta M</string>
-	<string name="prefsHideAdsLabel">\u2022 Advertisement</string>
-	<string name="prefsHideAdsButton">Hide ads until {1}</string>
 	<string name="admResetAllPrefs">Reset all preferences</string>
 	<string name="calSyncCalendarType">Calendar type</string>
 	<string name="calSyncCalendarTypeExclusive">Exclusive, for TimeRec only</string>
@@ -735,5 +731,9 @@
     <string name="prefsBookForwardSwitchTime">Switch workday if opened after</string>
     <string name="commonMoveEntries">Move entries</string>
     <string name="commonMinutes">Minutes</string>
+    <string name="nfcAutomation">NFC Automation</string>
+    
+    <!-- 5.18 -->
+    <string name="prefsHideAdvertisement">Remove Ads</string>
     
 </resources>

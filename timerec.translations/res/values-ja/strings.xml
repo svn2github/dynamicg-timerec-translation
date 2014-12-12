@@ -263,9 +263,6 @@
     <string name="errorCalSyncFailed">カレンダーの同期のフェイル</string>
     <string name="errorCloudAccessFailed">アクセスフェイル</string>
 
-    <string name="aboutPro">Pro version</string>
-	<string name="aboutAvailableHere">«{1}» はこちらでお求めいただけます</string> 
-
     <string name="bckBackupTitle">バックアップ</string>
     <string name="bckRestoreTitle">修復</string>
     <string name="bckCreateBackup">バックアップ作成</string>
@@ -414,8 +411,6 @@
 	<string name="taskerPreselectedCategory">追加設定: 選択されたアクションにこのタスクを適用する:</string>
 	<string name="commonWeeklyDelta">差分 W</string>
 	<string name="commonMonthlyDelta">差分 M</string>
-	<string name="prefsHideAdsLabel">\u2022 広告</string>
-	<string name="prefsHideAdsButton">広告を消す{1}まで</string>
 	<string name="admResetAllPrefs">全ての設定をリセットする</string>
 	<string name="calSyncCalendarType">カレンダーのタイプ</string>
 	<string name="calSyncCalendarTypeExclusive">TimeRec専用</string>

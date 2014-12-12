@@ -269,9 +269,6 @@
     <string name="errorCalSyncFailed">Sincronização com a agenda falhou</string>
     <string name="errorCloudAccessFailed">Falha ao acessar o {1}</string>
 
-    <string name="aboutPro">Pro</string>
-	<string name="aboutAvailableHere">\'{1}\' disponível aqui</string> 
-
     <string name="bckBackupTitle">Backup</string>
     <string name="bckRestoreTitle">Restaurar</string>
     <string name="bckCreateBackup">Criar backup</string>
@@ -417,8 +414,7 @@
 	<string name="taskerPreselectedCategory">Configuração extra: use a seguinte tarefa para ação selecionada:</string>
 	<string name="commonWeeklyDelta">Saldo W</string>
 	<string name="commonMonthlyDelta">Saldo M</string>
-	<string name="prefsHideAdsLabel">\u2022 Anúncio</string>
-	<string name="prefsHideAdsButton">Ocultar ads até {1}</string>
+	<string name="prefsHideAdvertisement">Ocultar anúncios</string>
 	<string name="admResetAllPrefs">Redefinir todas as preferências</string>
 	<string name="calSyncCalendarType">Tipo do calendário</string>
 	<string name="calSyncCalendarTypeExclusive">Exclusivo somente para TimeRec</string>
