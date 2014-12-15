@@ -414,7 +414,7 @@
 	<string name="taskerPreselectedCategory">Configuração extra: use a seguinte tarefa para ação selecionada:</string>
 	<string name="commonWeeklyDelta">Saldo W</string>
 	<string name="commonMonthlyDelta">Saldo M</string>
-	<string name="prefsHideAdvertisement">Ocultar anúncios</string>
+	<string name="prefsHideAdvertisement">Ocultar anúncios (12 meses)</string>
 	<string name="admResetAllPrefs">Redefinir todas as preferências</string>
 	<string name="calSyncCalendarType">Tipo do calendário</string>
 	<string name="calSyncCalendarTypeExclusive">Exclusivo somente para TimeRec</string>

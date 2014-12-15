@@ -428,7 +428,7 @@
 	<string name="taskerPreselectedCategory">Configuración Extra: usa la siguiente tarea para seleccionar la acción</string>
 	<string name="commonWeeklyDelta">Delta S</string>
 	<string name="commonMonthlyDelta">Delta M</string>
-	<string name="prefsHideAdvertisement">Ocular publicidad</string>
+	<string name="prefsHideAdvertisement">Ocular publicidad (12 meses)</string>
 	<string name="admResetAllPrefs">Restablecer preferencias</string>
 	<string name="calSyncCalendarType">Tipo de calendario</string>
 	<string name="calSyncCalendarTypeExclusive">Exclusivo, para TimeRec</string>

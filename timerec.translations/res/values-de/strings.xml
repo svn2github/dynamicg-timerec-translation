@@ -693,6 +693,6 @@
     <string name="nfcAutomation">NFC Automation</string>
 
     <!-- 5.18 -->
-    <string name="prefsHideAdvertisement">Werbung aus</string>
+    <string name="prefsHideAdvertisement">Werbung aus (12 Monate)</string>
     
 </resources>

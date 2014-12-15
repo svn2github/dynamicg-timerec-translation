@@ -734,6 +734,6 @@
     <string name="nfcAutomation">NFC Automation</string>
     
     <!-- 5.18 -->
-    <string name="prefsHideAdvertisement">Remove Ads</string>
+    <string name="prefsHideAdvertisement">Remove Ads (12 months)</string>
     
 </resources>
