@@ -421,8 +421,6 @@
 	<string name="prefsGroupMainScreenLabel">Aggiorna schermata principale</string>
 	<string name="prefsKeepScreenOn">Tieni lo schermo attivo</string>
 	
-	<string name="expSearchDayNotes">Filtro nelle note del giorno</string>
-	<string name="expSearchWorkUnitNotes">Filtro nelle note dell\'unità di lavoro</string>
 	<string name="expPrefsAutoCloseWindow">Chiudi messaggio dopo esportazione</string>
 	<string name="taskerPluginSelectAction">Seleziona l\'azione che dovrà essere eseguita:</string>
 	<string name="commonTaskSelectionOpen">Apri lavoro selezionato</string>

@@ -401,8 +401,6 @@
 	
 	
 	<!-- v3.06 -->
-	<string name="expSearchDayNotes">デイノートのフィルター</string>
-	<string name="expSearchWorkUnitNotes">作業ユニットノートのフィルター</string>
 	<string name="expPrefsAutoCloseWindow">エクスポート後にダイアログを終了する</string>
 	<string name="taskerPluginSelectAction">動作するアクションを選択する:</string>
 	<string name="commonTaskSelectionOpen">タスクセレクションを開く</string>

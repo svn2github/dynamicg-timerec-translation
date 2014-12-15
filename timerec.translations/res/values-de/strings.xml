@@ -403,8 +403,6 @@
 	<string name="prefsKeepScreenOn">Bildschirm immer an</string>
 	
 	<!-- v3.06 -->
-	<string name="expSearchDayNotes">Tagesnotiz-Filter</string>
-	<string name="expSearchWorkUnitNotes">Arbeitsnotiz-Filter</string>
 	<string name="expPrefsAutoCloseWindow">Dialog schliessen nach Export</string>
 	<string name="taskerPluginSelectAction">Wähle Aktion die jeweils ausgeführt werden soll:</string>
 	<string name="commonTaskSelectionOpen">Öffne Task-Auswahl</string>

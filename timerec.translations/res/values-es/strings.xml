@@ -418,8 +418,6 @@
 	<string name="prefsKeepScreenOn">Mantener pantalla encendida</string>
 	
 	
-	<string name="expSearchDayNotes">Filtrar días con notas</string>
-	<string name="expSearchWorkUnitNotes">Filtro Notas de bloques de trabajo</string>
 	<string name="expPrefsAutoCloseWindow">Cerrar diálogo después de exportar</string>
 	<string name="taskerPluginSelectAction">Selecciona la acción que debe disparar</string>
 	<string name="commonTaskSelectionOpen">Abrir selección de tarea</string>

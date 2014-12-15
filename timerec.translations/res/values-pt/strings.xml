@@ -404,8 +404,6 @@
 	
 	
 	<!-- v3.06 -->
-	<string name="expSearchDayNotes">Filtro de notas diárias</string>
-	<string name="expSearchWorkUnitNotes">Filtro de notas da tarefas</string>
 	<string name="expPrefsAutoCloseWindow">Fechar caixa de diálogo depois de exportar</string>
 	<string name="taskerPluginSelectAction">Selecione a ação que deve ser disparada:</string>
 	<string name="commonTaskSelectionOpen">Abra seleção de tarefa</string>

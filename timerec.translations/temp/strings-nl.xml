@@ -445,8 +445,6 @@
 	<string name="expPrefsShowEmailOnHTML">Email-Adres op HTML-Export tonen</string>
 	
 	<!-- v3.06 -->
-	<string name="expSearchDayNotes">Dagnotitie-Filter</string>
-	<string name="expSearchWorkUnitNotes">Arbeidnotitie-Filter</string>
 	<string name="expPrefsAutoCloseWindow">Dialoog sluiten na Export</string>
 	<string name="taskerPluginSelectAction">Wähle Aktion die jeweils ausgeführt werden soll:</string>
 	<string name="commonTaskSelectionOpen">Öffne Taak-selectie</string>

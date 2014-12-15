@@ -417,8 +417,6 @@
 	<string name="prefsKeepScreenOn">Keep screen on</string>
 	
 	<!-- v3.06 -->
-	<string name="expSearchDayNotes">Day notes filter</string>
-	<string name="expSearchWorkUnitNotes">Work unit notes filter</string>
 	<string name="expPrefsAutoCloseWindow">Close dialog after export</string>
 	<string name="taskerPluginSelectAction">Select action which shall be triggered:</string>
 	<string name="commonTaskSelectionOpen">Open task selection</string>

@@ -405,8 +405,6 @@
 	<string name="prefsKeepScreenOn">Laisser l\'écran allumé</string>
 	
 	
-	<string name="expSearchDayNotes">Filtre des notes de la journée</string>
-	<string name="expSearchWorkUnitNotes">Filtre des notes des unités de travail</string>
 	<string name="expPrefsAutoCloseWindow">Fermer la boite de dialogue après l\'export</string>
 	<string name="taskerPluginSelectAction">Sélectionnez l\'action qui doit être déclenchée:</string>
 	<string name="commonTaskSelectionOpen">Ouvrir la sélection des tâches</string>

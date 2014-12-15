@@ -398,8 +398,6 @@
 	
 	
 	<!-- v3.06 -->
-	<string name="expSearchDayNotes">日记筛选</string>
-	<string name="expSearchWorkUnitNotes">工作笔记筛选</string>
 	<string name="expPrefsAutoCloseWindow">导出后关闭对话框</string>
 	<string name="taskerPluginSelectAction">选择需要激活的操作:</string>
 	<string name="commonTaskSelectionOpen">打开任务选择界面</string>
