@@ -717,4 +717,7 @@
     <string name="commonMinutes">Minutos</string>
     <string name="nfcAutomation">NFC Automation</string>
     
+    <!-- 5.18 -->
+    <string name="prefsNotifKeepAfterCheckout">Keep after check-out</string>
+    
 </resources>
