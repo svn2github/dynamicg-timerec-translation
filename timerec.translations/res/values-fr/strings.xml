@@ -544,7 +544,6 @@
 	<string name="widgetPro1x1">Gestion du temps Pro 1x1</string>
 	<string name="widgetPro4x1">Gestion du temps Pro 4x1</string>
 	<string name="widgetPro4x2">Gestion du temps Pro 4x2</string>
-	<string name="commonShowActions">Montrez actions</string>
 
 	<string name="commonExclude">Exclure \u00ab{1}\u00bb</string> <!-- VERIFY ("Exclude") -->
 	

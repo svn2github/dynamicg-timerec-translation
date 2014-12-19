@@ -564,7 +564,6 @@
 	<string name="widgetPro4x1">Zeiterfassung Pro 4x1</string>
 	<string name="widgetPro4x2">Zeiterfassung Pro 4x2</string>
 	<!-- expCustomDefaultApp -->
-	<string name="commonShowActions">Aktionen zeigen</string>
 	
 	<string name="commonExclude">Ohne \u00ab{1}\u00bb</string>
 	
@@ -692,5 +691,6 @@
 
     <!-- 5.18 -->
     <string name="prefsHideAdvertisement">Werbung aus (12 Monate)</string>
+    <string name="prefsNotifKeepAfterCheckout">Nach Ausstempeln beibehalten</string>
     
 </resources>

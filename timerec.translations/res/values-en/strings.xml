@@ -597,7 +597,6 @@
 	<string name="widgetPro4x1">Time Recording Pro 4x1</string>
 	<string name="widgetPro4x2">Time Recording Pro 4x2</string>
 	<string name="expCustomDefaultApp">\u00ab{1}\u00bb App</string>
-	<string name="commonShowActions">Show actions</string>
 	
 	<string name="commonExclude">Exclude \u00ab{1}\u00bb</string>
 			
@@ -733,5 +732,6 @@
     
     <!-- 5.18 -->
     <string name="prefsHideAdvertisement">Remove Ads (12 months)</string>
+    <string name="prefsNotifKeepAfterCheckout">Keep after check-out</string>
     
 </resources>

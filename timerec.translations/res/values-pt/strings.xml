@@ -546,7 +546,6 @@
 	<string name="widgetPro1x1">Registro de Horários Pro 1x1</string>
 	<string name="widgetPro4x1">Registro de Horários Pro 4x1</string>
 	<string name="widgetPro4x2">Registro de Horários Pro 4x2</string>
-	<string name="commonShowActions">Mostrar ações</string>
 
 	<string name="commonExclude">Excluir \u00ab{1}\u00bb</string> <!-- VERIFY: Exclude \u00ab{1}\u00bb -->
 	
