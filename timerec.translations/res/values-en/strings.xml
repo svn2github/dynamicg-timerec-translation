@@ -605,9 +605,6 @@
 	<string name="commonGroupBy">Group by</string>
 	<string name="commonLineN">Line {1}</string>
 	
-	<string name="promoTitle">Support {1}</string>
-	<string name="promoBody">If you use this app regularly please consider buying the Pro version.\nThis makes sure the app is properly maintained and gets new features added in the future.\n\nThank you!</string>
-
 	<!-- 5.03 -->
 	<string name="categoryEditHeaderTimeCumulationOff">No time\nsummation</string>
 	<string name="calSyncForceSync">Sync existing entries</string>

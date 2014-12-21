@@ -573,10 +573,4 @@
 	<string name="alarmNotificationDailyTarget"></string> <!-- #PENDING# Daily target reached at {1} -->
 	<string name="alarmNotificationWeeklyTarget"></string> <!-- #PENDING# Weekly target reached at {1} -->
 	
-	<!-- EN/DE ONLY -->
-	<string name="promoTitle"></string> <!-- en/de only -->
-	<string name="promoBody"></string> <!-- en/de only -->
-    <string name="pleaseRateTitle"></string> <!-- EN/DE ONLY -->
-    <string name="pleaseRateBody"></string> <!-- EN/DE ONLY -->
-	
 </resources>

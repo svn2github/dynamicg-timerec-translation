@@ -551,14 +551,6 @@
 	<string name="commonGroupBy">Regroupement</string>
 	<string name="commonLineN">Ligne {1}</string>
 
-    <!--
-    PENDING, OPTIONAL - HIDDEN IN GUI IF NOT AVAILABLE
-	<string name="promoTitle">Support {1}</string>
-	<string name="promoBody">If you use this app regularly please consider buying the Pro version.\nThis makes sure the app is properly maintained and gets new features added in the future.\n\nThank you!</string>
-	-->
-	<string name="promoTitle"></string>
-	<string name="promoBody"></string>
-			
 	<!-- 5.03 -->
 	<string name="categoryEditHeaderTimeCumulationOff">Sans\ntotalisation</string> <!-- VERIFY No time\nsummation (i.e. "do not totalize time on this task") -->
 	<string name="catEdExtra1Short">Extra1</string>

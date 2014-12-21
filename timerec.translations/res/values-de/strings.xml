@@ -571,9 +571,6 @@
 	<string name="commonGroupBy">Gruppierung</string>
 	<string name="commonLineN">Zeile {1}</string>
 
-	<string name="promoTitle">Unterstütze {1}</string>
-	<string name="promoBody">Falls Du diese App regelmässig verwendest dann überleg dir bitte die Pro Version zu kaufen.\nDamit stellst Du sicher dass die App auch in Zukunft sauber gewartet wird und neue Features erhält.\n\nVielen Dank!</string>
-	
 	<!-- 5.03 -->
 	<string name="categoryEditHeaderTimeCumulationOff">Keine Zeit-\nSummierung</string>
 	<string name="calSyncForceSync">Sync bestehende Einträge</string>

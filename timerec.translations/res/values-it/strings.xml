@@ -577,14 +577,6 @@
 	<string name="commonLineN">Linea {1}</string>
 	<string name="expTypeWorktimeOverview">E8 {1}</string>
 	
-    <!--
-    PENDING, OPTIONAL - HIDDEN IN GUI IF NOT AVAILABLE
-	<string name="promoTitle">Supporto {1}</string>
-	<string name="promoBody">Se utilizzi questa app regolarmente, considera, per favore, di acquistare la versione Pro.\nQuesto permette all'app di essere correttamente mantenuta e di essere aggiornata ad intervalli regolari. Inoltre ti da il diritto di utilizzare nuove funzioni che verranno implementate in futuro.\n\nGrazie!</string>
-	-->
-	<string name="promoTitle"></string>
-	<string name="promoBody"></string>
-
 	<!-- 5.03 -->
 	<string name="categoryEditHeaderTimeCumulationOff">Senza\ntotalizzazione</string> <!-- VERIFY No time\nsummation (i.e. "do not totalize time on this task") -->
 	<string name="catEdExtra1Long">Lavoro Extra 1</string>
