@@ -132,7 +132,6 @@
 	<string name="prefsDomRoundDown">Afronden naar beneden</string>
 	<string name="prefsDomRoundInUpOutDown">Aan=boven, Uit=Beneden</string>
 	<string name="prefsDomRoundInDownOutUp">Aan=Beneden, Uit=boven</string>
-	<string name="prefsProOnlyFeature">\u2192 Alleen in de Pro-Versie aktief</string>
 	<string name="prefsPunchRoundTaskSwitch">Ook bij \'Taak wisselen\' van toepassing</string>
 	<string name="prefsCalendarSyncGroup">Google Kalender Sync</string>
 	<string name="prefsHomescreenBtSmall">Kleine knoppen op Homescreen</string>

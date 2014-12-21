@@ -119,7 +119,6 @@
 	<string name="prefsDomRoundStd">Round</string>
 	<string name="prefsDomRoundUp">Round up</string>
 	<string name="prefsDomRoundDown">Round down</string>
-	<string name="prefsProOnlyFeature">\u2192 This is a \"Pro version only\" feature</string>
 	<string name="prefsPunchRoundTaskSwitch">Also apply on «Switch task»</string>
 	<string name="prefsCalendarSyncGroup">Google calendar sync</string>
 	
@@ -604,7 +603,7 @@
 	<string name="expTypeWorktimeOverview">E8 {1}</string>
 	<string name="commonGroupBy">Group by</string>
 	<string name="commonLineN">Line {1}</string>
-	
+
 	<!-- 5.03 -->
 	<string name="categoryEditHeaderTimeCumulationOff">No time\nsummation</string>
 	<string name="calSyncForceSync">Sync existing entries</string>
@@ -730,5 +729,7 @@
     <!-- 5.18 -->
     <string name="prefsHideAdvertisement">Remove Ads (12 months)</string>
     <string name="prefsNotifKeepAfterCheckout">Keep after check-out</string>
+    <string name="commonUnlock">Unlock</string>
+    <string name="commonFeatureLocked">This feature is locked</string>
     
 </resources>

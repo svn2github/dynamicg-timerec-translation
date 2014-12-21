@@ -121,7 +121,6 @@
 	<string name="prefsDomRoundStd">四舍五入</string>
 	<string name="prefsDomRoundUp">向上凑整</string>
 	<string name="prefsDomRoundDown">向下凑整</string>
-	<string name="prefsProOnlyFeature">\u2192仅限\"Pro版\"</string>
 	<string name="prefsPunchRoundTaskSwitch">应用于\'切换任务\'</string>
 	<string name="prefsCalendarSyncGroup">同步到Google calendar</string>
 	<string name="prefsHomescreenBtSmall">显示小按键以增加工作区空间</string>

@@ -116,7 +116,6 @@
 	<string name="prefsDomRoundStd">Redondeo</string>
 	<string name="prefsDomRoundUp">Redondeo al alza</string>
 	<string name="prefsDomRoundDown">Redondeo a la baja</string>
-	<string name="prefsProOnlyFeature">\u2192 Esta característica está sólo en la \"versión Pro\"</string>
 
     <string name="stdStampTitle">Pausas &amp; bloques</string>
     <string name="stdStampTypeBlockShort">Bloques</string>

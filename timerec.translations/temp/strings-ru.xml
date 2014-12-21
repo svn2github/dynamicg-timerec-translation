@@ -132,7 +132,6 @@
 	<string name="prefsDomRoundDown">Round down</string>
 	<string name="prefsDomRoundInUpOutDown">In=up, Out=down</string>
 	<string name="prefsDomRoundInDownOutUp">In=down, Out=up</string>
-	<string name="prefsProOnlyFeature">\u2192 This is a \"Pro version only\" feature</string>
 	<string name="prefsPunchRoundTaskSwitch">Also apply on \'Switch task\'</string>
 	<string name="prefsCalendarSyncGroup">Синхронизация с Google calendar </string>
 	<string name="prefsHomescreenBtSmall">Маленькие кнопки в главном окне</string>

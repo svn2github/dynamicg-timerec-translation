@@ -125,7 +125,6 @@
 	<string name="prefsDomRoundStd">Arredondar</string>
 	<string name="prefsDomRoundUp">Arredondar para cima</string>
 	<string name="prefsDomRoundDown">Arredondar para baixo</string>
-	<string name="prefsProOnlyFeature">\u2192 Esta funcionalidade está disponível apenas na versão \"Pro\"</string>
 	<string name="prefsPunchRoundTaskSwitch">Também aplicar para \'Trocar tarefa\'</string>
 	<string name="prefsCalendarSyncGroup">Sincronizar com agenda Google</string>
 	<string name="prefsHomescreenBtSmall">Botões pequenos na tela inicial</string>

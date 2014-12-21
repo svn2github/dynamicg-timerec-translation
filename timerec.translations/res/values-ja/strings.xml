@@ -113,7 +113,6 @@
 	<string name="prefsDomRoundStd">四捨五入</string>
 	<string name="prefsDomRoundUp">切り上げ</string>
 	<string name="prefsDomRoundDown">切り下げ</string>
-	<string name="prefsProOnlyFeature">\u2192 こちらは \"Proバージョン用\" 仕様</string>
 	<string name="prefsPunchRoundTaskSwitch"> «タスクの切り替え»にも適用</string>
 	<string name="prefsCalendarSyncGroup">Google カレンダーへのシンク</string>
 	

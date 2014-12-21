@@ -124,7 +124,6 @@
 	<string name="prefsDomRoundStd">Runden</string>
 	<string name="prefsDomRoundUp">Aufrunden</string>
 	<string name="prefsDomRoundDown">Abrunden</string>
-	<string name="prefsProOnlyFeature">\u2192 Nur in der Pro-Version aktiv</string>
 	<string name="prefsPunchRoundTaskSwitch">Auch bei «Task wechseln» anwenden</string>
 	<string name="prefsCalendarSyncGroup">Google Kalender Sync</string>
 	<string name="prefsHomescreenBtSmall">Kleine Schaltflächen</string>
@@ -689,5 +688,7 @@
     <!-- 5.18 -->
     <string name="prefsHideAdvertisement">Werbung aus (12 Monate)</string>
     <string name="prefsNotifKeepAfterCheckout">Nach Ausstempeln beibehalten</string>
+    <string name="commonUnlock">Freischalten</string>
+    <string name="commonFeatureLocked">Diese Funktion ist gesperrt</string>
     
 </resources>
