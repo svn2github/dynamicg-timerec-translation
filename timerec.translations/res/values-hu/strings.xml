@@ -360,7 +360,7 @@
 	<string name="catExtFileMissing">Import fájl nincs meg.</string>
 	<string name="catExtImpConfirm1">\u2192 Létező  {1} Feladatok törölve lesznek</string>
 	<string name="catExtImpConfirm2">\u2192 Bizonyosodjon meg arról hogy nem változtatja meg az ID-t amelyik feladatok használatban vannak</string>
-	<string name="commonCannotUndo">\u2192 Ez a művelet nem vonható vissza'</string>
+	<string name="commonCannotUndo">\u2192 Ez a művelet nem vonható vissza</string>
 	<string name="catExtImpConfirm4">\u2022 Fájl: {1}</string>
 	<string name="catExtImpConfirm5">\u2022 Feladatok importálva : {1}</string>
 	<string name="catExtNothingToImport">Nincs mit importálni</string>
