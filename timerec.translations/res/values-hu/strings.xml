@@ -54,7 +54,7 @@
     <string name="commonBreak">Szünet</string>
     <string name="commonEnabledOption">«{1}» engedélyezve</string>
     <string name="commonActive">Aktív</string>
-    <string name="commonActionEdit">Szerkeszt «{1}»</string>
+    <string name="commonActionEdit">«{1}» Szerkesztése</string>
 	<string name="commonSeeOnlineHelp">\u24D8 Forduljon online segítségért</string>
 	<string name="commonData">Adat</string>
 	<string name="commonFile">Fájl</string>
@@ -194,7 +194,7 @@
 	<string name="expTypeOverviewWorkUnits">E2 munka egység nézet</string>
 	<string name="expTypeOverviewDayAttendance">E3 Nap részvétel</string>
 	<string name="expTypeTasksPerDay">E4 Feladatok naponta</string>
-	<string name="expPreview">Preview</string>
+	<string name="expPreview">Előnézet</string>
 	
 	<string name="fileDeliveryLabel">Kézbesítés</string>
 	<string name="fileDeliveryEmail">Küldés emailben</string>
@@ -429,7 +429,7 @@
 	<string name="calSyncCalendarTypeExclusive">Csak a TimeRec-hez</string>
 	<string name="calSyncCalendarTypeShared">Megosztva, több bejegyzéssel</string>
 	
-	<string name="helpInfo">Info</string>
+	<string name="helpInfo">Infó</string>
     <string name="helpFAQ">Segitség &amp; GYIK</string>
 	<string name="helpWhatsNew">Újdonságok</string>
 	<string name="prefsMinimumBreak">Minimális szünetek hossza</string>
@@ -481,7 +481,7 @@
     
 	<string name="commonWorktimeOverview">Munkaidő áttekintés</string>
 	<string name="commonViewNoun">Mutat :</string>
-	<string name="commonShort">Rendez</string>
+	<string name="commonShort">Rövid</string>
 	<string name="expPrefsIsoDateFormat">ÉÉÉÉ/HH/NN</string>
 	
     <string name="prefsReportingPeriod">Jelentés periódusa</string>
@@ -507,7 +507,7 @@
 	<string name="commonOverview">Áttekintés</string>
     
     <!-- 4.09 -->
-    <string name="commonAuto">Auto</string> <!-- "Automatic" -->
+    <string name="commonAuto">Automatikus</string> <!-- "Automatic" -->
     <string name="commonSwitchView">Kapcsoló nézet</string>
     <string name="commonContinueTask">Feladat folytatása</string>
     <string name="commonOnlineHelp">Online segitség</string>
