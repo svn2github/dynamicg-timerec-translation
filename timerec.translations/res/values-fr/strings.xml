@@ -8,14 +8,12 @@
     
     <string name="homescreenCheckinNow">Démarrer</string>
     <string name="homescreenCheckoutNow">Terminer</string>
-    <string name="homescreenAddBreak">Ajouter Pause</string>
     <string name="homescreenHintNoStamps">Aucune entrée présente.\nOuvrez \'Jour\' et utilisez la \'Flèche Gauche\' pour ajouter des entrées sur les jours précédents.</string>
     <string name="homescreenAddStamp">Nouvelle entrée</string>
 
     <string name="menuEditStampsShort">Editer les entrées</string>
     <string name="menuPreferences">Préférences</string>
     <string name="menuAdmin">Admin</string>
-    <string name="menuAddStandardEntry">Ajouter pause/bloc</string>
     <string name="menuMore">Plus</string>
     
     <string name="commonDays">Jours</string>
@@ -679,7 +677,12 @@
     <string name="commonMinutes">Minutes</string>
     <string name="nfcAutomation">NFC Automation</string>
 
-    <!-- 5.18 -->
+    <!-- 6.01 -->
     <string name="prefsNotifKeepAfterCheckout">Keep after check-out</string>
+    
+    <!-- 6.02 -->
+    <string name="commonTemplate">Template</string>
+    <string name="commonAddFromTemplate">Template</string> <!-- menu item on Day view: "Add from template" -->
+    <string name="commonUndoChanges">Annuler les modifications</string>
     
 </resources>

@@ -708,7 +708,12 @@
     <string name="commonMinutes">Minutos</string>
     <string name="nfcAutomation">NFC Automation</string>
     
-    <!-- 5.18 -->
+    <!-- 6.01 -->
     <string name="prefsNotifKeepAfterCheckout">Keep after check-out</string>
+    
+    <!-- 6.02 -->
+    <string name="commonTemplate">Template</string>
+    <string name="commonAddFromTemplate">Template</string> <!-- menu item on Day view: "Add from template" -->
+    <string name="commonUndoChanges">Annullare le modifiche</string>
     
 </resources>
