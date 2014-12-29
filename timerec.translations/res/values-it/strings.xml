@@ -710,7 +710,7 @@
     <string name="prefsNotifKeepAfterCheckout">Keep after check-out</string>
     
     <!-- 6.02 -->
-    <string name="commonTemplate">Template</string>
+    <string name="commonTemplate">Modello</string>
     <string name="commonUndoChanges">Annullare le modifiche</string>
     
 </resources>
