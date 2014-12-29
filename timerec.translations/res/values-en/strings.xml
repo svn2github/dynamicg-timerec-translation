@@ -735,7 +735,7 @@
     <string name="commonAddFromTemplate">Add from template</string>
     <string name="commonUndoChanges">Undo changes</string>
     
-    <!-- will be removed with 6.02 (is replaced by "commonTemplate" and "commonAddFromTemplate" -->
+    <!-- will be removed with 6.02 (replaced by "commonTemplate" and "commonAddFromTemplate" -->
     <string name="homescreenAddBreak">Add break</string>
     <string name="menuAddStandardEntry">Add break/unit</string>
     
