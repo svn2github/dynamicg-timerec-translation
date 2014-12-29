@@ -7,14 +7,12 @@
     
     <string name="homescreenCheckinNow">Jetzt einstempeln</string>
     <string name="homescreenCheckoutNow">Jetzt ausstempeln</string>
-    <string name="homescreenAddBreak">Pause</string>
     <string name="homescreenHintNoStamps">Keine Einträge.\n«Tag» öffnen und «Pfeil links» benutzen um Einträge für vergangene Tage zu erfassen.</string>
     <string name="homescreenAddStamp">Stempeln</string>
 
     <string name="menuEditStampsShort">Editieren</string>
     <string name="menuPreferences">Einstellungen</string>
     <string name="menuAdmin">Administration</string>
-    <string name="menuAddStandardEntry">Pause/Block einfügen</string> <!-- long text to force 3 menu item lines -->
     <string name="menuMore">Mehr</string>
     
     <string name="commonDays">Tage</string>
@@ -690,5 +688,14 @@
     <string name="prefsNotifKeepAfterCheckout">Nach Ausstempeln beibehalten</string>
     <string name="commonUnlock">Freischalten</string>
     <string name="commonFeatureLocked">Diese Funktion ist gesperrt</string>
+    
+    <!-- 6.02 -->
+    <string name="commonTemplate">Vorlage</string>
+    <string name="commonAddFromTemplate">Aus Vorlage einfügen</string>
+    <string name="commonUndoChanges">Änderungen zurücknehmen</string>
+    
+    <!-- wird mit 6.02 entfernt (ersetzt durch "commonTemplate" and "commonAddFromTemplate" -->
+    <string name="homescreenAddBreak">Pause</string>
+    <string name="menuAddStandardEntry">Pause/Block einfügen</string> <!-- long text to force 3 menu item lines -->
     
 </resources>

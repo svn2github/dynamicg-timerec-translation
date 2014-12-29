@@ -5,13 +5,11 @@
     <string name="app_name_pro">Time Recording Pro</string>
     <string name="homescreenCheckinNow">Check in now</string>
     <string name="homescreenCheckoutNow">Check out now</string>
-    <string name="homescreenAddBreak">Add break</string>
     <string name="homescreenHintNoStamps">No stamps.\nOpen «Day» and use «Left Arrow» to add entries to past days.</string>
     <string name="homescreenAddStamp">Add stamp</string>
     <string name="menuEditStampsShort">Edit stamps</string>
     <string name="menuPreferences">Preferences</string>
     <string name="menuAdmin">Admin</string>
-    <string name="menuAddStandardEntry">Add break/unit</string>
     <string name="menuMore">More</string>
     <string name="commonDays">Days</string>
     <string name="commonEdit">Edit</string>
@@ -731,5 +729,14 @@
     <string name="prefsNotifKeepAfterCheckout">Keep after check-out</string>
     <string name="commonUnlock">Unlock</string>
     <string name="commonFeatureLocked">This feature is locked</string>
+    
+    <!-- 6.02 -->
+    <string name="commonTemplate">Template</string>
+    <string name="commonAddFromTemplate">Add from template</string>
+    <string name="commonUndoChanges">Undo changes</string>
+    
+    <!-- will be removed with 6.02 (is replaced by "commonTemplate" and "commonAddFromTemplate" -->
+    <string name="homescreenAddBreak">Add break</string>
+    <string name="menuAddStandardEntry">Add break/unit</string>
     
 </resources>
