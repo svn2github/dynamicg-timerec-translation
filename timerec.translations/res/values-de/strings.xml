@@ -118,7 +118,7 @@
 	<string name="prefsDomWidgetActionOpen">App öffnen</string>
 	<string name="prefsDomWidgetActionPunch">Stempeln</string>
 	<string name="prefsDomWidgetActionMixed">Icon=Stempeln, Text=Öffnen</string>
-	<string name="prefsPunchNowRounding">Rundung bei \'Jetzt stempeln\'</string>
+	<string name="prefsPunchNowRounding">Zeit runden bei «Jetzt stempeln»</string>
 	<string name="prefsPunchNowRoundingOption">Rundung</string>
 	<string name="prefsPunchNowRoundingSlot">Minuten-Rundung</string>
 	<string name="prefsDomRoundStd">Runden</string>

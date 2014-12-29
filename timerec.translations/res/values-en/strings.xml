@@ -113,7 +113,7 @@
 	<string name="prefsDomWidgetActionOpen">Open app</string>
 	<string name="prefsDomWidgetActionPunch">Punch time</string>
 	<string name="prefsDomWidgetActionMixed">Icon=punch, Text=open</string>
-	<string name="prefsPunchNowRounding">Rounding on \'punch now\'</string>
+	<string name="prefsPunchNowRounding">Time rounding on «Punch now»</string>
 	<string name="prefsPunchNowRoundingOption">Rounding</string>
 	<string name="prefsPunchNowRoundingSlot">Round to minutes</string>
 	<string name="prefsDomRoundStd">Round</string>
