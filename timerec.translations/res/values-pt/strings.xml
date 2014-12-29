@@ -680,7 +680,7 @@
     <string name="prefsNotifKeepAfterCheckout">Keep after check-out</string>
     
 	<!-- 6.02 -->
-    <string name="commonTemplate">Template</string>
+    <string name="commonTemplate">Padrão</string>
     <string name="commonUndoChanges">Desfazer as alterações</string>
     
 </resources>
