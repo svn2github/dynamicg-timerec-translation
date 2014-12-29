@@ -682,7 +682,6 @@
     
     <!-- 6.02 -->
     <string name="commonTemplate">Template</string>
-    <string name="commonAddFromTemplate">Template</string> <!-- menu item on Day view: "Add from template" -->
     <string name="commonUndoChanges">Annuler les modifications</string>
     
 </resources>

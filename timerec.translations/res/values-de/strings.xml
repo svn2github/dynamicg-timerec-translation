@@ -691,10 +691,9 @@
     
     <!-- 6.02 -->
     <string name="commonTemplate">Vorlage</string>
-    <string name="commonAddFromTemplate">Aus Vorlage einfügen</string>
     <string name="commonUndoChanges">Änderungen zurücknehmen</string>
     
-    <!-- wird mit 6.02 entfernt (ersetzt durch "commonTemplate" und "commonAddFromTemplate" -->
+    <!-- wird mit 6.02 entfernt (ersetzt durch "commonTemplate" -->
     <string name="homescreenAddBreak">Pause</string>
     <string name="menuAddStandardEntry">Pause/Block einfügen</string> <!-- long text to force 3 menu item lines -->
     
