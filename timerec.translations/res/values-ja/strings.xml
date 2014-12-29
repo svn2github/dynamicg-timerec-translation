@@ -5,12 +5,10 @@
     <string name="app_name_pro">Time Recording Pro</string>
     <string name="homescreenCheckinNow">今すぐチェックイン</string>
     <string name="homescreenCheckoutNow">今すぐチェックアウト</string>
-    <string name="homescreenAddBreak">ブレイクの追加</string>
     <string name="homescreenAddStamp">スタンプの追加</string>
     <string name="menuEditStampsShort">スタンプの編集</string>
     <string name="menuPreferences">ユーザー設定</string>
     <string name="menuAdmin">アドミン</string>
-    <string name="menuAddStandardEntry">ブレイク/ユニットの追加</string>
     <string name="menuMore">追加</string>
     <string name="commonDays">日</string>
     <string name="commonEdit">編集する</string>

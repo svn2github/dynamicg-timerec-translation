@@ -8,14 +8,12 @@
     
     <string name="homescreenCheckinNow">Iniciar</string>
     <string name="homescreenCheckoutNow">Finalizar</string>
-    <string name="homescreenAddBreak">Pausar</string>
     <string name="homescreenHintNoStamps">Sin tiempos aún.\nAbre \'Día\' y usa la flecha \'Izqueirda\' para añadir entradas en el pasado.</string>
     <string name="homescreenAddStamp">Añadir entrada</string>
 
     <string name="menuEditStampsShort">Editar entradas</string>
     <string name="menuPreferences">Preferencias</string>
     <string name="menuAdmin">Administrar</string>
-    <string name="menuAddStandardEntry">Añadir pausa/bloque</string>
     <string name="menuMore">Más</string>
     
     <string name="commonDays">Días</string>

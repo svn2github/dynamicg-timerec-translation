@@ -8,14 +8,12 @@
     
     <string name="homescreenCheckinNow">Check in agora</string>
     <string name="homescreenCheckoutNow">Check out agora</string>
-    <string name="homescreenAddBreak">Adicionar intervalo</string>
     <string name="homescreenHintNoStamps">Sem registros ainda.\nAbra \'Dia\' e use \'Seta Esquerda\' para adicionar entradas nos dias anteriores.</string>
     <string name="homescreenAddStamp">Adicionar registro</string>
 
     <string name="menuEditStampsShort">Editar registros</string>
     <string name="menuPreferences">Preferências</string>
     <string name="menuAdmin">Admin</string>
-    <string name="menuAddStandardEntry">Adicionar intervalo</string>
     <string name="menuMore">Mais</string>
     
     <string name="commonDays">Dias</string>

@@ -7,13 +7,11 @@
     <string name="app_name_pro">Time Recording Pro</string>
     <string name="homescreenCheckinNow">开始打卡</string>
     <string name="homescreenCheckoutNow">结束打卡</string>
-    <string name="homescreenAddBreak">添加间歇</string>
     <string name="homescreenHintNoStamps">目前没有记录。\n请点击\'日\'，然后点击左箭头，手动添加一个过去的记录。</string>
     <string name="homescreenAddStamp">添加时间戳</string>
     <string name="menuEditStampsShort">编辑时间戳</string>
     <string name="menuPreferences">设置</string>
     <string name="menuAdmin">管理</string>
-    <string name="menuAddStandardEntry">添加间歇/工作单元</string>
     <string name="menuMore">更多</string>
     <string name="commonDays">日</string>
     <string name="commonEdit">编辑</string>

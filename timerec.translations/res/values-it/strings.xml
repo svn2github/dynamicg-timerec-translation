@@ -8,14 +8,12 @@
     
     <string name="homescreenCheckinNow">Inizia ora</string>
     <string name="homescreenCheckoutNow">Termina ora</string>
-    <string name="homescreenAddBreak">Aggiungi pausa</string>
     <string name="homescreenHintNoStamps">Nessuna timbratura effettuata.\nApri \'Giorno\' ed usa la \'Freccia Sinistra\' per aggiungere annotazioni dei giorni passati.</string>
     <string name="homescreenAddStamp">Aggiungi timbratura</string>
 
     <string name="menuEditStampsShort">Modifica timbrature</string>
     <string name="menuPreferences">Preferenze</string>
     <string name="menuAdmin">Admin</string>
-    <string name="menuAddStandardEntry">Aggiungi pausa/blocco</string>
     <string name="menuMore">Altro</string>
     
     <string name="commonDays">Giorni</string>
