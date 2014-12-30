@@ -1,0 +1,741 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <string name="app_name">Time Recording</string>
+    <string name="app_name_pro">Time Recording Pro</string>
+    <string name="homescreenCheckinNow">Začátek</string>
+    <string name="homescreenCheckoutNow">Konec</string>
+    <string name="homescreenHintNoStamps">No záznamy.\nOtevřete «Den» a použijte «Šipku doleva» pro vložení zápisů k minulým dnům.</string>
+    <string name="homescreenAddStamp">Vlož záznam</string>
+    <string name="menuEditStampsShort">Uprav záznamy</string>
+    <string name="menuPreferences">Předvolby</string>
+    <string name="menuAdmin">Správce</string>
+    <string name="menuMore">Další možnosti</string>
+    <string name="commonDays">Dny</string>
+    <string name="commonEdit">Uprav</string>
+    <string name="commonError">Chyba</string>
+    <string name="commonYes">Ano</string>
+    <string name="commonNo">Ne</string>
+    <string name="commonTitleCheckIn">Začátek</string>
+    <string name="commonTitleCheckOut">Konec</string>
+    <string name="commonActionAddCheckIn">Přidej začátek</string>
+    <string name="commonActionAddCheckOut">Přidej konec</string>
+    <string name="commonSample">Vzor</string>
+    <string name="commonReports">Výstupy</string>
+    <string name="commonCategories">Úkoly</string>
+    <string name="commonHourlyRate">Hodinová sazba</string>
+    <string name="commonEditCategories">Uprav úkoly</string>
+    <string name="commonStop">Konec</string>
+    <string name="commonType">Typ</string>
+    <string name="commonIn">Od</string>
+    <string name="commonOut">Do</string>
+    <string name="commonDay">Den</string>
+    <string name="commonWeek">Týden</string>
+    <string name="commonMonth">Měsíc</string>
+    <string name="commonDelete">Smazat</string>
+    <string name="commonHoursPerDay">Hodin za den</string>
+    <string name="commonGrandTotal">Celkový součet</string>
+    <string name="commonSettings">Nastavení</string>
+    <string name="commonDisabled">Zakázáno</string>
+    <string name="commonDefault">Výchozí</string>
+    <string name="commonAdvanced">Rozšířené</string>
+    <string name="commonOutput">Výstup</string>
+    <string name="commonFilter">Filtr</string>
+    <string name="commonTotal">Součet</string>
+    <string name="commonStart">Start</string>
+    <string name="commonTask">Úkol</string>
+    <string name="commonText">Text</string>
+    <string name="commonSortAZ">Řadit A-Z</string>
+    <string name="commonEditShort">Uprav</string>
+    <string name="commonDetails">Detaily</string>
+	<string name="commonDoneToast">{1} \u2192hotovo</string>
+    <string name="commonBreak">Pauza</string>
+    <string name="commonEnabledOption">«{1}» povoleno</string>
+    <string name="commonActive">Aktivní</string>
+    <string name="commonActionEdit">Uprav «{1}»</string>
+	<string name="commonSeeOnlineHelp">\u24D8 viz online nápověda</string>
+	<string name="commonData">Data</string>
+	<string name="commonFile">Soubor</string>
+	<string name="commonOpenWith">Otevřít s</string>
+	<string name="commonPreviouslyUsed">Poslední použité</string>
+	
+    <string name="buttonOk">OK</string>
+    <string name="buttonCancel">Storno</string>
+    <string name="buttonChange">Změnit</string>
+    <string name="buttonClose">Zavřít</string>
+    <string name="buttonSave">Uložit</string>
+    <string name="buttonResetText">Reset</string>
+    <string name="buttonSwitchTask">Změň úkol</string>
+
+    <string name="headerDate">Datum</string>
+    <string name="headerTotalDecimal">Součet (desítkově)</string>
+    <string name="headerTime">Čas</string>
+    <string name="headerCheckAction">Akce</string>
+    <string name="headerAmount">Částka</string>
+    <string name="headerAmountShort">Částka</string>
+    <string name="headerNoteDay">Denní poznámky</string>
+    <string name="headerNoteWorkUnit">Poznámky k prac. záznamu</string>
+    <string name="headerDelta">Rozdíl</string>
+    
+    <string name="editSetNewTime">Nastav nový čas</string>
+    
+    <string name="confirmDeleteEntry">Smazat tento záznam?</string>
+    <string name="confirmDeleteDay">Smazat položky pro tento den?</string>
+    <string name="checkboxIncludeDayNotes">Včetně denních poznámek</string>
+    <string name="confirmUpdateAdjacent">Aktualizovat také navazující záznam?</string>
+    
+    <string name="prefsExportRecipient">Výchozí příjemce e-mailu</string>
+    <string name="prefsExpCsvDataSeparator">Oddělovač sloupců</string>
+    <string name="prefsTotalFormat">Formát zobrazení - celkem</string>
+    <string name="prefsTimeFormat">Formát zobrazení - čas</string>
+    <string name="prefsDateFormat">Formát zobrazení - datum</string>
+    <string name="prefsFirstDayOfWeek">První den týdnu</string>
+    <string name="prefsFirstDayOfMonth">První den měsíce (1-31)</string>
+    <string name="prefsAmountCurrencyString">Vzhled částky/měny</string>
+    <string name="prefsDailyTargetTime">Denní cílový čas</string>
+    <string name="prefsTimePickerIncrement">Minutový interval</string>
+	<string name="prefsShortTab4">Datum,Čas</string>
+	<string name="prefsShortTracking">Sledování</string>
+	<string name="prefsGroupInterface">Zobrazení</string>
+	<string name="prefsWeekdayTargetTime">Přepsat cílový čas pro prac. den</string>
+    <string name="prefsGroupFormatOptions">Možnosti formátu</string>
+    <string name="prefsGroupCalendar">Kalendář</string>
+    <string name="prefsWeeklyTargetTime">Týdenní cílový čas</string>
+    <string name="hintWeeklyTargetTime">\u2192 Vzorový zápis: \'38.75\'. Zakážete vymazáním.</string>
+	<string name="prefsDefaultCategory">Výchozí úkol</string>
+	<string name="prefsKeepPrevCategory">Zachovat akt. úkol po pauze</string>
+	<string name="prefsExpDecimalSep">Desítkový oddělovač</string>
+	<string name="prefsCollapseCheckBtn">Sloučit tlačítka \'začátek/konec\'</string>
+	<string name="prefsGridViewFont">Velikost fontu</string>
+	<string name="prefsWidgetClickAction">Akce po kliknutí na widget</string>
+	<string name="prefsDomWidgetActionOpen">Otevřít aplikaci</string>
+	<string name="prefsDomWidgetActionPunch">Přepnout čas</string>
+	<string name="prefsDomWidgetActionMixed">Icon=přepnout, Text=otevřít</string>
+	<string name="prefsPunchNowRounding">Zaokrouhlovat u \'Přepnout\'</string>
+	<string name="prefsPunchNowRoundingOption">Zaokrouhlování</string>
+	<string name="prefsPunchNowRoundingSlot">Zaokrouhlování na minuty</string>
+	<string name="prefsDomRoundStd">Zaokrouhlit</string>
+	<string name="prefsDomRoundUp">Zaokrouhlit nahoru</string>
+	<string name="prefsDomRoundDown">Zaokrouhlit dolů</string>
+	<string name="prefsPunchRoundTaskSwitch">Použít také při «Změně úkolu»</string>
+	<string name="prefsCalendarSyncGroup">Synchr. s Google kalendářem</string>
+	
+	<!-- when you tick that and restart the app, the buttons should be smaller than before, i.e. more space is available for the "body" -->
+	<string name="prefsHomescreenBtSmall">Malá tlačítka</string>
+	
+	<string name="calSyncCalendarName">Jméno kalendáře</string>
+	<string name="calSyncHints2">\u2192 Je podporována jen jednosměrná synchronizace</string>
+	
+	<!-- for calendar sync - how long should the system wait before syncing data from my app to calendar when the user has changed something -->
+	<string name="calSyncWriteDelay">Prodleva zápisu (sek/minut) po změně</string>
+	
+	<string name="calSyncForStamps">Synchrnizovat záznamy jako \'události\'</string>
+	<string name="calSyncForDayNotes">Synchrnizovat denní poznámky jako \'celodenní událost\'</string>
+	<string name="calSyncShowConfirmation">Zobraz potvrzení po synchronizaci</string>
+	<string name="calSyncEventTitleLabel">Titulek události</string>
+	<string name="calSyncCheckSettings">Kliknutím označíte «{1}» nastavení.</string>
+	<string name="marketPluginMissing">Vyžadován plugin. Kliknutím stáhnete</string>
+	<string name="calSyncInvalidCalendarTitle">Jméno kalendáře není správné</string>
+	
+    <string name="stdStampTitle">Pauzy &amp; prac. záznamy</string>
+    <string name="stdStampTypeBlockShort">Zázn.</string>
+    <string name="stdStampTypeBlockLong">Prac. záznam</string>
+    <string name="stdStampTypeBreakNow">Pauza - od teď:</string>
+    <string name="stdStampBreakForLastMI">nazpět na {1} minut</string>
+    <string name="stdStampBreakForNextMI">dopředu na {1} minut</string>
+    <string name="stdStampsBreakNowItems">Záznamy pro «{1}»</string>
+    
+    <string name="autoBreakTitle">Automatické pauzy</string>
+    <string name="autoBreakBookWhen">Kdy</string>
+    <string name="autoBreakDomFirst">Aktivní, jedna pauza</string>
+    <string name="autoBreakDomAll">Aktivní, více pauz</string>
+    
+    <string name="dailyTargetOptionTitle">Možnosti cílového času</string>
+    <string name="dailyTargetOptTurnOff">Vypnout</string>
+    <string name="dailyTargetOptOvertime">Zapsat jako přesčas</string>
+    <string name="dailyTargetReachedAtLabel">Cíl dosažen v {1}</string>
+    <string name="dailyTargetReachedAtPref">Zobrazit «Cíl dosažen v»</string>
+    
+    <string name="sendMailIntentTitle">Odeslat e-mail</string>
+    <string name="exportMailTitle">Výstup Time Recordingu {3}, {1}</string>
+    <string name="exportMailBody">{title}\nvytvořen v {2}</string>
+    
+    <!-- refers to Excel import of the CSV produced by my app - that message is in the body of the email when sending a CSV report and tries to say "if import is scrambled and everything is packed into one single field, then please go to my app's export settings and try changing the item called "Column Separator" there" -->
+    <string name="exportColumnSeparatorHint">Rada: změňte \'oddělovač sloupců\' v nastavení exportu, pokud jsou data importována jako jediný sloupec</string>
+	
+	<string name="repTaskMatrix">Analýza úkolů</string>
+	<string name="expPrefsDataInclusion">Zahrnutí dat</string>
+	<string name="expPrefsAttachmentMimeType">Typ MIME přílohy</string>
+	
+	<!-- do not translate, used for custom "send report" app settings -->
+	<string name="expPrefsTargetIntent">\'Send\' target intent</string>
+	
+	<string name="expPrefsFileEncoding">Kódování souboru</string>
+	<string name="expPrefsHideAmounts">Skryj částku</string>
+	<string name="expPrefsAmtWithCurrency">Zobraz měnu u množst.</string>
+	<string name="expPrefsDaysToShow">Zobraz tyto dny</string>
+	<string name="expDomDaysShowAll">vše</string>
+	<string name="expDomDaysShowSt">se záznamy</string>
+	<string name="expDomDaysShowStNt">se záznamy nebo poznámkami</string>
+	<string name="expDomNotesFilterEqual">se rovná</string>
+	<string name="expDomNotesFilterLike">obsahuje</string>
+	<string name="expDomNotesFilterNotLike">neobsahuje</string>
+	<string name="expPrefsShowTotalLine">Zobraz řádek \'Celkem\'</string>
+	<string name="expPrefsGroupBreakDate">Seskupit pauzy pro \'Datum\'</string>
+	<string name="expPrefsCharsetCommon">Obvyklé kódové tabulky</string>
+	<string name="expPrefsCharsetFullList">Kompletní seznam</string>
+	<string name="expPrefsTransposeMatrix">Převrátit data v tabulce</string>
+	<string name="expPrefsFilenamePrefix">Předpona názvů souborů</string>
+	<string name="expPrefsE4SkipSingleTaskTotal">Přeskoč součet úkolů, ponech celkový součet</string>
+	
+	<string name="expTypeOverviewDays">E1 přehled dne</string>
+	<string name="expTypeOverviewWorkUnits">E2 přehled prac. záznamů</string>
+	<string name="expTypeOverviewDayAttendance">E3 denní docházka</string>
+	<string name="expTypeTasksPerDay">E4 úkoly za den</string>
+	<string name="expPreview">Náhled</string>
+	
+	<string name="fileDeliveryLabel">Doručení</string>
+	<string name="fileDeliveryEmail">Odeslat jako e-mail</string>
+	<string name="fileDeliveryCloud">Nahrát na: {1}</string>
+	<string name="commonRestoreFrom">Obnovit z: {1}</string>
+	
+    <string name="domainSepComma">čárka [,]</string>
+    <string name="domainSepSemicolon">středník [;]</string>
+    <string name="domainSepPipe">svislítko [|]</string>
+    <string name="domainSepTab">tabulátor</string>
+    <string name="domainTotStandard">Normální [08:45]</string>
+    <string name="domainTotDecimal">Desítkový [08.75]</string>
+    <string name="domainTime24">24 hodinový [13:45]</string>
+    <string name="domainTimeAMPM">AM/PM [01:45pm]</string>
+    <string name="domainTimeDecimal">24 hodinový desítkový [13.75]</string>
+    <string name="domainDateDDpMM">Den.Měsíc</string>
+    <string name="domainDateDDsMM">Den/Měsíc</string>
+    <string name="domainDateMMpDD">Měsíc.Den</string>
+    <string name="domainDateMMsDD">Měsíc/Den</string>
+    <string name="domainDateDashYMD">(Rok)-Měsíc-Den</string>
+    <string name="domainMonthview1M">1 měsíc</string>
+    <string name="domainMonthview2W">2 týdny</string>
+    <string name="domainMonthview4W">4 týdny</string>
+    <string name="domainMonthview1W">1 týden</string>
+	<string name="domainExpDataInclusionAttachment">Soubor - příloha</string>
+	<string name="domainExpDataInclusionPlainText">Prostý text</string>
+	<string name="domainExpDataInclusionForViewer">Pro standardní prohlížeč</string>
+	<string name="domainExpFormatCSV">CSV (text s oddělovačem)</string>
+	<string name="domainExpFormatHTML">HTML (WWW stránka)</string>
+	<string name="domainExpFormatXML">XML</string>
+	<string name="domainExpFormatXLS">XLS (Excel)</string>
+	
+    <string name="dayShortSun">Ne</string>
+    <string name="dayShortMon">Po</string>
+    <string name="dayShortTue">Út</string>
+    <string name="dayShortWed">St</string>
+    <string name="dayShortThu">Čt</string>
+    <string name="dayShortFri">Pá</string>
+    <string name="dayShortSat">So</string>
+    
+    <string name="categoryNone">(žádný záznam)</string>
+    <string name="categoryFilterAll">&lt;Vše&gt;</string>
+    <string name="categoryEditHeaderHourlyRate">Hodinová\nsazba</string>
+    <string name="categoryEditHeaderSort">Řadit</string>
+    <string name="categorySelectNextCategory">Vyber jiný úkol</string>
+    <string name="categoryHasChildrenCannotDelete">Úkol použit, nelze smazat. Nejprve označte jako \'neaktivní\'.</string>
+    <string name="categoryFilter">Filtr úkolů</string>
+    <string name="categoryEditorHintMenu">\u2192 Více funkcí - viz. menu</string>
+    <string name="categorySampleEntry1">Klient 1 - On-site</string>
+    <string name="categorySampleEntry2">Klient 1 - vzdálená pomoc</string>
+    <string name="categorySampleEntry3">Trénink</string>
+
+    <string name="catExpImpTitle">Export/Import</string>
+    <string name="catExpImpExport">Export</string>
+    <string name="catExpImpImport">Import</string>
+    <string name="catExpImpToSD">Export na SD kartu</string>
+    <string name="catExpImpToCloud">Export na {1}</string>
+    <string name="catExpImpFromSD">Import z SD karty</string>
+    <string name="catExpImpFromCloud">Import z {1}</string>
+    
+    <string name="hintClickToChange">Kliknutím změníte</string>
+    <string name="hintClickIconToEdit">Kliknutím na ikonu editujete poznámky</string>
+    <string name="hintNoStampsClickToAdd">Tento den nejsou žádné záznamy.\nOtevřete Menu nebo přidejte kliknutím.</string> 
+    <string name="hintZeroOutToDisable">\u2192 Zakažte nastavením na \'00:00\'</string>
+    <string name="hintAmountPrecision">\u2192 Použijte \'#.# Kč\' nebo \'#.## Kč\' pro 1 nebo 2 des. místa.</string>
+    <string name="hintAmountRounding">\u2192 Pozn. při zaokrouhování: mezisoučty a celk. součet jsou zaokrouhleny nezávisle, nemusí vždy souhlasit.</string>
+    <string name="hintRateOverride">\u2192 Sazba na úkol může být přepsána</string>
+	<string name="hintDbRecreateConfirmation">Varování: prázdná databáze. Vytvořit znovu?</string>
+	<string name="hintCreatingBackup">Vytvářím zálohu ...</string>
+	<string name="hintTooMuchEntries">Příliš mnoho záznamů</string>
+    <string name="hintPleaseWait">Čekejte prosím ...</string>
+
+    <string name="errorTimeslotNotFree">Záznam v {1} již existuje</string>
+    <string name="errorCannotStartNewTask">V {1} již začal úkol, nelze začít jiný</string>
+    <string name="errorSdCardAccess">Chyba při přístupu na SD kartu</string>
+    <string name="errorSdCardWrite">Chyba při zápisu na SD kartu</string>
+    <string name="errorCalSyncFailed">Synchr. kalendáře selhala</string>
+    <string name="errorCloudAccessFailed">{1} chyba přístupu</string>
+
+    <string name="aboutPublicServices">Služby API</string> 
+
+    <string name="bckBackupTitle">Záloha</string>
+    <string name="bckRestoreTitle">Obnova</string>
+    <string name="bckCreateBackup">Vytvořit zálohu</string>
+    <string name="backupBody">Jak obnovit: zkopírovat připojený soubor na SD kartu (do kořen. adresáře), otevřít \'Předvolby/Obnova\', a kliknout \'Obnovit zálohu\'</string>
+	<string name="errorSdCardUnavailable">SD karta není dostupná. Záloha, obnova &amp; export nelze provést.</string>
+	
+	<string name="widgetAppTitle1">Čas</string>
+    <string name="widgetAppTitle2">Zázn</string>
+    
+    <string name="stdCommentTitle">Text ze šablony</string>
+    <string name="stdCommentSelect">Zvolit text šablony</string>
+    <string name="stdCommentAppend">Připojit k současnému textu</string>
+    <string name="stdCommentDefaultEntry1">Dovolená</string>
+    <string name="stdCommentDefaultEntry2">Náhrada</string>
+    
+    <string name="noteMassTitle">Hromadná aktualizace denních poznámek</string>
+    <string name="noteMassIfTextExists">Pokud text již existuje</string>
+    <string name="noteMassOptAppend">Připojit</string>
+    <string name="noteMassOptReplace">Přepsat</string>
+    <string name="noteMassOptSkip">Přeskočit</string>
+    <string name="noteMassOnlyTheseDays">Přidat k těmto dnům</string>
+    <string name="noteMassSkipEmptyDays">Přeskoč dny bez zázbnamů</string>
+    
+	<string name="dstorMainTitle">Správa dat</string>
+	<string name="dstorDataStorage">Správa úložiště</string>
+	<string name="dstorTargetPhone">Telefon</string>
+	<string name="dstorTargetSdCard">SD karta</string>
+	<string name="dstorCurrent">Data uložena na: {1}.</string>
+	<string name="dstorMoveTo">Přesunout data na: {1}</string>
+	<string name="dstorImport">Obnovit zálohu</string>
+	<string name="dstorImportDone">Import z {1} hotov, záznamů={2}.</string>
+	<string name="dstorSwitch">Použít: {1} (bez přesunu dat)</string>
+	<string name="dstorSwitchDone">Úložiště dat je nyní na: {1}</string>
+	<string name="dstorConfirmMigration">Přesunout data do úložiště telefonu? Zvýší to stabilitu.</string>
+	<string name="dstorWarning">Varování: užívejte opatrně. Viz. FAQ.</string>
+	<string name="dstorRestoreLocalBck">Obnovit lokální zálohu</string>
+	<string name="dstorFileNotFound">Soubor {1} nenalezen.</string>
+	<string name="dstorCannotProcess">Nelze provést.</string>
+	<string name="dstorPreferred">Je preferováno úložiště v telefonu.</string>
+	<string name="dstorSettingsBRTitle">Nastavení aplikace</string>
+	<string name="dstorInitialRecovery">Nalezena záloha na SD kartě. Obnovit data?</string>
+	<string name="dstorHintProvideBackup">Soubor se zálohou na SD kartě nenalezen.\nAdresář: {1}</string>
+	<string name="dstorIncludeSettings">Převzít nastavení?</string>
+	<string name="dstorMoveToSdcardWarn">Varování: úložiště na SD kartě *není* doporučeno. Dochází ke kolizím při přístupu z USB &amp; přístupem \'pouze ke čtení\', nebo (výjimečně) i smazání datových souborů.</string>
+	
+	<string name="dstorFree2ProImportConfirmation">Importovat data a nastavení z free verze?</string>
+	
+	<!-- diff sync marker A -->
+	<string name="pdotMainTitle">Placené přesčasy</string>
+	<string name="pdotOvertimeRate">Přirážka k hod. sazbě</string>
+	<string name="pdotBasedOn">Přesčasové hodiny podle</string>
+	<string name="pdotCalculatePer">Provést výpočet</string>
+	<string name="pdotShowDetails">Zobraz detaily u výstupu</string>
+	<string name="pdotDomainFullRep">Plný výstup</string>
+	
+	<!-- this tries to explain that the user should set "8" as Bonus Amount if his regular hourly rate is 16 and extra payment for overtime is 50% (or "1.5 times") -->
+	<string name="pdotRateHint">\u2192 Vzor: nastavte na \'80\' pokud je normální sazba 160 Kč a přesčas je placen x1.5, protože 240-160=80</string>
+	
+	<string name="pdotMainHint">\u2192 Zobrazí se pouze na \'Měsíčním\' zobrazení. Musí být povolen \'Denní\' nebo \'Týdenní\' cílový čas.</string>
+	
+	<string name="sdcardErrorReboot">\u2022 Restartujte telefon a zkuste prosím znovu.</string>
+	<string name="sdcardErrorReadonly">SD karta je pouze ke čtení.</string>
+	<string name="sdcardErrorShared">SD karta je blokována USB přístupem. Odpojte prosím USB kabel od telefonu a zkuste znovu.</string>
+
+    <!-- internal admin - alternatively use "Reorganise database" -->
+	<string name="admRebuildIndexes">Opravit indexy</string>
+	
+	<string name="admDeleteOldLabel">Smazat stará data</string>
+	<string name="admDeleteOldBody">Smazat všechna data až do {1}?\nTento krok nelze vrátit.</string>
+	<string name="admDeleteAll">Smazat všechna data</string>
+	
+	<!-- do not translate -->
+	<string name="pubsIssue">{1} issue</string>
+	
+	<string name="pubsCheckinDone">Začátek zadán</string>
+	<string name="pubsCheckoutDone">Konec zadán</string>
+	<string name="pubsAlreadyCheckedIn">Začátek již proveden</string>
+	<string name="pubsAlreadyCheckedOut">Konec již proveden</string>
+	<string name="pubsPriorCheckoutMissing">Předchozí \"začátek\" chybí</string>
+	
+	<string name="catExtExportDone">Export hotov, soubor umístěn:\n{1}</string>
+	<string name="catExtFileMissing">Importovaný soubor nenalezen. Použijte \"Export\" k vytvoření šablony.</string>
+	<string name="catExtImpConfirm1">\u2192 EXISTUJÍCÍ {1} ÚKOLY BUDOU SMAZÁNY</string>
+	<string name="catExtImpConfirm2">\u2192 Make sure you don\'t change IDs of tasks already in use</string>
+	<string name="commonCannotUndo">\u2192 Tento krok nelze vrátit, jedině pomocí příkazu \'Obnova\'</string>
+	<string name="catExtImpConfirm4">\u2022 Soubor: {1}</string>
+	<string name="catExtImpConfirm5">\u2022 Počet úkolů k importu: {1}</string>
+	<string name="catExtNothingToImport">Není co importovat. Prázdný soubor?</string>
+	
+	<string name="err21">Chyba: Databáze pouze ke čtení</string>	
+	<string name="err22">Chyba: SD karta je plná</string>
+	<string name="err25">Chyba: nelze zálohovat</string>
+	<string name="errFaqHint">Kliknutím zobrazíte online nápovědu: «ERROR {1}»</string>
+	
+	<string name="commonPlayStore">Play Store</string>
+
+	<string name="commonWidget">Widget</string>
+	<string name="commonNotificationBar">Oznamovací lišta</string>
+	<string name="widgetAppTitleShort">TR</string>
+	<string name="widgetPrefNotifBarText">Text oznámení</string>
+
+	<!-- copy days -->
+	<string name="copyDaysTitle">Kopírovat dny</string>
+	<string name="copyDaysSourceRange">Rozsah dnů ke zkopírování</string>
+	<string name="copyDaysToLabel">Kopírovat do</string>
+	<string name="copyDaysToStart">Začít tímto dnem</string>
+	<string name="copyDaysOverwrite">Přepsat, pokud záznamy existují</string>
+	<string name="copyDaysDone">\u2192 Zkopírováno {1} dnů</string>
+
+	<!-- v3.01 -->
+	<string name="commonSwitchedTo">\u2192 Změněno na {1}</string>
+	<string name="commonWorkDay">Prac. den</string>
+	<string name="commonMigrationWorking">Migrace dat běží ...</string>
+	<string name="commonStampValidDate">Datum platnosti</string>
+	<string name="actualDateSelectionTitle">Změnit datum platnosti</string>
+	
+	<!-- long format: "only use the second option (or "selection item") if you are working across midnight (e.g. starting at 14:00 and working until 02:00 the next day)" -->
+	<string name="actualDateSelectionHint">\u2192 Použijte druhou možnost pouze pokud pracujete přes půlnoc</string>
+	
+	<string name="actualDateSwitchWorkdayLabel">\u2192 Kliknutím přepnete na následující prac. den.</string>
+
+	<string name="prefsWorkLateGroup">Možnosti \'Pracuji dlouho\'</string>
+	<string name="workLatePrefsHint">\u2192 Více viz {1} v Předvolbách strana 4.</string>
+	<string name="prefsActualDateDisplay">Zobraz den platnosti ve výběru času</string>
+	<string name="prefsStopRunningWorkdayLabel">Zastaví počítání v daný čas, pokud zapomenete záznam ukončit</string>
+	<string name="prefsStopRunningWorkdayHint">\u2192 *Neměnte* pokud pracujete na střídavé směny</string>
+	<string name="prefsActualDateShowAlways">Vždy</string>
+	<string name="prefsActualDateShowCrossMn">Pouze přes půlnoc</string>
+	
+	<!-- v3.02 -->
+	<string name="commonNone">nikde</string>
+	<string name="edtoolsCap">Velká písmen na začátku</string>
+	<string name="edtoolsCapWords">slov</string>
+	<string name="edtoolsCapSentences">vět</string>
+	<string name="edtoolsAppend">Text ze šablony</string>
+	
+	<string name="prefsGroupMainScreenLabel">Hlavní obrazovka</string>
+	<string name="prefsKeepScreenOn">Udržovat obrazovku zapnutou</string>
+	
+	<!-- v3.06 -->
+	<string name="expPrefsAutoCloseWindow">Zavřít dialog po exportu</string>
+	<string name="taskerPluginSelectAction">Vyber akci, která bude spuštěna:</string>
+	<string name="commonTaskSelectionOpen">Otevřít výběr úkolů</string>
+	<string name="commonStartNewTask">Začít nový úkol</string>
+	<string name="commonNewTaskStarted">Nový úkol započat</string>
+	<string name="taskerPreselectedCategory">Extra nastavení: použij následující úkol pro vybranou akci:</string>
+	<string name="commonWeeklyDelta">Rozdíl W</string>
+	<string name="commonMonthlyDelta">Rozdíl M</string>
+	<string name="admResetAllPrefs">Resetovat všechny předvolby</string>
+	<string name="calSyncCalendarType">Typ kalendáře</string>
+	<string name="calSyncCalendarTypeExclusive">soukromý, pouze pro TimeRec</string>
+	<string name="calSyncCalendarTypeShared">sdílený, obsahuje i jiné položky</string>
+	
+	<string name="helpInfo">Info</string>
+    <string name="helpFAQ">Nápověda &amp; FAQ</string>
+	<string name="helpWhatsNew">Co je nového</string>
+	<string name="prefsMinimumBreak">Vynutit mininální dobu pauz</string>
+	<string name="prefsShowIsoWeekNr">Zobraz ISO číslo týdne</string>
+	
+	<string name="confirmDayRollOver">Uzavřít den a přejít na další?</string>
+	<string name="prefDayRollOver">\'Uzavřít den &amp; přejít na další\' pokud pracujete přes půlnoc</string>
+	
+	<string name="categoryEditHeaderTargetOff">Bez cílového\nčasu</string>
+	<string name="categoryEditHeaderUnpaid">Neplacené</string>
+	<string name="categoryEditHeaderFixedAmtWorkUnit">Fixní částka\nza jednotku</string>
+	<string name="categoryEditHeaderFixedAmtDay">Fixed částka\nza den</string>
+	<string name="categoryEditSortRenumber">Seřadit přečíslované</string>
+	<string name="commonColumnVisibility">Sloupce</string>
+	
+    <string name="prefsMonthlyTargetTime">Měsíční cílový čas</string>
+    <string name="prefsTimeZoneLock">Zafixovat časovou zónu</string>
+    <string name="calSyncActiveOnCheckin">Synchronizovat také započaté úkoly</string>
+	
+    <string name="commonAppRequired">Aplikace chybí</string>
+    <string name="commonUpdateCurrentTask">Aktualizovat úkol tohoto prac. záznamu</string>
+    <string name="commonResetSettings">Resetovat nastavení na výchozí</string>
+    <string name="commonFlip">Obrátit</string>
+    
+    <!-- 3.16 -->
+    <string name="commonCustomer">Klient</string>
+    <string name="prefsCustomerFilter">Filtr klientů</string>
+    <string name="expPrefsShowCustomer">Zobraz klienta</string>
+    <string name="commonDeleteEntry">Smazat záznam</string>
+    <string name="commonDeleteLine">Smazat řádek</string>
+    
+    <!-- "Condition" as per the Tasker app where you define actions based on rules and phone state (i.e. condition) -->
+    <string name="taskerPluginCondition">Podmínka</string>
+    
+	<string name="commonCheckedIn">Započato</string>
+	<string name="commonCheckedOut">Ukončeno</string>
+	
+    <!-- 4.0x -->
+    <string name="commonAddLine">Přidej řádek</string>
+    <string name="commonDeleteAllLines">Smaž všechny řádky</string>
+    <string name="commonNewTask">Nový úkol</string>
+
+    <!-- 4.04 -->
+    <string name="prefsTheme">Motiv</string>
+    <string name="prefsThemeLight">Světlý</string>
+    <string name="prefsThemeDark">Tmavý</string>
+    <string name="commonBasicSettings">Základní nastavení</string>
+    <string name="autoBreakSkipWhenOff">Přeskočit pokud je mimo nastavený časový interval</string>
+    
+	<string name="commonWorktimeOverview">Přehled prac. doby</string>
+	<string name="commonViewNoun">Zobrazení</string>
+	<string name="commonShort">Krátký</string>
+	<string name="expPrefsIsoDateFormat">RRRR/MM/DD</string>
+	
+    <string name="prefsReportingPeriod">Období pro výstupy</string>
+    <string name="prefsBackupAndRestore">Záloha &amp; obnova</string>
+    
+    <!-- 4.05 -->
+    <string name="timeReachedAlarmSettings">«{1}» Výstraha</string>
+    <string name="timeReachedNotification">{1} v {2}</string> <!-- sample: "Target reached at 17:45" -->
+    
+    <string name="alertNotificationSoundOnce">Zvuk oznámení (jednou)</string>
+    <string name="alertNotificationSoundInsistent">Zvuk oznámení (trvalý)</string>
+    <string name="alertNotificationVibra">Vibrovat</string>
+    
+    <!-- 4.06 -->
+    <string name="commonThreshold">Hranice</string>
+    
+	<string name="expTypeCustomersPerDay">E6 klienti za den</string>
+    <string name="customerNone">(klient není)</string>
+    
+    <!-- 4.07 -->
+    <string name="cloudProviderDropbox">Dropbox</string>
+    <string name="cloudProviderGoogleDrive">Google Drive</string>
+	<string name="commonOverview">Shrnutí</string>
+    
+    <!-- 4.09 -->
+    <string name="commonAuto">Auto</string> <!-- "Automatic" -->
+    <string name="commonSwitchView">Přepni zobrazení</string>
+    <string name="commonContinueTask">Pokračuj úkol</string>
+    <string name="commonOnlineHelp">Online nápověda</string>
+    <string name="prefsMainAutoScroll">Automaticky posunout na konec</string>
+    <string name="expPrefsSaveFilters">Trvalý filtr</string>
+    
+    <!-- 4.10 -->
+    <string name="paidOt2Factor">Faktor</string>
+    <string name="commonRateButton">Hodnocení</string> <!-- "Please rate the app" -->
+    
+    <!-- 4.11 -->
+	<string name="edtoolsGeoLocation">Pozice GPS (Geo-location)</string>
+    
+	<!-- 4.12 -->
+	<string name="domainMonthviewSemiM">Půl-měsíčně</string>
+	<string name="prefsFirstDayOfPeriodN">První den období {1} (1-31)</string>
+	
+	<!-- this is when you go to Preferences page 1. set "Reporting period" to 4 weeks then tap "Settings". 
+	what it means is "As of now, which week number of your 4 week working period are you currently in?" (without that my app doesn't know at which date the "4 week" period actually starts)
+	-->
+	<string name="prefsCurrentWeekOfRepPeriod">Aktuální týden daného období výstupu</string>
+	
+	<!-- whether clicking Left / Right on the Month view should jump 1 week or 4 weeks with each click. in order for that to work, the app needs to have the setting just above -->
+	<string name="prefsScrollSizeWeeks">Posunout o «{1}»</string>
+	
+	<string name="hintAlsoSeePage">\u2192 Více viz. {1} na stránce {2}</string>
+    
+    <!-- you can flip between two display modes with the "target reached" setting: the first says "Target reached at 18:30". when you do a "long click" on that text it will show the remaining time instead (i.e. "3:00 to go before you can go home") -->
+
+	<!-- 4.13 -->
+    <string name="commonUndo">Zpět</string> <!-- "Undo changes" on text editor -->
+    <string name="prefsStayOnPreviousDay">Zobraz předch. den při otevření před</string>
+    <string name="prefsAutoBackup">Automat. záloha každých x dní</string>
+    <string name="commonSdCard">SD karta</string>
+	<string name="commonRefreshMM">Obnov každých x minut</string>
+	<string name="calSyncNightShift">Podpora nočních směn</string>
+	<string name="commonDecimal">Desítkově</string>
+	<string name="backupReminderTitle">Upozornění na zálohu</string>
+	<string name="backupReminderBody">Nezapomínejte, prosím, providelně zálohovat vaše data.</string>
+	<string name="commonDoNotShowAgain">Nezobrazovat znovu tuto zprávu</string>
+	
+	<!-- 4.14 -->
+	<string name="commonRetry">Znovu</string>
+	<string name="expPrefsGoogleDocsConversion">Konvertovat na dokument Google Docs</string>
+	
+	<!-- 4.15 -->
+	<string name="commonBackupShort">Záloha</string>
+	<string name="commonLater">Později</string>
+	
+	<!-- 4.16 -->
+	<string name="commonID">ID</string>		
+	<string name="activityCheckIn">Time Recording/Začátek</string>
+	<string name="activityCheckOut">Time Recording/Konec</string>
+	<string name="activityPunch">Time Recording/Přepnout</string>
+	
+	<string name="prefsDeltaWeekOnMain">Zobraz \'Rozdíl\' na hlavní obrazovce</string>
+	<string name="workUnitDetailRep">Pracovní log</string>
+
+	<!-- 4.17 -->
+	<!-- applies to "Automatic breaks" on settings page 2. the meaning is something like "Does the full break apply (when ticked off) or should the break length increase parallel to the work duration (when ticked on) -->
+	<string name="commonIncremental">Přírůstkově</string>
+	
+	<!-- 4.18 -->
+	<string name="commonForceDeletion">Mazat vše</string>	
+	
+	<!-- 4.19 -->
+	<string name="prefsShowButtonsLine3">Zobraz «{1}» &amp; «{2}»</string>
+	
+	<!-- 4.19.1 -->
+	<string name="prefsRepPeriodWeeks">Týden {1}</string> <!-- {1} is week number 1-4. see dropdown list on "2 weeks" or "4 weeks" reporting period settings -->
+	<string name="expTypeTaskMatrix">E5 {1}</string> <!-- for reports overview. {1} is text of 'repTaskMatrix' defined earlier -->
+	<string name="commonAppInfo">Info o aplikaci</string>
+	
+	<!-- 4.21 -->
+	<string name="expTypeClientMatrix">E7 tabulka klientů</string>
+	
+	<!-- 4.22 -->
+	<string name="commonTaskId">ID úkolu</string>
+	<string name="commonSpecific">Specifický</string>
+	
+	<!-- 5.01 -->
+	<string name="widgetFree1x1">Time Recording 1x1</string>
+	<string name="widgetFree4x1">Time Recording 4x1</string>
+	<string name="widgetFree4x2">Time Recording 4x2</string>
+	<string name="widgetPro1x1">Time Recording Pro 1x1</string>
+	<string name="widgetPro4x1">Time Recording Pro 4x1</string>
+	<string name="widgetPro4x2">Time Recording Pro 4x2</string>
+	<string name="expCustomDefaultApp">\u00ab{1}\u00bb Aplikace</string>
+	
+	<string name="commonExclude">Vyloučit \u00ab{1}\u00bb</string>
+			
+	<!-- 5.02 -->
+	<string name="expTypeWorktimeOverview">E8 {1}</string>
+	<string name="commonGroupBy">Seskupit podle</string>
+	<string name="commonLineN">Řádek {1}</string>
+
+	<!-- 5.03 -->
+	<string name="categoryEditHeaderTimeCumulationOff">Bez časov.\nsouhrnu</string>
+	<string name="calSyncForceSync">Synchr. existující položky</string>
+	<string name="catEdExtra1Short">Extra1</string>
+	<string name="catEdExtra2Short">Extra2</string>
+	<string name="catEdExtra1Long">Úkol Extra 1</string>
+	<string name="catEdExtra2Long">Úkol Extra 2</string>
+	
+	<!-- 5.04 -->
+	<string name="commonCategoryLabel">Titulek úkolu</string>
+	<string name="prefsOverrideWeeklyTarget">Přepsat cílový týdenní čas</string>
+	
+	<!-- 5.05 -->
+	<string name="commonNineEightyHint">\u2192 Use this for \'9/80\' schedule or similar</string>
+	<string name="templateTextConcat">\'Připojit\' spojení textů</string>
+	
+	<!-- 5.06 -->
+    <string name="commonAlarmSettings">Nastavení výstrah</string>
+    <string name="commonCopy">Kopírovat</string>
+    <string name="commonSortNoun">Řadit</string>
+
+    <!-- 5.07 alarm settings -->
+    <string name="pending507">0</string> <!-- ignore -->
+    <string name="alarmLabelDailyTarget">Denní cílový čas dosažen</string>
+    <string name="alarmLabelWeeklyTarget">Týdenní cílový čas dosažen</string>
+    <string name="alarmLabelBreakNowOver">Čas pro \'Pauzu\' dosažen</string>
+    
+    <string name="alarmNotificationDailyTarget">Denní cílový čas dosažen v {1}</string>
+    <string name="alarmNotificationDailyExceeded">Denní prac. čas překročen {1}</string>
+    <string name="alarmNotificationWeeklyTarget">Týdenní cílový čas dosažen v {1}</string>
+    <string name="alarmNotificationWeeklyExceeded">Týdenní prac. čas překročen {1}</string>
+    <string name="alarmNotificationBreakNowOver">Konec pauzy v {1}</string>
+    
+    <string name="alertSoundCustomLabel">Uživatelský zvuk</string>
+    <string name="alertSoundCustomRepeat">Opakování</string>
+    <string name="alertSoundCustomVolume">Hlasitost</string>
+    <string name="alertSoundMaxHint">\u2192 Max. doba přehrávání je {1} sekund</string>
+    
+    <!-- 5.08 -->
+    <string name="commonPickFile">Vyber soubor</string>
+    <string name="expPrefsHeaderN">Řádek záhlaví {1}</string>
+    <string name="expPrefsReportReminder">Upomínka výstupu</string>
+    <string name="commonAverage">průměr</string>
+    <string name="commonNumUnits"># jednotek</string>
+
+    <!-- 5.09 -->
+    <string name="deleteUnusedTasks">Smazat nepoužité úkoly</string>
+    <string name="commonActiveOnDays">Aktivní tyto dny</string>
+    <string name="widgetLargeStatusConfig">4x1 &amp; 4x2 text widgetu</string>
+    
+    <string name="pleaseRateTitle">Prosím ohodnoťte aplikaci</string>
+    <string name="pleaseRateBody">Máte rádi Time Recording?\nPokud ano, prosím ohodnoťte aplikaci v Obchod Play, pomůže nám to zde udržovat dobrou pozici a lákat nové uživatele.\nMnohokrát děkujeme!</string>
+    
+    <!-- 5.10 -->
+    <string name="repBlock1Time">Blok 1</string>
+    <string name="repBlock1Total">Blok 1 celkem</string>
+    <string name="repBlock2Time">Blok 2</string>
+    <string name="repBlock2Total">Blok 2 celkem</string>
+    <string name="repBlock3Time">Blok 3</string>
+    <string name="repBlock3Total">Blok 3 celkem</string>
+    <string name="commonValue1">Hodnota1</string>
+    <string name="commonValue2">Hodnota2</string>
+    <string name="prefsStampValuesHint">\u2192 Použijte ke sledování dalších číselných položek např.: další výdaje, ujetá vzdálenost nebo spotřeba.</string>
+    <string name="commonLabel">Štítek</string>
+    <string name="commonDefaultValue">Výchozí hodnota</string>
+    <string name="hintStampDefaultValue">\u2192 Provádí se při přidávání prac. záznamů</string>
+    <string name="expPrefsFooter">Patička</string>
+    <string name="prefsGroupInputFields">Vstupní pole</string>
+    <string name="prefsGroupUserInterface">Rozhraní</string>
+    <string name="expPrefsPreviewFormat">Formát náhledu</string>
+    <string name="expPrefsHeaderFooterHint">\u2192 Zástupné znaky: $d1, $d2</string>
+    <string name="hintExpPrefsAdvanced">\u2192 Toto jsou volby pro vývojáře, neměňte je pokud nevíte přesně co děláte</string>
+    
+    <!-- 5.11 -->
+	<string name="commonMoveBreak">Přesun pauzy</string>
+	<string name="commonSummarize">Sumarizace</string>
+	<string name="calSyncGranularityWorkUnit">1 událost na prac. záznam</string>
+	<string name="calSyncGranularityBlock">1 událost na blok</string>
+	<string name="calSyncGranularityDay">1 událost na den</string>
+	<string name="calSyncEventBody">Popis události</string>
+	<string name="commonToken">Zástupný znak</string>
+	<string name="commonWorkUnit">Prac. záznam</string>
+	<string name="commonBatchUpdate">Hromadná aktualizace</string>
+
+    <!-- 5.12 -->
+    <string name="autoBreakExact">Přesný čas</string>
+    <string name="autoBreakOffset">Začátek plus &lt;čas&gt;</string>
+    <string name="paidOt2SameDay">Normální čas</string>
+    <string name="paidOt2NextDay">Čas po půlnoci</string>
+    <string name="categoryEditHeaderTimeAccumulationPct">Kumulace\nčasu %</string>
+
+    <!-- 5.13 -->
+    <string name="salesTaxLabel">Prodejní přirážka</string>
+    <string name="commonValue">Hodnota</string>
+
+    <!-- 5.14 -->
+    <string name="appRestartRequired">Vyžadován restart aplikace</string>
+    <string name="prefsMainScreenStrongOutline">Silné ohraničení tlačítek</string>
+    <string name="commonResetSort">Resetovat řazení</string>
+    
+    <!-- 5.15 -->
+    <string name="workUnitNotesBatchUpdate">Hromadná aktualizace poznámek k prac. záznamům</string>
+    <string name="commonUpdateDone">Hotovo, {1} položek zaktualizováno</string>
+    <string name="exportDataTaggingTitle">Označit exportovaná data</string>
+    <string name="exportDataTaggingComment">[Exportováno $d $t]</string>
+    <string name="commonTotalW">Celkem W</string>
+    <string name="commonCurrentUnitTotal">Aktuální součet prac. záznamů</string>
+    <string name="androidWear">Android Wear</string>
+    <string name="commonNotificationOnCheckIn">Oznámení při začátku</string>
+    <string name="commonWorkUnits">prac. záznamy</string>
+    
+    <!-- 5.16 -->
+    <string name="deltaDayWTD">Rozdíl/den (týden to dat)</string>
+    <string name="commonDirectory">Adresář</string>
+    
+    <!-- 5.17 -->
+    <string name="prefsBookForwardEnabled">Zapisovat noční směny do dalšího dne</string>
+    <string name="prefsBookForwardSwitchTime">Přepni pracovní den pokud otevřeno po</string>
+    <string name="commonMoveEntries">Přesun položek</string>
+    <string name="commonMinutes">Minuty</string>
+    <string name="nfcAutomation">NFC automatizace</string>
+    
+    <!-- 5.18 -->
+    <string name="prefsHideAdvertisement">Odstranit reklamy (12 měsíců)</string>
+    <string name="prefsNotifKeepAfterCheckout">Ponechat po ukončení zápisu</string>
+    <string name="commonUnlock">Odemknout</string>
+    <string name="commonFeatureLocked">Tato vlastnost je zamknuta</string>
+
+    <!-- 6.02 -->
+    <string name="commonTemplate">Šablona</string>
+    <string name="commonUndoChanges">Vrať změny</string>
+    
+    <!-- will be removed with 6.02 (replaced by "commonTemplate" -->
+    <string name="homescreenAddBreak">Přidej pauzu</string>
+    <string name="menuAddStandardEntry">Vlož pauzu/záznam</string>
+
+</resources>
