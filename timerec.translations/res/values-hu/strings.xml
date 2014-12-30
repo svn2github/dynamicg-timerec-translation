@@ -5,13 +5,11 @@
     <string name="app_name_pro">Time Recording Pro</string>
     <string name="homescreenCheckinNow">Belépés most</string>
     <string name="homescreenCheckoutNow">Távozás most</string>
-    <string name="homescreenAddBreak">Szünet hozzáadása</string>
     <string name="homescreenHintNoStamps">Nincs jelölés.\nNyissa meg a «Napot» és használja a  «Bal nyilat» hogy hozzáadjon eseményt múltbéli napra.</string>
     <string name="homescreenAddStamp">Jelölés hozzáadása</string>
     <string name="menuEditStampsShort">Jelölés szerkesztése</string>
     <string name="menuPreferences">Beállítások</string>
     <string name="menuAdmin">Rendszergazda</string>
-    <string name="menuAddStandardEntry">Szünet/Egység hozzáadása</string>
     <string name="menuMore">További beállítások</string>
     <string name="commonDays">Napok</string>
     <string name="commonEdit">Szerkeszt</string>
@@ -726,10 +724,14 @@
     <string name="commonMinutes">Percek</string>
     <string name="nfcAutomation">NFC Automatatika</string>
     
-    <!-- 5.18 -->
+    <!-- 6.01 -->
     <string name="prefsHideAdvertisement">Reklámok eltávolitása (12 hónapig)</string>
     <string name="prefsNotifKeepAfterCheckout">Megőrzés távozás után</string>
     <string name="commonUnlock">Feloldás</string>
     <string name="commonFeatureLocked">Ez a funkció zárva</string>
+    
+    <!-- 6.02 -->
+    <string name="commonTemplate">Sablon</string>
+    <string name="commonUndoChanges">Változtatások visszavonása</string>
     
 </resources>

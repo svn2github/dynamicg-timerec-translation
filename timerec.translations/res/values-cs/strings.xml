@@ -724,7 +724,7 @@
     <string name="commonMinutes">Minuty</string>
     <string name="nfcAutomation">NFC automatizace</string>
     
-    <!-- 5.18 -->
+    <!-- 6.01 -->
     <string name="prefsHideAdvertisement">Odstranit reklamy (12 měsíců)</string>
     <string name="prefsNotifKeepAfterCheckout">Ponechat po ukončení zápisu</string>
     <string name="commonUnlock">Odemknout</string>
@@ -734,8 +734,4 @@
     <string name="commonTemplate">Šablona</string>
     <string name="commonUndoChanges">Vrať změny</string>
     
-    <!-- will be removed with 6.02 (replaced by "commonTemplate" -->
-    <string name="homescreenAddBreak">Přidej pauzu</string>
-    <string name="menuAddStandardEntry">Vlož pauzu/záznam</string>
-
 </resources>
