@@ -109,9 +109,14 @@
 	<string name="prefsGridViewFont">Font size</string>
 	<string name="prefsWidgetClickAction">Widget click action</string>
 	<string name="prefsDomWidgetActionOpen">Open app</string>
+	
+	<!-- prefsDomWidgetActionPunch: "punch" is synonym for "check" (as in "check in" or "check out"), like pushing ("punching") a button -->
 	<string name="prefsDomWidgetActionPunch">Punch time</string>
 	<string name="prefsDomWidgetActionMixed">Icon=punch, Text=open</string>
+	
+	<!-- prefsPunchNowRounding: Whenever the user clicks "Check in now" or "Check out now" then do a rounding on the time -->
 	<string name="prefsPunchNowRounding">Time rounding on «Punch now»</string>
+	
 	<string name="prefsPunchNowRoundingOption">Rounding</string>
 	<string name="prefsPunchNowRoundingSlot">Round to minutes</string>
 	<string name="prefsDomRoundStd">Round</string>
@@ -510,6 +515,8 @@
     <string name="commonContinueTask">Continue task</string>
     <string name="commonOnlineHelp">Online help</string>
     <string name="prefsMainAutoScroll">Auto scroll to bottom</string>
+    
+    <!-- expPrefsSaveFilters: "sticky filter" means "make that filter static, keep this filter always on when i open the reports screen" -->
     <string name="expPrefsSaveFilters">Sticky filter</string>
     
     <!-- 4.10 -->
