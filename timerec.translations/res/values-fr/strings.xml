@@ -683,5 +683,6 @@
     <!-- 6.02 -->
     <string name="commonTemplate">Modèle</string>
     <string name="commonUndoChanges">Annuler les modifications</string>
+    <string name="weekShort1">S</string>
     
 </resources>

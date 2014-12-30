@@ -733,5 +733,6 @@
     <!-- 6.02 -->
     <string name="commonTemplate">Sablon</string>
     <string name="commonUndoChanges">Változtatások visszavonása</string>
+    <string name="weekShort1">H</string>
     
 </resources>

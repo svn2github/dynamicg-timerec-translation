@@ -697,5 +697,6 @@
     <!-- 6.02 -->
     <string name="commonTemplate">Modelo</string>
     <string name="commonUndoChanges">Deshacer los cambios</string>
+    <string name="weekShort1">S</string>
     
 </resources>

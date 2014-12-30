@@ -682,5 +682,6 @@
 	<!-- 6.02 -->
     <string name="commonTemplate">Padrão</string>
     <string name="commonUndoChanges">Desfazer as alterações</string>
+    <string name="weekShort1">S</string>
     
 </resources>
