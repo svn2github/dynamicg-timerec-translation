@@ -740,6 +740,7 @@
     <!-- 6.02 -->
     <string name="commonTemplate">Template</string>
     <string name="commonUndoChanges">Undo changes</string>
+    <string name="weekShort1">W</string> <!-- 1 letter abbreviation for "Week" -->
     
     <!-- will be removed with 6.02 (replaced by "commonTemplate" -->
     <string name="homescreenAddBreak">Add break</string>
