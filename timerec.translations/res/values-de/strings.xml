@@ -693,6 +693,8 @@
     <string name="commonTemplate">Vorlage</string>
     <string name="commonUndoChanges">Änderungen zurücknehmen</string>
     <string name="weekShort1">W</string> <!-- 1 letter abbreviation for "Week" -->
+    <string name="checkInReminderTitle">Einstempel-Erinnerung</string>
+    <string name="checkInReminderAlert">Keine Einträge vorhanden.</string>
     
     <!-- wird mit 6.02 entfernt (ersetzt durch "commonTemplate" -->
     <string name="homescreenAddBreak">Pause</string>
