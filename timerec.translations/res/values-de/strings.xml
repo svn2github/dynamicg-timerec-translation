@@ -696,8 +696,4 @@
     <string name="checkInReminderTitle">Einstempel-Erinnerung</string>
     <string name="checkInReminderAlert">Keine Einträge vorhanden.</string>
     
-    <!-- wird mit 6.02 entfernt (ersetzt durch "commonTemplate" -->
-    <string name="homescreenAddBreak">Pause</string>
-    <string name="menuAddStandardEntry">Pause/Block einfügen</string> <!-- long text to force 3 menu item lines -->
-    
 </resources>

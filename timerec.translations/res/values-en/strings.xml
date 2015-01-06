@@ -744,8 +744,4 @@
     <string name="checkInReminderTitle">Check-in reminder</string>
     <string name="checkInReminderAlert">No entries for today.</string>
     
-    <!-- will be removed with 6.02 (replaced by "commonTemplate" -->
-    <string name="homescreenAddBreak">Add break</string>
-    <string name="menuAddStandardEntry">Add break/unit</string>
-    
 </resources>
