@@ -57,7 +57,7 @@
 	<string name="commonData">Data</string>
 	<string name="commonFile">Soubor</string>
 	<string name="commonOpenWith">Otevřít s</string>
-	<string name="commonPreviouslyUsed">Poslední použité</string>
+	<string name="commonPreviouslyUsed">Naposledy použité</string>
 	
     <string name="buttonOk">OK</string>
     <string name="buttonCancel">Storno</string>
@@ -420,7 +420,7 @@
 	<string name="commonStartNewTask">Začít nový úkol</string>
 	<string name="commonNewTaskStarted">Nový úkol započat</string>
 	<string name="taskerPreselectedCategory">Extra nastavení: použij následující úkol pro vybranou akci:</string>
-	<string name="commonWeeklyDelta">Rozdíl T</string>
+	<string name="commonWeeklyDelta">Rozdíl W</string>
 	<string name="commonMonthlyDelta">Rozdíl M</string>
 	<string name="admResetAllPrefs">Resetovat všechny předvolby</string>
 	<string name="calSyncCalendarType">Typ kalendáře</string>
@@ -733,6 +733,8 @@
     <!-- 6.02 -->
     <string name="commonTemplate">Šablona</string>
     <string name="commonUndoChanges">Vrať změny</string>
-    <string name="weekShort1">T</string>
+    <string name="weekShort1">T</string> <!-- 1 znaková zkratka pro "Týden" -->
+    <string name="checkInReminderTitle">Připomínka začátku událostí</string>
+    <string name="checkInReminderAlert">Dnes žádné záznamy.</string>
     
 </resources>
