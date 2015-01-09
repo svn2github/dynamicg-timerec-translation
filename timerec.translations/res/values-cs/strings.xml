@@ -3,8 +3,8 @@
 
     <string name="app_name">Time Recording</string>
     <string name="app_name_pro">Time Recording Pro</string>
-    <string name="homescreenCheckinNow">Začátek</string>
-    <string name="homescreenCheckoutNow">Konec</string>
+    <string name="homescreenCheckinNow">Příchod</string>
+    <string name="homescreenCheckoutNow">Odchod</string>
     <string name="homescreenHintNoStamps">No záznamy.\nOtevřete «Den» a použijte «Šipku doleva» pro vložení zápisů k minulým dnům.</string>
     <string name="homescreenAddStamp">Vlož záznam</string>
     <string name="menuEditStampsShort">Uprav záznamy</string>
@@ -16,10 +16,10 @@
     <string name="commonError">Chyba</string>
     <string name="commonYes">Ano</string>
     <string name="commonNo">Ne</string>
-    <string name="commonTitleCheckIn">Začátek</string>
-    <string name="commonTitleCheckOut">Konec</string>
-    <string name="commonActionAddCheckIn">Přidej začátek</string>
-    <string name="commonActionAddCheckOut">Přidej konec</string>
+    <string name="commonTitleCheckIn">Příchod</string>
+    <string name="commonTitleCheckOut">Odchod</string>
+    <string name="commonActionAddCheckIn">Přidej příchod</string>
+    <string name="commonActionAddCheckOut">Přidej odchod</string>
     <string name="commonSample">Vzor</string>
     <string name="commonReports">Výstupy</string>
     <string name="commonCategories">Úkoly</string>
@@ -105,7 +105,7 @@
 	<string name="prefsDefaultCategory">Výchozí úkol</string>
 	<string name="prefsKeepPrevCategory">Zachovat akt. úkol po pauze</string>
 	<string name="prefsExpDecimalSep">Desítkový oddělovač</string>
-	<string name="prefsCollapseCheckBtn">Sloučit tlačítka \'začátek/konec\'</string>
+	<string name="prefsCollapseCheckBtn">Sloučit tlačítka \'příchod/odchod\'</string>
 	<string name="prefsGridViewFont">Velikost fontu</string>
 	<string name="prefsWidgetClickAction">Akce po kliknutí na widget</string>
 	<string name="prefsDomWidgetActionOpen">Otevřít aplikaci</string>
@@ -233,7 +233,7 @@
     <string name="dayShortFri">Pá</string>
     <string name="dayShortSat">So</string>
     
-    <string name="categoryNone">(žádný záznam)</string>
+    <string name="categoryNone">(bez rozlišení)</string>
     <string name="categoryFilterAll">&lt;Vše&gt;</string>
     <string name="categoryEditHeaderHourlyRate">Hodinová\nsazba</string>
     <string name="categoryEditHeaderSort">Řadit</string>
@@ -348,16 +348,16 @@
 	<!-- do not translate -->
 	<string name="pubsIssue">{1} issue</string>
 	
-	<string name="pubsCheckinDone">Začátek zadán</string>
-	<string name="pubsCheckoutDone">Konec zadán</string>
-	<string name="pubsAlreadyCheckedIn">Začátek již proveden</string>
-	<string name="pubsAlreadyCheckedOut">Konec již proveden</string>
-	<string name="pubsPriorCheckoutMissing">Předchozí \"začátek\" chybí</string>
+	<string name="pubsCheckinDone">Příchod zadán</string>
+	<string name="pubsCheckoutDone">Odchod zadán</string>
+	<string name="pubsAlreadyCheckedIn">Příchod již nastaven</string>
+	<string name="pubsAlreadyCheckedOut">Odchod již nastaven</string>
+	<string name="pubsPriorCheckoutMissing">Předchozí \"příchod\" chybí</string>
 	
 	<string name="catExtExportDone">Export hotov, soubor umístěn:\n{1}</string>
 	<string name="catExtFileMissing">Importovaný soubor nenalezen. Použijte \"Export\" k vytvoření šablony.</string>
 	<string name="catExtImpConfirm1">\u2192 EXISTUJÍCÍ {1} ÚKOLY BUDOU SMAZÁNY</string>
-	<string name="catExtImpConfirm2">\u2192 Make sure you don\'t change IDs of tasks already in use</string>
+	<string name="catExtImpConfirm2">\u2192 V žádném případě neměňte ID již používaných záznamů</string>
 	<string name="commonCannotUndo">\u2192 Tento krok nelze vrátit, jedině pomocí příkazu \'Obnova\'</string>
 	<string name="catExtImpConfirm4">\u2022 Soubor: {1}</string>
 	<string name="catExtImpConfirm5">\u2022 Počet úkolů k importu: {1}</string>
@@ -557,8 +557,8 @@
 	
 	<!-- 4.16 -->
 	<string name="commonID">ID</string>		
-	<string name="activityCheckIn">Time Recording/Začátek</string>
-	<string name="activityCheckOut">Time Recording/Konec</string>
+	<string name="activityCheckIn">Time Recording/Příchod</string>
+	<string name="activityCheckOut">Time Recording/Odchod</string>
 	<string name="activityPunch">Time Recording/Přepnout</string>
 	
 	<string name="prefsDeltaWeekOnMain">Zobraz \'Rozdíl\' na hlavní obrazovce</string>
@@ -710,7 +710,7 @@
     <string name="commonTotalW">Celkem W</string>
     <string name="commonCurrentUnitTotal">Aktuální součet prac. záznamů</string>
     <string name="androidWear">Android Wear</string>
-    <string name="commonNotificationOnCheckIn">Oznámení při začátku</string>
+    <string name="commonNotificationOnCheckIn">Oznámení při zadání příchodu</string>
     <string name="commonWorkUnits">prac. záznamy</string>
     
     <!-- 5.16 -->
@@ -734,7 +734,7 @@
     <string name="commonTemplate">Šablona</string>
     <string name="commonUndoChanges">Vrať změny</string>
     <string name="weekShort1">T</string> <!-- 1 znaková zkratka pro "Týden" -->
-    <string name="checkInReminderTitle">Připomínka začátku událostí</string>
+    <string name="checkInReminderTitle">Připomínka příchodu</string>
     <string name="checkInReminderAlert">Dnes žádné záznamy.</string>
-    
+
 </resources>
