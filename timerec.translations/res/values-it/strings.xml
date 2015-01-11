@@ -71,8 +71,8 @@
     <string name="headerTotalDecimal">Totale (decimali)</string>
     <string name="headerTime">Orario</string>
     <string name="headerCheckAction">Azione</string>
-    <string name="headerAmount">Importo</string>
-    <string name="headerAmountShort">Imp.</string>
+    <string name="headerAmount">Valore</string>
+    <string name="headerAmountShort">Val.</string>
     <string name="headerNoteDay">Note del giorno</string>
     <string name="headerNoteWorkUnit">Note su singolo lavoro</string>
     <string name="headerDelta">Delta</string>
@@ -91,10 +91,10 @@
     <string name="prefsDateFormat">Formato data</string>
     <string name="prefsFirstDayOfWeek">Primo giorno della settimana</string>
     <string name="prefsFirstDayOfMonth">Primo giorno del mese (1-31)</string>
-    <string name="prefsAmountCurrencyString">Vista valuta/importo</string>
+    <string name="prefsAmountCurrencyString">Vista valuta/valore</string>
     <string name="prefsDailyTargetTime">Obiettivo orario giornaliero</string>
     <string name="prefsTimePickerIncrement">Incremento di minuti</string>
-	<string name="prefsShortTracking">Propositi</string>
+	<string name="prefsShortTracking">Obiettivi</string>
 	<string name="prefsGroupInterface">Interfaccia</string>
 	<string name="prefsWeekdayTargetTime">Ignora obiettivo orario per i giorni</string>
     <string name="prefsGroupFormatOptions">Opzioni formato</string>
@@ -148,10 +148,10 @@
 	<string name="expPrefsShowTotalLine">Mostra \'Totale\'</string>
 	<string name="expPrefsGroupBreakDate">Gruppo di pause il \'Data\'</string>
 
-	<string name="expTypeOverviewDays">E1 Panoramica del giorno</string>
-	<string name="expTypeOverviewWorkUnits">E2 Panoramica singoli lavori</string>
-	<string name="expTypeOverviewDayAttendance">E3 Frequenza del giorno</string>
-	<string name="expTypeTasksPerDay">E4 Lavori al giorno</string>
+	<string name="expTypeOverviewDays">E1 Sintesi giorno</string>
+	<string name="expTypeOverviewWorkUnits">E2 Singoli lavori</string>
+	<string name="expTypeOverviewDayAttendance">E3 Sintesi Lavori</string>
+	<string name="expTypeTasksPerDay">E4 Dettaglio lavori</string>
 	<string name="expPreview">Anteprima</string>
 	
     <string name="domainSepComma">Virgola [,]</string>
@@ -241,7 +241,7 @@
     <string name="noteMassSkipEmptyDays">Salta i giorni senza timbratura</string>
     
 	<string name="dstorMainTitle">Gestione dati</string>
-	<string name="dstorDataStorage">Memoria da usare (Admin)</string>
+	<string name="dstorDataStorage">Uso Memoria (Admin)</string>
 	<string name="dstorTargetPhone">Telefono</string>
 	<string name="dstorTargetSdCard">Scheda SD</string>
 	<string name="dstorCurrent">Dati attualmente salvati su {1}.</string>
@@ -319,12 +319,12 @@
 	<string name="commonOpenWith">Apri con</string>
 
 	<string name="commonWidget">Widget</string>
-	<string name="commonNotificationBar">Notifica sulla Barra</string>
+	<string name="commonNotificationBar">Notifiche Barra</string>
 	
 	<string name="commonNotificationOnCheckIn">Notifica quando iniziato</string>
 	<string name="widgetPrefNotifBarText">Testo della notifica</string>
 	
-	<string name="prefsCalendarSyncGroup">Sincronizza col calendario Google</string>
+	<string name="prefsCalendarSyncGroup">Sync Google calendar</string>
 	<string name="prefsHomescreenBtSmall">Piccoli pulsanti nella Home</string>
 	<string name="prefsShortTab4">Data,Orario</string>
 	<string name="prefsPunchRoundTaskSwitch">Applica anche a \'Cambia lavoro\'</string>
@@ -436,7 +436,7 @@
 	<string name="helpFAQ">FAQ</string>
 	<string name="helpWhatsNew">Cosa c\'è di nuovo</string>
 	<string name="prefsMinimumBreak">Tempo di pausa minimo</string>
-	<string name="prefsShowIsoWeekNr">Mostro i numeri delle settimane</string>
+	<string name="prefsShowIsoWeekNr">Mostra i numeri delle settimane</string>
 	
 	<string name="confirmDayRollOver">Chiudere la giornata ed andare oltre?</string>
 	<string name="prefDayRollOver">\'Chiudi la giornata e vai oltre\' quando lavoro oltre mezzanotte</string>
@@ -482,7 +482,7 @@
 	<string name="prefsThemeDark">Scuro</string>
 	<string name="commonBasicSettings">Impostazioni di base</string>
 	<string name="autoBreakSkipWhenOff">Salta se fuori dalla finestra del tempo</string>
-	<string name="commonWorktimeOverview">Panoramica</string>
+	<string name="commonWorktimeOverview">Riepilogo generale</string>
 	<string name="commonViewNoun">Vista</string> <!-- "View" -->
 	<string name="commonShort">Breve</string>
 	<string name="prefsReportingPeriod">Periodo di riepilogo</string>
@@ -514,9 +514,9 @@
 	<string name="commonBackupShort">Backup</string>
 	<string name="commonLater">Più tardi</string>
 	
-	<string name="expTypeCustomersPerDay">E6 Clienti al giorno</string>
+	<string name="expTypeCustomersPerDay">E6 Vista Clienti</string>
     <string name="customerNone">(cliente n/d)</string>
-	<string name="commonOverview">Vista generale</string>
+	<string name="commonOverview">Sintesi generale</string>
     <string name="commonSwitchView">Cambia vista</string>
     <string name="commonContinueTask">Continua lavoro</string>
     <string name="commonOnlineHelp">Aiuto online</string>
@@ -552,7 +552,7 @@
 	<string name="commonAppInfo">App Info</string>
 	
 	<!-- 4.21 -->
-	<string name="expTypeClientMatrix">E7 Matrice Clienti</string>
+	<string name="expTypeClientMatrix">E7 Sintesi Clienti</string>
 	
 	<!-- 4.22 -->
 	<string name="commonTaskId">Lavoro ID</string>
@@ -580,11 +580,11 @@
 	<string name="catEdExtra2Long">Lavoro Extra 2</string>
 	<string name="catEdExtra1Short">Extra1</string>
 	<string name="catEdExtra2Short">Extra2</string>
-	<string name="calSyncForceSync">Sincronizzare le voci esistenti</string>
+	<string name="calSyncForceSync">Sync Voci attuali </string>
 	
 	<!-- 5.04 -->
 	<string name="commonCategoryLabel">Titolo dei lavori</string>
-	<string name="prefsOverrideWeeklyTarget">Ignora obiettivo orario per settimana</string>
+	<string name="prefsOverrideWeeklyTarget">Ignora obiettivo orario settimanale</string>
 	
 	
 	<!-- 5.05 -->
@@ -616,7 +616,7 @@
     <!-- 5.08 -->
     <string name="commonPickFile">Seleziona il file</string> <!-- VERIFY: Select file -->
     <string name="expPrefsHeaderN">Titolo linea {1}</string>  <!-- VERIFY: Heading line {1 or 2} -->
-    <string name="expPrefsReportReminder">Report Reminder</string>
+    <string name="expPrefsReportReminder">Promemoria Report</string>
     <string name="commonAverage">Media</string> <!-- VERIFY: Average -->
     <string name="commonNumUnits"># unità</string>
 
@@ -659,8 +659,8 @@
 	<string name="commonBatchUpdate">Aggiornamento di massa</string> <!-- VERIFY: Mass update -->
     
 	<!-- 5.11 / VERIFY -->
-    <string name="commonValue1">Valore1</string>
-    <string name="commonValue2">Valore2</string>
+    <string name="commonValue1">Extra1</string>
+    <string name="commonValue2">Extra2</string>
     <string name="commonForceDeletion">Forza l\'eliminazione</string>
 	<string name="calSyncGranularityWorkUnit">1 evento per unità di lavoro</string>
 	<string name="calSyncGranularityBlock">1 evento per blocco</string>
@@ -675,14 +675,14 @@
     <string name="categoryEditHeaderTimeAccumulationPct">Sommatoria\ntempo %</string> <!-- PENDING: Time\naccumulation % -->
 		
     <!-- 5.13 -->
-    <string name="salesTaxLabel">Tasse sulla vendita</string>
+    <string name="salesTaxLabel">Iva sulle vendite</string>
     <string name="commonValue">Valore</string>
     
     <!-- TAG michael lepori / 15.07.2014 -->
     
     <!-- 5.14 -->
     <string name="appRestartRequired">Riavvio richiesto \u2026</string>
-    <string name="prefsMainScreenStrongOutline">Pulsanti con robusto telaio</string> <!--  PENDING: "Buttons with strong border", or "Strong button outline" -->
+    <string name="prefsMainScreenStrongOutline">Pulsanti con cornice BOLD</string> <!--  PENDING: "Buttons with strong border", or "Strong button outline" -->
     <string name="commonResetSort">Ripristinare l\'ordinamento</string>
     
     <!-- 5.15 -->
@@ -703,11 +703,11 @@
     <string name="prefsBookForwardEnabled"></string> <!-- Book night shifts to next day -->
     <string name="prefsBookForwardSwitchTime"></string> <!-- Switch workday if opened after -->
     <string name="commonMoveEntries">Spostare le voci</string> <!-- Move entries -->
-    <string name="commonMinutes">Minutos</string>
+    <string name="commonMinutes">Minuti</string>
     <string name="nfcAutomation">NFC Automation</string>
     
     <!-- 6.01 -->
-    <string name="prefsNotifKeepAfterCheckout">Keep after check-out</string>
+    <string name="prefsNotifKeepAfterCheckout">Mantieni dopo fine lavoro</string>
     
     <!-- 6.02 -->
     <string name="commonTemplate">Modello</string>
