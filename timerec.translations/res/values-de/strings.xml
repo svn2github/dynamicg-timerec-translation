@@ -529,7 +529,7 @@
 	<string name="commonLater">Später</string>
 
 	<!-- 4.16 -->
-	<string name="activityPunch">Zeiterfassung/Stempeln</string>
+	<string name="actionPunch">Stempeln</string>
 	
 	<string name="prefsDeltaWeekOnMain">\'Delta\' auf Hauptschirm zeigen</string>
 	<string name="workUnitDetailRep">Arbeitsnachweis</string>

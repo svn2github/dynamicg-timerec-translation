@@ -533,7 +533,7 @@
     
 	<!-- 4.16 / Global stuff and NFC Activities. Do not translate -->
     <string name="commonID">ID</string>
-	<string name="activityPunch">Time Recording/Punch</string>
+	<string name="actionPunch">Punch</string>
 	
 	<!-- 4.16 -->
 	<string name="workUnitDetailRep">Rapporto di lavoro</string>

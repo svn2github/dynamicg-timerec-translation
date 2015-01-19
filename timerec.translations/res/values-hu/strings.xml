@@ -557,7 +557,7 @@
 	
 	<!-- 4.16 -->
 	<string name="commonID">ID</string>		
-	<string name="activityPunch">Time Recording/Üt</string>
+	<string name="actionPunch">Üt</string>
 	
 	<string name="prefsDeltaWeekOnMain">Mutassa a  \'Delta\' a főképernyőn</string>
 	<string name="workUnitDetailRep">Munka napló</string>

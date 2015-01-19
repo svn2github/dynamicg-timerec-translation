@@ -557,7 +557,7 @@
 	
 	<!-- 4.16 -->
 	<string name="commonID">ID</string>		
-	<string name="activityPunch">Time Recording/Přepnout</string>
+	<string name="actionPunch">Přepnout</string>
 	
 	<string name="prefsDeltaWeekOnMain">Zobraz \'Rozdíl\' na hlavní obrazovce</string>
 	<string name="workUnitDetailRep">Pracovní log</string>

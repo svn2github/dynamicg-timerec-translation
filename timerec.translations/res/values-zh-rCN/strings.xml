@@ -533,7 +533,7 @@
 	<string name="commonID">ID</string>		
 	<string name="actionCheckIn">打卡</string>
 	<string name="actionCheckOut">结束</string>
-	<string name="activityPunch">Time Recording/计时</string>
+	<string name="actionPunch">计时</string>
 	
 	<string name="prefsDeltaWeekOnMain">显示 \'差额\'</string>
 	<string name="workUnitDetailRep">导出流水账</string>

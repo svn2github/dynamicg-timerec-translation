@@ -564,7 +564,7 @@
 	
 	<!-- 4.16 -->
 	<string name="commonID">ID</string>		
-	<string name="activityPunch">Time Recording/Punch</string>
+	<string name="actionPunch">Punch</string>
 	
 	<string name="prefsDeltaWeekOnMain">Show \'Delta\' on main screen</string>
 	<string name="workUnitDetailRep">Work log</string>
