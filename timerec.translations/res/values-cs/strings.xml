@@ -557,8 +557,6 @@
 	
 	<!-- 4.16 -->
 	<string name="commonID">ID</string>		
-	<string name="activityCheckIn">Time Recording/Příchod</string>
-	<string name="activityCheckOut">Time Recording/Odchod</string>
 	<string name="activityPunch">Time Recording/Přepnout</string>
 	
 	<string name="prefsDeltaWeekOnMain">Zobraz \'Rozdíl\' na hlavní obrazovce</string>
@@ -737,4 +735,8 @@
     <string name="checkInReminderTitle">Připomínka příchodu</string>
     <string name="checkInReminderAlert">Dnes žádné záznamy.</string>
 
+    <!-- 6.03 -->
+    <string name="actionCheckIn">Příchod</string>
+	<string name="actionCheckOut">Odchod</string>
+	
 </resources>

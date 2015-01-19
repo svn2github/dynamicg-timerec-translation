@@ -564,8 +564,6 @@
 	
 	<!-- 4.16 -->
 	<string name="commonID">ID</string>		
-	<string name="activityCheckIn">Time Recording/Check in</string>
-	<string name="activityCheckOut">Time Recording/Check out</string>
 	<string name="activityPunch">Time Recording/Punch</string>
 	
 	<string name="prefsDeltaWeekOnMain">Show \'Delta\' on main screen</string>
@@ -745,6 +743,8 @@
     <string name="checkInReminderAlert">No entries for today.</string>
     
     <!-- 6.03 -->
+    <string name="actionCheckIn">Check in</string>
+    <string name="actionCheckOut">Check out</string>
     <string name="calSyncEventLocation">Location</string>
     
 </resources>

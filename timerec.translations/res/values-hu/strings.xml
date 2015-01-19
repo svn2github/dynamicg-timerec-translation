@@ -557,8 +557,6 @@
 	
 	<!-- 4.16 -->
 	<string name="commonID">ID</string>		
-	<string name="activityCheckIn">Time Recording/Belépés</string>
-	<string name="activityCheckOut">Time Recording/Távozás</string>
 	<string name="activityPunch">Time Recording/Üt</string>
 	
 	<string name="prefsDeltaWeekOnMain">Mutassa a  \'Delta\' a főképernyőn</string>
@@ -737,4 +735,8 @@
     <string name="checkInReminderTitle">Belêpês emlêkeztetö</string>
     <string name="checkInReminderAlert">Nincs bejegyzês a mai napra.</string>
     
+    <!-- 6.03 -->
+    <string name="actionCheckIn">Belépés</string>
+	<string name="actionCheckOut">Távozás</string>
+	
 </resources>

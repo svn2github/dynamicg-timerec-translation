@@ -511,8 +511,8 @@
 	<string name="commonBackupShort">バックアップ</string>
 	<string name="commonLater">後で</string>
 	<string name="commonID">ID</string>		
-	<string name="activityCheckIn">Time Recording/チェックイン</string>
-	<string name="activityCheckOut">Time Recording/チェックアウト</string>
+	<string name="actionCheckIn">チェックイン</string>
+	<string name="actionCheckOut">チェックアウト</string>
 	<string name="activityPunch">Time Recording/パンチ</string>
 	<string name="prefsDeltaWeekOnMain">\'差分\' をメイン画面に表示する</string>
 	<string name="workUnitDetailRep">作業ログ</string>

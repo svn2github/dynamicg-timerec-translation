@@ -529,8 +529,6 @@
 	<string name="commonLater">Später</string>
 
 	<!-- 4.16 -->
-	<string name="activityCheckIn">Zeiterfassung/Einstempeln</string>
-	<string name="activityCheckOut">Zeiterfassung/Ausstempeln</string>
 	<string name="activityPunch">Zeiterfassung/Stempeln</string>
 	
 	<string name="prefsDeltaWeekOnMain">\'Delta\' auf Hauptschirm zeigen</string>
@@ -697,6 +695,8 @@
     <string name="checkInReminderAlert">Keine Einträge vorhanden.</string>
     
     <!-- 6.03 -->
+    <string name="actionCheckIn">Einstempeln</string>
+    <string name="actionCheckOut">Ausstempeln</string>
     <string name="calSyncEventLocation">Ort</string>
     
 </resources>

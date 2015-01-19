@@ -531,8 +531,8 @@
 	
 	<!-- 4.16 -->
 	<string name="commonID">ID</string>		
-	<string name="activityCheckIn">Time Recording/打卡</string>
-	<string name="activityCheckOut">Time Recording/结束</string>
+	<string name="actionCheckIn">打卡</string>
+	<string name="actionCheckOut">结束</string>
 	<string name="activityPunch">Time Recording/计时</string>
 	
 	<string name="prefsDeltaWeekOnMain">显示 \'差额\'</string>
