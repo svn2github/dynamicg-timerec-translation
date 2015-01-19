@@ -699,4 +699,9 @@
     <string name="commonUndoChanges">Deshacer los cambios</string>
     <string name="weekShort1">S</string>
     
+    <!-- 6.03 -->
+    <string name="actionCheckIn">Iniciar</string>
+    <string name="actionCheckOut">Finalizar</string>
+    <string name="calSyncEventLocation">Location</string>
+    
 </resources>
