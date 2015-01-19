@@ -696,4 +696,7 @@
     <string name="checkInReminderTitle">Einstempel-Erinnerung</string>
     <string name="checkInReminderAlert">Keine Einträge vorhanden.</string>
     
+    <!-- 6.03 -->
+    <string name="calSyncEventLocation">Ort</string>
+    
 </resources>
