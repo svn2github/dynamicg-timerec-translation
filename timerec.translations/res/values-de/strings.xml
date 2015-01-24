@@ -697,5 +697,6 @@
     <string name="actionCheckIn">Einstempeln</string>
     <string name="actionCheckOut">Ausstempeln</string>
     <string name="calSyncEventLocation">Ort</string>
+    <string name="punchRuleTitle">Stempel-Regeln</string>
     
 </resources>

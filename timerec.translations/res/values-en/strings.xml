@@ -172,8 +172,6 @@
 	<string name="expPrefsDataInclusion">Data inclusion</string>
 	<string name="expPrefsAttachmentMimeType">Attachment MIME type</string>
 	
-	<!-- do not translate, used for custom "send report" app settings -->
-	
 	<string name="expPrefsFileEncoding">File encoding</string>
 	<string name="expPrefsHideAmounts">Hide amounts</string>
 	<string name="expPrefsAmtWithCurrency">Show currency on amounts</string>
@@ -349,8 +347,7 @@
 	<string name="admDeleteOldBody">Delete all data up to {1}?\nThis cannot be undone.</string>
 	<string name="admDeleteAll">Delete all data</string>
 	
-	<!-- do not translate -->
-	<string name="pubsIssue">{1} issue</string>
+	<string name="pubsIssue">{1} issue</string> <!-- to report problems when punching through the widget. {1} is the app name -->
 	
 	<string name="pubsCheckinDone">Check-in done</string>
 	<string name="pubsCheckoutDone">Check-out done</string>
@@ -745,5 +742,6 @@
     <string name="actionCheckIn">Check in</string>
     <string name="actionCheckOut">Check out</string>
     <string name="calSyncEventLocation">Location</string>
+    <string name="punchRuleTitle">Punch rules</string>
     
 </resources>
