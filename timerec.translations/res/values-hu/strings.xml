@@ -168,7 +168,6 @@
 	<string name="expPrefsAttachmentMimeType">Csatolt  MIME típus</string>
 	
 	<!-- do not translate, used for custom "send report" app settings -->
-	<string name="expPrefsTargetIntent">\'Küldés\' célpont szándék</string>
 	
 	<string name="expPrefsFileEncoding">Fájl kódolás</string>
 	<string name="expPrefsHideAmounts">Mennyiség elrejtése</string>

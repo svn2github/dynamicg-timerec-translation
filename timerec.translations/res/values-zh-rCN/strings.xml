@@ -160,7 +160,6 @@
 	<string name="repTaskMatrix">任务统计表</string>
 	<string name="expPrefsDataInclusion">数据显示于</string>
 	<string name="expPrefsAttachmentMimeType">附件\'MIME格式\'</string>
-	<string name="expPrefsTargetIntent">\'Send\' target intent</string>
 	<string name="expPrefsFileEncoding">文件编码</string>
 	<string name="expPrefsHideAmounts">隐藏薪资</string>
 	<string name="expPrefsAmtWithCurrency">显示货币符号</string>

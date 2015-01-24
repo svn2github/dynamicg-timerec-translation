@@ -163,7 +163,6 @@
 	<string name="repTaskMatrix">Taskmatrix</string>
 	<string name="expPrefsDataInclusion">Daten-Inklusion</string>
 	<string name="expPrefsAttachmentMimeType">Dateianhang MIME type</string>
-	<string name="expPrefsTargetIntent">Ziel-Intent für Senden</string>
 	<string name="expPrefsFileEncoding">Zeichensatz-Kodierung</string>
 	<string name="expPrefsHideAmounts">Beträge verbergen</string>
 	<string name="expPrefsAmtWithCurrency">Währungssymbol bei Beträgen</string>

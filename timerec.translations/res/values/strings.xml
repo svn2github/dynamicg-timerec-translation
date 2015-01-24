@@ -173,7 +173,6 @@
 	<string name="expPrefsAttachmentMimeType">Attachment MIME type</string>
 	
 	<!-- do not translate, used for custom "send report" app settings -->
-	<string name="expPrefsTargetIntent">\'Send\' target intent</string>
 	
 	<string name="expPrefsFileEncoding">File encoding</string>
 	<string name="expPrefsHideAmounts">Hide amounts</string>

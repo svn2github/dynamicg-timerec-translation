@@ -164,7 +164,6 @@
 	<string name="repTaskMatrix">Planilha de tarefas</string>
 	<string name="expPrefsDataInclusion">Data de inclusão</string>
 	<string name="expPrefsAttachmentMimeType">Anexo \'tipo MIME\'</string>
-	<string name="expPrefsTargetIntent">\'Enviar\' intenção de limite</string>
 	<string name="expPrefsFileEncoding">Codificação do arquivo</string>
 	<string name="expPrefsHideAmounts">Esconder totais</string>
 	<string name="expPrefsAmtWithCurrency">Exibir moeda nos totais</string>

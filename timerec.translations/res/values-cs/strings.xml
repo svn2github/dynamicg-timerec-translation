@@ -168,7 +168,6 @@
 	<string name="expPrefsAttachmentMimeType">Typ MIME přílohy</string>
 	
 	<!-- do not translate, used for custom "send report" app settings -->
-	<string name="expPrefsTargetIntent">\'Send\' target intent</string>
 	
 	<string name="expPrefsFileEncoding">Kódování souboru</string>
 	<string name="expPrefsHideAmounts">Skryj částku</string>

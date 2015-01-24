@@ -159,7 +159,6 @@
 	<string name="repTaskMatrix">Matrice Tâche</string>
 	<string name="expPrefsDataInclusion">Insertion des données</string>
 	<string name="expPrefsAttachmentMimeType">Fichier attaché \'type MIME\'</string>
-	<string name="expPrefsTargetIntent">Intention pour l\'envoi</string>
 	<string name="expPrefsFileEncoding">Encodage fichier</string>
 	<string name="expPrefsHideAmounts">Masquer montants</string>
 	<string name="expPrefsAmtWithCurrency">Afficher la devise pour les montants</string>

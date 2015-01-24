@@ -135,7 +135,6 @@
 	<string name="repTaskMatrix">Matriz de tareas</string>
 	<string name="expPrefsDataInclusion">Incluir datos</string>
 	<string name="expPrefsAttachmentMimeType">Añadir \'tipo MIME\'</string>
-	<string name="expPrefsTargetIntent">\'Enviar\' intento de destino</string>
 	<string name="expPrefsFileEncoding">Codificar fichero</string>
 	<string name="expPrefsHideAmounts">Ocultar importes</string>
 	<string name="expPrefsDaysToShow">Muestran estos días</string>
