@@ -50,7 +50,6 @@
     <!-- "commonTask" -->
     <!-- "commonText" -->
     <!-- "commonSortAZ" -->
-    <!-- "commonEditShort" -->
     <!-- "commonDetails" -->
 	<string name="commonDoneToast">{1} \u2192erledigt</string>
     <string name="commonBreak">Pause</string>

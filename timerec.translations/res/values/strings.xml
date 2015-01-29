@@ -46,7 +46,6 @@
     <string name="commonTask">Task</string>
     <string name="commonText">Text</string>
     <string name="commonSortAZ">Sort A-Z</string>
-    <string name="commonEditShort">Edit</string>
     <string name="commonDetails">Details</string>
 	<string name="commonDoneToast">{1} \u2192done</string>
     <string name="commonBreak">Break</string>

@@ -46,7 +46,6 @@
     <string name="commonTask">Feladat</string>
     <string name="commonText">Szöveg</string>
     <string name="commonSortAZ">ABC sorrend</string>
-    <string name="commonEditShort">Szerkeszt</string>
     <string name="commonDetails">Részletek</string>
 	<string name="commonDoneToast">{1} \u2192kész</string>
     <string name="commonBreak">Szünet</string>

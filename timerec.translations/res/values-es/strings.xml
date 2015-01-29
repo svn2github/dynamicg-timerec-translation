@@ -51,7 +51,6 @@
     <string name="commonTask">Tarea</string>
     <string name="commonText">Texto</string>
     <string name="commonSortAZ">Orden A-Z</string>
-    <string name="commonEditShort">Editar</string>
     <string name="commonDetails">Detalles</string>
 	<string name="commonDoneToast">{1} \u2192 HECHO</string>
     <string name="commonBreak">Pausa</string>

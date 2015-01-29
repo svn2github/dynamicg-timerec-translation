@@ -46,7 +46,6 @@
     <string name="commonTask">Úkol</string>
     <string name="commonText">Text</string>
     <string name="commonSortAZ">Řadit A-Z</string>
-    <string name="commonEditShort">Uprav</string>
     <string name="commonDetails">Detaily</string>
 	<string name="commonDoneToast">{1} \u2192hotovo</string>
     <string name="commonBreak">Pauza</string>
