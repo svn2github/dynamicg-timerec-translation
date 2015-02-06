@@ -742,7 +742,7 @@
     <string name="actionCheckOut">Check out</string>
     <string name="calSyncEventLocation">Location</string> <!-- for calendar sync ("event location") -->
     <string name="punchRuleTitle">Punch rules</string>
-    <string name="expPrefsExpandPunchDate">«{1}», «{2}» with date</string> <!-- this is on report E2 detail settings -->
-    <string name="notesCarryForward">New work unit copies previous comment</string>
+    <string name="expPrefsExpandPunchDate">«{1}», «{2}» with date</string> <!-- checkbox option for report E2, to show the date together with checkin/checkout time -->
+    <string name="notesCarryForward">New work unit copies previous comment</string> <!-- checkbox option on the "Work unit notes" long click settings page -->
     
 </resources>
