@@ -46,6 +46,7 @@
     <string name="commonTask">Úkol</string>
     <string name="commonText">Text</string>
     <string name="commonSortAZ">Řadit A-Z</string>
+    <string name="commonEditShort">Uprav</string>
     <string name="commonDetails">Detaily</string>
 	<string name="commonDoneToast">{1} \u2192hotovo</string>
     <string name="commonBreak">Pauza</string>
@@ -165,8 +166,6 @@
 	<string name="repTaskMatrix">Analýza úkolů</string>
 	<string name="expPrefsDataInclusion">Zahrnutí dat</string>
 	<string name="expPrefsAttachmentMimeType">Typ MIME přílohy</string>
-	
-	<!-- do not translate, used for custom "send report" app settings -->
 	
 	<string name="expPrefsFileEncoding">Kódování souboru</string>
 	<string name="expPrefsHideAmounts">Skryj částku</string>
@@ -536,7 +535,7 @@
 	<!-- 4.13 -->
     <string name="commonUndo">Zpět</string> <!-- "Undo changes" on text editor -->
     <string name="prefsStayOnPreviousDay">Zobraz předch. den při otevření před</string>
-    <string name="prefsAutoBackup">Automat. záloha každých x dní</string>
+    <string name="prefsAutoBackup">Automatická záloha každých x dní</string>
     <string name="commonSdCard">SD karta</string>
 	<string name="commonRefreshMM">Obnov každých x minut</string>
 	<string name="calSyncNightShift">Podpora nočních směn</string>
@@ -558,7 +557,7 @@
 	<string name="actionPunch">Přepnout</string>
 	
 	<string name="prefsDeltaWeekOnMain">Zobraz \'Rozdíl\' na hlavní obrazovce</string>
-	<string name="workUnitDetailRep">Pracovní log</string>
+	<string name="workUnitDetailRep">Log-soubor prací</string>
 
 	<!-- 4.17 -->
 	<!-- applies to "Automatic breaks" on settings page 2. the meaning is something like "Does the full break apply (when ticked off) or should the break length increase parallel to the work duration (when ticked on) -->
@@ -639,9 +638,9 @@
     <!-- 5.08 -->
     <string name="commonPickFile">Vyber soubor</string>
     <string name="expPrefsHeaderN">Řádek záhlaví {1}</string>
-    <string name="expPrefsReportReminder">Upomínka výstupu</string>
+    <string name="expPrefsReportReminder">Připomínka výstupů (reports)</string>
     <string name="commonAverage">průměr</string>
-    <string name="commonNumUnits"># jednotek</string>
+    <string name="commonNumUnits"># úseků</string>
 
     <!-- 5.09 -->
     <string name="deleteUnusedTasks">Smazat nepoužité úkoly</string>
@@ -727,14 +726,16 @@
     <string name="commonFeatureLocked">Tato vlastnost je zamknuta</string>
 
     <!-- 6.02 -->
-    <string name="commonTemplate">Šablona</string>
+    <string name="commonTemplate">Šablony</string>
     <string name="commonUndoChanges">Vrať změny</string>
     <string name="weekShort1">T</string> <!-- 1 znaková zkratka pro "Týden" -->
-    <string name="checkInReminderTitle">Připomínka příchodu</string>
-    <string name="checkInReminderAlert">Dnes žádné záznamy.</string>
-
+    <string name="checkInReminderTitle">Připomínka prvního příchodu</string>
+    <string name="checkInReminderAlert">Zatím nebyly zapsány žádné záznamy.</string>
+    
     <!-- 6.03 -->
     <string name="actionCheckIn">Příchod</string>
-	<string name="actionCheckOut">Odchod</string>
-	
+    <string name="actionCheckOut">Odchod</string>
+    <string name="calSyncEventLocation">Umístění</string>
+    <string name="punchRuleTitle">Pravidla přepnutí</string>
+
 </resources>

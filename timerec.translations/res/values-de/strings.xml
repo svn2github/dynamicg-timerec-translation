@@ -49,7 +49,7 @@
     <!-- "commonStart" -->
     <!-- "commonTask" -->
     <!-- "commonText" -->
-    <!-- "commonSortAZ" -->
+    <string name="commonSortAZ">Sortierung A-Z</string>
     <!-- "commonDetails" -->
 	<string name="commonDoneToast">{1} \u2192erledigt</string>
     <string name="commonBreak">Pause</string>
@@ -697,5 +697,7 @@
     <string name="actionCheckOut">Ausstempeln</string>
     <string name="calSyncEventLocation">Ort</string>
     <string name="punchRuleTitle">Stempel-Regeln</string>
+    <string name="expPrefsExpandPunchDate">«{1}», «{2}» mit Datum</string>
+    <string name="notesCarryForward">Neue Arbeitseinheit übernimmt vorangehenden Kommentar</string>
     
 </resources>
