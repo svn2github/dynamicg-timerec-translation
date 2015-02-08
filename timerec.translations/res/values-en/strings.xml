@@ -641,7 +641,7 @@
     <!-- 5.08 -->
     <string name="commonPickFile">Select file</string>
     <string name="expPrefsHeaderN">Heading line {1}</string>
-    <string name="expPrefsReportReminder">Report reminder</string>
+    <string name="expPrefsReportReminder">Report Reminder</string>
     <string name="commonAverage">Average</string>
     <string name="commonNumUnits"># Units</string>
 
