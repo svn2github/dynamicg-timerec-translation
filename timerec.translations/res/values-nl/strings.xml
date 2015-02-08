@@ -726,7 +726,7 @@
     <string name="commonFeatureLocked">This feature is locked</string>
     
     <!-- 6.02 -->
-    <string name="commonTemplate">Template</string>
+    <string name="commonTemplate">Template</string> <!-- this replaces the previous "Breaks and time blocks" -->
     <string name="commonUndoChanges">Undo changes</string>
     <string name="checkInReminderTitle">Check-in reminder</string>
     <string name="checkInReminderAlert">No entries for today.</string>
@@ -734,7 +734,7 @@
     <!-- 6.03 -->
     <string name="calSyncEventLocation">Location</string> <!-- for calendar sync ("event location") -->
     <string name="punchRuleTitle">Punch rules</string>
-    <string name="expPrefsExpandPunchDate">«{1}», «{2}» with date</string> <!-- checkbox option for report E2, to show the date together with checkin/checkout time -->
+    <string name="expPrefsExpandPunchDate">\u00ab{1}\u00bb, \u00ab{2}\u00bb with date</string> <!-- checkbox option for report E2, to show the date together with checkin/checkout time -->
     <string name="notesCarryForward">New work unit copies previous comment</string> <!-- checkbox option on the "Work unit notes" long click settings page -->
     
 </resources>
