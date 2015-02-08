@@ -737,5 +737,7 @@
     <string name="actionCheckOut">Odchod</string>
     <string name="calSyncEventLocation">Umístění</string>
     <string name="punchRuleTitle">Pravidla přepnutí</string>
-
+    <string name="expPrefsExpandPunchDate">«{1}», «{2}» s datem</string> 
+    <string name="notesCarryForward">Nový pracovní záznam použije předchozí poznámku</string>
+    
 </resources>
