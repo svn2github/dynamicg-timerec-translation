@@ -551,8 +551,6 @@
 	
 	<!-- 4.16 -->
 	<string name="commonID">ID</string>		
-	<string name="actionCheckIn">Klok in</string>
-	<string name="actionCheckOut">Klok uit</string>
 	<string name="actionPunch">Klok nu</string>
 	
 	<string name="prefsDeltaWeekOnMain">Toon \'Delta\' op hoofdscherm</string>
@@ -717,6 +715,11 @@
     <string name="commonMinutes">Minuten</string>
     
     <!-- 5.18 -->
+	<string name="actionCheckIn">Klok in</string>
+	<string name="actionCheckOut">Klok uit</string>
+    <string name="weekShort1">W</string> <!-- 1 letter abbreviation for "Week" -->
+    
+    <!-- 6.01 -->
     <string name="prefsHideAdvertisement">Remove Ads (12 months)</string>
     <string name="prefsNotifKeepAfterCheckout">Keep after check-out</string>
     <string name="commonUnlock">Unlock</string>
@@ -725,7 +728,6 @@
     <!-- 6.02 -->
     <string name="commonTemplate">Template</string>
     <string name="commonUndoChanges">Undo changes</string>
-    <string name="weekShort1">W</string> <!-- 1 letter abbreviation for "Week" -->
     <string name="checkInReminderTitle">Check-in reminder</string>
     <string name="checkInReminderAlert">No entries for today.</string>
     
