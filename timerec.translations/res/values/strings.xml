@@ -727,7 +727,7 @@
     <string name="commonFeatureLocked">This feature is locked</string>
     
     <!-- 6.02 -->
-    <string name="commonTemplate">Template</string>
+    <string name="commonTemplate">Template</string> <!-- this replaces the previous "Breaks and time blocks" -->
     <string name="commonUndoChanges">Undo changes</string>
     <string name="weekShort1">W</string> <!-- 1 letter abbreviation for "Week" -->
     <string name="checkInReminderTitle">Check-in reminder</string>
