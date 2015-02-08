@@ -5,13 +5,11 @@
     <string name="app_name_pro">Time Recording Pro</string>
     <string name="homescreenCheckinNow">Klok in nu</string>
     <string name="homescreenCheckoutNow">Klok uit nu</string>
-    <string name="homescreenAddBreak">Voeg pauze in</string>
     <string name="homescreenHintNoStamps">Geen tijdstip.\nOpen Dag en gebruik Pijl Links om tijdstippen toe te voegen aan vorige dagen</string>
     <string name="homescreenAddStamp">Voeg tijdstip toe</string>
     <string name="menuEditStampsShort">Bewerk tijdstippen</string>
     <string name="menuPreferences">Voorkeuren</string>
     <string name="menuAdmin">Admin</string>
-    <string name="menuAddStandardEntry">Toevoegen pauze/werkblok</string>
     <string name="menuMore">Meer</string>
     <string name="commonDays">Dagen</string>
     <string name="commonEdit">Bewerken</string>
@@ -48,7 +46,6 @@
     <string name="commonTask">Taak</string>
     <string name="commonText">Tekst</string>
     <string name="commonSortAZ">Sorteer A-Z</string>
-    <string name="commonEditShort">Bewerk</string>
     <string name="commonDetails">Details</string>
 	<string name="commonDoneToast">{1} \u2192klaar</string>
     <string name="commonBreak">Pauze</string>
@@ -119,7 +116,6 @@
 	<string name="prefsDomRoundStd">Afronden</string>
 	<string name="prefsDomRoundUp">Afronden naar boven</string>
 	<string name="prefsDomRoundDown">Afronden naar beneden</string>
-	<string name="prefsProOnlyFeature">\u2192 Dit is een \"Pro version only\" functie</string>
 	<string name="prefsPunchRoundTaskSwitch">Ook toepassen op \u00abWissel van taak\u00bb</string>
 	<string name="prefsCalendarSyncGroup">Google calendar synchronisatie</string>
 	
@@ -169,9 +165,6 @@
 	<string name="repTaskMatrix">Taak matrix</string>
 	<string name="expPrefsDataInclusion">Data inclusion</string>
 	<string name="expPrefsAttachmentMimeType">Bijlage MIME type</string>
-	
-	<!-- do not translate, used for custom "send report" app settings -->
-	<string name="expPrefsTargetIntent">\'Send\' target intent</string>
 	
 	<string name="expPrefsFileEncoding">Bestandscodering</string>
 	<string name="expPrefsHideAmounts">Verberg bedragen</string>
@@ -276,8 +269,6 @@
     <string name="errorCloudAccessFailed">{1} toegang mislukt</string>
 
     <string name="aboutPublicServices">API Services</string> 
-    <string name="aboutPro">Pro</string>
-	<string name="aboutAvailableHere">\u00ab{1}\u00bb hier beschikbaar</string> 
 
     <string name="bckBackupTitle">Backup</string>
     <string name="bckRestoreTitle">Terugplaatsen</string>
@@ -419,8 +410,6 @@
 	<string name="prefsKeepScreenOn">Laat scherm aan</string>
 	
 	<!-- v3.06 -->
-	<string name="expSearchDayNotes">Dag opmerkingen filter</string>
-	<string name="expSearchWorkUnitNotes">Werkblok opmerkingen filter</string>
 	<string name="expPrefsAutoCloseWindow">Sluit dialoog na export</string>
 	<string name="taskerPluginSelectAction">Selecteer actie die zal worden gestart:</string>
 	<string name="commonTaskSelectionOpen">Open taak selectie</string>
@@ -429,8 +418,6 @@
 	<string name="taskerPreselectedCategory">Extra instellingen: gebruik volgende taak voor geselecteerde actie:</string>
 	<string name="commonWeeklyDelta">Delta W</string>
 	<string name="commonMonthlyDelta">Delta M</string>
-	<string name="prefsHideAdsLabel">\u2022 Advertentie</string>
-	<string name="prefsHideAdsButton">Verberg advertenties tot {1}</string>
 	<string name="admResetAllPrefs">Reset alle voorkeuren</string>
 	<string name="calSyncCalendarType">Kalendertype</string>
 	<string name="calSyncCalendarTypeExclusive">Exclusief, alleen voor TimeRec</string>
@@ -566,9 +553,9 @@
 	
 	<!-- 4.16 -->
 	<string name="commonID">ID</string>		
-	<string name="activityCheckIn">Time Recording/Klok in</string>
-	<string name="activityCheckOut">Time Recording/Klok uit</string>
-	<string name="activityPunch">Time Recording/Klok nu</string>
+	<string name="actionCheckIn">Klok in</string>
+	<string name="actionCheckOut">Klok uit</string>
+	<string name="actionPunch">Klok nu</string>
 	
 	<string name="prefsDeltaWeekOnMain">Toon \'Delta\' op hoofdscherm</string>
 	<string name="workUnitDetailRep">Werk log</string>
@@ -603,7 +590,6 @@
 	<string name="widgetPro4x1">Time Recording Pro 4x1</string>
 	<string name="widgetPro4x2">Time Recording Pro 4x2</string>
 	<string name="expCustomDefaultApp">\u00ab{1}\u00bb App</string>
-	<string name="commonShowActions">Toon acties</string>
 	
 	<string name="commonExclude">Uitsluiten \u00ab{1}\u00bb</string>
 			
@@ -612,9 +598,6 @@
 	<string name="commonGroupBy">Groepeer op</string>
 	<string name="commonLineN">Regel {1}</string>
 	
-	<string name="promoTitle">Ondersteuning {1}</string>
-	<string name="promoBody">Als je deze app regelmatig gebruikt, overweeg dan aub de Pro versie.\nDit garandeert dat de app goed onderhouden wordt en dat nieuwe opties worden toegevoegd in de toekomst.\n\nHartelijk dank!</string>
-
 	<!-- 5.03 -->
 	<string name="categoryEditHeaderTimeCumulationOff">Geen tijd\noptelling</string>
 	<string name="calSyncForceSync">Synchroniseer bestaande tijdstippen</string>
@@ -735,5 +718,24 @@
     <string name="prefsBookForwardSwitchTime">Wissel van werkdag indien geopend na</string>
     <string name="commonMoveEntries">Verplaats tijdstippen</string>
     <string name="commonMinutes">Minuten</string>
+    
+    <!-- 5.18 -->
+    <string name="prefsHideAdvertisement">Remove Ads (12 months)</string>
+    <string name="prefsNotifKeepAfterCheckout">Keep after check-out</string>
+    <string name="commonUnlock">Unlock</string>
+    <string name="commonFeatureLocked">This feature is locked</string>
+    
+    <!-- 6.02 -->
+    <string name="commonTemplate">Template</string>
+    <string name="commonUndoChanges">Undo changes</string>
+    <string name="weekShort1">W</string> <!-- 1 letter abbreviation for "Week" -->
+    <string name="checkInReminderTitle">Check-in reminder</string>
+    <string name="checkInReminderAlert">No entries for today.</string>
+    
+    <!-- 6.03 -->
+    <string name="calSyncEventLocation">Location</string> <!-- for calendar sync ("event location") -->
+    <string name="punchRuleTitle">Punch rules</string>
+    <string name="expPrefsExpandPunchDate">«{1}», «{2}» with date</string> <!-- checkbox option for report E2, to show the date together with checkin/checkout time -->
+    <string name="notesCarryForward">New work unit copies previous comment</string> <!-- checkbox option on the "Work unit notes" long click settings page -->
     
 </resources>
