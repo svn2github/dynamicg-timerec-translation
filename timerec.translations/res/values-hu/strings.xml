@@ -270,8 +270,6 @@
     <string name="errorCalSyncFailed">Naptár szinkronizálás nem sikerült</string>
     <string name="errorCloudAccessFailed">{1} Hozzáférés nem sikerült</string>
 
-    <string name="aboutPublicServices">API Szolgáltatások</string> 
-
     <string name="bckBackupTitle">Biztonsági mentés</string>
     <string name="bckRestoreTitle">Visszaállítás</string>
     <string name="bckCreateBackup">Biztonsági mentés létrehozása</string>
@@ -705,7 +703,6 @@
     <string name="exportDataTaggingComment">[Exportált $d $t]</string>
     <string name="commonTotalW">Összes Hét:</string>
     <string name="commonCurrentUnitTotal">Aktuális munkaegység összesen</string>
-    <string name="androidWear">Android Wear</string>
     <string name="commonNotificationOnCheckIn">Értesítés ha Belépett</string>
     <string name="commonWorkUnits">Munkaegységek</string>
     
@@ -718,7 +715,6 @@
     <string name="prefsBookForwardSwitchTime">Munkanapra váltás ha utána van megnyitva</string>
     <string name="commonMoveEntries">Bejegyzések mozgatása</string>
     <string name="commonMinutes">Percek</string>
-    <string name="nfcAutomation">NFC Automatatika</string>
     
     <!-- 6.01 -->
     <string name="prefsHideAdvertisement">Reklámok eltávolitása (12 hónapig)</string>

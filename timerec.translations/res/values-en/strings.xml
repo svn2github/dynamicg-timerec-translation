@@ -273,8 +273,6 @@
     <string name="errorCalSyncFailed">Calendar sync failed</string>
     <string name="errorCloudAccessFailed">{1} access failed</string>
 
-    <string name="aboutPublicServices">API Services</string> 
-
     <string name="bckBackupTitle">Backup</string>
     <string name="bckRestoreTitle">Restore</string>
     <string name="bckCreateBackup">Create backup</string>
@@ -709,7 +707,6 @@
     <string name="exportDataTaggingComment">[Exported $d $t]</string>
     <string name="commonTotalW">Total W</string>
     <string name="commonCurrentUnitTotal">Current work unit total</string>
-    <string name="androidWear">Android Wear</string>
     <string name="commonNotificationOnCheckIn">Notification when checked in</string>
     <string name="commonWorkUnits">Work units</string>
     
@@ -722,7 +719,6 @@
     <string name="prefsBookForwardSwitchTime">Switch workday if opened after</string>
     <string name="commonMoveEntries">Move entries</string>
     <string name="commonMinutes">Minutes</string>
-    <string name="nfcAutomation">NFC Automation</string>
     
     <!-- 5.18 -->
     <string name="prefsHideAdvertisement">Remove Ads (12 months)</string>

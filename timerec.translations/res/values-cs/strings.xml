@@ -269,7 +269,6 @@
     <string name="errorCalSyncFailed">Synchr. kalendáře selhala</string>
     <string name="errorCloudAccessFailed">{1} chyba přístupu</string>
 
-    <string name="aboutPublicServices">Služby API</string> 
 
     <string name="bckBackupTitle">Záloha</string>
     <string name="bckRestoreTitle">Obnova</string>
@@ -704,7 +703,6 @@
     <string name="exportDataTaggingComment">[Exportováno $d $t]</string>
     <string name="commonTotalW">Celkem W</string>
     <string name="commonCurrentUnitTotal">Aktuální součet prac. záznamů</string>
-    <string name="androidWear">Android Wear</string>
     <string name="commonNotificationOnCheckIn">Oznámení při zadání příchodu</string>
     <string name="commonWorkUnits">prac. záznamy</string>
     
@@ -717,7 +715,6 @@
     <string name="prefsBookForwardSwitchTime">Přepni pracovní den pokud otevřeno po</string>
     <string name="commonMoveEntries">Přesun položek</string>
     <string name="commonMinutes">Minuty</string>
-    <string name="nfcAutomation">NFC automatizace</string>
     
     <!-- 6.01 -->
     <string name="prefsHideAdvertisement">Odstranit reklamy (12 měsíců)</string>

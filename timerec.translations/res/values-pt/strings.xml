@@ -654,7 +654,6 @@
     <string name="commonResetSort">Redefinir a classificação</string>
     
     <!-- 5.15 -->
-    <string name="androidWear">Android Wear</string>
     <string name="commonWorkUnits">Unidades de trabalho</string>
     <string name="commonTotalW">Total S</string> <!-- "Total of week", short -->
     <string name="workUnitNotesBatchUpdate">Notas da tarefas: atualização em massa</string>
@@ -672,7 +671,6 @@
     <string name="prefsBookForwardSwitchTime"></string> <!-- Switch workday if opened after -->
     <string name="commonMoveEntries">Mover as entradas</string> <!-- Move entries -->
     <string name="commonMinutes">Minutos</string>
-    <string name="nfcAutomation">NFC Automation</string>
     
     <!-- 6.01 -->
     <string name="prefsNotifKeepAfterCheckout">Keep after check-out</string>

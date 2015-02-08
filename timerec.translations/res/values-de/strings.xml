@@ -264,8 +264,6 @@
     <string name="errorCalSyncFailed">Kalender-Sync gescheitert</string>
     <string name="errorCloudAccessFailed">{1} Zugriff gescheitert</string>
 
-    <!-- "aboutPublicServices" --> 
-
     <string name="bckBackupTitle">Datensicherung</string>
     <string name="bckRestoreTitle">Wiederherstellen</string>
     <string name="bckCreateBackup">Backup erstellen</string>
@@ -677,7 +675,6 @@
     <string name="prefsBookForwardSwitchTime">Arbeitstag wechseln falls geöffnet nach</string>
     <string name="commonMoveEntries">Einträge verschieben</string>
     <string name="commonMinutes">Minuten</string>
-    <string name="nfcAutomation">NFC Automation</string>
 
     <!-- 5.18 -->
     <string name="prefsHideAdvertisement">Werbung aus (12 Monate)</string>

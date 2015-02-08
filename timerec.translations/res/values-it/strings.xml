@@ -214,8 +214,6 @@
     <string name="errorCannotStartNewTask">Già iniziato alle {1}, adesso non può essere iniziato un altro lavoro</string>
     <string name="errorSdCardAccess">Errore di accesso su scheda SD</string>
 
-    <string name="aboutPublicServices">API Services</string> 
-
     <string name="bckBackupTitle">Backup</string>
     <string name="bckRestoreTitle">Ripristina</string>
     <string name="bckCreateBackup">Crea backup</string>
@@ -682,7 +680,6 @@
     <string name="commonResetSort">Ripristinare l\'ordinamento</string>
     
     <!-- 5.15 -->
-    <string name="androidWear">Android Wear</string>
     <string name="commonWorkUnits">Unità di lavoro</string>
     <string name="commonTotalW">Totale S</string> <!-- "Total of week", short -->
     <string name="workUnitNotesBatchUpdate">Note dell\'unità di lavoro: aggiornamento di massa</string>
@@ -700,7 +697,6 @@
     <string name="prefsBookForwardSwitchTime"></string> <!-- Switch workday if opened after -->
     <string name="commonMoveEntries">Spostare le voci</string> <!-- Move entries -->
     <string name="commonMinutes">Minuti</string>
-    <string name="nfcAutomation">NFC Automation</string>
     
     <!-- 6.01 -->
     <string name="prefsNotifKeepAfterCheckout">Mantieni dopo fine lavoro</string>

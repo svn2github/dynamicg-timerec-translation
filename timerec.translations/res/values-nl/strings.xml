@@ -268,8 +268,6 @@
     <string name="errorCalSyncFailed">Calendar synchronisatie mislukt</string>
     <string name="errorCloudAccessFailed">{1} toegang mislukt</string>
 
-    <string name="aboutPublicServices">API Services</string> 
-
     <string name="bckBackupTitle">Backup</string>
     <string name="bckRestoreTitle">Terugplaatsen</string>
     <string name="bckCreateBackup">Backup maken</string>
@@ -705,7 +703,6 @@
     <string name="exportDataTaggingComment">[Exported $d $t]</string>
     <string name="commonTotalW">Totaal W</string>
     <string name="commonCurrentUnitTotal">Huidig totaal werkblokken</string>
-    <string name="androidWear">Android Wear</string>
     <string name="commonNotificationOnCheckIn">Melding indien ingeklokt</string>
     <string name="commonWorkUnits">Werkblokken</string>
     
