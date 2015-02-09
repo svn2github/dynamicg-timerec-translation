@@ -16,7 +16,7 @@
 <br>• Working more than 10 hours is counted as overtime and should be booked to a different task
 <br>
 <br>Each rule consists of a "Condition" (on which event should the rule fire) and an "Action" (to which time should we change that entry, or which "task switch" should be performed).
-<br>Please note that if a rule kicks in but the resulting "time slot" is not available (i.e. you already have an entry at the specific time) then the given rule is silently ignored.
+<br>Note that if a rule kicks in but the resulting "time slot" is not available (i.e. you already have an entry at the specific time) then the given rule is silently ignored.
 <br>
 
 <br>Caution: we suggest you only set up punch rules once you are familiar with how Time Recording works - 
@@ -39,9 +39,13 @@ That is: "check in" based rules always check for "time less than", "check out" b
 <br>• "Total" based rules use formula "FirstCheckIn plus Total plus BreakTimes" to calculate the "new time"
 (i.e. that time of day when total worktime as per setting above is reached for the given work day) 
 <br>(2) "Switch task" uses the same time entry calculation as "Set new time". 
-It will then do a "Switch task" at the given time, optionally using the selected task for task assignent:
+It will then do a "Switch task" at the given time, optionally using the selected task for task assignment:
 <br>• For "check-in and less-than" rules, selected task is applied to the preceeding work unit (i.e. the one added before 'time')
 <br>• For "check-out and greater-than" rules, selected task is applied to the subsequent work unit (i.e. the one added after 'time/total')
+
+<br>
+<br>
+<br>
 
 </body>
 </html>
