@@ -664,7 +664,7 @@
     <string name="prefsGroupInputFields">Invoervelden</string>
     <string name="prefsGroupUserInterface">Interface</string>
     <string name="expPrefsPreviewFormat">Voorbeeld formaat</string>
-    <string name="expPrefsHeaderFooterHint">\u2192 Placeholders: $d1, $d2</string>
+    <string name="expPrefsHeaderFooterHint">\u2192 Aanduidingen: $d1, $d2</string>
     <string name="hintExpPrefsAdvanced">\u2192 Dit zijn opties voor ontwikkelaars, verander deze niet tenzij je weet wat je doet</string>
     
     <!-- 5.11 -->
@@ -674,7 +674,7 @@
 	<string name="calSyncGranularityBlock">1 gebeurtenis per blok</string>
 	<string name="calSyncGranularityDay">1 gebeurtenis per dag</string>
 	<string name="calSyncEventBody">Beschrijving gebeurtenis</string>
-	<string name="commonToken">Placeholder</string>
+	<string name="commonToken">Aanduiding</string>
 	<string name="commonWorkUnit">Werkblok</string>
 	<string name="commonBatchUpdate">Meerdere bijwerken</string>
 
@@ -698,7 +698,7 @@
     <string name="workUnitNotesBatchUpdate">Meerdere Werkblok opmerkingen tegelijk bijwerken</string>
     <string name="commonUpdateDone">Klaar, {1} tijdstippen bijgewerkt</string>
     <string name="exportDataTaggingTitle">Markeer geexporteerde gegevens</string>
-    <string name="exportDataTaggingComment">[Exported $d $t]</string>
+    <string name="exportDataTaggingComment">[Geexporteerd $d $t]</string>
     <string name="commonTotalW">Totaal W</string>
     <string name="commonCurrentUnitTotal">Huidig totaal werkblokken</string>
     <string name="commonNotificationOnCheckIn">Melding indien ingeklokt</string>
@@ -720,21 +720,21 @@
     <string name="weekShort1">W</string> <!-- 1 letter abbreviation for "Week" -->
     
     <!-- 6.01 -->
-    <string name="prefsHideAdvertisement">Remove Ads (12 months)</string>
-    <string name="prefsNotifKeepAfterCheckout">Keep after check-out</string>
-    <string name="commonUnlock">Unlock</string>
-    <string name="commonFeatureLocked">This feature is locked</string>
+    <string name="prefsHideAdvertisement">Verberg advertenties (12 maanden)</string>
+    <string name="prefsNotifKeepAfterCheckout">Behouden na Klok-uit</string>
+    <string name="commonUnlock">Open</string>
+    <string name="commonFeatureLocked">Deze functie is geblokkeerd</string>
     
     <!-- 6.02 -->
-    <string name="commonTemplate">Template</string> <!-- this replaces the previous "Breaks and time blocks" -->
-    <string name="commonUndoChanges">Undo changes</string>
-    <string name="checkInReminderTitle">Check-in reminder</string>
-    <string name="checkInReminderAlert">No entries for today.</string>
+    <string name="commonTemplate">Sjabloon</string> <!-- this replaces the previous "Breaks and time blocks" -->
+    <string name="commonUndoChanges">Ongedaan maken</string>
+    <string name="checkInReminderTitle">Klok-in herinnering</string>
+    <string name="checkInReminderAlert">Geen tijdstippen vandaag.</string>
     
     <!-- 6.03 -->
-    <string name="calSyncEventLocation">Location</string> <!-- for calendar sync ("event location") -->
-    <string name="punchRuleTitle">Punch rules</string>
-    <string name="expPrefsExpandPunchDate">\u00ab{1}\u00bb, \u00ab{2}\u00bb with date</string> <!-- checkbox option for report E2, to show the date together with checkin/checkout time -->
-    <string name="notesCarryForward">New work unit copies previous comment</string> <!-- checkbox option on the "Work unit notes" long click settings page -->
+    <string name="calSyncEventLocation">Lokatie</string> <!-- for calendar sync ("event location") -->
+    <string name="punchRuleTitle">Klok-nu regels</string>
+    <string name="expPrefsExpandPunchDate">\u00ab{1}\u00bb, \u00ab{2}\u00bb met datum</string> <!-- checkbox option for report E2, to show the date together with checkin/checkout time -->
+    <string name="notesCarryForward">Nieuw werkblok kopieert vorige opmerkingen</string> <!-- checkbox option on the "Work unit notes" long click settings page -->
     
 </resources>
