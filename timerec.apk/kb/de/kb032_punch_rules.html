@@ -8,9 +8,51 @@
 
 <h2>Stempel-Regeln</h2>
 
-Pendent. <a href="../en/kb032_punch_rules.html">Siehe englische Hilfeseite</a>
-<br/>
+Über &#xab;Stempel-Regeln&#xbb; können Stempelzeiten regelbasiert anhand von Tageszeit oder Arbeitszeit-Total übersteuert werden.
+<br>Einsatzbeispiele:
+<br>• Zeit vor 08:00 soll nicht gestempelt werden können, d.h. frühere Einträge sollen automatisch auf 08:00 geändert werden
+<br>• Zeit nach 20:00 soll auf Task X gebucht werden
+<br>• Wenn die Arbeitszeit 10 Stunden überschreitet soll der darüber liegende Teil auf Task Y gebucht werden
+<br>
+<br>Jede Regel besteht aus einer "Bedingung" (in welchem Fall soll die Regel feuern) 
+und einer "Aktion" (auf welche Zeit soll der Stempeleintrag geändert werden, bzw. was für ein Task-Wechsel soll ausgeführt werden).
+<br>Beachte: wenn eine Regel greift, die resultierende Zeit aber bereits belegt ist (d.h. es gibt bereits einen Eintrag mit demselben Zeitstempel), 
+so wird diese Regel stillschweigend ignoriert.
+<br>
 
+<br>Achtung: wir empfehlen "Stempel-Regeln" erst einzusetzen wenn du mit der Zeiterfassung App gut vertraut bist;
+falsch konfigurierte Regeln führen zu seltsamen App-Verhalten sowie zu Stempeleinträgen die nicht zu deiner effektiven Arbeitszeit passen.
+ 
+
+
+<br>
+<br><b>Konfiguration: "Bedingung"</b>
+<br>Die Bedingung besteht aus:
+<br>• dem Ereignis "Einstempeln" oder "Ausstempeln"
+<br>• der "Zeit" (d.h. Tageszeit, wobei "+1" für Zeit nach Mitternacht unterstützt wird) oder dem "Total" (d.h. Total Arbeitszeit ohne Pausen und Autopausen)
+<br>• dem "Komparator" (weniger als, mehr als) welcher anhand der "Aktion" abgeleitet wird und nicht manuell gesetzt werden kann; 
+alle "Einstempeln" Regeln gelten immer für "Zeit weniger als", alle "Ausstempeln" Regeln gelten immer für "Zeit oder Total grösser als"
+
+
+
+
+<br>
+<br><b>Konfiguration: "Aktion"</b>
+<br>Sobald eine Stempelregel greift wird die "Aktion" folgendermassen evaluiert.
+Faustregel: "Neue Zeit setzen" verändert einen Zeitstempel, "Task wechseln" belässt den Originaleintrag und fügt eine zusätzliche Arbeitseinheit ein.
+<br>(1) "Neue Zeit setzen" verändert die Zeit des neuen Eintrages gemäss "Zeit" bzw "Total":
+<br>• "Zeit" übernimmt den Zeiteintrag gemäss "Bedingung"
+<br>• "Total" berechnet die neue Zeit gemäss Formel "Erstes Einstempeln plus Total plus Pausendauer" 
+(d.h. diejenige Tageszeit wenn "Total Arbeitszeit" gemäss Einstellung erreicht ist)
+
+<br>(2) "Task wechseln" wendet dieselbe Zeitlogik wie "Neue Zeit setzen" an und führt ein "Task wechseln" zum definierten Zeitpunkt aus. 
+Optional wird der gesetzte Task zugewiesen:
+<br>• "Austempeln" Regeln setzen den Task der nachfolgenden neuen Arbeitseinheit die durch den Task-Wechsel entstanden ist
+<br>• "Einstempeln" Regeln setzen den Task der vorangehenden Arbeitseinheit
+
+<br>
+<br>
+<br>
 
 </body>
 </html>
