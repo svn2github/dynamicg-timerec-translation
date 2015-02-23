@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:android="http://schemas.android.com/apk/res/android">
 
-    <string name="unlockPro">1</string>
+    <string name="unlockCalendar">1</string>
     
     <string name="app_name">Time Recording</string>
     <string name="app_name_pro">Time Recording Pro</string>
