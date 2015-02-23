@@ -732,5 +732,9 @@
     <!-- 6.03 -->
     <string name="actionCheckIn">Belépés</string>
 	<string name="actionCheckOut">Távozás</string>
-	
+	<string name="calSyncEventLocation">Helyszín</string>
+    <string name="punchRuleTitle">Blokkolás szabályok</string>
+    <string name="expPrefsExpandPunchDate">«{1}», «{2}» Dátummal</string>
+    <string name="notesCarryForward">Új munkaegységnél másolja az előző megjegyzést</string>
+        
 </resources>
