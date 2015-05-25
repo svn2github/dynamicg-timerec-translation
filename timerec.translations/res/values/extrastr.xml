@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources xmlns:android="http://schemas.android.com/apk/res/android">
-	<string name="unlockCalendar">0</string>
+<resources>
+<!-- moved to https://dynamicgandroidapps.svn.cloudforge.com/trunk/timerec-translations/res/ -->
 </resources>
